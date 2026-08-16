@@ -7,13 +7,11 @@ hurdle calibration (don't tune inertia to impersonate the closure margin).
 """
 import pandas as pd
 
-from comitpy import ImportOption, Window, pins, solve
+from comitpy import Window, solve
 from comitpy.datasets import load_inputs
 from comitpy.skill import indexed_mape
 
-base = load_inputs("datasets_backcast", Window(2021, 2029, 1)).with_(
-    imports=[ImportOption("steel", pins({2021: 500.0})),
-             ImportOption("cement", pins({2021: 90.0}))])
+base = load_inputs("datasets_backcast", Window(2021, 2029, 1))
 outturn = pd.read_csv("datasets_backcast/outturn.csv")[["year", "value"]]
 
 print("inertia GBPm/PJ | 2022 2023 2024 2025 (idx) | MAPE")

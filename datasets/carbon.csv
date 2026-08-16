@@ -6,3 +6,7 @@ traded,2035,0.165,EUA consensus ~EUR190-200/t 2035,2026-08-16,market
 traded,2050,0.260,consensus slope extended,2026-08-16,judgement
 untraded,2025,0.005,CCL-equivalent ~GBP4-5/t; no non-ETS carbon price legislated,2026-08-16,official
 untraded,2050,0.005,held flat pending policy,2026-08-16,judgement
+cbam_phase,2026,0.0,pre-CBAM,2026-08-16,official
+cbam_phase,2027,0.35,UK CBAM live Jan 2027; effective rate = ETS x reduction factor reflecting free allocation (~non-free share initially),2026-08-16,derived
+cbam_phase,2032,1.0,free allocation phase-down for CBAM sectors (ramp = judgement),2026-08-16,judgement
+cbam_phase,2050,1.0,held,2026-08-16,judgement

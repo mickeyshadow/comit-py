@@ -32,7 +32,9 @@ def test_pathway_cap_binds():
     base = float(free.emissions.query("year == 2026").ktCO2e.sum())
     capped = solve(netzero_2050(base, start=2026)(inp))
     for y in sorted(set(capped.emissions.year)):
-        cap = base * max(0.0, 1 - (y - 2026) / (2050 - 2026))
+        # linear decline to the 5% residual by 2050
+        frac = min(1.0, (y - 2026) / (2050 - 2026))
+        cap = base * (1 - 0.95 * frac)
         tot = capped.emissions.query("year == @y").ktCO2e.sum()
         assert tot <= cap + 1e-6
     late_free = free.emissions.query("year == 2046").ktCO2e.sum()

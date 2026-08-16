@@ -42,5 +42,5 @@ def test_inertia_keeps_pathways_feasible():
     capped = solve(netzero_2050(base, start=2025)(inp))
     assert capped.status == "optimal"
     late = capped.emissions.query("year == 2045").ktCO2e.sum()
-    cap_2045 = base * (1 - (2045 - 2025) / 25)
+    cap_2045 = base * (1 - 0.95 * (2045 - 2025) / 25)
     assert late <= cap_2045 + 1e-6

@@ -7,17 +7,11 @@ margin); dummy-price R over-decarbonised wildly.
 """
 import pandas as pd
 
-from comitpy import ImportOption, Window, pins, solve
+from comitpy import Window, solve
 from comitpy.datasets import load_inputs
 from comitpy.skill import indexed_mape
 
 inp = load_inputs("datasets_backcast", Window(2021, 2029, 1))
-inp = inp.with_(imports=[
-    # historical import parity (v0 judgement): the closure margin the R
-    # model lacked - UK steel/cement could and did yield to imports
-    ImportOption("steel", pins({2021: 500.0})),
-    ImportOption("cement", pins({2021: 90.0})),
-])
 
 sol = solve(inp)
 modelled = (sol.emissions.groupby("year").ktCO2e.sum()

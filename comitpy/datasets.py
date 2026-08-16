@@ -149,6 +149,35 @@ def load_inputs(data_dir: str, window: Window) -> Inputs:
         ev = _read(ev_path, "committed_events")
         closures = [Closure(r.site, int(r.from_year)) for _, r in ev.iterrows()]
 
+    # imports.csv: the import/closure margin per commodity, with CBAM fields.
+    # A commodity NOT listed cannot import - sites must serve it (no hacks).
+    imports = []
+    imp_path = os.path.join(data_dir, "imports.csv")
+    if os.path.exists(imp_path):
+        im = _read(imp_path, "imports")
+        for commodity, g in im.groupby("commodity"):
+            imports.append(ImportOption(
+                commodity=commodity,
+                price=pins(dict(zip(g.year.astype(int),
+                                    g.price.astype(float)))),
+                embodied_ktco2_per_unit=float(g.embodied_ktco2_per_unit.iloc[0]),
+                cbam_covered=bool(g.cbam_covered.iloc[0])))
+
+    # build_orders.csv: committed builds as variable bounds
+    build_orders = []
+    bo_path = os.path.join(data_dir, "build_orders.csv")
+    if os.path.exists(bo_path):
+        bo = _read(bo_path, "build_orders")
+        for _, r in bo.iterrows():
+            build_orders.append(BuildOrder(
+                r.site, r.tech, int(r.year), float(r.min_units),
+                float(r.max_units) if pd.notna(r.max_units) else None))
+
+    # cbam_phase series (optional; default = no CBAM)
+    cbam_phase = (lambda y: 0.0)
+    if "cbam_phase" in set(cb.series):
+        cbam_phase = _curve_from(cb, {"series": "cbam_phase"})
+
     return Inputs(
         window=window, fuels=fuels, technologies=technologies,
         sites=site_objs,
@@ -158,4 +187,7 @@ def load_inputs(data_dir: str, window: Window) -> Inputs:
         discount_rate=float(default.discount_rate),
         usage_inertia_cost=inertia,
         closures=closures,
+        imports=imports,
+        build_orders=build_orders,
+        cbam_phase=cbam_phase,
     )

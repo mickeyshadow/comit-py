@@ -268,3 +268,14 @@ print(f"committed events: {len(events)} closures encoded")
 
 print(f"wrote {OUT}: {len(site_rows)} sites; outturn 2021-2025 =",
       {y: round(v / 1e3, 1) for y, v in outturn.items()}, "MtCO2e")
+
+# imports (historical parity; CBAM fields present but phase is 0 pre-2027)
+with open(f"{OUT}/imports.csv", "w", newline="", encoding="utf-8") as fh:
+    w = csv.writer(fh)
+    w.writerow(["commodity", "year", "price", "embodied_ktco2_per_unit",
+                "cbam_covered", "source", "retrieved", "basis"])
+    w.writerow(["steel", 2021, 500.0, 1900.0, True,
+                "historical import parity ~GBP500/t", RET, "judgement"])
+    w.writerow(["cement", 2021, 90.0, 700.0, True,
+                "historical import parity ~GBP90/t", RET, "judgement"])
+print("wrote imports.csv")

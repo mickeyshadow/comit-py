@@ -4,26 +4,15 @@ the same model answering the pathway question.
 """
 import pandas as pd
 
-from comitpy import BuildOrder, ImportOption, Window, pins, solve
+from comitpy import Window, solve
 from comitpy.datasets import load_inputs
 from comitpy.pathways import netzero_2050
 
 # ---- 10-year forecast mode --------------------------------------------------
+# Every driver lives in datasets/ - this file only chooses the window and
+# reports. Imports (with CBAM), build orders, closures, overrides, prices:
+# all CSVs, all provenance-tagged.
 inp = load_inputs("datasets", Window(2026, 2036, 1))
-
-# committed real-world facts (v0: in code, sources as comments; move to
-# datasets/build_orders.csv as the list grows)
-inp = inp.with_(
-    build_orders=[
-        # Tata Port Talbot EAF: FID taken, construction Jul 2025, ops end-2027
-        BuildOrder("Port Talbot Steelworks", "eaf", 2028, min_units=3.0),
-    ],
-    imports=[
-        # the import/closure margin: delivered import parity prices
-        ImportOption("steel", pins({2026: 520.0})),    # ~GBP520/t delivered
-        ImportOption("cement", pins({2026: 100.0})),   # ~GBP100/t delivered
-        ImportOption("heat", pins({2026: 10_000.0})),  # heat does not import
-    ])
 
 sol = solve(inp)
 print(f"FORECAST 2026-2036: optimal, PV cost GBP{sol.objective:,.0f}m")

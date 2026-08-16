@@ -113,9 +113,18 @@ class Site:
 class ImportOption:
     """The import/closure margin (item 1): national demand may be met by
     imports at a delivered price; imported volumes carry no territorial
-    emissions, which is how leakage becomes visible."""
+    emissions, which is how leakage becomes visible.
+
+    CBAM: covered commodities pay embodied_direct x the CBAM rate on top of
+    the delivered price. The rate is Inputs.carbon_price_traded x
+    Inputs.cbam_phase (the phase curve carries both the 2027 start and the
+    free-allocation reduction factor), minus nothing for origin carbon
+    prices in v1 (marginal import origins assumed unpriced; EU-origin
+    imports are ~ETS-parity so the gap is ~zero either way - documented)."""
     commodity: str
-    price: Curve                     # GBPm/PJ delivered (CBAM enters here)
+    price: Curve                     # GBPm/unit delivered, ex-CBAM
+    embodied_ktco2_per_unit: float = 0.0   # direct emissions per unit
+    cbam_covered: bool = False
 
 
 @dataclass(frozen=True)
@@ -165,6 +174,10 @@ class Inputs:
     # 2022 dip (real firms kept burning gas through the price spike;
     # contracts and operational risk are real costs). 0 = off.
     usage_inertia_cost: float = 0.0
+    # CBAM phase: 0 before the Jan-2027 start, then the effective share of
+    # the UK ETS price charged at the border (the free-allocation reduction
+    # factor), ramping to 1 as free allocation phases out
+    cbam_phase: Curve = field(default=lambda y: 0.0)
 
     def hurdle(self, sector: str) -> float:
         return self.hurdle_rates.get(sector, self.hurdle_rates.get("default", 0.2))

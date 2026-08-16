@@ -1,0 +1,5 @@
+commodity,year,price,embodied_ktco2_per_unit,cbam_covered,source,retrieved,basis
+steel,2026,520.0,1900.0,True,~GBP520/t delivered import parity; embodied ~1.9 tCO2/t BF-BOF direct (marginal non-EU origin); CBAM sector confirmed,2026-08-16,market
+steel,2050,520.0,1900.0,True,held flat-real,2026-08-16,judgement
+cement,2026,100.0,700.0,True,~GBP100/t delivered; embodied ~0.7 tCO2/t direct clinker-heavy imports; CBAM sector confirmed,2026-08-16,market
+cement,2050,100.0,700.0,True,held flat-real,2026-08-16,judgement

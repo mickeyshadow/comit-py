@@ -1,0 +1,3 @@
+commodity,year,price,embodied_ktco2_per_unit,cbam_covered,source,retrieved,basis
+steel,2021,500.0,1900.0,True,historical import parity ~GBP500/t,2026-08-16,judgement
+cement,2021,90.0,700.0,True,historical import parity ~GBP90/t,2026-08-16,judgement

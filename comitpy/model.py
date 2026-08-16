@@ -116,8 +116,11 @@ class ModelBuilder:
 
         for imp in inp.imports:
             for t in years:
+                cbam = (imp.embodied_ktco2_per_unit
+                        * inp.carbon_price_traded(t) * inp.cbam_phase(t)
+                        if imp.cbam_covered else 0.0)
                 self.add_var(("M", imp.commodity, t),
-                             imp.price(t) * self.dt * disc[t])
+                             (imp.price(t) + cbam) * self.dt * disc[t])
 
     # -- constraints ----------------------------------------------------------
 
