@@ -1,0 +1,25 @@
+fuel,component,year,value,band,band_factor,source,retrieved,basis
+gas,wholesale,2021,5.37,,,DESNZ QEP industrial avg minus fixed wedge,2026-08-16,outturn
+gas,wholesale,2022,15.92,,,DESNZ QEP industrial avg minus fixed wedge,2026-08-16,outturn
+gas,wholesale,2023,12.31,,,DESNZ QEP industrial avg minus fixed wedge,2026-08-16,outturn
+gas,wholesale,2024,9.53,,,DESNZ QEP industrial avg minus fixed wedge,2026-08-16,outturn
+gas,wholesale,2025,8.98,,,DESNZ QEP industrial avg minus fixed wedge,2026-08-16,outturn
+gas,wholesale,2029,8.98,,,held flat beyond scored years,2026-08-16,judgement
+electricity,wholesale,2021,15.0,,,DESNZ QEP industrial avg minus fixed wedge,2026-08-16,outturn
+electricity,wholesale,2022,33.61,,,DESNZ QEP industrial avg minus fixed wedge,2026-08-16,outturn
+electricity,wholesale,2023,42.22,,,DESNZ QEP industrial avg minus fixed wedge,2026-08-16,outturn
+electricity,wholesale,2024,26.67,,,DESNZ QEP industrial avg minus fixed wedge,2026-08-16,outturn
+electricity,wholesale,2025,23.06,,,DESNZ QEP industrial avg minus fixed wedge,2026-08-16,outturn
+electricity,wholesale,2029,23.06,,,held flat beyond scored years,2026-08-16,judgement
+gas,network,2021,0.8,,,wedge as forward datasets,2026-08-16,derived
+gas,margin,2021,0.5,,,wedge as forward datasets,2026-08-16,derived
+gas,network,,,small,1.5,QEP size-band spread,2026-08-16,derived
+gas,margin,,,small,3.0,QEP size-band spread,2026-08-16,derived
+electricity,network,2021,10.0,,,wedge as forward datasets,2026-08-16,derived
+electricity,levies,2021,12.0,,,wedge as forward datasets,2026-08-16,derived
+electricity,margin,2021,3.0,,,wedge as forward datasets,2026-08-16,derived
+electricity,levies,,,large,0.2,EII exemptions,2026-08-16,official
+electricity,network,,,large,0.4,Supercharger (post-2025; approximation pre),2026-08-16,derived
+electricity,margin,,,small,2.0,QEP size-band spread,2026-08-16,derived
+biomass,wholesale,2021,8.2,,,wood chip ~3p/kWh,2026-08-16,market
+hydrogen,wholesale,2021,11.0,,,unused pre-2027 (technology first_year gate),2026-08-16,derived

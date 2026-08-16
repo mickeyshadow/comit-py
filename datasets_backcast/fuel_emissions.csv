@@ -1,0 +1,13 @@
+fuel,year,value,source,retrieved,basis
+gas,2021,51.2,DESNZ conversion factors,2026-08-16,official
+gas,2029,51.2,constant,2026-08-16,official
+electricity,2021,54.2,grid intensity outturn (g/kWh x 0.2778); 21-22 est,2026-08-16,derived
+electricity,2022,50.6,grid intensity outturn (g/kWh x 0.2778); 21-22 est,2026-08-16,derived
+electricity,2023,47.5,grid intensity outturn (g/kWh x 0.2778); 21-22 est,2026-08-16,outturn
+electricity,2024,34.4,grid intensity outturn (g/kWh x 0.2778); 21-22 est,2026-08-16,outturn
+electricity,2025,35.0,grid intensity outturn (g/kWh x 0.2778); 21-22 est,2026-08-16,outturn
+electricity,2029,35.0,grid intensity outturn (g/kWh x 0.2778); 21-22 est,2026-08-16,derived
+biomass,2021,0.0,biogenic convention,2026-08-16,official
+biomass,2029,0.0,biogenic convention,2026-08-16,official
+hydrogen,2021,8.0,unused pre-2027 (tech gate),2026-08-16,derived
+hydrogen,2029,8.0,unused pre-2027,2026-08-16,derived

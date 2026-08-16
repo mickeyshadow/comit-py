@@ -65,6 +65,14 @@ python run_forecast.py  # the 10-year forecast + a net-zero-2050 pathway
   placeholder until the zero-carbon roster (CCS variants, hydrogen supply
   caps, cluster timing) is carried over from the harness libraries.
 - Imports lack an explicit CBAM component (add to `ImportOption` price).
-- Validation gates: solver parity DONE (2e-15); next is the 2021–25
-  backcast skill gate on this package's own data pipeline (`skill.py`
-  mirrors the harness method).
+- Validation gates: **both passed.** Solver parity: R-COMIT's exported
+  700k-variable LP solved to the same objective at rel diff 2e-15
+  (`parity.py`). Backcast skill: 2021–25 on this package's own pipeline
+  (`run_backcast.py`, historical datasets in `datasets_backcast/`) scores
+  **20.8% indexed MAPE vs the calibrated R fork's ~24.0%** on the same
+  outturn shape — the improvement attributable to the import margin
+  (cement yields to imports in the 2022 gas spike, as reality did).
+  Residual error decomposes to the two known missing behaviours: usage
+  inertia (2022 over-dip) and strategic closures (the steel fall —
+  boardroom decisions belong in the committed-events layer even in
+  hindcasts). Those are the next two accuracy increments, in that order.

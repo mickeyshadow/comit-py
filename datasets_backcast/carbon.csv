@@ -1,0 +1,9 @@
+series,year,value,source,retrieved,basis
+traded,2021,0.053,UKA annual averages,2026-08-16,outturn
+traded,2022,0.078,UKA annual averages,2026-08-16,outturn
+traded,2023,0.058,UKA annual averages,2026-08-16,outturn
+traded,2024,0.037,UKA annual averages,2026-08-16,outturn
+traded,2025,0.05,UKA annual averages,2026-08-16,outturn
+traded,2029,0.055,held ~flat beyond scored years,2026-08-16,judgement
+untraded,2021,0.004,CCL-equivalent,2026-08-16,official
+untraded,2029,0.004,held flat,2026-08-16,official
