@@ -1,0 +1,13 @@
+sector,year,value,source,retrieved,basis
+heat,2025,100.0,base year (sites.csv demand is 2025-derived),2026-08-16,outturn
+heat,2026,100.0,Make UK/EY 2026 flat-to-+0.9% headline; EI subset lags,2026-08-16,official
+heat,2030,100.0,modest growth (PMI 52.8 Jul-26; AI/defence demand) offset by EI drag,2026-08-16,judgement
+heat,2036,98.0,long-run EI manufacturing drift,2026-08-16,judgement
+heat,2050,96.0,held trend,2026-08-16,judgement
+steel,2025,100.0,base year; Port Talbot restart carried by site_overrides not this index,2026-08-16,outturn
+steel,2050,100.0,surviving-fleet output flat central (Scunthorpe future undecided - do not encode a guess),2026-08-16,judgement
+cement,2025,100.0,base year,2026-08-16,outturn
+cement,2026,93.0,MPA: concrete -9.3% H1-2026 - no sign of recovery - fifth year of malaise,2026-08-16,outturn
+cement,2028,98.0,slow recovery from the lower base,2026-08-16,judgement
+cement,2030,105.0,recovery IF housebuilding targets land (1.5m homes),2026-08-16,judgement
+cement,2050,105.0,held,2026-08-16,judgement

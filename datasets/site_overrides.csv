@@ -1,0 +1,5 @@
+site,commodity,year,value,source,retrieved,basis
+Port Talbot Steelworks,steel,2026,0.6,residual downstream operations pre-EAF (2025-emissions-implied),2026-08-16,derived
+Port Talbot Steelworks,steel,2027,0.6,EAF commissioning end-2027,2026-08-16,official
+Port Talbot Steelworks,steel,2028,3.0,EAF nameplate 3 Mt/yr from 2028 (Tata GBP1.25bn project under construction),2026-08-16,official
+Port Talbot Steelworks,steel,2050,3.0,held at nameplate,2026-08-16,judgement

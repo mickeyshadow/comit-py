@@ -13,3 +13,14 @@ def test_indices_scale_demand():
     heat = next(s for s in inp.sites if s.sector == "heat")
     hbase = heat.demand["heat"](2021)
     assert heat.demand["heat"](2022) == pytest.approx(hbase * 0.96, rel=1e-6)
+
+
+def test_forward_indices_and_overrides():
+    inp = load_inputs("datasets", Window(2026, 2036, 1))
+    cem = next(s for s in inp.sites if s.sector == "cement")
+    base = cem.demand["cement"](2025)
+    assert cem.demand["cement"](2026) == pytest.approx(base * 0.93, rel=1e-6)
+    pt = next(s for s in inp.sites if s.name == "Port Talbot Steelworks")
+    assert pt.demand["steel"](2026) == pytest.approx(0.6, rel=1e-6)
+    assert pt.demand["steel"](2028) == pytest.approx(3.0, rel=1e-6)
+    assert pt.demand["steel"](2035) == pytest.approx(3.0, rel=1e-6)

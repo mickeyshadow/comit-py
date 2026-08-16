@@ -94,7 +94,13 @@ python run_forecast.py  # the 10-year forecast + a net-zero-2050 pathway
   exact (89.4 vs 89.0). Stated honestly: conditional skill (events and
   outturn output known); the residual is timing granularity (three
   sectors, annual event boundaries vs partial-year closures).
-  Forward-run demand still sits flat at base year — sector output
-  *projections* are the forward counterpart of this dataset. Caveat:
+  The forward counterpart is in too: `datasets/sector_output.csv`
+  (2025=100 projections — MPA's no-recovery cement reality, flat-central
+  EI manufacturing, steel flat with Scunthorpe deliberately unguessed)
+  plus `datasets/site_overrides.csv`, explicit site-level demand pins
+  that outrank sector trends — the Port Talbot EAF restart (0.6 Mt
+  residual → 3.0 Mt nameplate from 2028), which fixes the built-but-idle
+  EAF inconsistency: 2036 electricity use rises 4.1 → 10.5 PJ as the
+  furnace actually runs. Caveat:
   uniform site economics make the inertia response binary (LP corners);
   per-site heterogeneity is the smoothing refinement.

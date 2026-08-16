@@ -105,7 +105,20 @@ def load_inputs(data_dir: str, window: Window) -> Inputs:
         for sector in so.sector.unique():
             idx_curves[sector] = _curve_from(so, {"sector": sector})
 
-    def demand_curve(base: float, sector: str):
+    # optional site-level demand overrides (e.g. the Port Talbot EAF restart):
+    # explicit pins that REPLACE the sector-indexed curve for that site -
+    # committed site facts outrank sector trends, no double counting
+    overrides: dict[tuple[str, str], object] = {}
+    ov_path = os.path.join(data_dir, "site_overrides.csv")
+    if os.path.exists(ov_path):
+        ov = _read(ov_path, "site_overrides")
+        for (site, comm), g in ov.groupby(["site", "commodity"]):
+            overrides[(site, comm)] = pins(
+                dict(zip(g.year.astype(int), g.value.astype(float))))
+
+    def demand_curve(site: str, commodity: str, base: float, sector: str):
+        if (site, commodity) in overrides:
+            return overrides[(site, commodity)]
         idx = idx_curves.get(sector)
         if idx is None:
             return pins({int(window.start): base})
@@ -116,7 +129,8 @@ def load_inputs(data_dir: str, window: Window) -> Inputs:
         site_objs.append(Site(
             name=r.site, sector=r.sector, band=r.band,
             traded=bool(r.traded),
-            demand={r.commodity: demand_curve(float(r.demand_pj), r.sector)},
+            demand={r.commodity: demand_curve(r.site, r.commodity,
+                                              float(r.demand_pj), r.sector)},
             start_capacity={r.incumbent_tech: float(r.start_capacity)}))
 
     hurdles = {r.sector: float(r.hurdle_rate)
