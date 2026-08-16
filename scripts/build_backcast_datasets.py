@@ -52,9 +52,11 @@ for r in rows[1:]:
         continue
     if any(v is None for v in e.values()):
         continue  # opt-outs leave the outturn series - exclude both sides
+    ly = num(r[hdr["Last Year of Operation"]])
     ets.append({"name": (r[hdr["Installation name"]]
                          or r[hdr["Account Holder Name"]]),
-                "sector": sector_of(nace, desc), "e": e})
+                "sector": sector_of(nace, desc), "e": e,
+                "last_year": int(ly) if ly else None})
 
 ets.sort(key=lambda x: -x["e"][2021])
 top, tail = ets[:100], ets[100:]
@@ -182,6 +184,44 @@ with open(f"{OUT}/fuel_emissions.csv", "w", newline="", encoding="utf-8") as fh:
 
 for f in ("technologies.csv", "finance.csv"):
     shutil.copy(rf"D:\comit-py\datasets\{f}", f"{OUT}/{f}")
+
+# committed events: registry-corroborated closures (left the scheme AND
+# emissions collapsed - the harness's rule separating closure from opt-out)
+# plus the strategic facts with their own sources. NOTE: a hindcast fed
+# these measures CONDITIONAL skill - the behavioural ceiling with events
+# known - not what a 2021-vintage forecast would have achieved.
+included = {x["name"] for x in top}
+events = []
+for x in top:
+    ly = x["last_year"]
+    if ly and ly < 2025:
+        post = [x["e"][y] for y in range(ly + 1, 2026)]
+        if post and max(post) < 0.05 * x["e"][2021]:
+            events.append([x["name"], ly + 1,
+                           SRC + " (Last Year of Operation, corroborated by "
+                           "emissions collapse)", RET, "outturn"])
+MANUAL = [
+    ("Port Talbot Steelworks", 2025,
+     "Tata BF/BOS closed Sep-Oct 2024; EAF operational end-2027 (outside window)"),
+    ("Grangemouth Refining", 2025,
+     "Petroineos ceased refining Apr 2025; import terminal thereafter"),
+    ("Lindsey Oil Refinery", 2025,
+     "Prax insolvency Jun 2025; refining ceased, mothballed by Phillips 66"),
+]
+auto_named = {e[0] for e in events}
+for name, year, why in MANUAL:
+    if name not in included:
+        print(f"  WARNING: manual event site not in universe: {name}")
+        continue
+    if name in auto_named:
+        continue
+    events.append([name, year, why, RET, "official"])
+
+with open(f"{OUT}/committed_events.csv", "w", newline="", encoding="utf-8") as fh:
+    w = csv.writer(fh)
+    w.writerow(["site", "from_year", "source", "retrieved", "basis"])
+    w.writerows(events)
+print(f"committed events: {len(events)} closures encoded")
 
 print(f"wrote {OUT}: {len(site_rows)} sites; outturn 2021-2025 =",
       {y: round(v / 1e3, 1) for y, v in outturn.items()}, "MtCO2e")

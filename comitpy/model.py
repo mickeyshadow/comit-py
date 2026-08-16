@@ -143,7 +143,10 @@ class ModelBuilder:
                                               -j.availability)]))
                     rhs_ub.append(0.0)
                     # usage inertia: U(prev) - U(t) - D(t) <= 0
-                    if inp.usage_inertia_cost > 0 and t > years[0]:
+                    # (not charged on exogenous closures - the wind-down was
+                    # a boardroom fact, not a market response)
+                    if inp.usage_inertia_cost > 0 and t > years[0] \
+                            and not inp.closed(s.name, t):
                         prev = years[years.index(t) - 1]
                         rows_ub.append(coef_row([
                             (("U", s.name, j.name, prev), 1.0),
@@ -163,7 +166,7 @@ class ModelBuilder:
                 for s in inp.sites:
                     if c not in s.demand:
                         continue
-                    d = s.demand[c](t)
+                    d = 0.0 if inp.closed(s.name, t) else s.demand[c](t)
                     nat_demand += d
                     site_entries = [(("U", s.name, j.name, t), 1.0)
                                     for j in inp.technologies.values()

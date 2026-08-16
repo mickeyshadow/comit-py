@@ -125,6 +125,16 @@ class BuildOrder:
 
 
 @dataclass(frozen=True)
+class Closure:
+    """A committed real-world closure: from from_year the site's demand is
+    zero (its process-energy service vanished with it - it does not
+    redistribute) and no usage-inertia cost is charged on the wind-down
+    (the decision was exogenous, not a market response)."""
+    site: str
+    from_year: int
+
+
+@dataclass(frozen=True)
 class Inputs:
     window: Window
     fuels: dict[str, Fuel]
@@ -136,6 +146,11 @@ class Inputs:
     discount_rate: float = 0.035
     imports: list[ImportOption] = field(default_factory=list)
     build_orders: list[BuildOrder] = field(default_factory=list)
+    closures: list["Closure"] = field(default_factory=list)
+
+    def closed(self, site: str, year: int) -> bool:
+        return any(c.site == site and year >= c.from_year
+                   for c in self.closures)
     # Pathway mode: a national emissions-cap trajectory (ktCO2e/yr). None =
     # forecast mode (no target imposed - the model says what happens, not
     # what should). A named cap curve + policy pack = one net-zero pathway.

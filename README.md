@@ -76,10 +76,20 @@ python run_forecast.py  # the 10-year forecast + a net-zero-2050 pathway
   first is now built: **usage inertia** — a soft disruption cost on
   year-on-year usage reductions (`usage_inertia_cost`, GBP36m/PJ in
   `finance.csv`, calibrated against the backcast's 2022 dip signature).
-  With it, the fake 2022 transient disappears (flat 99.9 profile, MAPE
-  21.0% — 0.2 points of cancellation-flattered MAPE traded for the
-  correct shape) and the entire residual error is the strategic-closure
-  gap, which is the remaining increment: committed events in hindcasts.
-  Caveat, stated: with uniform site economics the LP's inertia response
-  is binary (corner solutions); per-site cost heterogeneity is the
-  smoothing refinement.
+  With it, the fake 2022 transient disappears (flat 99.9 profile) and
+  the residual is the strategic-closure gap — now also built:
+  **committed events** (`Closure`, `datasets_backcast/committed_events.csv`)
+  — registry-corroborated closures (left the scheme AND emissions
+  collapsed) plus the sourced strategic facts (Port Talbot BF/BOS,
+  Grangemouth Refining, Lindsey). A closure zeroes the site's demand
+  (its process-energy service vanished — no phantom redistribution) and
+  is exempt from inertia charges (boardroom decisions are not market
+  responses; test-enforced on a single-site micro-case). **Hindcast
+  skill: 13.3% indexed MAPE** (v0 20.8% → inertia 21.0%-right-shaped →
+  events 13.3%; calibrated R fork ~24%). Stated honestly: a hindcast fed
+  known events measures *conditional* skill — the behavioural ceiling —
+  and the remaining gap (99 vs 89-81 in 2022-24) is gradual output
+  decline at surviving sites, which is the real-production-data
+  increment. Caveat: uniform site economics make the inertia response
+  binary (LP corners); per-site heterogeneity is the smoothing
+  refinement.

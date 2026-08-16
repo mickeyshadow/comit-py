@@ -18,8 +18,8 @@ import os
 
 import pandas as pd
 
-from .inputs import (BuildOrder, Fuel, ImportOption, Inputs, PriceStack,
-                     Site, Technology, Window, pins)
+from .inputs import (BuildOrder, Closure, Fuel, ImportOption, Inputs,
+                     PriceStack, Site, Technology, Window, pins)
 
 BASES = {"outturn", "market", "official", "derived", "judgement"}
 PROV_COLS = ["source", "retrieved", "basis"]
@@ -111,6 +111,12 @@ def load_inputs(data_dir: str, window: Window) -> Inputs:
                if "usage_inertia_cost" in fin.columns
                and pd.notna(default.usage_inertia_cost) else 0.0)
 
+    closures = []
+    ev_path = os.path.join(data_dir, "committed_events.csv")
+    if os.path.exists(ev_path):
+        ev = _read(ev_path, "committed_events")
+        closures = [Closure(r.site, int(r.from_year)) for _, r in ev.iterrows()]
+
     return Inputs(
         window=window, fuels=fuels, technologies=technologies,
         sites=site_objs,
@@ -119,4 +125,5 @@ def load_inputs(data_dir: str, window: Window) -> Inputs:
         hurdle_rates=hurdles,
         discount_rate=float(default.discount_rate),
         usage_inertia_cost=inertia,
+        closures=closures,
     )
