@@ -102,10 +102,17 @@ class ModelBuilder:
                     carbon = emissions_per_unit(j, inp, t) * cprice
                     self.add_var(("U", s.name, j.name, t),
                                  (fuel_cost + carbon) * self.dt * disc[t])
-                    # usage-inertia slack: D >= U(t-1) - U(t), costed
-                    if inp.usage_inertia_cost > 0 and t > years[0]:
+                    # usage-inertia slack: D >= U(t-1) - U(t), costed with the
+                    # site's heterogeneity factor. The FIRST year is charged
+                    # against the incumbent's implied baseline (start capacity
+                    # was calibrated to serve demand) - otherwise perfect
+                    # foresight dodges the charge by pre-switching in t0.
+                    if inp.usage_inertia_cost > 0 and (
+                            t > years[0]
+                            or s.start_capacity.get(j.name, 0.0) > 0):
                         self.add_var(("D", s.name, j.name, t),
-                                     inp.usage_inertia_cost * disc[t])
+                                     inp.usage_inertia_cost * s.inertia_factor
+                                     * disc[t])
 
         for imp in inp.imports:
             for t in years:
@@ -142,17 +149,27 @@ class ModelBuilder:
                                              (("A", s.name, j.name, t),
                                               -j.availability)]))
                     rhs_ub.append(0.0)
-                    # usage inertia: U(prev) - U(t) - D(t) <= 0
-                    # (not charged on exogenous closures - the wind-down was
-                    # a boardroom fact, not a market response)
-                    if inp.usage_inertia_cost > 0 and t > years[0] \
-                            and not inp.closed(s.name, t):
-                        prev = years[years.index(t) - 1]
-                        rows_ub.append(coef_row([
-                            (("U", s.name, j.name, prev), 1.0),
-                            (("U", s.name, j.name, t), -1.0),
-                            (("D", s.name, j.name, t), -1.0)]))
-                        rhs_ub.append(0.0)
+                    # usage inertia: U(prev) - U(t) - D(t) <= 0; first year
+                    # compares against the incumbent baseline (min of usable
+                    # start capacity and the commodity's t0 demand at site).
+                    # Not charged on exogenous closures - the wind-down was
+                    # a boardroom fact, not a market response.
+                    if inp.usage_inertia_cost > 0 and not inp.closed(s.name, t):
+                        if t > years[0]:
+                            prev = years[years.index(t) - 1]
+                            rows_ub.append(coef_row([
+                                (("U", s.name, j.name, prev), 1.0),
+                                (("U", s.name, j.name, t), -1.0),
+                                (("D", s.name, j.name, t), -1.0)]))
+                            rhs_ub.append(0.0)
+                        elif start > 0:
+                            d0 = s.demand.get(j.output_commodity,
+                                              lambda _: 0.0)(t)
+                            baseline = min(start * j.availability, d0)
+                            rows_ub.append(coef_row([
+                                (("U", s.name, j.name, t), -1.0),
+                                (("D", s.name, j.name, t), -1.0)]))
+                            rhs_ub.append(-baseline)
 
         # production: each site may serve at most its own demand; the national
         # balance closes with imports (item 1). Without an import option the

@@ -103,6 +103,10 @@ class Site:
     traded: bool                     # UK ETS exposure (carbon price applied)
     demand: dict[str, Curve]         # commodity -> PJ/yr required
     start_capacity: dict[str, float] = field(default_factory=dict)  # tech -> units
+    # per-site multiplier on the usage-inertia cost: heterogeneous switching
+    # costs (contract positions, operational flexibility) smooth the
+    # aggregate response from a corner-solution cliff into a graded curve
+    inertia_factor: float = 1.0
 
 
 @dataclass(frozen=True)

@@ -72,6 +72,22 @@ def demand_and_tech(sector, e21_kt):
     return e21_kt / 51.2 * 0.9, "gas_boiler"
 
 
+# per-site inertia factors: band base x size-rank gradient (same rule and
+# provenance as the forward generator - deterministic heterogeneity)
+BAND_BASE = {"large": 0.8, "mid": 1.0, "small": 1.3}
+by_band: dict[str, list] = {}
+for x in top:
+    kt = x["e"][2021] / 1e3
+    band = "large" if kt > 500 else ("mid" if kt > 50 else "small")
+    by_band.setdefault(band, []).append((kt, x["name"]))
+factors = {}
+for band, group in by_band.items():
+    group.sort(key=lambda p: -p[0])
+    n = len(group)
+    for i, (_, name) in enumerate(group):
+        grad = 0.7 + 0.6 * (i / (n - 1) if n > 1 else 0.5)
+        factors[name] = round(BAND_BASE[band] * grad, 3)
+
 site_rows = []
 for x in top:
     kt = x["e"][2021] / 1e3
@@ -79,7 +95,7 @@ for x in top:
     d, tech = demand_and_tech(x["sector"], kt)
     commodity = x["sector"] if x["sector"] in ("steel", "cement") else "heat"
     site_rows.append([x["name"], x["sector"], band, True, commodity,
-                      round(d, 4), tech, round(d / 0.9, 4),
+                      round(d, 4), tech, round(d / 0.9, 4), factors[x["name"]],
                       SRC + " (2021 weights)", RET, "derived"])
 tail_by_sector = defaultdict(float)
 for x in tail:
@@ -88,7 +104,7 @@ for sector, kt in sorted(tail_by_sector.items()):
     d, tech = demand_and_tech(sector, kt)
     commodity = sector if sector in ("steel", "cement") else "heat"
     site_rows.append([f"dispersed_{sector}", sector, "small", False, commodity,
-                      round(d, 4), tech, round(d / 0.9, 4),
+                      round(d, 4), tech, round(d / 0.9, 4), 1.3,
                       SRC + " (tail aggregate, 2021 weights)", RET, "derived"])
 
 outturn = {y: sum(x["e"][y] for x in top) / 1e3
@@ -100,8 +116,8 @@ os.makedirs(OUT, exist_ok=True)
 with open(f"{OUT}/sites.csv", "w", newline="", encoding="utf-8") as fh:
     w = csv.writer(fh)
     w.writerow(["site", "sector", "band", "traded", "commodity", "demand_pj",
-                "incumbent_tech", "start_capacity", "source", "retrieved",
-                "basis"])
+                "incumbent_tech", "start_capacity", "inertia_factor",
+                "source", "retrieved", "basis"])
     w.writerows(site_rows)
 
 with open(f"{OUT}/outturn.csv", "w", newline="", encoding="utf-8") as fh:

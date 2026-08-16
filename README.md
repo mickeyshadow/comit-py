@@ -101,6 +101,13 @@ python run_forecast.py  # the 10-year forecast + a net-zero-2050 pathway
   that outrank sector trends — the Port Talbot EAF restart (0.6 Mt
   residual → 3.0 Mt nameplate from 2028), which fixes the built-but-idle
   EAF inconsistency: 2036 electricity use rises 4.1 → 10.5 PJ as the
-  furnace actually runs. Caveat:
-  uniform site economics make the inertia response binary (LP corners);
-  per-site heterogeneity is the smoothing refinement.
+  furnace actually runs. And the heterogeneity refinement is in:
+  per-site `inertia_factor` (sites.csv — band base × size-rank gradient,
+  deterministic and provenance-tagged), which grades the aggregate
+  inertia response instead of the LP's all-or-nothing corner
+  (test-enforced: a mid-range cost splits heterogeneous sites, never
+  identical ones). Building it exposed and closed a genuine loophole:
+  perfect foresight could dodge the inertia charge entirely by
+  pre-switching in the first model year, so t0 is now charged against
+  the incumbent's implied baseline. Hindcast: **3.7% indexed MAPE**,
+  2025 endpoint exact (69.3 vs 69.2).

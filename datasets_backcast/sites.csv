@@ -1,103 +1,103 @@
-site,sector,band,traded,commodity,demand_pj,incumbent_tech,start_capacity,source,retrieved,basis
-Port Talbot Steelworks,steel,large,True,steel,3.4968,bof,3.8853,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Scunthorpe Integrated Iron & Steel Works,steel,large,True,steel,2.4631,bof,2.7368,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Esso Petroleum Company Limited,heat,large,True,heat,41.5544,gas_boiler,46.1715,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Stanlow Manufacturing Complex,heat,large,True,heat,35.7687,gas_boiler,39.743,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Humber Refinery,heat,large,True,heat,34.0453,gas_boiler,37.8281,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-"Valero, Pembroke",heat,large,True,heat,27.8294,gas_boiler,30.9215,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Lindsey Oil Refinery,heat,large,True,heat,20.6862,gas_boiler,22.9847,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Hope Cement Works,cement,large,True,cement,1.4769,cement_kiln,1.641,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Rugby Works,cement,large,True,cement,1.3724,cement_kiln,1.5249,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Billingham Fertilizer Works,heat,large,True,heat,13.995,gas_boiler,15.55,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Grangemouth Refining,heat,large,True,heat,13.6196,gas_boiler,15.1329,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-KETTON WORKS,cement,large,True,cement,0.9764,cement_kiln,1.0849,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Fife Ethylene Plant,heat,large,True,heat,12.0743,gas_boiler,13.4159,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Tunstead Cement,cement,large,True,cement,0.8567,cement_kiln,0.9519,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Grangemouth Chemicals,heat,large,True,heat,10.5806,gas_boiler,11.7562,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Fawley Refinery,heat,large,True,heat,10.3686,gas_boiler,11.5207,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Cauldon Cement,cement,large,True,cement,0.7577,cement_kiln,0.8419,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Ribblesdale Works,cement,large,True,cement,0.7264,cement_kiln,0.8071,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Padeswood Works,cement,large,True,cement,0.7132,cement_kiln,0.7924,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Dunbar Plant,cement,mid,True,cement,0.6106,cement_kiln,0.6785,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Whitwell Works Lime Kiln Plant,heat,mid,True,heat,7.0207,gas_boiler,7.8008,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Winnington Sodium Carbonate Manufacturing Site,heat,mid,True,heat,6.4227,gas_boiler,7.1364,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Aberthaw Cement Plant,cement,mid,True,cement,0.4614,cement_kiln,0.5126,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Cookstown Cement,cement,mid,True,cement,0.4183,cement_kiln,0.4648,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Wissington Sugar Factory,heat,mid,True,heat,5.4687,gas_boiler,6.0763,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Ineos Acetyls Hull,heat,mid,True,heat,5.1739,gas_boiler,5.7488,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Tunstead Lime,heat,mid,True,heat,4.8847,gas_boiler,5.4275,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Melton Ross Limeworks,heat,mid,True,heat,4.6352,gas_boiler,5.1502,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Teesside Hydrogen Plant,heat,mid,True,heat,3.9083,gas_boiler,4.3426,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Bury St Edmunds Sugar Factory,heat,mid,True,heat,3.8193,gas_boiler,4.2436,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Encirc Glass,heat,mid,True,heat,3.3648,gas_boiler,3.7387,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Lhoist UK Limited,heat,mid,True,heat,3.3219,gas_boiler,3.691,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Tata Steel Shapfell,heat,mid,True,heat,3.2115,gas_boiler,3.5683,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Palm Paper Ltd PM7 Newsprint Mill,heat,mid,True,heat,3.1876,gas_boiler,3.5418,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Tronox Pigment - CHP Plant,heat,mid,True,heat,3.1221,gas_boiler,3.469,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Hindlow Lime,heat,mid,True,heat,3.1197,gas_boiler,3.4663,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Partington Papermill,heat,mid,True,heat,3.0182,gas_boiler,3.3535,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Venator Materials UK Limited,heat,mid,True,heat,2.8873,gas_boiler,3.2082,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Cargill - Trafford Park,heat,mid,True,heat,2.7195,gas_boiler,3.0217,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Kronospan Ltd,heat,mid,True,heat,2.6701,gas_boiler,2.9668,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Port of Liverpool CHP,heat,mid,True,heat,2.6581,gas_boiler,2.9534,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Dow Silicone Manufacturing Installation,heat,mid,True,heat,2.5684,gas_boiler,2.8538,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Ardagh Glass Ltd,heat,mid,True,heat,2.5586,gas_boiler,2.8429,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Pilkington United Kingdom Limited - Greengate,heat,mid,True,heat,2.4803,gas_boiler,2.7559,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Sellafield Site,heat,mid,True,heat,2.4254,gas_boiler,2.6949,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Shell UK Limited Fife NGL Plant,heat,mid,True,heat,2.3694,gas_boiler,2.6327,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Lostock Soda Ash Manufacture,heat,mid,True,heat,2.3265,gas_boiler,2.585,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-O-I Glass Limited,heat,mid,True,heat,2.1157,gas_boiler,2.3508,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Ardagh Glass - Wheatley,heat,mid,True,heat,2.0293,gas_boiler,2.2547,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-DSM Dalry,heat,mid,True,heat,1.8698,gas_boiler,2.0776,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-The Lycra Company UK Limited,heat,mid,True,heat,1.7895,gas_boiler,1.9884,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-British Sugar plc - Newark,heat,mid,True,heat,1.6548,gas_boiler,1.8386,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Tate and Lyle Sugars,heat,mid,True,heat,1.5276,gas_boiler,1.6973,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Cantley Sugar Factory,heat,mid,True,heat,1.496,gas_boiler,1.6622,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Rockwool Bridgend,heat,mid,True,heat,1.4813,gas_boiler,1.6459,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-East Leake Gypsum Works,heat,mid,True,heat,1.4145,gas_boiler,1.5717,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Smurfit Westrock SSK,heat,mid,True,heat,1.3562,gas_boiler,1.5069,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Smurfit Westrock Townsend Hook,heat,mid,True,heat,1.3452,gas_boiler,1.4947,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Encirc Limited,heat,mid,True,heat,1.3363,gas_boiler,1.4848,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Wigton Boiler Plant,heat,mid,True,heat,1.3333,gas_boiler,1.4815,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Teesside Beam Mill,steel,mid,True,steel,0.0393,bof,0.0437,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Whittlesey,heat,mid,True,heat,1.2817,gas_boiler,1.4241,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Norbord Cowie,heat,mid,True,heat,1.2717,gas_boiler,1.413,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-ETEX Building Performance Limited – Portbury Site,heat,mid,True,heat,1.2573,gas_boiler,1.397,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Saint-Gobain Glass (United Kingdom) Limited,heat,mid,True,heat,1.2491,gas_boiler,1.3879,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Ardagh Glass - Headlands,heat,mid,True,heat,1.2146,gas_boiler,1.3495,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Ardagh Glass Limited,heat,mid,True,heat,1.213,gas_boiler,1.3477,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-The Girvan Distillery,heat,mid,True,heat,1.2037,gas_boiler,1.3375,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Archer Daniels Midland Erith Ltd,heat,mid,True,heat,1.1835,gas_boiler,1.315,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Selby Wheat Processing Facility,heat,mid,True,heat,1.1803,gas_boiler,1.3114,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Verallia UK Limited - Leeds,heat,mid,True,heat,1.1521,gas_boiler,1.2801,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Lochaber Smelter,heat,mid,True,heat,1.0791,gas_boiler,1.199,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Jaguar Land Rover Limited Solihull,heat,mid,True,heat,1.0769,gas_boiler,1.1965,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-INOVYN Chlorvinyls Newton Aycliffe,heat,mid,True,heat,1.067,gas_boiler,1.1856,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Guardian Industries UK Limited,heat,mid,True,heat,1.0419,gas_boiler,1.1576,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Solenis - Bradford,heat,mid,True,heat,1.0357,gas_boiler,1.1508,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Versalis UK limited,heat,mid,True,heat,0.9997,gas_boiler,1.1108,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Allied Glass Containers Ltd - Knottingley,heat,mid,True,heat,0.9946,gas_boiler,1.1051,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Ensus UK Limited,heat,mid,True,heat,0.9896,gas_boiler,1.0995,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Ibstock Brick Limited - Leicester,heat,mid,True,heat,0.9841,gas_boiler,1.0935,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Knauf Drywall Sittingbourne,heat,mid,True,heat,0.946,gas_boiler,1.0511,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Tata Steel Colors,steel,mid,True,steel,0.0279,bof,0.031,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-AstraZeneca UK – Macclesfield,heat,mid,True,heat,0.9306,gas_boiler,1.0339,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Knauf Immingham,heat,mid,True,heat,0.9281,gas_boiler,1.0312,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Syngenta Limited,heat,mid,True,heat,0.9152,gas_boiler,1.0169,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Solvay Interox Limited,heat,mid,True,heat,0.8884,gas_boiler,0.9871,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Beatson Clark plc - Rotherham,heat,small,True,heat,0.8673,gas_boiler,0.9637,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Rolls-Royce - Sinfin,heat,small,True,heat,0.8599,gas_boiler,0.9554,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-7 Steel Manufacturing (UK) Ltd – New Melt Shop,steel,small,True,steel,0.0256,bof,0.0285,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,steel,small,True,steel,0.0254,bof,0.0282,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Essity UK Limited - Prudhoe Mill,heat,small,True,heat,0.8284,gas_boiler,0.9205,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Novelis Latchford,heat,small,True,heat,0.7895,gas_boiler,0.8772,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Fawley Chemicals,heat,small,True,heat,0.788,gas_boiler,0.8755,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Solutia UK Limited - Newport,heat,small,True,heat,0.7809,gas_boiler,0.8677,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Bones Lane Factory,heat,small,True,heat,0.7771,gas_boiler,0.8634,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Boilers for District steam and HW aka PNB Energy Centre,heat,small,True,heat,0.7685,gas_boiler,0.8539,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Tata Steel Packaging Plus UK,steel,small,True,steel,0.0227,bof,0.0252,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Glenfiddich Distillery,heat,small,True,heat,0.7326,gas_boiler,0.814,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Elanco AH UK Speke,heat,small,True,heat,0.7255,gas_boiler,0.8062,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-Nissan Motor Manufacturing (UK) Ltd,heat,small,True,heat,0.7225,gas_boiler,0.8027,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
-dispersed_heat,heat,small,False,heat,60.9649,gas_boiler,67.7387,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (tail aggregate, 2021 weights)",2026-08-16,derived
-dispersed_steel,steel,small,False,steel,0.1359,bof,0.151,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (tail aggregate, 2021 weights)",2026-08-16,derived
+site,sector,band,traded,commodity,demand_pj,incumbent_tech,start_capacity,inertia_factor,source,retrieved,basis
+Port Talbot Steelworks,steel,large,True,steel,3.4968,bof,3.8853,0.56,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Scunthorpe Integrated Iron & Steel Works,steel,large,True,steel,2.4631,bof,2.7368,0.587,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Esso Petroleum Company Limited,heat,large,True,heat,41.5544,gas_boiler,46.1715,0.613,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Stanlow Manufacturing Complex,heat,large,True,heat,35.7687,gas_boiler,39.743,0.64,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Humber Refinery,heat,large,True,heat,34.0453,gas_boiler,37.8281,0.667,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+"Valero, Pembroke",heat,large,True,heat,27.8294,gas_boiler,30.9215,0.693,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Lindsey Oil Refinery,heat,large,True,heat,20.6862,gas_boiler,22.9847,0.72,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Hope Cement Works,cement,large,True,cement,1.4769,cement_kiln,1.641,0.747,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Rugby Works,cement,large,True,cement,1.3724,cement_kiln,1.5249,0.773,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Billingham Fertilizer Works,heat,large,True,heat,13.995,gas_boiler,15.55,0.8,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Grangemouth Refining,heat,large,True,heat,13.6196,gas_boiler,15.1329,0.827,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+KETTON WORKS,cement,large,True,cement,0.9764,cement_kiln,1.0849,0.853,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Fife Ethylene Plant,heat,large,True,heat,12.0743,gas_boiler,13.4159,0.88,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Tunstead Cement,cement,large,True,cement,0.8567,cement_kiln,0.9519,0.907,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Grangemouth Chemicals,heat,large,True,heat,10.5806,gas_boiler,11.7562,0.933,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Fawley Refinery,heat,large,True,heat,10.3686,gas_boiler,11.5207,0.96,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Cauldon Cement,cement,large,True,cement,0.7577,cement_kiln,0.8419,0.987,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Ribblesdale Works,cement,large,True,cement,0.7264,cement_kiln,0.8071,1.013,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Padeswood Works,cement,large,True,cement,0.7132,cement_kiln,0.7924,1.04,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Dunbar Plant,cement,mid,True,cement,0.6106,cement_kiln,0.6785,0.7,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Whitwell Works Lime Kiln Plant,heat,mid,True,heat,7.0207,gas_boiler,7.8008,0.709,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Winnington Sodium Carbonate Manufacturing Site,heat,mid,True,heat,6.4227,gas_boiler,7.1364,0.718,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Aberthaw Cement Plant,cement,mid,True,cement,0.4614,cement_kiln,0.5126,0.727,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Cookstown Cement,cement,mid,True,cement,0.4183,cement_kiln,0.4648,0.736,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Wissington Sugar Factory,heat,mid,True,heat,5.4687,gas_boiler,6.0763,0.745,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Ineos Acetyls Hull,heat,mid,True,heat,5.1739,gas_boiler,5.7488,0.755,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Tunstead Lime,heat,mid,True,heat,4.8847,gas_boiler,5.4275,0.764,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Melton Ross Limeworks,heat,mid,True,heat,4.6352,gas_boiler,5.1502,0.773,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Teesside Hydrogen Plant,heat,mid,True,heat,3.9083,gas_boiler,4.3426,0.782,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Bury St Edmunds Sugar Factory,heat,mid,True,heat,3.8193,gas_boiler,4.2436,0.791,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Encirc Glass,heat,mid,True,heat,3.3648,gas_boiler,3.7387,0.8,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Lhoist UK Limited,heat,mid,True,heat,3.3219,gas_boiler,3.691,0.809,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Tata Steel Shapfell,heat,mid,True,heat,3.2115,gas_boiler,3.5683,0.818,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Palm Paper Ltd PM7 Newsprint Mill,heat,mid,True,heat,3.1876,gas_boiler,3.5418,0.827,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Tronox Pigment - CHP Plant,heat,mid,True,heat,3.1221,gas_boiler,3.469,0.836,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Hindlow Lime,heat,mid,True,heat,3.1197,gas_boiler,3.4663,0.845,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Partington Papermill,heat,mid,True,heat,3.0182,gas_boiler,3.3535,0.855,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Venator Materials UK Limited,heat,mid,True,heat,2.8873,gas_boiler,3.2082,0.864,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Cargill - Trafford Park,heat,mid,True,heat,2.7195,gas_boiler,3.0217,0.873,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Kronospan Ltd,heat,mid,True,heat,2.6701,gas_boiler,2.9668,0.882,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Port of Liverpool CHP,heat,mid,True,heat,2.6581,gas_boiler,2.9534,0.891,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Dow Silicone Manufacturing Installation,heat,mid,True,heat,2.5684,gas_boiler,2.8538,0.9,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Ardagh Glass Ltd,heat,mid,True,heat,2.5586,gas_boiler,2.8429,0.909,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Pilkington United Kingdom Limited - Greengate,heat,mid,True,heat,2.4803,gas_boiler,2.7559,0.918,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Sellafield Site,heat,mid,True,heat,2.4254,gas_boiler,2.6949,0.927,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Shell UK Limited Fife NGL Plant,heat,mid,True,heat,2.3694,gas_boiler,2.6327,0.936,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Lostock Soda Ash Manufacture,heat,mid,True,heat,2.3265,gas_boiler,2.585,0.945,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+O-I Glass Limited,heat,mid,True,heat,2.1157,gas_boiler,2.3508,0.955,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Ardagh Glass - Wheatley,heat,mid,True,heat,2.0293,gas_boiler,2.2547,0.964,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+DSM Dalry,heat,mid,True,heat,1.8698,gas_boiler,2.0776,0.973,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+The Lycra Company UK Limited,heat,mid,True,heat,1.7895,gas_boiler,1.9884,0.982,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+British Sugar plc - Newark,heat,mid,True,heat,1.6548,gas_boiler,1.8386,0.991,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Tate and Lyle Sugars,heat,mid,True,heat,1.5276,gas_boiler,1.6973,1.0,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Cantley Sugar Factory,heat,mid,True,heat,1.496,gas_boiler,1.6622,1.009,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Rockwool Bridgend,heat,mid,True,heat,1.4813,gas_boiler,1.6459,1.018,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+East Leake Gypsum Works,heat,mid,True,heat,1.4145,gas_boiler,1.5717,1.027,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Smurfit Westrock SSK,heat,mid,True,heat,1.3562,gas_boiler,1.5069,1.036,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Smurfit Westrock Townsend Hook,heat,mid,True,heat,1.3452,gas_boiler,1.4947,1.045,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Encirc Limited,heat,mid,True,heat,1.3363,gas_boiler,1.4848,1.055,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Wigton Boiler Plant,heat,mid,True,heat,1.3333,gas_boiler,1.4815,1.064,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Teesside Beam Mill,steel,mid,True,steel,0.0393,bof,0.0437,1.073,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Whittlesey,heat,mid,True,heat,1.2817,gas_boiler,1.4241,1.082,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Norbord Cowie,heat,mid,True,heat,1.2717,gas_boiler,1.413,1.091,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+ETEX Building Performance Limited – Portbury Site,heat,mid,True,heat,1.2573,gas_boiler,1.397,1.1,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Saint-Gobain Glass (United Kingdom) Limited,heat,mid,True,heat,1.2491,gas_boiler,1.3879,1.109,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Ardagh Glass - Headlands,heat,mid,True,heat,1.2146,gas_boiler,1.3495,1.118,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Ardagh Glass Limited,heat,mid,True,heat,1.213,gas_boiler,1.3477,1.127,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+The Girvan Distillery,heat,mid,True,heat,1.2037,gas_boiler,1.3375,1.136,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Archer Daniels Midland Erith Ltd,heat,mid,True,heat,1.1835,gas_boiler,1.315,1.145,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Selby Wheat Processing Facility,heat,mid,True,heat,1.1803,gas_boiler,1.3114,1.155,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Verallia UK Limited - Leeds,heat,mid,True,heat,1.1521,gas_boiler,1.2801,1.164,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Lochaber Smelter,heat,mid,True,heat,1.0791,gas_boiler,1.199,1.173,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Jaguar Land Rover Limited Solihull,heat,mid,True,heat,1.0769,gas_boiler,1.1965,1.182,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+INOVYN Chlorvinyls Newton Aycliffe,heat,mid,True,heat,1.067,gas_boiler,1.1856,1.191,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Guardian Industries UK Limited,heat,mid,True,heat,1.0419,gas_boiler,1.1576,1.2,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Solenis - Bradford,heat,mid,True,heat,1.0357,gas_boiler,1.1508,1.209,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Versalis UK limited,heat,mid,True,heat,0.9997,gas_boiler,1.1108,1.218,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Allied Glass Containers Ltd - Knottingley,heat,mid,True,heat,0.9946,gas_boiler,1.1051,1.227,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Ensus UK Limited,heat,mid,True,heat,0.9896,gas_boiler,1.0995,1.236,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Ibstock Brick Limited - Leicester,heat,mid,True,heat,0.9841,gas_boiler,1.0935,1.245,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Knauf Drywall Sittingbourne,heat,mid,True,heat,0.946,gas_boiler,1.0511,1.255,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Tata Steel Colors,steel,mid,True,steel,0.0279,bof,0.031,1.264,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+AstraZeneca UK – Macclesfield,heat,mid,True,heat,0.9306,gas_boiler,1.0339,1.273,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Knauf Immingham,heat,mid,True,heat,0.9281,gas_boiler,1.0312,1.282,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Syngenta Limited,heat,mid,True,heat,0.9152,gas_boiler,1.0169,1.291,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Solvay Interox Limited,heat,mid,True,heat,0.8884,gas_boiler,0.9871,1.3,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Beatson Clark plc - Rotherham,heat,small,True,heat,0.8673,gas_boiler,0.9637,0.91,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Rolls-Royce - Sinfin,heat,small,True,heat,0.8599,gas_boiler,0.9554,0.97,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+7 Steel Manufacturing (UK) Ltd – New Melt Shop,steel,small,True,steel,0.0256,bof,0.0285,1.03,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,steel,small,True,steel,0.0254,bof,0.0282,1.09,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Essity UK Limited - Prudhoe Mill,heat,small,True,heat,0.8284,gas_boiler,0.9205,1.15,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Novelis Latchford,heat,small,True,heat,0.7895,gas_boiler,0.8772,1.21,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Fawley Chemicals,heat,small,True,heat,0.788,gas_boiler,0.8755,1.27,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Solutia UK Limited - Newport,heat,small,True,heat,0.7809,gas_boiler,0.8677,1.33,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Bones Lane Factory,heat,small,True,heat,0.7771,gas_boiler,0.8634,1.39,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Boilers for District steam and HW aka PNB Energy Centre,heat,small,True,heat,0.7685,gas_boiler,0.8539,1.45,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Tata Steel Packaging Plus UK,steel,small,True,steel,0.0227,bof,0.0252,1.51,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Glenfiddich Distillery,heat,small,True,heat,0.7326,gas_boiler,0.814,1.57,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Elanco AH UK Speke,heat,small,True,heat,0.7255,gas_boiler,0.8062,1.63,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+Nissan Motor Manufacturing (UK) Ltd,heat,small,True,heat,0.7225,gas_boiler,0.8027,1.69,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (2021 weights)",2026-08-16,derived
+dispersed_heat,heat,small,False,heat,60.9649,gas_boiler,67.7387,1.3,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (tail aggregate, 2021 weights)",2026-08-16,derived
+dispersed_steel,steel,small,False,steel,0.1359,bof,0.151,1.3,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (tail aggregate, 2021 weights)",2026-08-16,derived

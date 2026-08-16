@@ -131,7 +131,10 @@ def load_inputs(data_dir: str, window: Window) -> Inputs:
             traded=bool(r.traded),
             demand={r.commodity: demand_curve(r.site, r.commodity,
                                               float(r.demand_pj), r.sector)},
-            start_capacity={r.incumbent_tech: float(r.start_capacity)}))
+            start_capacity={r.incumbent_tech: float(r.start_capacity)},
+            inertia_factor=(float(r.inertia_factor)
+                            if "inertia_factor" in sites.columns
+                            and pd.notna(r.inertia_factor) else 1.0)))
 
     hurdles = {r.sector: float(r.hurdle_rate)
                for _, r in fin.iterrows() if pd.notna(r.hurdle_rate)}

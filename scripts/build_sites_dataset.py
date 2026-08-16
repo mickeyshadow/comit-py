@@ -80,13 +80,37 @@ def demand_and_tech(sector, e25_kt):
     return e25_kt / 51.2 * 0.9, "gas_boiler"
 
 
+# per-site inertia factors: band base (larger operators have lower switching
+# disruption) x a size-rank gradient within band (0.7 largest .. 1.3 smallest)
+# - deterministic heterogeneity smoothing the aggregate inertia response
+BAND_BASE = {"large": 0.8, "mid": 1.0, "small": 1.3}
+
+
+def inertia_factors(entries, size_key):
+    by_band = {}
+    for e in entries:
+        kt = e[size_key]
+        band = "large" if kt > 500 else ("mid" if kt > 50 else "small")
+        by_band.setdefault(band, []).append(e)
+    factors = {}
+    for band, group in by_band.items():
+        group.sort(key=lambda x: -x[size_key])
+        n = len(group)
+        for i, e in enumerate(group):
+            grad = 0.7 + 0.6 * (i / (n - 1) if n > 1 else 0.5)
+            factors[e["name"]] = round(BAND_BASE[band] * grad, 3)
+    return factors
+
+
+factors = inertia_factors(top, "e25_kt")
+
 out = []
 for e in top:
     band = "large" if e["e25_kt"] > 500 else ("mid" if e["e25_kt"] > 50 else "small")
     d, tech = demand_and_tech(e["sector"], e["e25_kt"])
     commodity = e["sector"] if e["sector"] in ("steel", "cement") else "heat"
     out.append([e["name"], e["sector"], band, True, commodity,
-                round(d, 4), tech, round(d / 0.9, 4),
+                round(d, 4), tech, round(d / 0.9, 4), factors[e["name"]],
                 SRC, RET, "derived"])
 
 tail_by_sector = defaultdict(float)
@@ -96,14 +120,14 @@ for sector, kt in sorted(tail_by_sector.items()):
     d, tech = demand_and_tech(sector, kt)
     commodity = sector if sector in ("steel", "cement") else "heat"
     out.append([f"dispersed_{sector}", sector, "small", False, commodity,
-                round(d, 4), tech, round(d / 0.9, 4),
+                round(d, 4), tech, round(d / 0.9, 4), 1.3,
                 SRC + " (aggregate of sub-100 installations)", RET, "derived"])
 
 with open(OUT, "w", newline="", encoding="utf-8") as fh:
     w = csv.writer(fh)
     w.writerow(["site", "sector", "band", "traded", "commodity", "demand_pj",
-                "incumbent_tech", "start_capacity", "source", "retrieved",
-                "basis"])
+                "incumbent_tech", "start_capacity", "inertia_factor",
+                "source", "retrieved", "basis"])
     w.writerows(out)
 print(f"wrote {OUT}: {len(out)} sites "
       f"({len(top)} named + {len(tail_by_sector)} dispersed aggregates)")
