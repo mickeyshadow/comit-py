@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "comitpy"
+version = "0.1.0"
+description = "Python rebuild of the COMIT industrial decarbonisation model, designed as a 10-year forecaster"
+requires-python = ">=3.11"
+dependencies = ["scipy>=1.11", "pandas>=2.0"]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.setuptools.packages.find]
+include = ["comitpy*"]
