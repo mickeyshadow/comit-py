@@ -72,7 +72,14 @@ python run_forecast.py  # the 10-year forecast + a net-zero-2050 pathway
   **20.8% indexed MAPE vs the calibrated R fork's ~24.0%** on the same
   outturn shape — the improvement attributable to the import margin
   (cement yields to imports in the 2022 gas spike, as reality did).
-  Residual error decomposes to the two known missing behaviours: usage
-  inertia (2022 over-dip) and strategic closures (the steel fall —
-  boardroom decisions belong in the committed-events layer even in
-  hindcasts). Those are the next two accuracy increments, in that order.
+  Residual error decomposed to the two known missing behaviours; the
+  first is now built: **usage inertia** — a soft disruption cost on
+  year-on-year usage reductions (`usage_inertia_cost`, GBP36m/PJ in
+  `finance.csv`, calibrated against the backcast's 2022 dip signature).
+  With it, the fake 2022 transient disappears (flat 99.9 profile, MAPE
+  21.0% — 0.2 points of cancellation-flattered MAPE traded for the
+  correct shape) and the entire residual error is the strategic-closure
+  gap, which is the remaining increment: committed events in hindcasts.
+  Caveat, stated: with uniform site economics the LP's inertia response
+  is binary (corner solutions); per-site cost heterogeneity is the
+  smoothing refinement.

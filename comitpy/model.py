@@ -102,6 +102,10 @@ class ModelBuilder:
                     carbon = emissions_per_unit(j, inp, t) * cprice
                     self.add_var(("U", s.name, j.name, t),
                                  (fuel_cost + carbon) * self.dt * disc[t])
+                    # usage-inertia slack: D >= U(t-1) - U(t), costed
+                    if inp.usage_inertia_cost > 0 and t > years[0]:
+                        self.add_var(("D", s.name, j.name, t),
+                                     inp.usage_inertia_cost * disc[t])
 
         for imp in inp.imports:
             for t in years:
@@ -138,6 +142,14 @@ class ModelBuilder:
                                              (("A", s.name, j.name, t),
                                               -j.availability)]))
                     rhs_ub.append(0.0)
+                    # usage inertia: U(prev) - U(t) - D(t) <= 0
+                    if inp.usage_inertia_cost > 0 and t > years[0]:
+                        prev = years[years.index(t) - 1]
+                        rows_ub.append(coef_row([
+                            (("U", s.name, j.name, prev), 1.0),
+                            (("U", s.name, j.name, t), -1.0),
+                            (("D", s.name, j.name, t), -1.0)]))
+                        rhs_ub.append(0.0)
 
         # production: each site may serve at most its own demand; the national
         # balance closes with imports (item 1). Without an import option the

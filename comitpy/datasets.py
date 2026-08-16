@@ -106,6 +106,10 @@ def load_inputs(data_dir: str, window: Window) -> Inputs:
 
     hurdles = {r.sector: float(r.hurdle_rate)
                for _, r in fin.iterrows() if pd.notna(r.hurdle_rate)}
+    default = fin[fin.sector == "default"].iloc[0]
+    inertia = (float(default.usage_inertia_cost)
+               if "usage_inertia_cost" in fin.columns
+               and pd.notna(default.usage_inertia_cost) else 0.0)
 
     return Inputs(
         window=window, fuels=fuels, technologies=technologies,
@@ -113,5 +117,6 @@ def load_inputs(data_dir: str, window: Window) -> Inputs:
         carbon_price_traded=_curve_from(cb, {"series": "traded"}),
         carbon_price_untraded=_curve_from(cb, {"series": "untraded"}),
         hurdle_rates=hurdles,
-        discount_rate=float(fin[fin.sector == "default"].discount_rate.iloc[0]),
+        discount_rate=float(default.discount_rate),
+        usage_inertia_cost=inertia,
     )

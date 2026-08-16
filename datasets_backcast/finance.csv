@@ -1,3 +1,3 @@
-sector,hurdle_rate,discount_rate,source,retrieved,basis
-default,0.20,0.035,hurdle calibrated against 2021-25 UK ETS outturn (comit-harness BACKCAST-SKILL.md dip-rebound saturation); discount = Green Book,2026-08-16,derived
-steel,0.15,,strategic/state-supported investment discounts vs merchant industry,2026-08-16,judgement
+sector,hurdle_rate,discount_rate,usage_inertia_cost,source,retrieved,basis
+default,0.20,0.035,36.0,hurdle calibrated vs 2021-25 UK ETS outturn (comit-harness BACKCAST-SKILL.md dip-rebound saturation); discount = Green Book; usage inertia calibrated vs the backcast 2022 dip signature (suppression threshold; LP corner behaviour makes the dip binary - see comit-py backcast notes),2026-08-16,derived
+steel,0.15,,,strategic/state-supported investment discounts vs merchant industry,2026-08-16,judgement

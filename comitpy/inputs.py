@@ -140,6 +140,12 @@ class Inputs:
     # forecast mode (no target imposed - the model says what happens, not
     # what should). A named cap curve + policy pack = one net-zero pathway.
     emissions_cap: Curve | None = None
+    # Usage inertia: a disruption cost (GBPm per PJ) on year-on-year
+    # REDUCTIONS in a technology's use at a site. Soft by design - steep
+    # pathway caps stay feasible - and calibrated against the backcast's
+    # 2022 dip (real firms kept burning gas through the price spike;
+    # contracts and operational risk are real costs). 0 = off.
+    usage_inertia_cost: float = 0.0
 
     def hurdle(self, sector: str) -> float:
         return self.hurdle_rates.get(sector, self.hurdle_rates.get("default", 0.2))
