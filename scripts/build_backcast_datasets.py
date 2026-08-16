@@ -217,6 +217,33 @@ for name, year, why in MANUAL:
         continue
     events.append([name, year, why, RET, "official"])
 
+# sector output indices (2021=100): the surviving-sites production decline.
+# Steel is held at its pre-closure level from 2024 so the Port Talbot
+# closure event is not double-counted - the index carries the market
+# decline, the event carries the boardroom decision.
+SECTOR_OUTPUT = [
+    ("heat", 2021, 100.0, "base year", "outturn"),
+    ("heat", 2022, 96.0, "ONS IoP manufacturing -3.4% 2022, EI-weighted", "derived"),
+    ("heat", 2023, 93.0, "ONS IoP -0.3% 2023 but chemicals/EI fell harder", "derived"),
+    ("heat", 2024, 92.0, "EI manufacturing broadly flat-to-down 2024", "derived"),
+    ("heat", 2029, 92.0, "held beyond scored years", "judgement"),
+    ("steel", 2021, 100.0, "UK crude steel 7.2 Mt 2021", "outturn"),
+    ("steel", 2022, 85.0, "6.1 Mt 2022", "outturn"),
+    ("steel", 2023, 78.0, "5.6 Mt 2023", "outturn"),
+    ("steel", 2024, 78.0, "held: PT closure event carries 2024-25 (no double count)", "derived"),
+    ("steel", 2029, 78.0, "held beyond scored years", "judgement"),
+    ("cement", 2021, 100.0, "GB cement ~9.3 Mt 2021", "outturn"),
+    ("cement", 2022, 90.0, "8.4 Mt 2022 (MPA)", "outturn"),
+    ("cement", 2023, 84.0, "construction slowdown", "derived"),
+    ("cement", 2024, 78.0, "7.3 Mt 2024 - 75-year low (MPA)", "outturn"),
+    ("cement", 2029, 77.0, "held beyond scored years", "judgement"),
+]
+with open(f"{OUT}/sector_output.csv", "w", newline="", encoding="utf-8") as fh:
+    w = csv.writer(fh)
+    w.writerow(["sector", "year", "value", "source", "retrieved", "basis"])
+    for sector, y, v, src2, basis in SECTOR_OUTPUT:
+        w.writerow([sector, y, v, src2, RET, basis])
+
 with open(f"{OUT}/committed_events.csv", "w", newline="", encoding="utf-8") as fh:
     w = csv.writer(fh)
     w.writerow(["site", "from_year", "source", "retrieved", "basis"])

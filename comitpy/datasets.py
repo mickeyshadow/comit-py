@@ -96,12 +96,27 @@ def load_inputs(data_dir: str, window: Window) -> Inputs:
             ramp_limit=(float(row.ramp_limit)
                         if pd.notna(row.ramp_limit) else None))
 
+    # optional sector output indices (2021=100): scale every site's demand by
+    # its sector's real production trajectory
+    idx_curves: dict[str, object] = {}
+    so_path = os.path.join(data_dir, "sector_output.csv")
+    if os.path.exists(so_path):
+        so = _read(so_path, "sector_output")
+        for sector in so.sector.unique():
+            idx_curves[sector] = _curve_from(so, {"sector": sector})
+
+    def demand_curve(base: float, sector: str):
+        idx = idx_curves.get(sector)
+        if idx is None:
+            return pins({int(window.start): base})
+        return lambda y: base * idx(y) / 100.0
+
     site_objs = []
     for _, r in sites.iterrows():
         site_objs.append(Site(
             name=r.site, sector=r.sector, band=r.band,
             traded=bool(r.traded),
-            demand={r.commodity: pins({int(window.start): float(r.demand_pj)})},
+            demand={r.commodity: demand_curve(float(r.demand_pj), r.sector)},
             start_capacity={r.incumbent_tech: float(r.start_capacity)}))
 
     hurdles = {r.sector: float(r.hurdle_rate)

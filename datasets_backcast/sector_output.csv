@@ -1,0 +1,16 @@
+sector,year,value,source,retrieved,basis
+heat,2021,100.0,base year,2026-08-16,outturn
+heat,2022,96.0,"ONS IoP manufacturing -3.4% 2022, EI-weighted",2026-08-16,derived
+heat,2023,93.0,ONS IoP -0.3% 2023 but chemicals/EI fell harder,2026-08-16,derived
+heat,2024,92.0,EI manufacturing broadly flat-to-down 2024,2026-08-16,derived
+heat,2029,92.0,held beyond scored years,2026-08-16,judgement
+steel,2021,100.0,UK crude steel 7.2 Mt 2021,2026-08-16,outturn
+steel,2022,85.0,6.1 Mt 2022,2026-08-16,outturn
+steel,2023,78.0,5.6 Mt 2023,2026-08-16,outturn
+steel,2024,78.0,held: PT closure event carries 2024-25 (no double count),2026-08-16,derived
+steel,2029,78.0,held beyond scored years,2026-08-16,judgement
+cement,2021,100.0,GB cement ~9.3 Mt 2021,2026-08-16,outturn
+cement,2022,90.0,8.4 Mt 2022 (MPA),2026-08-16,outturn
+cement,2023,84.0,construction slowdown,2026-08-16,derived
+cement,2024,78.0,7.3 Mt 2024 - 75-year low (MPA),2026-08-16,outturn
+cement,2029,77.0,held beyond scored years,2026-08-16,judgement

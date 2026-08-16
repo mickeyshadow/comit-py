@@ -84,12 +84,17 @@ python run_forecast.py  # the 10-year forecast + a net-zero-2050 pathway
   Grangemouth Refining, Lindsey). A closure zeroes the site's demand
   (its process-energy service vanished — no phantom redistribution) and
   is exempt from inertia charges (boardroom decisions are not market
-  responses; test-enforced on a single-site micro-case). **Hindcast
-  skill: 13.3% indexed MAPE** (v0 20.8% → inertia 21.0%-right-shaped →
-  events 13.3%; calibrated R fork ~24%). Stated honestly: a hindcast fed
-  known events measures *conditional* skill — the behavioural ceiling —
-  and the remaining gap (99 vs 89-81 in 2022-24) is gradual output
-  decline at surviving sites, which is the real-production-data
-  increment. Caveat: uniform site economics make the inertia response
-  binary (LP corners); per-site heterogeneity is the smoothing
-  refinement.
+  responses; test-enforced on a single-site micro-case). And the final increment is in:
+  **real production data** (`sector_output.csv` — ONS IoP, crude-steel
+  and MPA cement series as 2021=100 indices scaling site demand; steel
+  held at its pre-closure level from 2024 so the Port Talbot event is
+  not double-counted). **Hindcast skill: 4.1% indexed MAPE** — the full
+  progression being calibrated R fork ~24% → v0 20.8% → inertia (shape
+  fix) → events 13.3% → production data 4.1%, with 2023 essentially
+  exact (89.4 vs 89.0). Stated honestly: conditional skill (events and
+  outturn output known); the residual is timing granularity (three
+  sectors, annual event boundaries vs partial-year closures).
+  Forward-run demand still sits flat at base year — sector output
+  *projections* are the forward counterpart of this dataset. Caveat:
+  uniform site economics make the inertia response binary (LP corners);
+  per-site heterogeneity is the smoothing refinement.
