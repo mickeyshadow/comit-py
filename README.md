@@ -1,54 +1,70 @@
-# comitpy — the COMIT rebuild, designed as a forecaster
+# comitpy — industrial decarbonisation forecasting, rebuilt
 
-A Python rebuild of DESNZ's COMIT industrial decarbonisation model,
-started 16 Aug 2026 from one day's evaluation of the R original
-(`comit-harness` repo, `results/CODE-IMPROVEMENTS.md`). The premise: the
-original is a 2050 pathway *optimiser*; this is built to be a 10-year
-*forecaster*, with everything that was a retrofit there designed in here.
+A from-scratch Python successor to DESNZ's COMIT, keeping its proven
+mechanics and none of its template. Direction set 16 Aug 2026:
 
-## The nine features, and where they live
+- **This year's product: a 10-year forecast** (2026–2036, annual) of UK
+  industrial energy, emissions and technology change.
+- **Adaptable to net-zero pathways**: the same model runs with an
+  emissions-cap trajectory (`pathways.py`) — a pathway is a named cap
+  curve plus a policy pack, and pathways compose with price/policy
+  scenarios in the ensemble runner.
+- **Inputs are visible, traceable, adaptable**: plain CSVs in `datasets/`,
+  one file per concept, every row carrying `source / retrieved / basis`
+  (outturn | market | official | derived | judgement). The loader
+  *refuses* untraceable rows — an untraceable input is a dummy value
+  waiting to happen, which is what went wrong in the original. Editing a
+  price pin or a technology parameter is editing a CSV.
 
-| # | Feature (proven in the harness) | Where |
-|---|---|---|
-| 1 | Import/closure margin — domestic output can fall; leakage visible | `ImportOption`, national balance in `model.py` |
-| 2 | Windowing — start/end/timestep are config; annualised capex means no terminal cliff | `Window` |
-| 3 | Per-sector commercial hurdle rates | `Inputs.hurdle_rates`, capex annualisation in `model.py` |
-| 4 | Adoption ramps (S-curve realism) | `Technology.ramp_limit` |
-| 5 | Committed builds as variable bounds (Port Talbot-class facts) | `BuildOrder` |
-| 6 | Ensemble-first running; ranges as the product | `ensemble.py` |
-| 7 | Rolling-horizon (myopic) mode | `rolling.py` |
-| 8 | Forecast-skill scoring (indexed-trajectory MAPE) | `skill.py` |
-| 9 | Band-differentiated prices from a decomposed wholesale+network+levies+margin stack | `PriceStack` |
+## What was kept from COMIT (verified worth keeping)
 
-Every feature has a test proving it *binds* (`tests/test_core.py`) — the
-harness's central lesson being that an unverified feature is a silent no-op.
+The LP formulation: capacity transfer with residual decay, availability
+factors, site-level production, annualised in-horizon capex (no terminal
+cliff), traded/untraded carbon. Solver-level equivalence is **proven**:
+this package's stack solves R-COMIT's exported 700k-variable LP to the
+same objective at machine precision (rel diff 2e-15) with all 564
+material tech-year totals matching (`parity.py`, phase A).
 
-## Status — honest
+## What was rebuilt better (each proven valuable in the comit-harness evaluation)
 
-Working LP core (HiGHS via scipy) with the R-COMIT formulation: capacity
-transfer with linear residual decay, availability factors, site production
-with a national import-closing balance, annualised-loan capex at sector
-hurdle rates, band-priced fuels, traded/untraded carbon. 10 tests green on
-a toy UK slice (`examples.py`) priced from the harness's central curves.
+Import/closure margin (domestic output can fall; leakage visible) ·
+configurable windows · per-sector hurdle rates (0.20 default, calibrated
+against 2021–25 UK ETS outturn) · adoption ramps · committed builds as
+bounds (`BuildOrder`) · ensemble-first running · rolling-horizon mode ·
+indexed-MAPE skill scoring · band-differentiated prices from a decomposed
+wholesale+network+levies+margin stack (EII exemptions are a component,
+not a fudge).
 
-**Not yet done:** ingesting the real COMIT input template (sites,
-technologies, constraint tabs); H2/CO2 infrastructure networks (clusters,
-pipes, storage); the dummy-sector conversion mechanisms (multi-variant
-hydrogen, biomethane certificates). These are the next milestones.
+## The data (real, current, sourced)
 
-## Validation gate
-
-The rebuild is not trusted until:
-1. **Parity**: on COMIT's own template (windowed, features off) it
-   reproduces R-COMIT's objective and national tech-year totals within
-   tolerance — the harness's solution fingerprints are the reference.
-2. **Skill**: the 2021–2025 backcast scores at least as well as the
-   calibrated R fork on the UK ETS outturn (harness `07_backcast_score.R`
-   method, mirrored in `skill.py`).
+`datasets/sites.csv` — 100 named installations + dispersed aggregates from
+the UK ETS registry's 2025 verified emissions (not NAEI-2021).
+`fuel_prices.csv` — Aug-2026 market forwards spliced into central
+projections. `carbon.csv` — UKA outturn/futures + linkage-converged EUA
+consensus. `fuel_emissions.csv` — real grid-decarbonisation trajectory.
+`technologies.csv` — starter set (Port Talbot EAF parameters are from the
+actual project). `finance.csv` — backcast-calibrated hurdle rates.
+Regenerate sites: `python scripts/build_sites_dataset.py` (reads the
+harness's registry data).
 
 ## Run
 
 ```
 pip install -e .[dev]
-pytest tests
+pytest tests            # 13 tests, every feature proven to bind
+python run_forecast.py  # the 10-year forecast + a net-zero-2050 pathway
 ```
+
+## Honest v0 boundaries
+
+- Site demand is emissions-implied (v0 derivation, tagged); replace with
+  real production/output data as the first upgrade.
+- The technology roster is a starter set with indicative costs (tagged
+  judgement) — sufficient for architecture and direction, not for
+  quantitative pathway costs; the pathway mode's cost figures are
+  placeholder until the zero-carbon roster (CCS variants, hydrogen supply
+  caps, cluster timing) is carried over from the harness libraries.
+- Imports lack an explicit CBAM component (add to `ImportOption` price).
+- Validation gates: solver parity DONE (2e-15); next is the 2021–25
+  backcast skill gate on this package's own data pipeline (`skill.py`
+  mirrors the harness method).

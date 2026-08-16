@@ -1,0 +1,11 @@
+fuel,year,value,source,retrieved,basis
+gas,2025,51.2,DESNZ GHG conversion factors (natural gas net CO2e per PJ),2026-08-16,official
+gas,2050,51.2,combustion chemistry - constant,2026-08-16,official
+electricity,2025,35.0,grid intensity 126 g/kWh 2025 outturn (Carbon Brief/NESO),2026-08-16,outturn
+electricity,2030,16.7,~60 g/kWh - Clean Power 2030 adjusted for the 2025 stall,2026-08-16,official
+electricity,2035,8.3,~30 g/kWh central,2026-08-16,judgement
+electricity,2045,2.8,~10 g/kWh deep-decarbonised grid,2026-08-16,judgement
+hydrogen,2027,8.0,mixed blue/green: upstream CH4 + capture slip,2026-08-16,derived
+hydrogen,2050,3.0,greening production mix,2026-08-16,judgement
+biomass,2025,0.0,biogenic accounting convention (UK GHGI),2026-08-16,official
+biomass,2050,0.0,biogenic accounting convention,2026-08-16,official

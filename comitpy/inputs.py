@@ -136,6 +136,10 @@ class Inputs:
     discount_rate: float = 0.035
     imports: list[ImportOption] = field(default_factory=list)
     build_orders: list[BuildOrder] = field(default_factory=list)
+    # Pathway mode: a national emissions-cap trajectory (ktCO2e/yr). None =
+    # forecast mode (no target imposed - the model says what happens, not
+    # what should). A named cap curve + policy pack = one net-zero pathway.
+    emissions_cap: Curve | None = None
 
     def hurdle(self, sector: str) -> float:
         return self.hurdle_rates.get(sector, self.hurdle_rates.get("default", 0.2))

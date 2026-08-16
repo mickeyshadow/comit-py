@@ -1,0 +1,8 @@
+series,year,value,source,retrieved,basis
+traded,2025,0.050,UKA annual avg ~GBP50/t,2026-08-16,outturn
+traded,2026,0.072,UKA ~GBP72/t H2-26 under EU linkage (Energy Aspects),2026-08-16,market
+traded,2030,0.120,EUA consensus ~EUR140/t 2030 converged via linkage,2026-08-16,market
+traded,2035,0.165,EUA consensus ~EUR190-200/t 2035,2026-08-16,market
+traded,2050,0.260,consensus slope extended,2026-08-16,judgement
+untraded,2025,0.005,CCL-equivalent ~GBP4-5/t; no non-ETS carbon price legislated,2026-08-16,official
+untraded,2050,0.005,held flat pending policy,2026-08-16,judgement

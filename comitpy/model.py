@@ -166,6 +166,22 @@ class ModelBuilder:
                 rows_eq.append(coef_row(nat_entries))
                 rhs_eq.append(nat_demand)
 
+        # pathway mode: national emissions cap per year (territorial - imports
+        # carry none, so leakage is a visible pathway consequence)
+        if inp.emissions_cap is not None:
+            for t in years:
+                entries = []
+                for s in inp.sites:
+                    for j in inp.technologies.values():
+                        if j.sector != s.sector:
+                            continue
+                        e = emissions_per_unit(j, inp, t)
+                        if e > 0:
+                            entries.append((("U", s.name, j.name, t), e))
+                if entries:
+                    rows_ub.append(coef_row(entries))
+                    rhs_ub.append(inp.emissions_cap(t))
+
         # adoption ramps (item 4): national new-build cap per tech per year
         for j in inp.technologies.values():
             if j.ramp_limit is None:

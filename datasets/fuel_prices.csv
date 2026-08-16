@@ -1,0 +1,26 @@
+fuel,component,year,value,band,band_factor,source,retrieved,basis
+gas,wholesale,2025,3.2,,,NBP annual avg via DESNZ QEP,2026-08-16,outturn
+gas,wholesale,2026,4.6,,,NBP futures Win-26 ~149p/therm (mkt reports 10-13 Aug 2026),2026-08-16,market
+gas,wholesale,2027,3.5,,,NBP futures Sum-27 ~95p/therm,2026-08-16,market
+gas,wholesale,2028,2.7,,,NBP futures Sum-28 ~70p/therm,2026-08-16,market
+gas,wholesale,2030,2.4,,,DESNZ-central-like long-run LNG cost,2026-08-16,official
+gas,wholesale,2050,2.2,,,flat-real long-run assumption,2026-08-16,judgement
+gas,network,2025,0.8,,,retail wedge calibrated to QEP industrial avg,2026-08-16,derived
+gas,margin,2025,0.5,,,retail wedge calibrated to QEP industrial avg,2026-08-16,derived
+gas,network,,,small,1.5,small-consumer wedge vs QEP size-band spread,2026-08-16,derived
+gas,margin,,,small,3.0,small-consumer wedge vs QEP size-band spread,2026-08-16,derived
+electricity,wholesale,2025,22.8,,,GB baseload annual avg ~GBP82/MWh,2026-08-16,outturn
+electricity,wholesale,2026,30.6,,,baseload forwards Win-26 ~GBP122/MWh,2026-08-16,market
+electricity,wholesale,2028,23.6,,,baseload forwards easing with gas curve,2026-08-16,market
+electricity,wholesale,2030,20.8,,,renewables share lowering wholesale (NESO CP2030-shaped),2026-08-16,official
+electricity,wholesale,2045,18.0,,,FES-central-like long run,2026-08-16,judgement
+electricity,network,2025,10.0,,,network charges component of QEP industrial retail,2026-08-16,derived
+electricity,levies,2025,12.0,,,policy levies component (RO/CfD/CM) of industrial retail,2026-08-16,derived
+electricity,margin,2025,3.0,,,supplier margin component,2026-08-16,derived
+electricity,levies,,,large,0.2,British Industry Supercharger EII exemptions,2026-08-16,official
+electricity,network,,,large,0.4,Supercharger network charge compensation,2026-08-16,official
+electricity,margin,,,small,2.0,small-consumer wedge vs QEP size-band spread,2026-08-16,derived
+hydrogen,wholesale,2027,11.0,,,HPBM offtaker basis ~gas x1.25 (producers get the strike),2026-08-16,derived
+hydrogen,wholesale,2050,10.0,,,HPBM offtaker basis held vs gas long-run,2026-08-16,judgement
+biomass,wholesale,2025,8.2,,,wood chip industrial ~3p/kWh,2026-08-16,market
+biomass,wholesale,2050,8.2,,,flat-real,2026-08-16,judgement
