@@ -1,59 +1,26 @@
 """The forecast as ranges: seven named worlds, one lever each.
 
 Writes ENSEMBLE-FORECAST.md and ensemble_results.csv."""
-import dataclasses
-
 import pandas as pd
 
 from comitpy import Window, solve
 from comitpy.datasets import load_inputs
-from comitpy.inputs import Fuel, PriceStack
+from comitpy.worlds import (WORLDS, scale_carbon,
+                            scale_fuel, slip_ccs)
 
 base = load_inputs("datasets", Window(2026, 2036, 1))
 
 
-def scale_fuel(inp, fuel, component, factor):
-    f = inp.fuels[fuel]
-    st = f.stack
-    parts = {c: getattr(st, c) for c in ("wholesale", "network", "levies",
-                                         "margin")}
-    old = parts[component]
-    parts[component] = (lambda y, _o=old: _o(y) * factor)
-    fuels = dict(inp.fuels)
-    fuels[fuel] = Fuel(f.name, PriceStack(parts["wholesale"], parts["network"],
-                                          parts["levies"], parts["margin"],
-                                          st.band_factors),
-                       f.emissions_ktco2e_per_pj)
-    return inp.with_(fuels=fuels)
 
 
-def scale_carbon(inp, factor):
-    c = inp.carbon_price_traded
-    return inp.with_(carbon_price_traded=lambda y, _c=c: _c(y) * factor)
 
 
-def slip_ccs(inp):
-    techs = dict(inp.technologies)
-    for name in ("cement_kiln_ccs", "gas_boiler_ccs"):
-        t = techs[name]
-        techs[name] = dataclasses.replace(
-            t, first_year=t.first_year + 4,
-            ramp_limit=(t.ramp_limit or 0) * 0.5 or None)
-    return inp.with_(technologies=techs)
 
 
-SCENARIOS = {
-    "levies_off_electricity": lambda i: scale_fuel(i, "electricity", "levies", 0.0),
-    "gas_shock_up50": lambda i: scale_fuel(i, "gas", "wholesale", 1.5),
-    "gas_glut_down30": lambda i: scale_fuel(i, "gas", "wholesale", 0.7),
-    "carbon_tight_x1.5": lambda i: scale_carbon(i, 1.5),
-    "carbon_soft_x0.6": lambda i: scale_carbon(i, 0.6),
-    "ccs_slip_4yrs": slip_ccs,
-}
 
 rows = []
 sols = {"central": solve(base)}
-for name, tf in SCENARIOS.items():
+for name, tf in WORLDS.items():
     sols[name] = solve(tf(base))
 
 for name, sol in sols.items():
@@ -72,7 +39,7 @@ tidy = pd.DataFrame(rows)
 tidy.to_csv("ensemble_results.csv", index=False)
 
 emis = tidy.pivot_table(index="year", columns="scenario", values="MtCO2e")
-order = ["central"] + list(SCENARIOS)
+order = ["central"] + list(WORLDS)
 emis = emis[order]
 lo = emis.min(axis=1)
 hi = emis.max(axis=1)

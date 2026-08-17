@@ -1,0 +1,1599 @@
+site,tech,year,units
+Scunthorpe Integrated Iron & Steel Works,bof,2026,1.6456
+Scunthorpe Integrated Iron & Steel Works,bof,2027,1.5797
+Scunthorpe Integrated Iron & Steel Works,eaf,2027,0.0659
+Scunthorpe Integrated Iron & Steel Works,eaf,2028,1.6456
+Scunthorpe Integrated Iron & Steel Works,eaf,2029,1.6456
+Scunthorpe Integrated Iron & Steel Works,eaf,2030,1.6456
+Scunthorpe Integrated Iron & Steel Works,eaf,2031,1.6456
+Scunthorpe Integrated Iron & Steel Works,eaf,2032,1.6456
+Scunthorpe Integrated Iron & Steel Works,eaf,2033,1.6456
+Scunthorpe Integrated Iron & Steel Works,eaf,2034,1.6456
+Scunthorpe Integrated Iron & Steel Works,eaf,2035,1.6456
+Scunthorpe Integrated Iron & Steel Works,eaf,2036,1.6456
+"Valero, Pembroke",gas_boiler,2026,45.6835
+"Valero, Pembroke",gas_boiler,2027,45.6835
+"Valero, Pembroke",gas_boiler,2028,45.6835
+"Valero, Pembroke",gas_boiler,2029,45.6835
+"Valero, Pembroke",gas_boiler,2030,45.6835
+"Valero, Pembroke",gas_boiler,2031,45.5312
+"Valero, Pembroke",gas_boiler,2032,45.3789
+"Valero, Pembroke",gas_boiler,2033,45.2267
+"Valero, Pembroke",gas_boiler,2034,45.0744
+"Valero, Pembroke",gas_boiler,2035,44.9221
+"Valero, Pembroke",gas_boiler,2036,44.7698
+Esso Petroleum Company Limited,gas_boiler,2026,44.287
+Esso Petroleum Company Limited,gas_boiler,2027,44.287
+Esso Petroleum Company Limited,gas_boiler,2028,44.287
+Esso Petroleum Company Limited,gas_boiler,2029,44.287
+Esso Petroleum Company Limited,gas_boiler,2030,44.287
+Esso Petroleum Company Limited,gas_boiler,2031,44.1394
+Esso Petroleum Company Limited,gas_boiler,2032,43.9918
+Esso Petroleum Company Limited,gas_boiler,2033,43.8441
+Esso Petroleum Company Limited,gas_boiler,2034,43.6965
+Esso Petroleum Company Limited,gas_boiler,2035,43.5489
+Esso Petroleum Company Limited,gas_boiler,2036,43.4013
+Humber Refinery,gas_boiler,2026,37.1762
+Humber Refinery,gas_boiler,2027,37.1762
+Humber Refinery,gas_boiler,2028,37.1762
+Humber Refinery,gas_boiler,2029,37.1762
+Humber Refinery,gas_boiler,2030,37.1762
+Humber Refinery,gas_boiler,2031,37.0523
+Humber Refinery,gas_boiler,2032,36.9284
+Humber Refinery,gas_boiler,2033,36.8044
+Humber Refinery,gas_boiler,2034,36.6805
+Humber Refinery,gas_boiler,2035,36.5566
+Humber Refinery,gas_boiler,2036,36.4327
+Stanlow Manufacturing Complex,gas_boiler,2026,30.7822
+Stanlow Manufacturing Complex,gas_boiler,2027,30.7822
+Stanlow Manufacturing Complex,gas_boiler,2028,30.7822
+Stanlow Manufacturing Complex,gas_boiler,2029,30.7822
+Stanlow Manufacturing Complex,gas_boiler,2030,30.7822
+Stanlow Manufacturing Complex,gas_boiler,2031,30.6796
+Stanlow Manufacturing Complex,gas_boiler,2032,30.577
+Stanlow Manufacturing Complex,gas_boiler,2033,30.4744
+Stanlow Manufacturing Complex,gas_boiler,2034,30.3718
+Stanlow Manufacturing Complex,gas_boiler,2035,30.2692
+Stanlow Manufacturing Complex,gas_boiler,2036,30.1666
+Hope Cement Works,cement_kiln,2026,1.1065
+Hope Cement Works,cement_kiln,2027,1.1363
+Hope Cement Works,cement_kiln,2028,1.1105
+Hope Cement Works,cement_kiln,2029,1.0708
+Hope Cement Works,cement_kiln,2030,1.0312
+Hope Cement Works,cement_kiln,2031,0.9915
+Hope Cement Works,cement_kiln,2032,0.9518
+Hope Cement Works,cement_kiln,2033,0.9122
+Hope Cement Works,cement_kiln,2034,0.8725
+Hope Cement Works,cement_kiln,2035,0.7932
+Hope Cement Works,cement_kiln,2036,0.7932
+Hope Cement Works,cement_kiln_ccs,2028,0.0555
+Hope Cement Works,cement_kiln_ccs,2029,0.1368
+Hope Cement Works,cement_kiln_ccs,2030,0.2181
+Hope Cement Works,cement_kiln_ccs,2031,0.2578
+Hope Cement Works,cement_kiln_ccs,2032,0.2974
+Hope Cement Works,cement_kiln_ccs,2033,0.3371
+Hope Cement Works,cement_kiln_ccs,2034,0.3768
+Hope Cement Works,cement_kiln_ccs,2035,0.4561
+Hope Cement Works,cement_kiln_ccs,2036,0.4561
+Rugby Works,cement_kiln,2026,1.0712
+Rugby Works,cement_kiln,2027,1.1
+Rugby Works,cement_kiln,2028,1.0749
+Rugby Works,cement_kiln,2029,1.0366
+Rugby Works,cement_kiln,2030,0.9982
+Rugby Works,cement_kiln,2031,0.9598
+Rugby Works,cement_kiln,2032,0.9214
+Rugby Works,cement_kiln,2033,0.883
+Rugby Works,cement_kiln,2034,0.8446
+Rugby Works,cement_kiln,2035,0.7678
+Rugby Works,cement_kiln,2036,0.7678
+Rugby Works,cement_kiln_ccs,2028,0.0538
+Rugby Works,cement_kiln_ccs,2029,0.1325
+Rugby Works,cement_kiln_ccs,2030,0.2112
+Rugby Works,cement_kiln_ccs,2031,0.2496
+Rugby Works,cement_kiln_ccs,2032,0.288
+Rugby Works,cement_kiln_ccs,2033,0.3264
+Rugby Works,cement_kiln_ccs,2034,0.3648
+Rugby Works,cement_kiln_ccs,2035,0.4416
+Rugby Works,cement_kiln_ccs,2036,0.4416
+Fife Ethylene Plant,gas_boiler,2026,10.9651
+Fife Ethylene Plant,gas_boiler,2027,10.9651
+Fife Ethylene Plant,gas_boiler,2028,10.9651
+Fife Ethylene Plant,gas_boiler,2029,10.9651
+Fife Ethylene Plant,gas_boiler,2030,10.9651
+Fife Ethylene Plant,gas_boiler,2031,10.9285
+Fife Ethylene Plant,gas_boiler,2032,10.892
+Fife Ethylene Plant,gas_boiler,2033,10.8554
+Fife Ethylene Plant,gas_boiler,2034,10.8189
+Fife Ethylene Plant,gas_boiler,2035,10.7823
+Fife Ethylene Plant,gas_boiler,2036,10.7458
+Cauldon Cement,cement_kiln,2026,0.7421
+Cauldon Cement,cement_kiln,2027,0.7621
+Cauldon Cement,cement_kiln,2028,0.7448
+Cauldon Cement,cement_kiln,2029,0.7182
+Cauldon Cement,cement_kiln,2030,0.6916
+Cauldon Cement,cement_kiln,2031,0.665
+Cauldon Cement,cement_kiln,2032,0.6384
+Cauldon Cement,cement_kiln,2033,0.6118
+Cauldon Cement,cement_kiln,2034,0.5852
+Cauldon Cement,cement_kiln,2035,0.532
+Cauldon Cement,cement_kiln,2036,0.532
+Cauldon Cement,cement_kiln_ccs,2028,0.0372
+Cauldon Cement,cement_kiln_ccs,2029,0.0917
+Cauldon Cement,cement_kiln_ccs,2030,0.1329
+Cauldon Cement,cement_kiln_ccs,2031,0.1729
+Cauldon Cement,cement_kiln_ccs,2032,0.1995
+Cauldon Cement,cement_kiln_ccs,2033,0.2261
+Cauldon Cement,cement_kiln_ccs,2034,0.2527
+Cauldon Cement,cement_kiln_ccs,2035,0.3059
+Cauldon Cement,cement_kiln_ccs,2036,0.3059
+Fawley Refinery,gas_boiler,2026,9.936
+Fawley Refinery,gas_boiler,2027,9.936
+Fawley Refinery,gas_boiler,2028,9.936
+Fawley Refinery,gas_boiler,2029,9.936
+Fawley Refinery,gas_boiler,2030,9.936
+Fawley Refinery,gas_boiler,2031,9.9029
+Fawley Refinery,gas_boiler,2032,9.8698
+Fawley Refinery,gas_boiler,2033,9.8366
+Fawley Refinery,gas_boiler,2034,9.8035
+Fawley Refinery,gas_boiler,2035,9.7704
+Fawley Refinery,gas_boiler,2036,9.7373
+Tunstead Cement,cement_kiln,2026,0.6648
+Tunstead Cement,cement_kiln,2027,0.6826
+Tunstead Cement,cement_kiln,2028,0.6672
+Tunstead Cement,cement_kiln,2029,0.6434
+Tunstead Cement,cement_kiln,2030,0.6196
+Tunstead Cement,cement_kiln,2031,0.5957
+Tunstead Cement,cement_kiln,2032,0.5719
+Tunstead Cement,cement_kiln,2033,0.5481
+Tunstead Cement,cement_kiln,2034,0.5242
+Tunstead Cement,cement_kiln,2035,0.4766
+Tunstead Cement,cement_kiln,2036,0.4766
+Tunstead Cement,cement_kiln_ccs,2028,0.0333
+Tunstead Cement,cement_kiln_ccs,2029,0.0821
+Tunstead Cement,cement_kiln_ccs,2030,0.131
+Tunstead Cement,cement_kiln_ccs,2031,0.1548
+Tunstead Cement,cement_kiln_ccs,2032,0.1786
+Tunstead Cement,cement_kiln_ccs,2033,0.2025
+Tunstead Cement,cement_kiln_ccs,2034,0.2263
+Tunstead Cement,cement_kiln_ccs,2035,0.274
+Tunstead Cement,cement_kiln_ccs,2036,0.274
+KETTON WORKS,cement_kiln,2026,0.6224
+KETTON WORKS,cement_kiln,2027,0.6391
+KETTON WORKS,cement_kiln,2028,0.6246
+KETTON WORKS,cement_kiln,2029,0.6023
+KETTON WORKS,cement_kiln,2030,0.58
+KETTON WORKS,cement_kiln,2031,0.5577
+KETTON WORKS,cement_kiln,2032,0.5354
+KETTON WORKS,cement_kiln,2033,0.5131
+KETTON WORKS,cement_kiln,2034,0.4908
+KETTON WORKS,cement_kiln,2035,0.4462
+KETTON WORKS,cement_kiln,2036,0.4462
+KETTON WORKS,cement_kiln_ccs,2028,0.0312
+KETTON WORKS,cement_kiln_ccs,2029,0.0769
+KETTON WORKS,cement_kiln_ccs,2030,0.1227
+KETTON WORKS,cement_kiln_ccs,2031,0.145
+KETTON WORKS,cement_kiln_ccs,2032,0.1673
+KETTON WORKS,cement_kiln_ccs,2033,0.1896
+KETTON WORKS,cement_kiln_ccs,2034,0.2119
+KETTON WORKS,cement_kiln_ccs,2035,0.2565
+KETTON WORKS,cement_kiln_ccs,2036,0.2565
+Dunbar Plant,cement_kiln,2026,0.5477
+Dunbar Plant,cement_kiln,2027,0.5624
+Dunbar Plant,cement_kiln,2028,0.5301
+Dunbar Plant,cement_kiln,2029,0.5301
+Dunbar Plant,cement_kiln,2030,0.5104
+Dunbar Plant,cement_kiln,2031,0.4908
+Dunbar Plant,cement_kiln,2032,0.4712
+Dunbar Plant,cement_kiln,2033,0.4515
+Dunbar Plant,cement_kiln,2034,0.3982
+Dunbar Plant,cement_kiln,2035,0.3926
+Dunbar Plant,cement_kiln,2036,0.3926
+Dunbar Plant,cement_kiln_ccs,2028,0.0471
+Dunbar Plant,cement_kiln_ccs,2029,0.0677
+Dunbar Plant,cement_kiln_ccs,2030,0.1079
+Dunbar Plant,cement_kiln_ccs,2031,0.1275
+Dunbar Plant,cement_kiln_ccs,2032,0.1472
+Dunbar Plant,cement_kiln_ccs,2033,0.1668
+Dunbar Plant,cement_kiln_ccs,2034,0.2201
+Dunbar Plant,cement_kiln_ccs,2035,0.2257
+Dunbar Plant,cement_kiln_ccs,2036,0.2257
+Ribblesdale Works,cement_kiln,2026,0.5186
+Ribblesdale Works,cement_kiln,2027,0.5325
+Ribblesdale Works,cement_kiln,2028,0.5018
+Ribblesdale Works,cement_kiln,2029,0.5018
+Ribblesdale Works,cement_kiln,2030,0.4832
+Ribblesdale Works,cement_kiln,2031,0.4646
+Ribblesdale Works,cement_kiln,2032,0.446
+Ribblesdale Works,cement_kiln,2033,0.4275
+Ribblesdale Works,cement_kiln,2034,0.4089
+Ribblesdale Works,cement_kiln,2035,0.3717
+Ribblesdale Works,cement_kiln,2036,0.3717
+Ribblesdale Works,cement_kiln_ccs,2028,0.0447
+Ribblesdale Works,cement_kiln_ccs,2029,0.0642
+Ribblesdale Works,cement_kiln_ccs,2030,0.1023
+Ribblesdale Works,cement_kiln_ccs,2031,0.1209
+Ribblesdale Works,cement_kiln_ccs,2032,0.1394
+Ribblesdale Works,cement_kiln_ccs,2033,0.158
+Ribblesdale Works,cement_kiln_ccs,2034,0.1766
+Ribblesdale Works,cement_kiln_ccs,2035,0.2138
+Ribblesdale Works,cement_kiln_ccs,2036,0.2138
+Grangemouth Chemicals,gas_boiler,2026,6.5927
+Grangemouth Chemicals,gas_boiler,2027,6.5927
+Grangemouth Chemicals,gas_boiler,2028,6.5927
+Grangemouth Chemicals,gas_boiler,2029,6.5927
+Grangemouth Chemicals,gas_boiler,2030,6.5927
+Grangemouth Chemicals,gas_boiler,2031,6.5707
+Grangemouth Chemicals,gas_boiler,2032,6.5487
+Grangemouth Chemicals,gas_boiler,2033,6.5268
+Grangemouth Chemicals,gas_boiler,2034,6.5048
+Grangemouth Chemicals,gas_boiler,2035,6.4828
+Grangemouth Chemicals,gas_boiler,2036,6.4608
+Padeswood Works,cement_kiln,2026,0.432
+Padeswood Works,cement_kiln,2027,0.4436
+Padeswood Works,cement_kiln,2028,0.4267
+Padeswood Works,cement_kiln,2029,0.4181
+Padeswood Works,cement_kiln,2030,0.4026
+Padeswood Works,cement_kiln,2031,0.3872
+Padeswood Works,cement_kiln,2032,0.3717
+Padeswood Works,cement_kiln,2033,0.3562
+Padeswood Works,cement_kiln,2034,0.3407
+Padeswood Works,cement_kiln,2035,0.3097
+Padeswood Works,cement_kiln,2036,0.3097
+Padeswood Works,cement_kiln_ccs,2028,0.0285
+Padeswood Works,cement_kiln_ccs,2029,0.0533
+Padeswood Works,cement_kiln_ccs,2030,0.0533
+Padeswood Works,cement_kiln_ccs,2031,0.1006
+Padeswood Works,cement_kiln_ccs,2032,0.1161
+Padeswood Works,cement_kiln_ccs,2033,0.1315
+Padeswood Works,cement_kiln_ccs,2034,0.147
+Padeswood Works,cement_kiln_ccs,2035,0.178
+Padeswood Works,cement_kiln_ccs,2036,0.178
+Tunstead Lime,gas_boiler,2026,5.7392
+Tunstead Lime,gas_boiler,2027,5.7392
+Tunstead Lime,gas_boiler,2028,5.7392
+Tunstead Lime,gas_boiler,2029,5.7392
+Tunstead Lime,gas_boiler,2030,5.7392
+Tunstead Lime,gas_boiler,2031,5.7201
+Tunstead Lime,gas_boiler,2032,5.7009
+Tunstead Lime,gas_boiler,2033,5.6818
+Tunstead Lime,gas_boiler,2034,5.6627
+Tunstead Lime,gas_boiler,2035,5.6435
+Tunstead Lime,gas_boiler,2036,5.6244
+Wissington Sugar Factory,biomass_boiler,2026,0.0
+Wissington Sugar Factory,biomass_boiler,2027,0.0
+Wissington Sugar Factory,biomass_boiler,2028,0.0
+Wissington Sugar Factory,biomass_boiler,2029,0.0
+Wissington Sugar Factory,biomass_boiler,2030,0.0
+Wissington Sugar Factory,biomass_boiler,2031,0.0
+Wissington Sugar Factory,biomass_boiler,2032,0.0
+Wissington Sugar Factory,biomass_boiler,2033,0.0
+Wissington Sugar Factory,biomass_boiler,2034,0.0
+Wissington Sugar Factory,biomass_boiler,2035,0.0
+Wissington Sugar Factory,biomass_boiler,2036,0.0
+Wissington Sugar Factory,gas_boiler,2026,5.6639
+Wissington Sugar Factory,gas_boiler,2027,5.6639
+Wissington Sugar Factory,gas_boiler,2028,5.6639
+Wissington Sugar Factory,gas_boiler,2029,5.6639
+Wissington Sugar Factory,gas_boiler,2030,5.6639
+Wissington Sugar Factory,gas_boiler,2031,5.645
+Wissington Sugar Factory,gas_boiler,2032,5.6261
+Wissington Sugar Factory,gas_boiler,2033,5.6072
+Wissington Sugar Factory,gas_boiler,2034,5.5884
+Wissington Sugar Factory,gas_boiler,2035,5.5695
+Wissington Sugar Factory,gas_boiler,2036,5.5506
+Aberthaw Cement Plant,cement_kiln,2026,0.358
+Aberthaw Cement Plant,cement_kiln,2027,0.3676
+Aberthaw Cement Plant,cement_kiln,2028,0.3592
+Aberthaw Cement Plant,cement_kiln,2029,0.3464
+Aberthaw Cement Plant,cement_kiln,2030,0.3335
+Aberthaw Cement Plant,cement_kiln,2031,0.3207
+Aberthaw Cement Plant,cement_kiln,2032,0.3079
+Aberthaw Cement Plant,cement_kiln,2033,0.295
+Aberthaw Cement Plant,cement_kiln,2034,0.2822
+Aberthaw Cement Plant,cement_kiln,2035,0.2566
+Aberthaw Cement Plant,cement_kiln,2036,0.2566
+Aberthaw Cement Plant,cement_kiln_ccs,2028,0.018
+Aberthaw Cement Plant,cement_kiln_ccs,2029,0.0443
+Aberthaw Cement Plant,cement_kiln_ccs,2030,0.0706
+Aberthaw Cement Plant,cement_kiln_ccs,2031,0.0834
+Aberthaw Cement Plant,cement_kiln_ccs,2032,0.0963
+Aberthaw Cement Plant,cement_kiln_ccs,2033,0.1091
+Aberthaw Cement Plant,cement_kiln_ccs,2034,0.1219
+Aberthaw Cement Plant,cement_kiln_ccs,2035,0.1476
+Aberthaw Cement Plant,cement_kiln_ccs,2036,0.1476
+Cookstown Cement,cement_kiln,2026,0.3355
+Cookstown Cement,cement_kiln,2027,0.3446
+Cookstown Cement,cement_kiln,2028,0.3368
+Cookstown Cement,cement_kiln,2029,0.3247
+Cookstown Cement,cement_kiln,2030,0.3127
+Cookstown Cement,cement_kiln,2031,0.3007
+Cookstown Cement,cement_kiln,2032,0.2886
+Cookstown Cement,cement_kiln,2033,0.2766
+Cookstown Cement,cement_kiln,2034,0.2646
+Cookstown Cement,cement_kiln,2035,0.2405
+Cookstown Cement,cement_kiln,2036,0.2405
+Cookstown Cement,cement_kiln_ccs,2028,0.0168
+Cookstown Cement,cement_kiln_ccs,2029,0.0415
+Cookstown Cement,cement_kiln_ccs,2030,0.0661
+Cookstown Cement,cement_kiln_ccs,2031,0.0782
+Cookstown Cement,cement_kiln_ccs,2032,0.0902
+Cookstown Cement,cement_kiln_ccs,2033,0.1022
+Cookstown Cement,cement_kiln_ccs,2034,0.1142
+Cookstown Cement,cement_kiln_ccs,2035,0.1383
+Cookstown Cement,cement_kiln_ccs,2036,0.1383
+Bury St Edmunds Sugar Factory,gas_boiler,2026,4.0035
+Bury St Edmunds Sugar Factory,gas_boiler,2027,4.0035
+Bury St Edmunds Sugar Factory,gas_boiler,2028,4.0035
+Bury St Edmunds Sugar Factory,gas_boiler,2029,4.0035
+Bury St Edmunds Sugar Factory,gas_boiler,2030,4.0035
+Bury St Edmunds Sugar Factory,gas_boiler,2031,3.9902
+Bury St Edmunds Sugar Factory,gas_boiler,2032,3.9768
+Bury St Edmunds Sugar Factory,gas_boiler,2033,3.9635
+Bury St Edmunds Sugar Factory,gas_boiler,2034,3.9501
+Bury St Edmunds Sugar Factory,gas_boiler,2035,3.9368
+Bury St Edmunds Sugar Factory,gas_boiler,2036,3.9234
+Melton Ross Limeworks,gas_boiler,2026,3.8699
+Melton Ross Limeworks,gas_boiler,2027,3.8699
+Melton Ross Limeworks,gas_boiler,2028,3.8699
+Melton Ross Limeworks,gas_boiler,2029,3.8699
+Melton Ross Limeworks,gas_boiler,2030,3.8699
+Melton Ross Limeworks,gas_boiler,2031,3.857
+Melton Ross Limeworks,gas_boiler,2032,3.8441
+Melton Ross Limeworks,gas_boiler,2033,3.8312
+Melton Ross Limeworks,gas_boiler,2034,3.8183
+Melton Ross Limeworks,gas_boiler,2035,3.8054
+Melton Ross Limeworks,gas_boiler,2036,3.7925
+Encirc Glass,gas_boiler,2026,3.4303
+Encirc Glass,gas_boiler,2027,3.4303
+Encirc Glass,gas_boiler,2028,3.4303
+Encirc Glass,gas_boiler,2029,3.4303
+Encirc Glass,gas_boiler,2030,3.4303
+Encirc Glass,gas_boiler,2031,3.4189
+Encirc Glass,gas_boiler,2032,3.4074
+Encirc Glass,gas_boiler,2033,3.396
+Encirc Glass,gas_boiler,2034,3.3846
+Encirc Glass,gas_boiler,2035,3.3731
+Encirc Glass,gas_boiler,2036,3.3617
+Whitwell Works Lime Kiln Plant,gas_boiler,2026,3.0474
+Whitwell Works Lime Kiln Plant,gas_boiler,2027,3.0474
+Whitwell Works Lime Kiln Plant,gas_boiler,2028,3.0474
+Whitwell Works Lime Kiln Plant,gas_boiler,2029,3.0474
+Whitwell Works Lime Kiln Plant,gas_boiler,2030,3.0474
+Whitwell Works Lime Kiln Plant,gas_boiler,2031,3.0372
+Whitwell Works Lime Kiln Plant,gas_boiler,2032,3.0271
+Whitwell Works Lime Kiln Plant,gas_boiler,2033,3.0169
+Whitwell Works Lime Kiln Plant,gas_boiler,2034,3.0068
+Whitwell Works Lime Kiln Plant,gas_boiler,2035,2.9966
+Whitwell Works Lime Kiln Plant,gas_boiler,2036,2.9865
+Partington Papermill,biomass_boiler,2026,0.0
+Partington Papermill,biomass_boiler,2027,0.0
+Partington Papermill,biomass_boiler,2028,0.0
+Partington Papermill,biomass_boiler,2029,0.0
+Partington Papermill,biomass_boiler,2030,0.0
+Partington Papermill,biomass_boiler,2031,0.0
+Partington Papermill,biomass_boiler,2032,0.0
+Partington Papermill,biomass_boiler,2033,0.0
+Partington Papermill,biomass_boiler,2034,0.0
+Partington Papermill,biomass_boiler,2035,0.0
+Partington Papermill,biomass_boiler,2036,0.0
+Partington Papermill,gas_boiler,2026,2.8696
+Partington Papermill,gas_boiler,2027,2.8696
+Partington Papermill,gas_boiler,2028,2.8696
+Partington Papermill,gas_boiler,2029,2.8696
+Partington Papermill,gas_boiler,2030,2.8696
+Partington Papermill,gas_boiler,2031,2.8601
+Partington Papermill,gas_boiler,2032,2.8505
+Partington Papermill,gas_boiler,2033,2.841
+Partington Papermill,gas_boiler,2034,2.8314
+Partington Papermill,gas_boiler,2035,2.8218
+Partington Papermill,gas_boiler,2036,2.8123
+Lhoist UK Limited,gas_boiler,2026,2.8538
+Lhoist UK Limited,gas_boiler,2027,2.8538
+Lhoist UK Limited,gas_boiler,2028,2.8538
+Lhoist UK Limited,gas_boiler,2029,2.8538
+Lhoist UK Limited,gas_boiler,2030,2.8538
+Lhoist UK Limited,gas_boiler,2031,2.8443
+Lhoist UK Limited,gas_boiler,2032,2.8348
+Lhoist UK Limited,gas_boiler,2033,2.8253
+Lhoist UK Limited,gas_boiler,2034,2.8157
+Lhoist UK Limited,gas_boiler,2035,2.8062
+Lhoist UK Limited,gas_boiler,2036,2.7967
+Port Talbot Steelworks,bof,2026,0.0849
+Port Talbot Steelworks,bof,2027,0.0815
+Port Talbot Steelworks,eaf,2027,0.3
+Port Talbot Steelworks,eaf,2028,3.0
+Port Talbot Steelworks,eaf,2029,3.0
+Port Talbot Steelworks,eaf,2030,3.0
+Port Talbot Steelworks,eaf,2031,3.0
+Port Talbot Steelworks,eaf,2032,3.0
+Port Talbot Steelworks,eaf,2033,3.0
+Port Talbot Steelworks,eaf,2034,3.0
+Port Talbot Steelworks,eaf,2035,3.0
+Port Talbot Steelworks,eaf,2036,3.0
+Palm Paper Ltd PM7 Newsprint Mill,biomass_boiler,2026,0.0
+Palm Paper Ltd PM7 Newsprint Mill,biomass_boiler,2027,0.0
+Palm Paper Ltd PM7 Newsprint Mill,biomass_boiler,2028,0.0
+Palm Paper Ltd PM7 Newsprint Mill,biomass_boiler,2029,0.0
+Palm Paper Ltd PM7 Newsprint Mill,biomass_boiler,2030,0.0
+Palm Paper Ltd PM7 Newsprint Mill,biomass_boiler,2031,0.0
+Palm Paper Ltd PM7 Newsprint Mill,biomass_boiler,2032,0.0
+Palm Paper Ltd PM7 Newsprint Mill,biomass_boiler,2033,0.0
+Palm Paper Ltd PM7 Newsprint Mill,biomass_boiler,2034,0.0
+Palm Paper Ltd PM7 Newsprint Mill,biomass_boiler,2035,0.0
+Palm Paper Ltd PM7 Newsprint Mill,biomass_boiler,2036,0.0
+Palm Paper Ltd PM7 Newsprint Mill,gas_boiler,2026,2.793
+Palm Paper Ltd PM7 Newsprint Mill,gas_boiler,2027,2.793
+Palm Paper Ltd PM7 Newsprint Mill,gas_boiler,2028,2.793
+Palm Paper Ltd PM7 Newsprint Mill,gas_boiler,2029,2.793
+Palm Paper Ltd PM7 Newsprint Mill,gas_boiler,2030,2.793
+Palm Paper Ltd PM7 Newsprint Mill,gas_boiler,2031,2.7837
+Palm Paper Ltd PM7 Newsprint Mill,gas_boiler,2032,2.7744
+Palm Paper Ltd PM7 Newsprint Mill,gas_boiler,2033,2.765
+Palm Paper Ltd PM7 Newsprint Mill,gas_boiler,2034,2.7557
+Palm Paper Ltd PM7 Newsprint Mill,gas_boiler,2035,2.7464
+Palm Paper Ltd PM7 Newsprint Mill,gas_boiler,2036,2.7371
+Teesside Hydrogen Plant,biomass_boiler,2026,0.0001
+Teesside Hydrogen Plant,biomass_boiler,2027,0.0001
+Teesside Hydrogen Plant,biomass_boiler,2028,0.0001
+Teesside Hydrogen Plant,biomass_boiler,2029,0.0001
+Teesside Hydrogen Plant,biomass_boiler,2030,0.0001
+Teesside Hydrogen Plant,biomass_boiler,2031,0.0001
+Teesside Hydrogen Plant,biomass_boiler,2032,0.0001
+Teesside Hydrogen Plant,biomass_boiler,2033,0.0001
+Teesside Hydrogen Plant,biomass_boiler,2034,0.0001
+Teesside Hydrogen Plant,biomass_boiler,2035,0.0001
+Teesside Hydrogen Plant,biomass_boiler,2036,0.0001
+Teesside Hydrogen Plant,gas_boiler,2026,2.7617
+Teesside Hydrogen Plant,gas_boiler,2027,2.7617
+Teesside Hydrogen Plant,gas_boiler,2028,2.7617
+Teesside Hydrogen Plant,gas_boiler,2029,2.7617
+Teesside Hydrogen Plant,gas_boiler,2030,2.7617
+Teesside Hydrogen Plant,gas_boiler,2031,2.7525
+Teesside Hydrogen Plant,gas_boiler,2032,2.7433
+Teesside Hydrogen Plant,gas_boiler,2033,2.7341
+Teesside Hydrogen Plant,gas_boiler,2034,2.7249
+Teesside Hydrogen Plant,gas_boiler,2035,2.7157
+Teesside Hydrogen Plant,gas_boiler,2036,2.7065
+Hindlow Lime,biomass_boiler,2026,0.0
+Hindlow Lime,biomass_boiler,2027,0.0
+Hindlow Lime,biomass_boiler,2028,0.0
+Hindlow Lime,biomass_boiler,2029,0.0
+Hindlow Lime,biomass_boiler,2030,0.0
+Hindlow Lime,biomass_boiler,2031,0.0
+Hindlow Lime,biomass_boiler,2032,0.0
+Hindlow Lime,biomass_boiler,2033,0.0
+Hindlow Lime,biomass_boiler,2034,0.0
+Hindlow Lime,biomass_boiler,2035,0.0
+Hindlow Lime,biomass_boiler,2036,0.0
+Hindlow Lime,gas_boiler,2026,2.7606
+Hindlow Lime,gas_boiler,2027,2.7606
+Hindlow Lime,gas_boiler,2028,2.7606
+Hindlow Lime,gas_boiler,2029,2.7606
+Hindlow Lime,gas_boiler,2030,2.7606
+Hindlow Lime,gas_boiler,2031,2.7514
+Hindlow Lime,gas_boiler,2032,2.7422
+Hindlow Lime,gas_boiler,2033,2.733
+Hindlow Lime,gas_boiler,2034,2.7238
+Hindlow Lime,gas_boiler,2035,2.7146
+Hindlow Lime,gas_boiler,2036,2.7054
+Port of Liverpool CHP,biomass_boiler,2026,0.0
+Port of Liverpool CHP,biomass_boiler,2027,0.0
+Port of Liverpool CHP,biomass_boiler,2028,0.0
+Port of Liverpool CHP,biomass_boiler,2029,0.0
+Port of Liverpool CHP,biomass_boiler,2030,0.0
+Port of Liverpool CHP,biomass_boiler,2031,0.0
+Port of Liverpool CHP,biomass_boiler,2032,0.0
+Port of Liverpool CHP,biomass_boiler,2033,0.0
+Port of Liverpool CHP,biomass_boiler,2034,0.0
+Port of Liverpool CHP,biomass_boiler,2035,0.0
+Port of Liverpool CHP,biomass_boiler,2036,0.0
+Port of Liverpool CHP,gas_boiler,2026,2.7102
+Port of Liverpool CHP,gas_boiler,2027,2.7102
+Port of Liverpool CHP,gas_boiler,2028,2.7102
+Port of Liverpool CHP,gas_boiler,2029,2.7102
+Port of Liverpool CHP,gas_boiler,2030,2.7102
+Port of Liverpool CHP,gas_boiler,2031,2.7011
+Port of Liverpool CHP,gas_boiler,2032,2.6921
+Port of Liverpool CHP,gas_boiler,2033,2.6831
+Port of Liverpool CHP,gas_boiler,2034,2.674
+Port of Liverpool CHP,gas_boiler,2035,2.665
+Port of Liverpool CHP,gas_boiler,2036,2.656
+Kronospan Ltd,biomass_boiler,2026,0.0001
+Kronospan Ltd,biomass_boiler,2027,0.0001
+Kronospan Ltd,biomass_boiler,2028,0.0001
+Kronospan Ltd,biomass_boiler,2029,0.0001
+Kronospan Ltd,biomass_boiler,2030,0.0001
+Kronospan Ltd,biomass_boiler,2031,0.0001
+Kronospan Ltd,biomass_boiler,2032,0.0001
+Kronospan Ltd,biomass_boiler,2033,0.0001
+Kronospan Ltd,biomass_boiler,2034,0.0001
+Kronospan Ltd,biomass_boiler,2035,0.0001
+Kronospan Ltd,biomass_boiler,2036,0.0001
+Kronospan Ltd,gas_boiler,2026,2.453
+Kronospan Ltd,gas_boiler,2027,2.453
+Kronospan Ltd,gas_boiler,2028,2.453
+Kronospan Ltd,gas_boiler,2029,2.453
+Kronospan Ltd,gas_boiler,2030,2.453
+Kronospan Ltd,gas_boiler,2031,2.4449
+Kronospan Ltd,gas_boiler,2032,2.4367
+Kronospan Ltd,gas_boiler,2033,2.4285
+Kronospan Ltd,gas_boiler,2034,2.4203
+Kronospan Ltd,gas_boiler,2035,2.4122
+Kronospan Ltd,gas_boiler,2036,2.404
+Sellafield Site,gas_boiler,2026,2.3511
+Sellafield Site,gas_boiler,2027,2.3511
+Sellafield Site,gas_boiler,2028,2.3511
+Sellafield Site,gas_boiler,2029,2.3511
+Sellafield Site,gas_boiler,2030,2.3511
+Sellafield Site,gas_boiler,2031,2.3433
+Sellafield Site,gas_boiler,2032,2.3354
+Sellafield Site,gas_boiler,2033,2.3276
+Sellafield Site,gas_boiler,2034,2.3198
+Sellafield Site,gas_boiler,2035,2.3119
+Sellafield Site,gas_boiler,2036,2.3041
+Dow Silicone Manufacturing Installation,gas_boiler,2026,2.3092
+Dow Silicone Manufacturing Installation,gas_boiler,2027,2.3092
+Dow Silicone Manufacturing Installation,gas_boiler,2028,2.3092
+Dow Silicone Manufacturing Installation,gas_boiler,2029,2.3092
+Dow Silicone Manufacturing Installation,gas_boiler,2030,2.3092
+Dow Silicone Manufacturing Installation,gas_boiler,2031,2.3015
+Dow Silicone Manufacturing Installation,gas_boiler,2032,2.2938
+Dow Silicone Manufacturing Installation,gas_boiler,2033,2.2861
+Dow Silicone Manufacturing Installation,gas_boiler,2034,2.2784
+Dow Silicone Manufacturing Installation,gas_boiler,2035,2.2707
+Dow Silicone Manufacturing Installation,gas_boiler,2036,2.263
+Pilkington United Kingdom Limited - Greengate,gas_boiler,2026,2.309
+Pilkington United Kingdom Limited - Greengate,gas_boiler,2027,2.309
+Pilkington United Kingdom Limited - Greengate,gas_boiler,2028,2.309
+Pilkington United Kingdom Limited - Greengate,gas_boiler,2029,2.309
+Pilkington United Kingdom Limited - Greengate,gas_boiler,2030,2.309
+Pilkington United Kingdom Limited - Greengate,gas_boiler,2031,2.3013
+Pilkington United Kingdom Limited - Greengate,gas_boiler,2032,2.2936
+Pilkington United Kingdom Limited - Greengate,gas_boiler,2033,2.2859
+Pilkington United Kingdom Limited - Greengate,gas_boiler,2034,2.2782
+Pilkington United Kingdom Limited - Greengate,gas_boiler,2035,2.2705
+Pilkington United Kingdom Limited - Greengate,gas_boiler,2036,2.2628
+Tronox Pigment - CHP Plant,gas_boiler,2026,2.2595
+Tronox Pigment - CHP Plant,gas_boiler,2027,2.2595
+Tronox Pigment - CHP Plant,gas_boiler,2028,2.2595
+Tronox Pigment - CHP Plant,gas_boiler,2029,2.2595
+Tronox Pigment - CHP Plant,gas_boiler,2030,2.2595
+Tronox Pigment - CHP Plant,gas_boiler,2031,2.252
+Tronox Pigment - CHP Plant,gas_boiler,2032,2.2444
+Tronox Pigment - CHP Plant,gas_boiler,2033,2.2369
+Tronox Pigment - CHP Plant,gas_boiler,2034,2.2294
+Tronox Pigment - CHP Plant,gas_boiler,2035,2.2218
+Tronox Pigment - CHP Plant,gas_boiler,2036,2.2143
+Ardagh Glass Ltd,biomass_boiler,2026,0.0001
+Ardagh Glass Ltd,biomass_boiler,2027,0.0001
+Ardagh Glass Ltd,biomass_boiler,2028,0.0001
+Ardagh Glass Ltd,biomass_boiler,2029,0.0001
+Ardagh Glass Ltd,biomass_boiler,2030,0.0001
+Ardagh Glass Ltd,biomass_boiler,2031,0.0001
+Ardagh Glass Ltd,biomass_boiler,2032,0.0001
+Ardagh Glass Ltd,biomass_boiler,2033,0.0001
+Ardagh Glass Ltd,biomass_boiler,2034,0.0001
+Ardagh Glass Ltd,biomass_boiler,2035,0.0001
+Ardagh Glass Ltd,biomass_boiler,2036,0.0001
+Ardagh Glass Ltd,gas_boiler,2026,2.0974
+Ardagh Glass Ltd,gas_boiler,2027,2.0974
+Ardagh Glass Ltd,gas_boiler,2028,2.0974
+Ardagh Glass Ltd,gas_boiler,2029,2.0974
+Ardagh Glass Ltd,gas_boiler,2030,2.0974
+Ardagh Glass Ltd,gas_boiler,2031,2.0905
+Ardagh Glass Ltd,gas_boiler,2032,2.0835
+Ardagh Glass Ltd,gas_boiler,2033,2.0765
+Ardagh Glass Ltd,gas_boiler,2034,2.0695
+Ardagh Glass Ltd,gas_boiler,2035,2.0625
+Ardagh Glass Ltd,gas_boiler,2036,2.0555
+Shell UK Limited Fife NGL Plant,biomass_boiler,2026,0.0
+Shell UK Limited Fife NGL Plant,biomass_boiler,2027,0.0
+Shell UK Limited Fife NGL Plant,biomass_boiler,2028,0.0
+Shell UK Limited Fife NGL Plant,biomass_boiler,2029,0.0
+Shell UK Limited Fife NGL Plant,biomass_boiler,2030,0.0
+Shell UK Limited Fife NGL Plant,biomass_boiler,2031,0.0
+Shell UK Limited Fife NGL Plant,biomass_boiler,2032,0.0
+Shell UK Limited Fife NGL Plant,biomass_boiler,2033,0.0
+Shell UK Limited Fife NGL Plant,biomass_boiler,2034,0.0
+Shell UK Limited Fife NGL Plant,biomass_boiler,2035,0.0
+Shell UK Limited Fife NGL Plant,biomass_boiler,2036,0.0
+Shell UK Limited Fife NGL Plant,gas_boiler,2026,2.0838
+Shell UK Limited Fife NGL Plant,gas_boiler,2027,2.0838
+Shell UK Limited Fife NGL Plant,gas_boiler,2028,2.0838
+Shell UK Limited Fife NGL Plant,gas_boiler,2029,2.0838
+Shell UK Limited Fife NGL Plant,gas_boiler,2030,2.0838
+Shell UK Limited Fife NGL Plant,gas_boiler,2031,2.0768
+Shell UK Limited Fife NGL Plant,gas_boiler,2032,2.0699
+Shell UK Limited Fife NGL Plant,gas_boiler,2033,2.0629
+Shell UK Limited Fife NGL Plant,gas_boiler,2034,2.056
+Shell UK Limited Fife NGL Plant,gas_boiler,2035,2.049
+Shell UK Limited Fife NGL Plant,gas_boiler,2036,2.0421
+Cargill - Trafford Park,gas_boiler,2026,2.0488
+Cargill - Trafford Park,gas_boiler,2027,2.0488
+Cargill - Trafford Park,gas_boiler,2028,2.0488
+Cargill - Trafford Park,gas_boiler,2029,2.0488
+Cargill - Trafford Park,gas_boiler,2030,2.0488
+Cargill - Trafford Park,gas_boiler,2031,2.042
+Cargill - Trafford Park,gas_boiler,2032,2.0351
+Cargill - Trafford Park,gas_boiler,2033,2.0283
+Cargill - Trafford Park,gas_boiler,2034,2.0215
+Cargill - Trafford Park,gas_boiler,2035,2.0147
+Cargill - Trafford Park,gas_boiler,2036,2.0078
+Ardagh Glass - Wheatley,gas_boiler,2026,1.9664
+Ardagh Glass - Wheatley,gas_boiler,2027,1.9664
+Ardagh Glass - Wheatley,gas_boiler,2028,1.9664
+Ardagh Glass - Wheatley,gas_boiler,2029,1.9664
+Ardagh Glass - Wheatley,gas_boiler,2030,1.9664
+Ardagh Glass - Wheatley,gas_boiler,2031,1.9598
+Ardagh Glass - Wheatley,gas_boiler,2032,1.9533
+Ardagh Glass - Wheatley,gas_boiler,2033,1.9467
+Ardagh Glass - Wheatley,gas_boiler,2034,1.9402
+Ardagh Glass - Wheatley,gas_boiler,2035,1.9336
+Ardagh Glass - Wheatley,gas_boiler,2036,1.9271
+Ineos Acetyls Hull,biomass_boiler,2026,0.0001
+Ineos Acetyls Hull,biomass_boiler,2027,0.0001
+Ineos Acetyls Hull,biomass_boiler,2028,0.0001
+Ineos Acetyls Hull,biomass_boiler,2029,0.0001
+Ineos Acetyls Hull,biomass_boiler,2030,0.0001
+Ineos Acetyls Hull,biomass_boiler,2031,0.0001
+Ineos Acetyls Hull,biomass_boiler,2032,0.0001
+Ineos Acetyls Hull,biomass_boiler,2033,0.0001
+Ineos Acetyls Hull,biomass_boiler,2034,0.0001
+Ineos Acetyls Hull,biomass_boiler,2035,0.0001
+Ineos Acetyls Hull,biomass_boiler,2036,0.0001
+Ineos Acetyls Hull,gas_boiler,2026,1.8977
+Ineos Acetyls Hull,gas_boiler,2027,1.8977
+Ineos Acetyls Hull,gas_boiler,2028,1.8977
+Ineos Acetyls Hull,gas_boiler,2029,1.8977
+Ineos Acetyls Hull,gas_boiler,2030,1.8977
+Ineos Acetyls Hull,gas_boiler,2031,1.8914
+Ineos Acetyls Hull,gas_boiler,2032,1.8851
+Ineos Acetyls Hull,gas_boiler,2033,1.8788
+Ineos Acetyls Hull,gas_boiler,2034,1.8724
+Ineos Acetyls Hull,gas_boiler,2035,1.8661
+Ineos Acetyls Hull,gas_boiler,2036,1.8598
+Selby Wheat Processing Facility,gas_boiler,2026,1.8497
+Selby Wheat Processing Facility,gas_boiler,2027,1.8497
+Selby Wheat Processing Facility,gas_boiler,2028,1.8497
+Selby Wheat Processing Facility,gas_boiler,2029,1.8497
+Selby Wheat Processing Facility,gas_boiler,2030,1.8497
+Selby Wheat Processing Facility,gas_boiler,2031,1.8435
+Selby Wheat Processing Facility,gas_boiler,2032,1.8374
+Selby Wheat Processing Facility,gas_boiler,2033,1.8312
+Selby Wheat Processing Facility,gas_boiler,2034,1.825
+Selby Wheat Processing Facility,gas_boiler,2035,1.8189
+Selby Wheat Processing Facility,gas_boiler,2036,1.8127
+Guardian Industries UK Limited,biomass_boiler,2026,0.0
+Guardian Industries UK Limited,biomass_boiler,2027,0.0
+Guardian Industries UK Limited,biomass_boiler,2028,0.0
+Guardian Industries UK Limited,biomass_boiler,2029,0.0
+Guardian Industries UK Limited,biomass_boiler,2030,0.0
+Guardian Industries UK Limited,biomass_boiler,2031,0.0
+Guardian Industries UK Limited,biomass_boiler,2032,0.0
+Guardian Industries UK Limited,biomass_boiler,2033,0.0
+Guardian Industries UK Limited,biomass_boiler,2034,0.0
+Guardian Industries UK Limited,biomass_boiler,2035,0.0
+Guardian Industries UK Limited,biomass_boiler,2036,0.0
+Guardian Industries UK Limited,gas_boiler,2026,1.7048
+Guardian Industries UK Limited,gas_boiler,2027,1.7048
+Guardian Industries UK Limited,gas_boiler,2028,1.7048
+Guardian Industries UK Limited,gas_boiler,2029,1.7048
+Guardian Industries UK Limited,gas_boiler,2030,1.7048
+Guardian Industries UK Limited,gas_boiler,2031,1.6991
+Guardian Industries UK Limited,gas_boiler,2032,1.6934
+Guardian Industries UK Limited,gas_boiler,2033,1.6877
+Guardian Industries UK Limited,gas_boiler,2034,1.682
+Guardian Industries UK Limited,gas_boiler,2035,1.6764
+Guardian Industries UK Limited,gas_boiler,2036,1.6707
+British Sugar plc - Newark,biomass_boiler,2026,0.0001
+British Sugar plc - Newark,biomass_boiler,2027,0.0001
+British Sugar plc - Newark,biomass_boiler,2028,0.0001
+British Sugar plc - Newark,biomass_boiler,2029,0.0001
+British Sugar plc - Newark,biomass_boiler,2030,0.0001
+British Sugar plc - Newark,biomass_boiler,2031,0.0001
+British Sugar plc - Newark,biomass_boiler,2032,0.0001
+British Sugar plc - Newark,biomass_boiler,2033,0.0001
+British Sugar plc - Newark,biomass_boiler,2034,0.0001
+British Sugar plc - Newark,biomass_boiler,2035,0.0001
+British Sugar plc - Newark,biomass_boiler,2036,0.0001
+British Sugar plc - Newark,gas_boiler,2026,1.6404
+British Sugar plc - Newark,gas_boiler,2027,1.6404
+British Sugar plc - Newark,gas_boiler,2028,1.6404
+British Sugar plc - Newark,gas_boiler,2029,1.6404
+British Sugar plc - Newark,gas_boiler,2030,1.6404
+British Sugar plc - Newark,gas_boiler,2031,1.635
+British Sugar plc - Newark,gas_boiler,2032,1.6295
+British Sugar plc - Newark,gas_boiler,2033,1.624
+British Sugar plc - Newark,gas_boiler,2034,1.6186
+British Sugar plc - Newark,gas_boiler,2035,1.6131
+British Sugar plc - Newark,gas_boiler,2036,1.6076
+Saint-Gobain Glass (United Kingdom) Limited,gas_boiler,2026,1.6376
+Saint-Gobain Glass (United Kingdom) Limited,gas_boiler,2027,1.6376
+Saint-Gobain Glass (United Kingdom) Limited,gas_boiler,2028,1.6376
+Saint-Gobain Glass (United Kingdom) Limited,gas_boiler,2029,1.6376
+Saint-Gobain Glass (United Kingdom) Limited,gas_boiler,2030,1.6376
+Saint-Gobain Glass (United Kingdom) Limited,gas_boiler,2031,1.6321
+Saint-Gobain Glass (United Kingdom) Limited,gas_boiler,2032,1.6267
+Saint-Gobain Glass (United Kingdom) Limited,gas_boiler,2033,1.6212
+Saint-Gobain Glass (United Kingdom) Limited,gas_boiler,2034,1.6158
+Saint-Gobain Glass (United Kingdom) Limited,gas_boiler,2035,1.6103
+Saint-Gobain Glass (United Kingdom) Limited,gas_boiler,2036,1.6048
+Tate and Lyle Sugars,gas_boiler,2026,1.5719
+Tate and Lyle Sugars,gas_boiler,2027,1.5719
+Tate and Lyle Sugars,gas_boiler,2028,1.5719
+Tate and Lyle Sugars,gas_boiler,2029,1.5719
+Tate and Lyle Sugars,gas_boiler,2030,1.5719
+Tate and Lyle Sugars,gas_boiler,2031,1.5667
+Tate and Lyle Sugars,gas_boiler,2032,1.5614
+Tate and Lyle Sugars,gas_boiler,2033,1.5562
+Tate and Lyle Sugars,gas_boiler,2034,1.5509
+Tate and Lyle Sugars,gas_boiler,2035,1.5457
+Tate and Lyle Sugars,gas_boiler,2036,1.5405
+Rolls-Royce - Sinfin,gas_boiler,2026,1.458
+Rolls-Royce - Sinfin,gas_boiler,2027,1.458
+Rolls-Royce - Sinfin,gas_boiler,2028,1.458
+Rolls-Royce - Sinfin,gas_boiler,2029,1.458
+Rolls-Royce - Sinfin,gas_boiler,2030,1.458
+Rolls-Royce - Sinfin,gas_boiler,2031,1.4531
+Rolls-Royce - Sinfin,gas_boiler,2032,1.4483
+Rolls-Royce - Sinfin,gas_boiler,2033,1.4434
+Rolls-Royce - Sinfin,gas_boiler,2034,1.4386
+Rolls-Royce - Sinfin,gas_boiler,2035,1.4337
+Rolls-Royce - Sinfin,gas_boiler,2036,1.4288
+Encirc Limited,gas_boiler,2026,1.4472
+Encirc Limited,gas_boiler,2027,1.4472
+Encirc Limited,gas_boiler,2028,1.4472
+Encirc Limited,gas_boiler,2029,1.4472
+Encirc Limited,gas_boiler,2030,1.4472
+Encirc Limited,gas_boiler,2031,1.4424
+Encirc Limited,gas_boiler,2032,1.4376
+Encirc Limited,gas_boiler,2033,1.4327
+Encirc Limited,gas_boiler,2034,1.4279
+Encirc Limited,gas_boiler,2035,1.4231
+Encirc Limited,gas_boiler,2036,1.4183
+Smurfit Westrock Townsend Hook,biomass_boiler,2026,0.0
+Smurfit Westrock Townsend Hook,biomass_boiler,2027,0.0
+Smurfit Westrock Townsend Hook,biomass_boiler,2028,0.0
+Smurfit Westrock Townsend Hook,biomass_boiler,2029,0.0
+Smurfit Westrock Townsend Hook,biomass_boiler,2030,0.0
+Smurfit Westrock Townsend Hook,biomass_boiler,2031,0.0
+Smurfit Westrock Townsend Hook,biomass_boiler,2032,0.0
+Smurfit Westrock Townsend Hook,biomass_boiler,2033,0.0
+Smurfit Westrock Townsend Hook,biomass_boiler,2034,0.0
+Smurfit Westrock Townsend Hook,biomass_boiler,2035,0.0
+Smurfit Westrock Townsend Hook,biomass_boiler,2036,0.0
+Smurfit Westrock Townsend Hook,gas_boiler,2026,1.3521
+Smurfit Westrock Townsend Hook,gas_boiler,2027,1.3521
+Smurfit Westrock Townsend Hook,gas_boiler,2028,1.3521
+Smurfit Westrock Townsend Hook,gas_boiler,2029,1.3521
+Smurfit Westrock Townsend Hook,gas_boiler,2030,1.3521
+Smurfit Westrock Townsend Hook,gas_boiler,2031,1.3476
+Smurfit Westrock Townsend Hook,gas_boiler,2032,1.3431
+Smurfit Westrock Townsend Hook,gas_boiler,2033,1.3385
+Smurfit Westrock Townsend Hook,gas_boiler,2034,1.334
+Smurfit Westrock Townsend Hook,gas_boiler,2035,1.3295
+Smurfit Westrock Townsend Hook,gas_boiler,2036,1.325
+Venator Materials UK Limited,gas_boiler,2026,1.3273
+Venator Materials UK Limited,gas_boiler,2027,1.3273
+Venator Materials UK Limited,gas_boiler,2028,1.3273
+Venator Materials UK Limited,gas_boiler,2029,1.3273
+Venator Materials UK Limited,gas_boiler,2030,1.3273
+Venator Materials UK Limited,gas_boiler,2031,1.3229
+Venator Materials UK Limited,gas_boiler,2032,1.3185
+Venator Materials UK Limited,gas_boiler,2033,1.314
+Venator Materials UK Limited,gas_boiler,2034,1.3096
+Venator Materials UK Limited,gas_boiler,2035,1.3052
+Venator Materials UK Limited,gas_boiler,2036,1.3008
+Rockwool Bridgend,biomass_boiler,2026,0.0
+Rockwool Bridgend,biomass_boiler,2027,0.0
+Rockwool Bridgend,biomass_boiler,2028,0.0
+Rockwool Bridgend,biomass_boiler,2029,0.0
+Rockwool Bridgend,biomass_boiler,2030,0.0
+Rockwool Bridgend,biomass_boiler,2031,0.0
+Rockwool Bridgend,biomass_boiler,2032,0.0
+Rockwool Bridgend,biomass_boiler,2033,0.0
+Rockwool Bridgend,biomass_boiler,2034,0.0
+Rockwool Bridgend,biomass_boiler,2035,0.0
+Rockwool Bridgend,biomass_boiler,2036,0.0
+Rockwool Bridgend,gas_boiler,2026,1.3268
+Rockwool Bridgend,gas_boiler,2027,1.3268
+Rockwool Bridgend,gas_boiler,2028,1.3268
+Rockwool Bridgend,gas_boiler,2029,1.3268
+Rockwool Bridgend,gas_boiler,2030,1.3268
+Rockwool Bridgend,gas_boiler,2031,1.3224
+Rockwool Bridgend,gas_boiler,2032,1.3179
+Rockwool Bridgend,gas_boiler,2033,1.3135
+Rockwool Bridgend,gas_boiler,2034,1.3091
+Rockwool Bridgend,gas_boiler,2035,1.3047
+Rockwool Bridgend,gas_boiler,2036,1.3002
+Wigton Boiler Plant,biomass_boiler,2026,0.0
+Wigton Boiler Plant,biomass_boiler,2027,0.0
+Wigton Boiler Plant,biomass_boiler,2028,0.0
+Wigton Boiler Plant,biomass_boiler,2029,0.0
+Wigton Boiler Plant,biomass_boiler,2030,0.0
+Wigton Boiler Plant,biomass_boiler,2031,0.0
+Wigton Boiler Plant,biomass_boiler,2032,0.0
+Wigton Boiler Plant,biomass_boiler,2033,0.0
+Wigton Boiler Plant,biomass_boiler,2034,0.0
+Wigton Boiler Plant,biomass_boiler,2035,0.0
+Wigton Boiler Plant,biomass_boiler,2036,0.0
+Wigton Boiler Plant,gas_boiler,2026,1.2441
+Wigton Boiler Plant,gas_boiler,2027,1.2441
+Wigton Boiler Plant,gas_boiler,2028,1.2441
+Wigton Boiler Plant,gas_boiler,2029,1.2441
+Wigton Boiler Plant,gas_boiler,2030,1.2441
+Wigton Boiler Plant,gas_boiler,2031,1.2399
+Wigton Boiler Plant,gas_boiler,2032,1.2358
+Wigton Boiler Plant,gas_boiler,2033,1.2316
+Wigton Boiler Plant,gas_boiler,2034,1.2275
+Wigton Boiler Plant,gas_boiler,2035,1.2233
+Wigton Boiler Plant,gas_boiler,2036,1.2192
+Archer Daniels Midland Erith Ltd,biomass_boiler,2026,0.0001
+Archer Daniels Midland Erith Ltd,biomass_boiler,2027,0.0001
+Archer Daniels Midland Erith Ltd,biomass_boiler,2028,0.0001
+Archer Daniels Midland Erith Ltd,biomass_boiler,2029,0.0001
+Archer Daniels Midland Erith Ltd,biomass_boiler,2030,0.0001
+Archer Daniels Midland Erith Ltd,biomass_boiler,2031,0.0001
+Archer Daniels Midland Erith Ltd,biomass_boiler,2032,0.0001
+Archer Daniels Midland Erith Ltd,biomass_boiler,2033,0.0001
+Archer Daniels Midland Erith Ltd,biomass_boiler,2034,0.0001
+Archer Daniels Midland Erith Ltd,biomass_boiler,2035,0.0001
+Archer Daniels Midland Erith Ltd,biomass_boiler,2036,0.0001
+Archer Daniels Midland Erith Ltd,gas_boiler,2026,1.1867
+Archer Daniels Midland Erith Ltd,gas_boiler,2027,1.1867
+Archer Daniels Midland Erith Ltd,gas_boiler,2028,1.1867
+Archer Daniels Midland Erith Ltd,gas_boiler,2029,1.1867
+Archer Daniels Midland Erith Ltd,gas_boiler,2030,1.1867
+Archer Daniels Midland Erith Ltd,gas_boiler,2031,1.1828
+Archer Daniels Midland Erith Ltd,gas_boiler,2032,1.1788
+Archer Daniels Midland Erith Ltd,gas_boiler,2033,1.1749
+Archer Daniels Midland Erith Ltd,gas_boiler,2034,1.1709
+Archer Daniels Midland Erith Ltd,gas_boiler,2035,1.167
+Archer Daniels Midland Erith Ltd,gas_boiler,2036,1.163
+ETEX Building Performance Limited – Portbury Site,gas_boiler,2026,1.1832
+ETEX Building Performance Limited – Portbury Site,gas_boiler,2027,1.1832
+ETEX Building Performance Limited – Portbury Site,gas_boiler,2028,1.1832
+ETEX Building Performance Limited – Portbury Site,gas_boiler,2029,1.1832
+ETEX Building Performance Limited – Portbury Site,gas_boiler,2030,1.1832
+ETEX Building Performance Limited – Portbury Site,gas_boiler,2031,1.1793
+ETEX Building Performance Limited – Portbury Site,gas_boiler,2032,1.1753
+ETEX Building Performance Limited – Portbury Site,gas_boiler,2033,1.1714
+ETEX Building Performance Limited – Portbury Site,gas_boiler,2034,1.1674
+ETEX Building Performance Limited – Portbury Site,gas_boiler,2035,1.1635
+ETEX Building Performance Limited – Portbury Site,gas_boiler,2036,1.1595
+Ardagh Glass Limited,biomass_boiler,2026,0.0
+Ardagh Glass Limited,biomass_boiler,2027,0.0
+Ardagh Glass Limited,biomass_boiler,2028,0.0
+Ardagh Glass Limited,biomass_boiler,2029,0.0
+Ardagh Glass Limited,biomass_boiler,2030,0.0
+Ardagh Glass Limited,biomass_boiler,2031,0.0
+Ardagh Glass Limited,biomass_boiler,2032,0.0
+Ardagh Glass Limited,biomass_boiler,2033,0.0
+Ardagh Glass Limited,biomass_boiler,2034,0.0
+Ardagh Glass Limited,biomass_boiler,2035,0.0
+Ardagh Glass Limited,biomass_boiler,2036,0.0
+Ardagh Glass Limited,gas_boiler,2026,1.1767
+Ardagh Glass Limited,gas_boiler,2027,1.1767
+Ardagh Glass Limited,gas_boiler,2028,1.1767
+Ardagh Glass Limited,gas_boiler,2029,1.1767
+Ardagh Glass Limited,gas_boiler,2030,1.1767
+Ardagh Glass Limited,gas_boiler,2031,1.1727
+Ardagh Glass Limited,gas_boiler,2032,1.1688
+Ardagh Glass Limited,gas_boiler,2033,1.1649
+Ardagh Glass Limited,gas_boiler,2034,1.161
+Ardagh Glass Limited,gas_boiler,2035,1.157
+Ardagh Glass Limited,gas_boiler,2036,1.1531
+The Girvan Distillery,biomass_boiler,2026,0.0
+The Girvan Distillery,biomass_boiler,2027,0.0
+The Girvan Distillery,biomass_boiler,2028,0.0
+The Girvan Distillery,biomass_boiler,2029,0.0
+The Girvan Distillery,biomass_boiler,2030,0.0
+The Girvan Distillery,biomass_boiler,2031,0.0
+The Girvan Distillery,biomass_boiler,2032,0.0
+The Girvan Distillery,biomass_boiler,2033,0.0
+The Girvan Distillery,biomass_boiler,2034,0.0
+The Girvan Distillery,biomass_boiler,2035,0.0
+The Girvan Distillery,biomass_boiler,2036,0.0
+The Girvan Distillery,gas_boiler,2026,1.1749
+The Girvan Distillery,gas_boiler,2027,1.1749
+The Girvan Distillery,gas_boiler,2028,1.1749
+The Girvan Distillery,gas_boiler,2029,1.1749
+The Girvan Distillery,gas_boiler,2030,1.1749
+The Girvan Distillery,gas_boiler,2031,1.1709
+The Girvan Distillery,gas_boiler,2032,1.167
+The Girvan Distillery,gas_boiler,2033,1.1631
+The Girvan Distillery,gas_boiler,2034,1.1592
+The Girvan Distillery,gas_boiler,2035,1.1553
+The Girvan Distillery,gas_boiler,2036,1.1514
+East Leake Gypsum Works,gas_boiler,2026,1.1717
+East Leake Gypsum Works,gas_boiler,2027,1.1717
+East Leake Gypsum Works,gas_boiler,2028,1.1717
+East Leake Gypsum Works,gas_boiler,2029,1.1717
+East Leake Gypsum Works,gas_boiler,2030,1.1717
+East Leake Gypsum Works,gas_boiler,2031,1.1678
+East Leake Gypsum Works,gas_boiler,2032,1.1639
+East Leake Gypsum Works,gas_boiler,2033,1.16
+East Leake Gypsum Works,gas_boiler,2034,1.1561
+East Leake Gypsum Works,gas_boiler,2035,1.1522
+East Leake Gypsum Works,gas_boiler,2036,1.1483
+Smurfit Westrock SSK,biomass_boiler,2026,0.0001
+Smurfit Westrock SSK,biomass_boiler,2027,0.0001
+Smurfit Westrock SSK,biomass_boiler,2028,0.0001
+Smurfit Westrock SSK,biomass_boiler,2029,0.0001
+Smurfit Westrock SSK,biomass_boiler,2030,0.0001
+Smurfit Westrock SSK,biomass_boiler,2031,0.0001
+Smurfit Westrock SSK,biomass_boiler,2032,0.0001
+Smurfit Westrock SSK,biomass_boiler,2033,0.0001
+Smurfit Westrock SSK,biomass_boiler,2034,0.0001
+Smurfit Westrock SSK,biomass_boiler,2035,0.0001
+Smurfit Westrock SSK,biomass_boiler,2036,0.0001
+Smurfit Westrock SSK,gas_boiler,2026,1.1002
+Smurfit Westrock SSK,gas_boiler,2027,1.1002
+Smurfit Westrock SSK,gas_boiler,2028,1.1002
+Smurfit Westrock SSK,gas_boiler,2029,1.1002
+Smurfit Westrock SSK,gas_boiler,2030,1.1002
+Smurfit Westrock SSK,gas_boiler,2031,1.0966
+Smurfit Westrock SSK,gas_boiler,2032,1.0929
+Smurfit Westrock SSK,gas_boiler,2033,1.0892
+Smurfit Westrock SSK,gas_boiler,2034,1.0856
+Smurfit Westrock SSK,gas_boiler,2035,1.0819
+Smurfit Westrock SSK,gas_boiler,2036,1.0782
+O-I Glass Limited,gas_boiler,2026,1.0707
+O-I Glass Limited,gas_boiler,2027,1.0707
+O-I Glass Limited,gas_boiler,2028,1.0707
+O-I Glass Limited,gas_boiler,2029,1.0707
+O-I Glass Limited,gas_boiler,2030,1.0707
+O-I Glass Limited,gas_boiler,2031,1.0671
+O-I Glass Limited,gas_boiler,2032,1.0636
+O-I Glass Limited,gas_boiler,2033,1.06
+O-I Glass Limited,gas_boiler,2034,1.0564
+O-I Glass Limited,gas_boiler,2035,1.0529
+O-I Glass Limited,gas_boiler,2036,1.0493
+Winnington Sodium Carbonate Manufacturing Site,gas_boiler,2026,1.0607
+Winnington Sodium Carbonate Manufacturing Site,gas_boiler,2027,1.0607
+Winnington Sodium Carbonate Manufacturing Site,gas_boiler,2028,1.0607
+Winnington Sodium Carbonate Manufacturing Site,gas_boiler,2029,1.0607
+Winnington Sodium Carbonate Manufacturing Site,gas_boiler,2030,1.0607
+Winnington Sodium Carbonate Manufacturing Site,gas_boiler,2031,1.0572
+Winnington Sodium Carbonate Manufacturing Site,gas_boiler,2032,1.0536
+Winnington Sodium Carbonate Manufacturing Site,gas_boiler,2033,1.0501
+Winnington Sodium Carbonate Manufacturing Site,gas_boiler,2034,1.0466
+Winnington Sodium Carbonate Manufacturing Site,gas_boiler,2035,1.043
+Winnington Sodium Carbonate Manufacturing Site,gas_boiler,2036,1.0395
+Teesside Beam Mill,bof,2026,0.0314
+Teesside Beam Mill,bof,2027,0.0302
+Teesside Beam Mill,bof,2028,0.0289
+Teesside Beam Mill,eaf,2027,0.0012
+Teesside Beam Mill,eaf,2028,0.0025
+Teesside Beam Mill,eaf,2029,0.0314
+Teesside Beam Mill,eaf,2030,0.0314
+Teesside Beam Mill,eaf,2031,0.0314
+Teesside Beam Mill,eaf,2032,0.0314
+Teesside Beam Mill,eaf,2033,0.0314
+Teesside Beam Mill,eaf,2034,0.0314
+Teesside Beam Mill,eaf,2035,0.0314
+Teesside Beam Mill,eaf,2036,0.0314
+DSM Dalry,biomass_boiler,2026,0.0
+DSM Dalry,biomass_boiler,2027,0.0
+DSM Dalry,biomass_boiler,2028,0.0
+DSM Dalry,biomass_boiler,2029,0.0
+DSM Dalry,biomass_boiler,2030,0.0
+DSM Dalry,biomass_boiler,2031,0.0
+DSM Dalry,biomass_boiler,2032,0.0
+DSM Dalry,biomass_boiler,2033,0.0
+DSM Dalry,biomass_boiler,2034,0.0
+DSM Dalry,biomass_boiler,2035,0.0
+DSM Dalry,biomass_boiler,2036,0.0
+DSM Dalry,gas_boiler,2026,1.0191
+DSM Dalry,gas_boiler,2027,1.0191
+DSM Dalry,gas_boiler,2028,1.0191
+DSM Dalry,gas_boiler,2029,1.0191
+DSM Dalry,gas_boiler,2030,1.0191
+DSM Dalry,gas_boiler,2031,1.0157
+DSM Dalry,gas_boiler,2032,1.0123
+DSM Dalry,gas_boiler,2033,1.0089
+DSM Dalry,gas_boiler,2034,1.0055
+DSM Dalry,gas_boiler,2035,1.0021
+DSM Dalry,gas_boiler,2036,0.9987
+Syngenta Limited,biomass_boiler,2026,0.0001
+Syngenta Limited,biomass_boiler,2027,0.0001
+Syngenta Limited,biomass_boiler,2028,0.0001
+Syngenta Limited,biomass_boiler,2029,0.0001
+Syngenta Limited,biomass_boiler,2030,0.0001
+Syngenta Limited,biomass_boiler,2031,0.0001
+Syngenta Limited,biomass_boiler,2032,0.0001
+Syngenta Limited,biomass_boiler,2033,0.0001
+Syngenta Limited,biomass_boiler,2034,0.0001
+Syngenta Limited,biomass_boiler,2035,0.0001
+Syngenta Limited,biomass_boiler,2036,0.0001
+Syngenta Limited,gas_boiler,2026,0.989
+Syngenta Limited,gas_boiler,2027,0.989
+Syngenta Limited,gas_boiler,2028,0.989
+Syngenta Limited,gas_boiler,2029,0.989
+Syngenta Limited,gas_boiler,2030,0.989
+Syngenta Limited,gas_boiler,2031,0.9857
+Syngenta Limited,gas_boiler,2032,0.9824
+Syngenta Limited,gas_boiler,2033,0.9791
+Syngenta Limited,gas_boiler,2034,0.9758
+Syngenta Limited,gas_boiler,2035,0.9725
+Syngenta Limited,gas_boiler,2036,0.9692
+Tata Steel Colors,bof,2026,0.0281
+Tata Steel Colors,bof,2027,0.027
+Tata Steel Colors,bof,2028,0.0258
+Tata Steel Colors,eaf,2027,0.0011
+Tata Steel Colors,eaf,2028,0.0023
+Tata Steel Colors,eaf,2029,0.0281
+Tata Steel Colors,eaf,2030,0.0281
+Tata Steel Colors,eaf,2031,0.0281
+Tata Steel Colors,eaf,2032,0.0281
+Tata Steel Colors,eaf,2033,0.0281
+Tata Steel Colors,eaf,2034,0.0281
+Tata Steel Colors,eaf,2035,0.0281
+Tata Steel Colors,eaf,2036,0.0281
+Norbord Cowie,biomass_boiler,2026,0.0
+Norbord Cowie,biomass_boiler,2027,0.0
+Norbord Cowie,biomass_boiler,2028,0.0
+Norbord Cowie,biomass_boiler,2029,0.0
+Norbord Cowie,biomass_boiler,2030,0.0
+Norbord Cowie,biomass_boiler,2031,0.0
+Norbord Cowie,biomass_boiler,2032,0.0
+Norbord Cowie,biomass_boiler,2033,0.0
+Norbord Cowie,biomass_boiler,2034,0.0
+Norbord Cowie,biomass_boiler,2035,0.0
+Norbord Cowie,biomass_boiler,2036,0.0
+Norbord Cowie,gas_boiler,2026,0.9136
+Norbord Cowie,gas_boiler,2027,0.9136
+Norbord Cowie,gas_boiler,2028,0.9136
+Norbord Cowie,gas_boiler,2029,0.9136
+Norbord Cowie,gas_boiler,2030,0.9136
+Norbord Cowie,gas_boiler,2031,0.9105
+Norbord Cowie,gas_boiler,2032,0.9075
+Norbord Cowie,gas_boiler,2033,0.9045
+Norbord Cowie,gas_boiler,2034,0.9014
+Norbord Cowie,gas_boiler,2035,0.8984
+Norbord Cowie,gas_boiler,2036,0.8953
+Jaguar Land Rover Limited Solihull,biomass_boiler,2026,0.0
+Jaguar Land Rover Limited Solihull,biomass_boiler,2027,0.0
+Jaguar Land Rover Limited Solihull,biomass_boiler,2028,0.0
+Jaguar Land Rover Limited Solihull,biomass_boiler,2029,0.0
+Jaguar Land Rover Limited Solihull,biomass_boiler,2030,0.0
+Jaguar Land Rover Limited Solihull,biomass_boiler,2031,0.0
+Jaguar Land Rover Limited Solihull,biomass_boiler,2032,0.0
+Jaguar Land Rover Limited Solihull,biomass_boiler,2033,0.0
+Jaguar Land Rover Limited Solihull,biomass_boiler,2034,0.0
+Jaguar Land Rover Limited Solihull,biomass_boiler,2035,0.0
+Jaguar Land Rover Limited Solihull,biomass_boiler,2036,0.0
+Jaguar Land Rover Limited Solihull,gas_boiler,2026,0.8912
+Jaguar Land Rover Limited Solihull,gas_boiler,2027,0.8912
+Jaguar Land Rover Limited Solihull,gas_boiler,2028,0.8912
+Jaguar Land Rover Limited Solihull,gas_boiler,2029,0.8912
+Jaguar Land Rover Limited Solihull,gas_boiler,2030,0.8912
+Jaguar Land Rover Limited Solihull,gas_boiler,2031,0.8882
+Jaguar Land Rover Limited Solihull,gas_boiler,2032,0.8852
+Jaguar Land Rover Limited Solihull,gas_boiler,2033,0.8823
+Jaguar Land Rover Limited Solihull,gas_boiler,2034,0.8793
+Jaguar Land Rover Limited Solihull,gas_boiler,2035,0.8763
+Jaguar Land Rover Limited Solihull,gas_boiler,2036,0.8734
+Omega Proteins Limited,biomass_boiler,2026,0.0
+Omega Proteins Limited,biomass_boiler,2027,0.0
+Omega Proteins Limited,biomass_boiler,2028,0.0
+Omega Proteins Limited,biomass_boiler,2029,0.0
+Omega Proteins Limited,biomass_boiler,2030,0.0
+Omega Proteins Limited,biomass_boiler,2031,0.0
+Omega Proteins Limited,biomass_boiler,2032,0.0
+Omega Proteins Limited,biomass_boiler,2033,0.0
+Omega Proteins Limited,biomass_boiler,2034,0.0
+Omega Proteins Limited,biomass_boiler,2035,0.0
+Omega Proteins Limited,biomass_boiler,2036,0.0
+Omega Proteins Limited,gas_boiler,2026,0.8814
+Omega Proteins Limited,gas_boiler,2027,0.8814
+Omega Proteins Limited,gas_boiler,2028,0.8814
+Omega Proteins Limited,gas_boiler,2029,0.8814
+Omega Proteins Limited,gas_boiler,2030,0.8814
+Omega Proteins Limited,gas_boiler,2031,0.8784
+Omega Proteins Limited,gas_boiler,2032,0.8755
+Omega Proteins Limited,gas_boiler,2033,0.8726
+Omega Proteins Limited,gas_boiler,2034,0.8696
+Omega Proteins Limited,gas_boiler,2035,0.8667
+Omega Proteins Limited,gas_boiler,2036,0.8637
+Lochaber Smelter,gas_boiler,2026,0.872
+Lochaber Smelter,gas_boiler,2027,0.872
+Lochaber Smelter,gas_boiler,2028,0.872
+Lochaber Smelter,gas_boiler,2029,0.872
+Lochaber Smelter,gas_boiler,2030,0.872
+Lochaber Smelter,gas_boiler,2031,0.8691
+Lochaber Smelter,gas_boiler,2032,0.8662
+Lochaber Smelter,gas_boiler,2033,0.8633
+Lochaber Smelter,gas_boiler,2034,0.8604
+Lochaber Smelter,gas_boiler,2035,0.8575
+Lochaber Smelter,gas_boiler,2036,0.8546
+Whittlesey,gas_boiler,2026,0.8516
+Whittlesey,gas_boiler,2027,0.8516
+Whittlesey,gas_boiler,2028,0.8516
+Whittlesey,gas_boiler,2029,0.8516
+Whittlesey,gas_boiler,2030,0.8516
+Whittlesey,gas_boiler,2031,0.8488
+Whittlesey,gas_boiler,2032,0.8459
+Whittlesey,gas_boiler,2033,0.8431
+Whittlesey,gas_boiler,2034,0.8402
+Whittlesey,gas_boiler,2035,0.8374
+Whittlesey,gas_boiler,2036,0.8346
+Beatson Clark plc - Rotherham,biomass_boiler,2026,0.0
+Beatson Clark plc - Rotherham,biomass_boiler,2027,0.0
+Beatson Clark plc - Rotherham,biomass_boiler,2028,0.0
+Beatson Clark plc - Rotherham,biomass_boiler,2029,0.0
+Beatson Clark plc - Rotherham,biomass_boiler,2030,0.0
+Beatson Clark plc - Rotherham,biomass_boiler,2031,0.0
+Beatson Clark plc - Rotherham,biomass_boiler,2032,0.0
+Beatson Clark plc - Rotherham,biomass_boiler,2033,0.0
+Beatson Clark plc - Rotherham,biomass_boiler,2034,0.0
+Beatson Clark plc - Rotherham,biomass_boiler,2035,0.0
+Beatson Clark plc - Rotherham,biomass_boiler,2036,0.0
+Beatson Clark plc - Rotherham,gas_boiler,2026,0.8119
+Beatson Clark plc - Rotherham,gas_boiler,2027,0.8119
+Beatson Clark plc - Rotherham,gas_boiler,2028,0.8119
+Beatson Clark plc - Rotherham,gas_boiler,2029,0.8119
+Beatson Clark plc - Rotherham,gas_boiler,2030,0.8119
+Beatson Clark plc - Rotherham,gas_boiler,2031,0.8092
+Beatson Clark plc - Rotherham,gas_boiler,2032,0.8065
+Beatson Clark plc - Rotherham,gas_boiler,2033,0.8038
+Beatson Clark plc - Rotherham,gas_boiler,2034,0.8011
+Beatson Clark plc - Rotherham,gas_boiler,2035,0.7984
+Beatson Clark plc - Rotherham,gas_boiler,2036,0.7957
+Ibstock Brick Limited - Leicester,biomass_boiler,2026,0.0
+Ibstock Brick Limited - Leicester,biomass_boiler,2027,0.0
+Ibstock Brick Limited - Leicester,biomass_boiler,2028,0.0
+Ibstock Brick Limited - Leicester,biomass_boiler,2029,0.0
+Ibstock Brick Limited - Leicester,biomass_boiler,2030,0.0
+Ibstock Brick Limited - Leicester,biomass_boiler,2031,0.0
+Ibstock Brick Limited - Leicester,biomass_boiler,2032,0.0
+Ibstock Brick Limited - Leicester,biomass_boiler,2033,0.0
+Ibstock Brick Limited - Leicester,biomass_boiler,2034,0.0
+Ibstock Brick Limited - Leicester,biomass_boiler,2035,0.0
+Ibstock Brick Limited - Leicester,biomass_boiler,2036,0.0
+Ibstock Brick Limited - Leicester,gas_boiler,2026,0.8029
+Ibstock Brick Limited - Leicester,gas_boiler,2027,0.8029
+Ibstock Brick Limited - Leicester,gas_boiler,2028,0.8029
+Ibstock Brick Limited - Leicester,gas_boiler,2029,0.8029
+Ibstock Brick Limited - Leicester,gas_boiler,2030,0.8029
+Ibstock Brick Limited - Leicester,gas_boiler,2031,0.8002
+Ibstock Brick Limited - Leicester,gas_boiler,2032,0.7975
+Ibstock Brick Limited - Leicester,gas_boiler,2033,0.7949
+Ibstock Brick Limited - Leicester,gas_boiler,2034,0.7922
+Ibstock Brick Limited - Leicester,gas_boiler,2035,0.7895
+Ibstock Brick Limited - Leicester,gas_boiler,2036,0.7868
+The Lycra Company UK Limited,gas_boiler,2026,0.7776
+The Lycra Company UK Limited,gas_boiler,2027,0.7776
+The Lycra Company UK Limited,gas_boiler,2028,0.7776
+The Lycra Company UK Limited,gas_boiler,2029,0.7776
+The Lycra Company UK Limited,gas_boiler,2030,0.7776
+The Lycra Company UK Limited,gas_boiler,2031,0.775
+The Lycra Company UK Limited,gas_boiler,2032,0.7724
+The Lycra Company UK Limited,gas_boiler,2033,0.7698
+The Lycra Company UK Limited,gas_boiler,2034,0.7672
+The Lycra Company UK Limited,gas_boiler,2035,0.7646
+The Lycra Company UK Limited,gas_boiler,2036,0.762
+Allied Glass Containers Ltd - Knottingley,gas_boiler,2026,0.7722
+Allied Glass Containers Ltd - Knottingley,gas_boiler,2027,0.7722
+Allied Glass Containers Ltd - Knottingley,gas_boiler,2028,0.7722
+Allied Glass Containers Ltd - Knottingley,gas_boiler,2029,0.7722
+Allied Glass Containers Ltd - Knottingley,gas_boiler,2030,0.7722
+Allied Glass Containers Ltd - Knottingley,gas_boiler,2031,0.7696
+Allied Glass Containers Ltd - Knottingley,gas_boiler,2032,0.7671
+Allied Glass Containers Ltd - Knottingley,gas_boiler,2033,0.7645
+Allied Glass Containers Ltd - Knottingley,gas_boiler,2034,0.7619
+Allied Glass Containers Ltd - Knottingley,gas_boiler,2035,0.7593
+Allied Glass Containers Ltd - Knottingley,gas_boiler,2036,0.7568
+Novelis Latchford,biomass_boiler,2026,0.0
+Novelis Latchford,biomass_boiler,2027,0.0
+Novelis Latchford,biomass_boiler,2028,0.0
+Novelis Latchford,biomass_boiler,2029,0.0
+Novelis Latchford,biomass_boiler,2030,0.0
+Novelis Latchford,biomass_boiler,2031,0.0
+Novelis Latchford,biomass_boiler,2032,0.0
+Novelis Latchford,biomass_boiler,2033,0.0
+Novelis Latchford,biomass_boiler,2034,0.0
+Novelis Latchford,biomass_boiler,2035,0.0
+Novelis Latchford,biomass_boiler,2036,0.0
+Novelis Latchford,gas_boiler,2026,0.7624
+Novelis Latchford,gas_boiler,2027,0.7624
+Novelis Latchford,gas_boiler,2028,0.7624
+Novelis Latchford,gas_boiler,2029,0.7624
+Novelis Latchford,gas_boiler,2030,0.7624
+Novelis Latchford,gas_boiler,2031,0.7598
+Novelis Latchford,gas_boiler,2032,0.7573
+Novelis Latchford,gas_boiler,2033,0.7548
+Novelis Latchford,gas_boiler,2034,0.7522
+Novelis Latchford,gas_boiler,2035,0.7497
+Novelis Latchford,gas_boiler,2036,0.7471
+Essity UK Limited - Prudhoe Mill,gas_boiler,2026,0.762
+Essity UK Limited - Prudhoe Mill,gas_boiler,2027,0.762
+Essity UK Limited - Prudhoe Mill,gas_boiler,2028,0.762
+Essity UK Limited - Prudhoe Mill,gas_boiler,2029,0.762
+Essity UK Limited - Prudhoe Mill,gas_boiler,2030,0.762
+Essity UK Limited - Prudhoe Mill,gas_boiler,2031,0.7595
+Essity UK Limited - Prudhoe Mill,gas_boiler,2032,0.7569
+Essity UK Limited - Prudhoe Mill,gas_boiler,2033,0.7544
+Essity UK Limited - Prudhoe Mill,gas_boiler,2034,0.7518
+Essity UK Limited - Prudhoe Mill,gas_boiler,2035,0.7493
+Essity UK Limited - Prudhoe Mill,gas_boiler,2036,0.7468
+Bridgend Operation,biomass_boiler,2026,0.0
+Bridgend Operation,biomass_boiler,2027,0.0
+Bridgend Operation,biomass_boiler,2028,0.0
+Bridgend Operation,biomass_boiler,2029,0.0
+Bridgend Operation,biomass_boiler,2030,0.0
+Bridgend Operation,biomass_boiler,2031,0.0
+Bridgend Operation,biomass_boiler,2032,0.0
+Bridgend Operation,biomass_boiler,2033,0.0
+Bridgend Operation,biomass_boiler,2034,0.0
+Bridgend Operation,biomass_boiler,2035,0.0
+Bridgend Operation,biomass_boiler,2036,0.0
+Bridgend Operation,gas_boiler,2026,0.7591
+Bridgend Operation,gas_boiler,2027,0.7591
+Bridgend Operation,gas_boiler,2028,0.7591
+Bridgend Operation,gas_boiler,2029,0.7591
+Bridgend Operation,gas_boiler,2030,0.7591
+Bridgend Operation,gas_boiler,2031,0.7565
+Bridgend Operation,gas_boiler,2032,0.754
+Bridgend Operation,gas_boiler,2033,0.7515
+Bridgend Operation,gas_boiler,2034,0.7489
+Bridgend Operation,gas_boiler,2035,0.7464
+Bridgend Operation,gas_boiler,2036,0.7439
+Ardagh Glass - Headlands,biomass_boiler,2026,0.0001
+Ardagh Glass - Headlands,biomass_boiler,2027,0.0001
+Ardagh Glass - Headlands,biomass_boiler,2028,0.0001
+Ardagh Glass - Headlands,biomass_boiler,2029,0.0001
+Ardagh Glass - Headlands,biomass_boiler,2030,0.0001
+Ardagh Glass - Headlands,biomass_boiler,2031,0.0001
+Ardagh Glass - Headlands,biomass_boiler,2032,0.0001
+Ardagh Glass - Headlands,biomass_boiler,2033,0.0001
+Ardagh Glass - Headlands,biomass_boiler,2034,0.0001
+Ardagh Glass - Headlands,biomass_boiler,2035,0.0001
+Ardagh Glass - Headlands,biomass_boiler,2036,0.0001
+Ardagh Glass - Headlands,gas_boiler,2026,0.7567
+Ardagh Glass - Headlands,gas_boiler,2027,0.7567
+Ardagh Glass - Headlands,gas_boiler,2028,0.7567
+Ardagh Glass - Headlands,gas_boiler,2029,0.7567
+Ardagh Glass - Headlands,gas_boiler,2030,0.7567
+Ardagh Glass - Headlands,gas_boiler,2031,0.7542
+Ardagh Glass - Headlands,gas_boiler,2032,0.7517
+Ardagh Glass - Headlands,gas_boiler,2033,0.7492
+Ardagh Glass - Headlands,gas_boiler,2034,0.7466
+Ardagh Glass - Headlands,gas_boiler,2035,0.7441
+Ardagh Glass - Headlands,gas_boiler,2036,0.7416
+Bones Lane Factory,biomass_boiler,2026,0.0001
+Bones Lane Factory,biomass_boiler,2027,0.0001
+Bones Lane Factory,biomass_boiler,2028,0.0001
+Bones Lane Factory,biomass_boiler,2029,0.0001
+Bones Lane Factory,biomass_boiler,2030,0.0001
+Bones Lane Factory,biomass_boiler,2031,0.0001
+Bones Lane Factory,biomass_boiler,2032,0.0001
+Bones Lane Factory,biomass_boiler,2033,0.0001
+Bones Lane Factory,biomass_boiler,2034,0.0001
+Bones Lane Factory,biomass_boiler,2035,0.0001
+Bones Lane Factory,biomass_boiler,2036,0.0001
+Bones Lane Factory,gas_boiler,2026,0.7494
+Bones Lane Factory,gas_boiler,2027,0.7494
+Bones Lane Factory,gas_boiler,2028,0.7494
+Bones Lane Factory,gas_boiler,2029,0.7494
+Bones Lane Factory,gas_boiler,2030,0.7494
+Bones Lane Factory,gas_boiler,2031,0.7469
+Bones Lane Factory,gas_boiler,2032,0.7444
+Bones Lane Factory,gas_boiler,2033,0.7419
+Bones Lane Factory,gas_boiler,2034,0.7394
+Bones Lane Factory,gas_boiler,2035,0.7369
+Bones Lane Factory,gas_boiler,2036,0.7344
+Cantley Sugar Factory,biomass_boiler,2026,0.0
+Cantley Sugar Factory,biomass_boiler,2027,0.0
+Cantley Sugar Factory,biomass_boiler,2028,0.0
+Cantley Sugar Factory,biomass_boiler,2029,0.0
+Cantley Sugar Factory,biomass_boiler,2030,0.0
+Cantley Sugar Factory,biomass_boiler,2031,0.0
+Cantley Sugar Factory,biomass_boiler,2032,0.0
+Cantley Sugar Factory,biomass_boiler,2033,0.0
+Cantley Sugar Factory,biomass_boiler,2034,0.0
+Cantley Sugar Factory,biomass_boiler,2035,0.0
+Cantley Sugar Factory,biomass_boiler,2036,0.0
+Cantley Sugar Factory,gas_boiler,2026,0.7448
+Cantley Sugar Factory,gas_boiler,2027,0.7448
+Cantley Sugar Factory,gas_boiler,2028,0.7448
+Cantley Sugar Factory,gas_boiler,2029,0.7448
+Cantley Sugar Factory,gas_boiler,2030,0.7448
+Cantley Sugar Factory,gas_boiler,2031,0.7423
+Cantley Sugar Factory,gas_boiler,2032,0.7398
+Cantley Sugar Factory,gas_boiler,2033,0.7373
+Cantley Sugar Factory,gas_boiler,2034,0.7348
+Cantley Sugar Factory,gas_boiler,2035,0.7323
+Cantley Sugar Factory,gas_boiler,2036,0.7299
+Elanco AH UK Speke,gas_boiler,2026,0.7307
+Elanco AH UK Speke,gas_boiler,2027,0.7307
+Elanco AH UK Speke,gas_boiler,2028,0.7307
+Elanco AH UK Speke,gas_boiler,2029,0.7307
+Elanco AH UK Speke,gas_boiler,2030,0.7307
+Elanco AH UK Speke,gas_boiler,2031,0.7283
+Elanco AH UK Speke,gas_boiler,2032,0.7258
+Elanco AH UK Speke,gas_boiler,2033,0.7234
+Elanco AH UK Speke,gas_boiler,2034,0.721
+Elanco AH UK Speke,gas_boiler,2035,0.7185
+Elanco AH UK Speke,gas_boiler,2036,0.7161
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,bof,2026,0.0211
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,bof,2027,0.0203
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,bof,2028,0.0195
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,eaf,2027,0.0008
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,eaf,2028,0.0016
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,eaf,2029,0.0211
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,eaf,2030,0.0211
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,eaf,2031,0.0211
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,eaf,2032,0.0211
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,eaf,2033,0.0211
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,eaf,2034,0.0211
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,eaf,2035,0.0211
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,eaf,2036,0.0211
+Knauf Drywall Sittingbourne,gas_boiler,2026,0.6911
+Knauf Drywall Sittingbourne,gas_boiler,2027,0.6911
+Knauf Drywall Sittingbourne,gas_boiler,2028,0.6911
+Knauf Drywall Sittingbourne,gas_boiler,2029,0.6911
+Knauf Drywall Sittingbourne,gas_boiler,2030,0.6911
+Knauf Drywall Sittingbourne,gas_boiler,2031,0.6888
+Knauf Drywall Sittingbourne,gas_boiler,2032,0.6865
+Knauf Drywall Sittingbourne,gas_boiler,2033,0.6842
+Knauf Drywall Sittingbourne,gas_boiler,2034,0.6819
+Knauf Drywall Sittingbourne,gas_boiler,2035,0.6796
+Knauf Drywall Sittingbourne,gas_boiler,2036,0.6773
+Fawley Chemicals,biomass_boiler,2026,0.0
+Fawley Chemicals,biomass_boiler,2027,0.0
+Fawley Chemicals,biomass_boiler,2028,0.0
+Fawley Chemicals,biomass_boiler,2029,0.0
+Fawley Chemicals,biomass_boiler,2030,0.0
+Fawley Chemicals,biomass_boiler,2031,0.0
+Fawley Chemicals,biomass_boiler,2032,0.0
+Fawley Chemicals,biomass_boiler,2033,0.0
+Fawley Chemicals,biomass_boiler,2034,0.0
+Fawley Chemicals,biomass_boiler,2035,0.0
+Fawley Chemicals,biomass_boiler,2036,0.0
+Fawley Chemicals,gas_boiler,2026,0.6896
+Fawley Chemicals,gas_boiler,2027,0.6896
+Fawley Chemicals,gas_boiler,2028,0.6896
+Fawley Chemicals,gas_boiler,2029,0.6896
+Fawley Chemicals,gas_boiler,2030,0.6896
+Fawley Chemicals,gas_boiler,2031,0.6873
+Fawley Chemicals,gas_boiler,2032,0.685
+Fawley Chemicals,gas_boiler,2033,0.6827
+Fawley Chemicals,gas_boiler,2034,0.6804
+Fawley Chemicals,gas_boiler,2035,0.6781
+Fawley Chemicals,gas_boiler,2036,0.6758
+Tata Steel Packaging Plus UK,bof,2026,0.0202
+Tata Steel Packaging Plus UK,bof,2027,0.0194
+Tata Steel Packaging Plus UK,bof,2028,0.0186
+Tata Steel Packaging Plus UK,eaf,2027,0.0009
+Tata Steel Packaging Plus UK,eaf,2028,0.0017
+Tata Steel Packaging Plus UK,eaf,2029,0.0203
+Tata Steel Packaging Plus UK,eaf,2030,0.0203
+Tata Steel Packaging Plus UK,eaf,2031,0.0203
+Tata Steel Packaging Plus UK,eaf,2032,0.0203
+Tata Steel Packaging Plus UK,eaf,2033,0.0203
+Tata Steel Packaging Plus UK,eaf,2034,0.0203
+Tata Steel Packaging Plus UK,eaf,2035,0.0203
+Tata Steel Packaging Plus UK,eaf,2036,0.0203
+Solutia UK Limited - Newport,biomass_boiler,2026,0.0
+Solutia UK Limited - Newport,biomass_boiler,2027,0.0
+Solutia UK Limited - Newport,biomass_boiler,2028,0.0
+Solutia UK Limited - Newport,biomass_boiler,2029,0.0
+Solutia UK Limited - Newport,biomass_boiler,2030,0.0
+Solutia UK Limited - Newport,biomass_boiler,2031,0.0
+Solutia UK Limited - Newport,biomass_boiler,2032,0.0
+Solutia UK Limited - Newport,biomass_boiler,2033,0.0
+Solutia UK Limited - Newport,biomass_boiler,2034,0.0
+Solutia UK Limited - Newport,biomass_boiler,2035,0.0
+Solutia UK Limited - Newport,biomass_boiler,2036,0.0
+Solutia UK Limited - Newport,gas_boiler,2026,0.6571
+Solutia UK Limited - Newport,gas_boiler,2027,0.6571
+Solutia UK Limited - Newport,gas_boiler,2028,0.6571
+Solutia UK Limited - Newport,gas_boiler,2029,0.6571
+Solutia UK Limited - Newport,gas_boiler,2030,0.6571
+Solutia UK Limited - Newport,gas_boiler,2031,0.6549
+Solutia UK Limited - Newport,gas_boiler,2032,0.6527
+Solutia UK Limited - Newport,gas_boiler,2033,0.6505
+Solutia UK Limited - Newport,gas_boiler,2034,0.6483
+Solutia UK Limited - Newport,gas_boiler,2035,0.6461
+Solutia UK Limited - Newport,gas_boiler,2036,0.6439
+Desford,biomass_boiler,2026,0.0001
+Desford,biomass_boiler,2027,0.0001
+Desford,biomass_boiler,2028,0.0001
+Desford,biomass_boiler,2029,0.0001
+Desford,biomass_boiler,2030,0.0001
+Desford,biomass_boiler,2031,0.0001
+Desford,biomass_boiler,2032,0.0001
+Desford,biomass_boiler,2033,0.0001
+Desford,biomass_boiler,2034,0.0001
+Desford,biomass_boiler,2035,0.0001
+Desford,biomass_boiler,2036,0.0001
+Desford,gas_boiler,2026,0.6467
+Desford,gas_boiler,2027,0.6467
+Desford,gas_boiler,2028,0.6467
+Desford,gas_boiler,2029,0.6467
+Desford,gas_boiler,2030,0.6467
+Desford,gas_boiler,2031,0.6446
+Desford,gas_boiler,2032,0.6424
+Desford,gas_boiler,2033,0.6403
+Desford,gas_boiler,2034,0.6381
+Desford,gas_boiler,2035,0.636
+Desford,gas_boiler,2036,0.6338
+Knauf Immingham,gas_boiler,2026,0.6433
+Knauf Immingham,gas_boiler,2027,0.6433
+Knauf Immingham,gas_boiler,2028,0.6433
+Knauf Immingham,gas_boiler,2029,0.6433
+Knauf Immingham,gas_boiler,2030,0.6433
+Knauf Immingham,gas_boiler,2031,0.6412
+Knauf Immingham,gas_boiler,2032,0.639
+Knauf Immingham,gas_boiler,2033,0.6369
+Knauf Immingham,gas_boiler,2034,0.6347
+Knauf Immingham,gas_boiler,2035,0.6326
+Knauf Immingham,gas_boiler,2036,0.6304
+INOVYN Chlorvinyls Newton Aycliffe,gas_boiler,2026,0.6429
+INOVYN Chlorvinyls Newton Aycliffe,gas_boiler,2027,0.6429
+INOVYN Chlorvinyls Newton Aycliffe,gas_boiler,2028,0.6429
+INOVYN Chlorvinyls Newton Aycliffe,gas_boiler,2029,0.6429
+INOVYN Chlorvinyls Newton Aycliffe,gas_boiler,2030,0.6429
+INOVYN Chlorvinyls Newton Aycliffe,gas_boiler,2031,0.6408
+INOVYN Chlorvinyls Newton Aycliffe,gas_boiler,2032,0.6386
+INOVYN Chlorvinyls Newton Aycliffe,gas_boiler,2033,0.6365
+INOVYN Chlorvinyls Newton Aycliffe,gas_boiler,2034,0.6343
+INOVYN Chlorvinyls Newton Aycliffe,gas_boiler,2035,0.6322
+INOVYN Chlorvinyls Newton Aycliffe,gas_boiler,2036,0.63
+Llanwern Steelworks,bof,2026,0.0188
+Llanwern Steelworks,bof,2027,0.0181
+Llanwern Steelworks,bof,2028,0.0173
+Llanwern Steelworks,eaf,2027,0.0007
+Llanwern Steelworks,eaf,2028,0.0015
+Llanwern Steelworks,eaf,2029,0.0188
+Llanwern Steelworks,eaf,2030,0.0188
+Llanwern Steelworks,eaf,2031,0.0188
+Llanwern Steelworks,eaf,2032,0.0188
+Llanwern Steelworks,eaf,2033,0.0188
+Llanwern Steelworks,eaf,2034,0.0188
+Llanwern Steelworks,eaf,2035,0.0188
+Llanwern Steelworks,eaf,2036,0.0188
+Knauf Insulation Queensferry,gas_boiler,2026,0.6151
+Knauf Insulation Queensferry,gas_boiler,2027,0.6151
+Knauf Insulation Queensferry,gas_boiler,2028,0.6151
+Knauf Insulation Queensferry,gas_boiler,2029,0.6151
+Knauf Insulation Queensferry,gas_boiler,2030,0.6151
+Knauf Insulation Queensferry,gas_boiler,2031,0.613
+Knauf Insulation Queensferry,gas_boiler,2032,0.611
+Knauf Insulation Queensferry,gas_boiler,2033,0.6089
+Knauf Insulation Queensferry,gas_boiler,2034,0.6069
+Knauf Insulation Queensferry,gas_boiler,2035,0.6048
+Knauf Insulation Queensferry,gas_boiler,2036,0.6028
+Robertsbridge Gypsum Works,gas_boiler,2026,0.6123
+Robertsbridge Gypsum Works,gas_boiler,2027,0.6123
+Robertsbridge Gypsum Works,gas_boiler,2028,0.6123
+Robertsbridge Gypsum Works,gas_boiler,2029,0.6123
+Robertsbridge Gypsum Works,gas_boiler,2030,0.6123
+Robertsbridge Gypsum Works,gas_boiler,2031,0.6103
+Robertsbridge Gypsum Works,gas_boiler,2032,0.6082
+Robertsbridge Gypsum Works,gas_boiler,2033,0.6062
+Robertsbridge Gypsum Works,gas_boiler,2034,0.6041
+Robertsbridge Gypsum Works,gas_boiler,2035,0.6021
+Robertsbridge Gypsum Works,gas_boiler,2036,0.6001
+Eastham Refinery Limited,gas_boiler,2026,0.6083
+Eastham Refinery Limited,gas_boiler,2027,0.6083
+Eastham Refinery Limited,gas_boiler,2028,0.6083
+Eastham Refinery Limited,gas_boiler,2029,0.6083
+Eastham Refinery Limited,gas_boiler,2030,0.6083
+Eastham Refinery Limited,gas_boiler,2031,0.6063
+Eastham Refinery Limited,gas_boiler,2032,0.6042
+Eastham Refinery Limited,gas_boiler,2033,0.6022
+Eastham Refinery Limited,gas_boiler,2034,0.6002
+Eastham Refinery Limited,gas_boiler,2035,0.5982
+Eastham Refinery Limited,gas_boiler,2036,0.5961
+Billingham Fertilizer Works,gas_boiler,2026,0.6011
+Billingham Fertilizer Works,gas_boiler,2027,0.6011
+Billingham Fertilizer Works,gas_boiler,2028,0.6011
+Billingham Fertilizer Works,gas_boiler,2029,0.6011
+Billingham Fertilizer Works,gas_boiler,2030,0.6011
+Billingham Fertilizer Works,gas_boiler,2031,0.5991
+Billingham Fertilizer Works,gas_boiler,2032,0.5971
+Billingham Fertilizer Works,gas_boiler,2033,0.5951
+Billingham Fertilizer Works,gas_boiler,2034,0.5931
+Billingham Fertilizer Works,gas_boiler,2035,0.5911
+Billingham Fertilizer Works,gas_boiler,2036,0.5891
+Measham,biomass_boiler,2026,0.0
+Measham,biomass_boiler,2027,0.0
+Measham,biomass_boiler,2028,0.0
+Measham,biomass_boiler,2029,0.0
+Measham,biomass_boiler,2030,0.0
+Measham,biomass_boiler,2031,0.0
+Measham,biomass_boiler,2032,0.0
+Measham,biomass_boiler,2033,0.0
+Measham,biomass_boiler,2034,0.0
+Measham,biomass_boiler,2035,0.0
+Measham,biomass_boiler,2036,0.0
+Measham,gas_boiler,2026,0.5932
+Measham,gas_boiler,2027,0.5932
+Measham,gas_boiler,2028,0.5932
+Measham,gas_boiler,2029,0.5932
+Measham,gas_boiler,2030,0.5932
+Measham,gas_boiler,2031,0.5912
+Measham,gas_boiler,2032,0.5892
+Measham,gas_boiler,2033,0.5873
+Measham,gas_boiler,2034,0.5853
+Measham,gas_boiler,2035,0.5833
+Measham,gas_boiler,2036,0.5813
+Sherburn Gypsum Works,biomass_boiler,2026,0.0
+Sherburn Gypsum Works,biomass_boiler,2027,0.0
+Sherburn Gypsum Works,biomass_boiler,2028,0.0
+Sherburn Gypsum Works,biomass_boiler,2029,0.0
+Sherburn Gypsum Works,biomass_boiler,2030,0.0
+Sherburn Gypsum Works,biomass_boiler,2031,0.0
+Sherburn Gypsum Works,biomass_boiler,2032,0.0
+Sherburn Gypsum Works,biomass_boiler,2033,0.0
+Sherburn Gypsum Works,biomass_boiler,2034,0.0
+Sherburn Gypsum Works,biomass_boiler,2035,0.0
+Sherburn Gypsum Works,biomass_boiler,2036,0.0
+Sherburn Gypsum Works,gas_boiler,2026,0.586
+Sherburn Gypsum Works,gas_boiler,2027,0.586
+Sherburn Gypsum Works,gas_boiler,2028,0.586
+Sherburn Gypsum Works,gas_boiler,2029,0.586
+Sherburn Gypsum Works,gas_boiler,2030,0.586
+Sherburn Gypsum Works,gas_boiler,2031,0.584
+Sherburn Gypsum Works,gas_boiler,2032,0.5821
+Sherburn Gypsum Works,gas_boiler,2033,0.5801
+Sherburn Gypsum Works,gas_boiler,2034,0.5782
+Sherburn Gypsum Works,gas_boiler,2035,0.5762
+Sherburn Gypsum Works,gas_boiler,2036,0.5743
+Barrow Mill,gas_boiler,2026,0.5852
+Barrow Mill,gas_boiler,2027,0.5852
+Barrow Mill,gas_boiler,2028,0.5852
+Barrow Mill,gas_boiler,2029,0.5852
+Barrow Mill,gas_boiler,2030,0.5852
+Barrow Mill,gas_boiler,2031,0.5832
+Barrow Mill,gas_boiler,2032,0.5813
+Barrow Mill,gas_boiler,2033,0.5793
+Barrow Mill,gas_boiler,2034,0.5774
+Barrow Mill,gas_boiler,2035,0.5754
+Barrow Mill,gas_boiler,2036,0.5735
+Nissan Motor Manufacturing (UK) Ltd,gas_boiler,2026,0.5764
+Nissan Motor Manufacturing (UK) Ltd,gas_boiler,2027,0.5764
+Nissan Motor Manufacturing (UK) Ltd,gas_boiler,2028,0.5764
+Nissan Motor Manufacturing (UK) Ltd,gas_boiler,2029,0.5764
+Nissan Motor Manufacturing (UK) Ltd,gas_boiler,2030,0.5764
+Nissan Motor Manufacturing (UK) Ltd,gas_boiler,2031,0.5745
+Nissan Motor Manufacturing (UK) Ltd,gas_boiler,2032,0.5726
+Nissan Motor Manufacturing (UK) Ltd,gas_boiler,2033,0.5706
+Nissan Motor Manufacturing (UK) Ltd,gas_boiler,2034,0.5687
+Nissan Motor Manufacturing (UK) Ltd,gas_boiler,2035,0.5668
+Nissan Motor Manufacturing (UK) Ltd,gas_boiler,2036,0.5649
+Plasmor Limited,gas_boiler,2026,0.5715
+Plasmor Limited,gas_boiler,2027,0.5715
+Plasmor Limited,gas_boiler,2028,0.5715
+Plasmor Limited,gas_boiler,2029,0.5715
+Plasmor Limited,gas_boiler,2030,0.5715
+Plasmor Limited,gas_boiler,2031,0.5696
+Plasmor Limited,gas_boiler,2032,0.5677
+Plasmor Limited,gas_boiler,2033,0.5658
+Plasmor Limited,gas_boiler,2034,0.5639
+Plasmor Limited,gas_boiler,2035,0.562
+Plasmor Limited,gas_boiler,2036,0.5601
+dispersed_heat,gas_boiler,2026,45.1
+dispersed_heat,gas_boiler,2027,43.2
+dispersed_heat,gas_boiler,2028,43.2
+dispersed_heat,gas_boiler,2029,43.2
+dispersed_heat,gas_boiler,2030,43.2
+dispersed_heat,gas_boiler,2031,43.2
+dispersed_heat,gas_boiler,2032,43.2
+dispersed_heat,gas_boiler,2033,43.2
+dispersed_heat,gas_boiler,2034,43.2
+dispersed_heat,gas_boiler,2035,43.2
+dispersed_heat,gas_boiler,2036,43.2
+dispersed_steel,bof,2026,0.0771
+dispersed_steel,bof,2027,0.0771
+dispersed_steel,bof,2028,0.0771
+dispersed_steel,bof,2029,0.0771
+dispersed_steel,bof,2030,0.0771
+dispersed_steel,bof,2031,0.0771
+dispersed_steel,bof,2032,0.0771
+dispersed_steel,bof,2033,0.0771
+dispersed_steel,bof,2034,0.0771
+dispersed_steel,bof,2035,0.0771
+dispersed_steel,bof,2036,0.0771
