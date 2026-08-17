@@ -9,35 +9,19 @@ import pandas as pd
 
 from comitpy import Window, solve
 from comitpy.datasets import load_inputs
+from comitpy.reporting import site_fuel_use as _sfu, transitions as _tr
 from comitpy.worlds import WORLDS
 
 base = load_inputs("datasets", Window(2026, 2036, 1))
 cluster_of = {s.name: s.cluster for s in base.sites}
-tech_fuels = {name: t.fuel_use for name, t in base.technologies.items()}
-
-EPS = 1e-3
 
 
 def site_fuel_use(sol):
-    rows = []
-    for _, r in sol.used.iterrows():
-        for fuel, use in tech_fuels[r.tech].items():
-            rows.append((r.site, r.year, fuel, r.units * use))
-    return (pd.DataFrame(rows, columns=["site", "year", "fuel", "PJ"])
-            .groupby(["site", "year", "fuel"], as_index=False).sum())
+    return _sfu(sol, base.technologies)
 
 
 def transitions(sol):
-    """Per site: technologies arriving (first year used) inside the window."""
-    out = []
-    for (site, tech), g in sol.used.groupby(["site", "tech"]):
-        g = g[g.units > EPS]
-        if g.empty:
-            continue
-        first = int(g.year.min())
-        if first > base.window.start:
-            out.append((site, tech, first))
-    return out
+    return _tr(sol, base.window.start)
 
 
 sol = solve(base)

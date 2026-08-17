@@ -1,0 +1,2971 @@
+site,year,fuel,PJ
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,2026,gas,0.0633
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,2028,electricity,0.0036
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,2028,gas,0.0584
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,2030,electricity,0.0464
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,2032,electricity,0.0464
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,2034,electricity,0.0464
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,2036,electricity,0.0464
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,2038,electricity,0.0464
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,2040,electricity,0.0464
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,2042,electricity,0.0464
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,2044,electricity,0.0464
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,2046,electricity,0.0464
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,2048,electricity,0.0464
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,2050,electricity,0.0464
+Aberthaw Cement Plant,2026,gas,1.2528
+Aberthaw Cement Plant,2028,gas,1.3279
+Aberthaw Cement Plant,2030,gas,1.4428
+Aberthaw Cement Plant,2032,gas,1.453
+Aberthaw Cement Plant,2034,gas,1.4633
+Aberthaw Cement Plant,2036,gas,0.4755
+Aberthaw Cement Plant,2038,gas,1.5762
+Aberthaw Cement Plant,2040,gas,1.5762
+Aberthaw Cement Plant,2042,gas,1.5762
+Aberthaw Cement Plant,2044,gas,1.5762
+Aberthaw Cement Plant,2046,gas,1.5762
+Aberthaw Cement Plant,2048,gas,1.5762
+Aberthaw Cement Plant,2050,gas,1.5762
+Allied Glass Containers Ltd - Knottingley,2026,biomass,0.1822
+Allied Glass Containers Ltd - Knottingley,2026,gas,0.6857
+Allied Glass Containers Ltd - Knottingley,2028,biomass,0.1822
+Allied Glass Containers Ltd - Knottingley,2028,gas,0.6857
+Allied Glass Containers Ltd - Knottingley,2030,biomass,0.1822
+Allied Glass Containers Ltd - Knottingley,2030,gas,0.6857
+Allied Glass Containers Ltd - Knottingley,2032,biomass,0.2673
+Allied Glass Containers Ltd - Knottingley,2032,gas,0.6
+Allied Glass Containers Ltd - Knottingley,2034,biomass,0.2673
+Allied Glass Containers Ltd - Knottingley,2034,gas,0.351
+Allied Glass Containers Ltd - Knottingley,2034,hydrogen,0.252
+Allied Glass Containers Ltd - Knottingley,2036,biomass,0.2673
+Allied Glass Containers Ltd - Knottingley,2036,gas,0.3453
+Allied Glass Containers Ltd - Knottingley,2036,hydrogen,0.252
+Allied Glass Containers Ltd - Knottingley,2038,biomass,0.2673
+Allied Glass Containers Ltd - Knottingley,2038,gas,0.3429
+Allied Glass Containers Ltd - Knottingley,2038,hydrogen,0.252
+Allied Glass Containers Ltd - Knottingley,2040,biomass,0.2673
+Allied Glass Containers Ltd - Knottingley,2040,gas,0.0098
+Allied Glass Containers Ltd - Knottingley,2040,hydrogen,0.5946
+Allied Glass Containers Ltd - Knottingley,2042,biomass,0.2673
+Allied Glass Containers Ltd - Knottingley,2042,gas,0.0073
+Allied Glass Containers Ltd - Knottingley,2042,hydrogen,0.5946
+Allied Glass Containers Ltd - Knottingley,2044,biomass,0.2673
+Allied Glass Containers Ltd - Knottingley,2044,gas,0.0049
+Allied Glass Containers Ltd - Knottingley,2044,hydrogen,0.5946
+Allied Glass Containers Ltd - Knottingley,2046,biomass,0.2673
+Allied Glass Containers Ltd - Knottingley,2046,gas,0.0024
+Allied Glass Containers Ltd - Knottingley,2046,hydrogen,0.5946
+Allied Glass Containers Ltd - Knottingley,2048,biomass,0.2673
+Allied Glass Containers Ltd - Knottingley,2048,hydrogen,0.5946
+Allied Glass Containers Ltd - Knottingley,2050,biomass,0.2673
+Allied Glass Containers Ltd - Knottingley,2050,hydrogen,0.592
+Archer Daniels Midland Erith Ltd,2026,biomass,0.0001
+Archer Daniels Midland Erith Ltd,2026,gas,1.3173
+Archer Daniels Midland Erith Ltd,2028,biomass,0.0001
+Archer Daniels Midland Erith Ltd,2028,gas,1.3173
+Archer Daniels Midland Erith Ltd,2030,biomass,0.0001
+Archer Daniels Midland Erith Ltd,2030,gas,1.3173
+Archer Daniels Midland Erith Ltd,2032,biomass,0.0001
+Archer Daniels Midland Erith Ltd,2032,gas,1.324
+Archer Daniels Midland Erith Ltd,2034,biomass,0.0001
+Archer Daniels Midland Erith Ltd,2034,gas,1.1923
+Archer Daniels Midland Erith Ltd,2034,hydrogen,0.1274
+Archer Daniels Midland Erith Ltd,2036,biomass,0.0001
+Archer Daniels Midland Erith Ltd,2036,gas,1.1835
+Archer Daniels Midland Erith Ltd,2036,hydrogen,0.1274
+Archer Daniels Midland Erith Ltd,2038,biomass,0.0001
+Archer Daniels Midland Erith Ltd,2038,gas,1.1797
+Archer Daniels Midland Erith Ltd,2038,hydrogen,0.1274
+Archer Daniels Midland Erith Ltd,2040,biomass,0.0001
+Archer Daniels Midland Erith Ltd,2040,electricity,0.0403
+Archer Daniels Midland Erith Ltd,2040,gas,1.048
+Archer Daniels Midland Erith Ltd,2040,hydrogen,0.1274
+Archer Daniels Midland Erith Ltd,2042,biomass,0.0001
+Archer Daniels Midland Erith Ltd,2042,electricity,0.0807
+Archer Daniels Midland Erith Ltd,2042,gas,0.9163
+Archer Daniels Midland Erith Ltd,2042,hydrogen,0.1274
+Archer Daniels Midland Erith Ltd,2044,biomass,0.0001
+Archer Daniels Midland Erith Ltd,2044,electricity,0.121
+Archer Daniels Midland Erith Ltd,2044,gas,0.7845
+Archer Daniels Midland Erith Ltd,2044,hydrogen,0.1274
+Archer Daniels Midland Erith Ltd,2046,biomass,0.0001
+Archer Daniels Midland Erith Ltd,2046,electricity,0.121
+Archer Daniels Midland Erith Ltd,2046,gas,0.6528
+Archer Daniels Midland Erith Ltd,2046,hydrogen,0.26
+Archer Daniels Midland Erith Ltd,2048,biomass,0.0001
+Archer Daniels Midland Erith Ltd,2048,electricity,0.5868
+Archer Daniels Midland Erith Ltd,2048,gas,0.1422
+Archer Daniels Midland Erith Ltd,2048,hydrogen,0.26
+Archer Daniels Midland Erith Ltd,2050,biomass,0.0001
+Archer Daniels Midland Erith Ltd,2050,electricity,0.5868
+Archer Daniels Midland Erith Ltd,2050,gas,0.1385
+Archer Daniels Midland Erith Ltd,2050,hydrogen,0.26
+Ardagh Glass - Headlands,2026,biomass,0.1787
+Ardagh Glass - Headlands,2026,gas,0.672
+Ardagh Glass - Headlands,2028,biomass,0.1787
+Ardagh Glass - Headlands,2028,gas,0.672
+Ardagh Glass - Headlands,2030,biomass,0.1787
+Ardagh Glass - Headlands,2030,gas,0.672
+Ardagh Glass - Headlands,2032,biomass,0.1787
+Ardagh Glass - Headlands,2032,gas,0.588
+Ardagh Glass - Headlands,2032,hydrogen,0.0812
+Ardagh Glass - Headlands,2034,biomass,0.1787
+Ardagh Glass - Headlands,2034,gas,0.4256
+Ardagh Glass - Headlands,2034,hydrogen,0.2437
+Ardagh Glass - Headlands,2036,biomass,0.1787
+Ardagh Glass - Headlands,2036,gas,0.42
+Ardagh Glass - Headlands,2036,hydrogen,0.2437
+Ardagh Glass - Headlands,2038,biomass,0.1787
+Ardagh Glass - Headlands,2038,gas,0.336
+Ardagh Glass - Headlands,2038,hydrogen,0.3282
+Ardagh Glass - Headlands,2040,biomass,0.1787
+Ardagh Glass - Headlands,2040,gas,0.252
+Ardagh Glass - Headlands,2040,hydrogen,0.4127
+Ardagh Glass - Headlands,2042,biomass,0.1787
+Ardagh Glass - Headlands,2042,gas,0.0072
+Ardagh Glass - Headlands,2042,hydrogen,0.6639
+Ardagh Glass - Headlands,2044,biomass,0.1787
+Ardagh Glass - Headlands,2044,gas,0.0048
+Ardagh Glass - Headlands,2044,hydrogen,0.6639
+Ardagh Glass - Headlands,2046,biomass,0.1787
+Ardagh Glass - Headlands,2046,gas,0.0024
+Ardagh Glass - Headlands,2046,hydrogen,0.6639
+Ardagh Glass - Headlands,2048,biomass,0.1787
+Ardagh Glass - Headlands,2048,hydrogen,0.6639
+Ardagh Glass - Headlands,2050,biomass,0.1787
+Ardagh Glass - Headlands,2050,hydrogen,0.6614
+Ardagh Glass - Wheatley,2026,gas,2.1827
+Ardagh Glass - Wheatley,2028,gas,2.1827
+Ardagh Glass - Wheatley,2030,gas,2.1827
+Ardagh Glass - Wheatley,2032,gas,1.9644
+Ardagh Glass - Wheatley,2032,hydrogen,0.2111
+Ardagh Glass - Wheatley,2034,gas,1.7462
+Ardagh Glass - Wheatley,2034,hydrogen,0.4221
+Ardagh Glass - Wheatley,2036,gas,1.5279
+Ardagh Glass - Wheatley,2036,hydrogen,0.6332
+Ardagh Glass - Wheatley,2038,gas,1.4767
+Ardagh Glass - Wheatley,2038,hydrogen,0.6933
+Ardagh Glass - Wheatley,2040,gas,1.2584
+Ardagh Glass - Wheatley,2040,hydrogen,0.913
+Ardagh Glass - Wheatley,2042,gas,1.0402
+Ardagh Glass - Wheatley,2042,hydrogen,1.1326
+Ardagh Glass - Wheatley,2044,gas,0.8219
+Ardagh Glass - Wheatley,2044,hydrogen,1.3523
+Ardagh Glass - Wheatley,2046,gas,0.6036
+Ardagh Glass - Wheatley,2046,hydrogen,1.572
+Ardagh Glass - Wheatley,2048,electricity,0.436
+Ardagh Glass - Wheatley,2048,gas,0.1229
+Ardagh Glass - Wheatley,2048,hydrogen,1.572
+Ardagh Glass - Wheatley,2050,electricity,0.436
+Ardagh Glass - Wheatley,2050,gas,0.1167
+Ardagh Glass - Wheatley,2050,hydrogen,1.572
+Ardagh Glass Limited,2026,biomass,0.0
+Ardagh Glass Limited,2026,gas,1.3061
+Ardagh Glass Limited,2028,biomass,0.0
+Ardagh Glass Limited,2028,gas,1.3061
+Ardagh Glass Limited,2030,biomass,0.0
+Ardagh Glass Limited,2030,gas,1.3061
+Ardagh Glass Limited,2032,biomass,0.0
+Ardagh Glass Limited,2032,gas,1.2974
+Ardagh Glass Limited,2034,biomass,0.0
+Ardagh Glass Limited,2034,gas,1.1668
+Ardagh Glass Limited,2034,hydrogen,0.1263
+Ardagh Glass Limited,2036,biomass,0.0
+Ardagh Glass Limited,2036,gas,1.1581
+Ardagh Glass Limited,2036,hydrogen,0.1263
+Ardagh Glass Limited,2038,biomass,0.0
+Ardagh Glass Limited,2038,gas,1.1543
+Ardagh Glass Limited,2038,hydrogen,0.1263
+Ardagh Glass Limited,2040,biomass,0.0
+Ardagh Glass Limited,2040,electricity,0.04
+Ardagh Glass Limited,2040,gas,1.0237
+Ardagh Glass Limited,2040,hydrogen,0.1263
+Ardagh Glass Limited,2042,biomass,0.0
+Ardagh Glass Limited,2042,electricity,0.04
+Ardagh Glass Limited,2042,gas,1.036
+Ardagh Glass Limited,2042,hydrogen,0.1263
+Ardagh Glass Limited,2044,biomass,0.0
+Ardagh Glass Limited,2044,electricity,0.04
+Ardagh Glass Limited,2044,gas,0.9054
+Ardagh Glass Limited,2044,hydrogen,0.2577
+Ardagh Glass Limited,2046,biomass,0.0
+Ardagh Glass Limited,2046,electricity,0.08
+Ardagh Glass Limited,2046,gas,0.7748
+Ardagh Glass Limited,2046,hydrogen,0.2577
+Ardagh Glass Limited,2048,biomass,0.0
+Ardagh Glass Limited,2048,electricity,0.6538
+Ardagh Glass Limited,2048,gas,0.1466
+Ardagh Glass Limited,2048,hydrogen,0.2577
+Ardagh Glass Limited,2050,biomass,0.0
+Ardagh Glass Limited,2050,electricity,0.6538
+Ardagh Glass Limited,2050,gas,0.1429
+Ardagh Glass Limited,2050,hydrogen,0.2577
+Ardagh Glass Ltd,2026,biomass,0.0001
+Ardagh Glass Ltd,2026,gas,2.3282
+Ardagh Glass Ltd,2028,biomass,0.0001
+Ardagh Glass Ltd,2028,gas,2.3282
+Ardagh Glass Ltd,2030,biomass,0.0001
+Ardagh Glass Ltd,2030,gas,2.3282
+Ardagh Glass Ltd,2032,biomass,0.0001
+Ardagh Glass Ltd,2032,gas,2.3401
+Ardagh Glass Ltd,2034,biomass,0.2311
+Ardagh Glass Ltd,2034,gas,2.1072
+Ardagh Glass Ltd,2036,biomass,0.2311
+Ardagh Glass Ltd,2036,gas,2.1191
+Ardagh Glass Ltd,2038,biomass,0.2311
+Ardagh Glass Ltd,2038,gas,2.141
+Ardagh Glass Ltd,2040,biomass,0.2311
+Ardagh Glass Ltd,2040,electricity,0.0713
+Ardagh Glass Ltd,2040,gas,1.9082
+Ardagh Glass Ltd,2042,biomass,0.2311
+Ardagh Glass Ltd,2042,electricity,0.1426
+Ardagh Glass Ltd,2042,gas,1.6754
+Ardagh Glass Ltd,2044,biomass,0.2311
+Ardagh Glass Ltd,2044,electricity,0.2139
+Ardagh Glass Ltd,2044,gas,1.4425
+Ardagh Glass Ltd,2046,biomass,0.2311
+Ardagh Glass Ltd,2046,electricity,0.2525
+Ardagh Glass Ltd,2046,gas,1.3268
+Ardagh Glass Ltd,2048,biomass,0.2311
+Ardagh Glass Ltd,2048,electricity,0.6681
+Ardagh Glass Ltd,2048,gas,0.8678
+Ardagh Glass Ltd,2050,biomass,0.2311
+Ardagh Glass Ltd,2050,electricity,0.6681
+Ardagh Glass Ltd,2050,gas,0.8612
+Barrow Mill,2026,gas,0.6496
+Barrow Mill,2028,biomass,0.069
+Barrow Mill,2028,gas,0.5847
+Barrow Mill,2030,biomass,0.138
+Barrow Mill,2030,gas,0.5197
+Barrow Mill,2032,biomass,0.138
+Barrow Mill,2032,gas,0.4548
+Barrow Mill,2032,hydrogen,0.0628
+Barrow Mill,2034,biomass,0.138
+Barrow Mill,2034,gas,0.3898
+Barrow Mill,2034,hydrogen,0.1256
+Barrow Mill,2036,biomass,0.138
+Barrow Mill,2036,gas,0.3248
+Barrow Mill,2036,hydrogen,0.1885
+Barrow Mill,2038,biomass,0.138
+Barrow Mill,2038,gas,0.2599
+Barrow Mill,2038,hydrogen,0.2538
+Barrow Mill,2040,biomass,0.138
+Barrow Mill,2040,gas,0.1949
+Barrow Mill,2040,hydrogen,0.3192
+Barrow Mill,2042,biomass,0.138
+Barrow Mill,2042,gas,0.0668
+Barrow Mill,2042,hydrogen,0.45
+Barrow Mill,2044,biomass,0.138
+Barrow Mill,2044,gas,0.065
+Barrow Mill,2044,hydrogen,0.45
+Barrow Mill,2046,biomass,0.138
+Barrow Mill,2046,gas,0.0037
+Barrow Mill,2046,hydrogen,0.5115
+Barrow Mill,2048,biomass,0.138
+Barrow Mill,2048,gas,0.0019
+Barrow Mill,2048,hydrogen,0.5115
+Barrow Mill,2050,biomass,0.138
+Barrow Mill,2050,hydrogen,0.5115
+Beatson Clark plc - Rotherham,2026,biomass,0.1916
+Beatson Clark plc - Rotherham,2026,gas,0.721
+Beatson Clark plc - Rotherham,2028,biomass,0.1916
+Beatson Clark plc - Rotherham,2028,gas,0.721
+Beatson Clark plc - Rotherham,2030,biomass,0.1916
+Beatson Clark plc - Rotherham,2030,gas,0.721
+Beatson Clark plc - Rotherham,2032,biomass,0.1916
+Beatson Clark plc - Rotherham,2032,gas,0.6308
+Beatson Clark plc - Rotherham,2032,hydrogen,0.0871
+Beatson Clark plc - Rotherham,2034,biomass,0.1916
+Beatson Clark plc - Rotherham,2034,gas,0.3691
+Beatson Clark plc - Rotherham,2034,hydrogen,0.3521
+Beatson Clark plc - Rotherham,2036,biomass,0.1916
+Beatson Clark plc - Rotherham,2036,gas,0.3631
+Beatson Clark plc - Rotherham,2036,hydrogen,0.3521
+Beatson Clark plc - Rotherham,2038,biomass,0.1916
+Beatson Clark plc - Rotherham,2038,gas,0.3605
+Beatson Clark plc - Rotherham,2038,hydrogen,0.3521
+Beatson Clark plc - Rotherham,2040,biomass,0.5611
+Beatson Clark plc - Rotherham,2040,gas,0.0103
+Beatson Clark plc - Rotherham,2040,hydrogen,0.3521
+Beatson Clark plc - Rotherham,2042,biomass,0.5611
+Beatson Clark plc - Rotherham,2042,gas,0.0077
+Beatson Clark plc - Rotherham,2042,hydrogen,0.3521
+Beatson Clark plc - Rotherham,2044,biomass,0.5611
+Beatson Clark plc - Rotherham,2044,gas,0.0051
+Beatson Clark plc - Rotherham,2044,hydrogen,0.3521
+Beatson Clark plc - Rotherham,2046,biomass,0.5611
+Beatson Clark plc - Rotherham,2046,gas,0.0026
+Beatson Clark plc - Rotherham,2046,hydrogen,0.3521
+Beatson Clark plc - Rotherham,2048,biomass,0.5611
+Beatson Clark plc - Rotherham,2048,hydrogen,0.3521
+Beatson Clark plc - Rotherham,2050,biomass,0.5611
+Beatson Clark plc - Rotherham,2050,hydrogen,0.3495
+Billingham Fertilizer Works,2026,gas,0.6672
+Billingham Fertilizer Works,2028,biomass,0.0709
+Billingham Fertilizer Works,2028,gas,0.6005
+Billingham Fertilizer Works,2030,biomass,0.1419
+Billingham Fertilizer Works,2030,gas,0.5338
+Billingham Fertilizer Works,2032,biomass,0.2081
+Billingham Fertilizer Works,2032,gas,0.4671
+Billingham Fertilizer Works,2034,biomass,0.2743
+Billingham Fertilizer Works,2034,gas,0.4003
+Billingham Fertilizer Works,2036,biomass,0.3405
+Billingham Fertilizer Works,2036,gas,0.3336
+Billingham Fertilizer Works,2038,biomass,0.3405
+Billingham Fertilizer Works,2038,gas,0.2669
+Billingham Fertilizer Works,2038,hydrogen,0.0672
+Billingham Fertilizer Works,2040,biomass,0.3405
+Billingham Fertilizer Works,2040,gas,0.2002
+Billingham Fertilizer Works,2040,hydrogen,0.1343
+Billingham Fertilizer Works,2042,biomass,0.4783
+Billingham Fertilizer Works,2042,gas,0.0686
+Billingham Fertilizer Works,2042,hydrogen,0.1343
+Billingham Fertilizer Works,2044,biomass,0.4783
+Billingham Fertilizer Works,2044,gas,0.0667
+Billingham Fertilizer Works,2044,hydrogen,0.1343
+Billingham Fertilizer Works,2046,biomass,0.4783
+Billingham Fertilizer Works,2046,gas,0.0038
+Billingham Fertilizer Works,2046,hydrogen,0.1975
+Billingham Fertilizer Works,2048,biomass,0.4783
+Billingham Fertilizer Works,2048,gas,0.0019
+Billingham Fertilizer Works,2048,hydrogen,0.1975
+Billingham Fertilizer Works,2050,biomass,0.4783
+Billingham Fertilizer Works,2050,hydrogen,0.1975
+Bones Lane Factory,2026,biomass,0.1769
+Bones Lane Factory,2026,gas,0.6655
+Bones Lane Factory,2028,biomass,0.1769
+Bones Lane Factory,2028,gas,0.6655
+Bones Lane Factory,2030,biomass,0.1769
+Bones Lane Factory,2030,gas,0.6655
+Bones Lane Factory,2032,biomass,0.2595
+Bones Lane Factory,2032,gas,0.5823
+Bones Lane Factory,2034,biomass,0.2595
+Bones Lane Factory,2034,gas,0.4215
+Bones Lane Factory,2034,hydrogen,0.1609
+Bones Lane Factory,2036,biomass,0.2595
+Bones Lane Factory,2036,gas,0.4159
+Bones Lane Factory,2036,hydrogen,0.1609
+Bones Lane Factory,2038,biomass,0.3454
+Bones Lane Factory,2038,gas,0.3327
+Bones Lane Factory,2038,hydrogen,0.1609
+Bones Lane Factory,2040,biomass,0.4313
+Bones Lane Factory,2040,gas,0.2496
+Bones Lane Factory,2040,hydrogen,0.1609
+Bones Lane Factory,2042,biomass,0.6865
+Bones Lane Factory,2042,gas,0.0071
+Bones Lane Factory,2042,hydrogen,0.1609
+Bones Lane Factory,2044,biomass,0.6865
+Bones Lane Factory,2044,gas,0.0048
+Bones Lane Factory,2044,hydrogen,0.1609
+Bones Lane Factory,2046,biomass,0.6865
+Bones Lane Factory,2046,gas,0.0024
+Bones Lane Factory,2046,hydrogen,0.1609
+Bones Lane Factory,2048,biomass,0.6865
+Bones Lane Factory,2048,hydrogen,0.1609
+Bones Lane Factory,2050,biomass,0.6865
+Bones Lane Factory,2050,hydrogen,0.1584
+Bridgend Operation,2026,biomass,0.1792
+Bridgend Operation,2026,gas,0.674
+Bridgend Operation,2028,biomass,0.1792
+Bridgend Operation,2028,gas,0.674
+Bridgend Operation,2030,biomass,0.1792
+Bridgend Operation,2030,gas,0.674
+Bridgend Operation,2032,biomass,0.2602
+Bridgend Operation,2032,gas,0.5898
+Bridgend Operation,2032,hydrogen,0.0025
+Bridgend Operation,2034,biomass,0.2602
+Bridgend Operation,2034,gas,0.345
+Bridgend Operation,2034,hydrogen,0.2502
+Bridgend Operation,2036,biomass,0.2602
+Bridgend Operation,2036,gas,0.3394
+Bridgend Operation,2036,hydrogen,0.2502
+Bridgend Operation,2038,biomass,0.2602
+Bridgend Operation,2038,gas,0.337
+Bridgend Operation,2038,hydrogen,0.2502
+Bridgend Operation,2040,biomass,0.3472
+Bridgend Operation,2040,gas,0.2528
+Bridgend Operation,2040,hydrogen,0.2502
+Bridgend Operation,2042,biomass,0.6057
+Bridgend Operation,2042,gas,0.0072
+Bridgend Operation,2042,hydrogen,0.2502
+Bridgend Operation,2044,biomass,0.6057
+Bridgend Operation,2044,gas,0.0048
+Bridgend Operation,2044,hydrogen,0.2502
+Bridgend Operation,2046,biomass,0.6057
+Bridgend Operation,2046,gas,0.0024
+Bridgend Operation,2046,hydrogen,0.2502
+Bridgend Operation,2048,biomass,0.6057
+Bridgend Operation,2048,hydrogen,0.2502
+Bridgend Operation,2050,biomass,0.6057
+Bridgend Operation,2050,hydrogen,0.2477
+British Sugar plc - Newark,2026,biomass,0.0001
+British Sugar plc - Newark,2026,gas,1.8209
+British Sugar plc - Newark,2028,biomass,0.0001
+British Sugar plc - Newark,2028,gas,1.8209
+British Sugar plc - Newark,2030,biomass,0.0001
+British Sugar plc - Newark,2030,gas,1.8209
+British Sugar plc - Newark,2032,biomass,0.0001
+British Sugar plc - Newark,2032,gas,1.6388
+British Sugar plc - Newark,2032,hydrogen,0.1761
+British Sugar plc - Newark,2034,biomass,0.0001
+British Sugar plc - Newark,2034,gas,1.4567
+British Sugar plc - Newark,2034,hydrogen,0.3521
+British Sugar plc - Newark,2036,biomass,0.0001
+British Sugar plc - Newark,2036,gas,1.466
+British Sugar plc - Newark,2036,hydrogen,0.3521
+British Sugar plc - Newark,2038,biomass,0.0001
+British Sugar plc - Newark,2038,gas,1.4608
+British Sugar plc - Newark,2038,hydrogen,0.3521
+British Sugar plc - Newark,2040,biomass,0.1881
+British Sugar plc - Newark,2040,gas,1.2787
+British Sugar plc - Newark,2040,hydrogen,0.3521
+British Sugar plc - Newark,2042,biomass,0.1881
+British Sugar plc - Newark,2042,electricity,0.0558
+British Sugar plc - Newark,2042,gas,1.0966
+British Sugar plc - Newark,2042,hydrogen,0.3521
+British Sugar plc - Newark,2044,biomass,0.3762
+British Sugar plc - Newark,2044,electricity,0.0558
+British Sugar plc - Newark,2044,gas,0.9145
+British Sugar plc - Newark,2044,hydrogen,0.3521
+British Sugar plc - Newark,2046,biomass,0.3762
+British Sugar plc - Newark,2046,electricity,0.0558
+British Sugar plc - Newark,2046,gas,0.7324
+British Sugar plc - Newark,2046,hydrogen,0.5354
+British Sugar plc - Newark,2048,biomass,0.3762
+British Sugar plc - Newark,2048,electricity,0.2231
+British Sugar plc - Newark,2048,gas,0.1966
+British Sugar plc - Newark,2048,hydrogen,0.5354
+British Sugar plc - Newark,2050,biomass,0.3762
+British Sugar plc - Newark,2050,electricity,0.2231
+British Sugar plc - Newark,2050,gas,0.1914
+British Sugar plc - Newark,2050,hydrogen,0.5354
+Bury St Edmunds Sugar Factory,2026,gas,4.4439
+Bury St Edmunds Sugar Factory,2028,gas,4.4999
+Bury St Edmunds Sugar Factory,2030,biomass,0.4589
+Bury St Edmunds Sugar Factory,2030,gas,4.0682
+Bury St Edmunds Sugar Factory,2032,biomass,0.4589
+Bury St Edmunds Sugar Factory,2032,gas,3.6238
+Bury St Edmunds Sugar Factory,2032,hydrogen,0.4297
+Bury St Edmunds Sugar Factory,2034,biomass,0.4589
+Bury St Edmunds Sugar Factory,2034,gas,3.1794
+Bury St Edmunds Sugar Factory,2034,hydrogen,0.8594
+Bury St Edmunds Sugar Factory,2036,biomass,0.4589
+Bury St Edmunds Sugar Factory,2036,gas,2.735
+Bury St Edmunds Sugar Factory,2036,hydrogen,1.2891
+Bury St Edmunds Sugar Factory,2038,biomass,0.4589
+Bury St Edmunds Sugar Factory,2038,gas,2.7768
+Bury St Edmunds Sugar Factory,2038,hydrogen,1.2891
+Bury St Edmunds Sugar Factory,2040,biomass,0.4589
+Bury St Edmunds Sugar Factory,2040,electricity,0.1361
+Bury St Edmunds Sugar Factory,2040,gas,2.3324
+Bury St Edmunds Sugar Factory,2040,hydrogen,1.2891
+Bury St Edmunds Sugar Factory,2042,biomass,0.4589
+Bury St Edmunds Sugar Factory,2042,electricity,0.2722
+Bury St Edmunds Sugar Factory,2042,gas,1.888
+Bury St Edmunds Sugar Factory,2042,hydrogen,1.2891
+Bury St Edmunds Sugar Factory,2044,biomass,0.4589
+Bury St Edmunds Sugar Factory,2044,electricity,0.2722
+Bury St Edmunds Sugar Factory,2044,gas,1.9298
+Bury St Edmunds Sugar Factory,2044,hydrogen,1.2891
+Bury St Edmunds Sugar Factory,2046,biomass,0.4589
+Bury St Edmunds Sugar Factory,2046,electricity,0.3878
+Bury St Edmunds Sugar Factory,2046,gas,1.4854
+Bury St Edmunds Sugar Factory,2046,hydrogen,1.3568
+Bury St Edmunds Sugar Factory,2048,biomass,0.4589
+Bury St Edmunds Sugar Factory,2048,electricity,0.3878
+Bury St Edmunds Sugar Factory,2048,gas,1.4727
+Bury St Edmunds Sugar Factory,2048,hydrogen,1.3568
+Bury St Edmunds Sugar Factory,2050,biomass,0.4589
+Bury St Edmunds Sugar Factory,2050,electricity,0.3878
+Bury St Edmunds Sugar Factory,2050,gas,1.4727
+Bury St Edmunds Sugar Factory,2050,hydrogen,1.3437
+Cantley Sugar Factory,2026,biomass,0.1758
+Cantley Sugar Factory,2026,gas,0.6613
+Cantley Sugar Factory,2028,biomass,0.1758
+Cantley Sugar Factory,2028,gas,0.6613
+Cantley Sugar Factory,2030,biomass,0.1758
+Cantley Sugar Factory,2030,gas,0.6613
+Cantley Sugar Factory,2032,biomass,0.1758
+Cantley Sugar Factory,2032,gas,0.5787
+Cantley Sugar Factory,2032,hydrogen,0.0799
+Cantley Sugar Factory,2034,biomass,0.1758
+Cantley Sugar Factory,2034,gas,0.4188
+Cantley Sugar Factory,2034,hydrogen,0.2398
+Cantley Sugar Factory,2036,biomass,0.1758
+Cantley Sugar Factory,2036,gas,0.4133
+Cantley Sugar Factory,2036,hydrogen,0.2398
+Cantley Sugar Factory,2038,biomass,0.1758
+Cantley Sugar Factory,2038,gas,0.3307
+Cantley Sugar Factory,2038,hydrogen,0.323
+Cantley Sugar Factory,2040,biomass,0.1758
+Cantley Sugar Factory,2040,gas,0.248
+Cantley Sugar Factory,2040,hydrogen,0.4062
+Cantley Sugar Factory,2042,biomass,0.1758
+Cantley Sugar Factory,2042,gas,0.0071
+Cantley Sugar Factory,2042,hydrogen,0.6534
+Cantley Sugar Factory,2044,biomass,0.1758
+Cantley Sugar Factory,2044,gas,0.0047
+Cantley Sugar Factory,2044,hydrogen,0.6534
+Cantley Sugar Factory,2046,biomass,0.1758
+Cantley Sugar Factory,2046,gas,0.0024
+Cantley Sugar Factory,2046,hydrogen,0.6534
+Cantley Sugar Factory,2048,biomass,0.1758
+Cantley Sugar Factory,2048,hydrogen,0.6534
+Cantley Sugar Factory,2050,biomass,0.1758
+Cantley Sugar Factory,2050,hydrogen,0.6509
+Cargill - Trafford Park,2026,gas,2.2742
+Cargill - Trafford Park,2028,gas,2.2742
+Cargill - Trafford Park,2030,gas,2.2742
+Cargill - Trafford Park,2032,gas,2.2858
+Cargill - Trafford Park,2034,biomass,0.2256
+Cargill - Trafford Park,2034,gas,2.0584
+Cargill - Trafford Park,2036,biomass,0.4513
+Cargill - Trafford Park,2036,gas,1.8309
+Cargill - Trafford Park,2038,biomass,0.6862
+Cargill - Trafford Park,2038,gas,1.6035
+Cargill - Trafford Park,2040,biomass,0.6862
+Cargill - Trafford Park,2040,electricity,0.0697
+Cargill - Trafford Park,2040,gas,1.3761
+Cargill - Trafford Park,2042,biomass,0.6862
+Cargill - Trafford Park,2042,electricity,0.1393
+Cargill - Trafford Park,2042,gas,1.1487
+Cargill - Trafford Park,2044,biomass,0.6862
+Cargill - Trafford Park,2044,electricity,0.1393
+Cargill - Trafford Park,2044,gas,1.17
+Cargill - Trafford Park,2046,biomass,0.6862
+Cargill - Trafford Park,2046,electricity,0.209
+Cargill - Trafford Park,2046,gas,0.9426
+Cargill - Trafford Park,2048,biomass,0.6862
+Cargill - Trafford Park,2048,electricity,0.615
+Cargill - Trafford Park,2048,gas,0.4943
+Cargill - Trafford Park,2050,biomass,0.6862
+Cargill - Trafford Park,2050,electricity,0.615
+Cargill - Trafford Park,2050,gas,0.4878
+Cauldon Cement,2026,gas,2.5975
+Cauldon Cement,2028,gas,2.7531
+Cauldon Cement,2030,gas,2.9912
+Cauldon Cement,2032,gas,3.0124
+Cauldon Cement,2034,gas,3.0337
+Cauldon Cement,2036,gas,3.0988
+Cauldon Cement,2038,gas,1.6195
+Cauldon Cement,2040,gas,1.6195
+Cauldon Cement,2042,gas,3.2678
+Cauldon Cement,2044,gas,3.2678
+Cauldon Cement,2046,gas,3.2678
+Cauldon Cement,2048,gas,3.2678
+Cauldon Cement,2050,gas,3.2678
+Cookstown Cement,2026,gas,1.1744
+Cookstown Cement,2028,gas,1.2448
+Cookstown Cement,2030,gas,1.3524
+Cookstown Cement,2032,gas,1.362
+Cookstown Cement,2034,gas,1.3716
+Cookstown Cement,2036,gas,0.4456
+Cookstown Cement,2038,gas,1.4775
+Cookstown Cement,2040,gas,1.4775
+Cookstown Cement,2042,gas,1.4775
+Cookstown Cement,2044,gas,1.4775
+Cookstown Cement,2046,gas,1.4775
+Cookstown Cement,2048,gas,1.4775
+Cookstown Cement,2050,gas,1.4775
+DSM Dalry,2026,biomass,0.0
+DSM Dalry,2026,gas,1.1312
+DSM Dalry,2028,biomass,0.0
+DSM Dalry,2028,gas,1.1312
+DSM Dalry,2030,biomass,0.0
+DSM Dalry,2030,gas,1.1312
+DSM Dalry,2032,biomass,0.0
+DSM Dalry,2032,gas,1.1236
+DSM Dalry,2034,biomass,0.0
+DSM Dalry,2034,gas,1.1161
+DSM Dalry,2036,biomass,0.0
+DSM Dalry,2036,gas,1.1085
+DSM Dalry,2038,biomass,0.0
+DSM Dalry,2038,gas,1.1053
+DSM Dalry,2040,biomass,0.0
+DSM Dalry,2040,gas,0.9922
+DSM Dalry,2040,hydrogen,0.1138
+DSM Dalry,2042,biomass,0.0
+DSM Dalry,2042,gas,0.8791
+DSM Dalry,2042,hydrogen,0.2277
+DSM Dalry,2044,biomass,0.0
+DSM Dalry,2044,gas,0.766
+DSM Dalry,2044,hydrogen,0.3415
+DSM Dalry,2046,biomass,0.0
+DSM Dalry,2046,gas,0.6528
+DSM Dalry,2046,hydrogen,0.4554
+DSM Dalry,2048,biomass,0.0
+DSM Dalry,2048,electricity,0.594
+DSM Dalry,2048,gas,0.0032
+DSM Dalry,2048,hydrogen,0.4554
+DSM Dalry,2050,biomass,0.0
+DSM Dalry,2050,electricity,0.594
+DSM Dalry,2050,hydrogen,0.4554
+Desford,2026,biomass,0.0764
+Desford,2026,gas,0.6461
+Desford,2028,biomass,0.0764
+Desford,2028,gas,0.6461
+Desford,2030,biomass,0.1527
+Desford,2030,gas,0.5743
+Desford,2032,biomass,0.1527
+Desford,2032,gas,0.5025
+Desford,2032,hydrogen,0.0694
+Desford,2034,biomass,0.1527
+Desford,2034,gas,0.3637
+Desford,2034,hydrogen,0.2082
+Desford,2036,biomass,0.1527
+Desford,2036,gas,0.3589
+Desford,2036,hydrogen,0.2082
+Desford,2038,biomass,0.1527
+Desford,2038,gas,0.2872
+Desford,2038,hydrogen,0.2805
+Desford,2040,biomass,0.1527
+Desford,2040,gas,0.2154
+Desford,2040,hydrogen,0.3527
+Desford,2042,biomass,0.1527
+Desford,2042,gas,0.0738
+Desford,2042,hydrogen,0.4972
+Desford,2044,biomass,0.1527
+Desford,2044,gas,0.0718
+Desford,2044,hydrogen,0.4972
+Desford,2046,biomass,0.1527
+Desford,2046,gas,0.0041
+Desford,2046,hydrogen,0.5652
+Desford,2048,biomass,0.1527
+Desford,2048,gas,0.0021
+Desford,2048,hydrogen,0.5652
+Desford,2050,biomass,0.1527
+Desford,2050,hydrogen,0.5652
+Dow Silicone Manufacturing Installation,2026,gas,2.5632
+Dow Silicone Manufacturing Installation,2028,gas,2.5632
+Dow Silicone Manufacturing Installation,2030,gas,2.5632
+Dow Silicone Manufacturing Installation,2032,gas,2.3069
+Dow Silicone Manufacturing Installation,2032,hydrogen,0.2479
+Dow Silicone Manufacturing Installation,2034,gas,2.0506
+Dow Silicone Manufacturing Installation,2034,hydrogen,0.4957
+Dow Silicone Manufacturing Installation,2036,gas,1.7942
+Dow Silicone Manufacturing Installation,2036,hydrogen,0.7436
+Dow Silicone Manufacturing Installation,2038,biomass,0.2647
+Dow Silicone Manufacturing Installation,2038,gas,1.5379
+Dow Silicone Manufacturing Installation,2038,hydrogen,0.7436
+Dow Silicone Manufacturing Installation,2040,biomass,0.2647
+Dow Silicone Manufacturing Installation,2040,electricity,0.0785
+Dow Silicone Manufacturing Installation,2040,gas,1.2816
+Dow Silicone Manufacturing Installation,2040,hydrogen,0.7436
+Dow Silicone Manufacturing Installation,2042,biomass,0.2647
+Dow Silicone Manufacturing Installation,2042,electricity,0.0785
+Dow Silicone Manufacturing Installation,2042,gas,1.0253
+Dow Silicone Manufacturing Installation,2042,hydrogen,1.0015
+Dow Silicone Manufacturing Installation,2044,biomass,0.5294
+Dow Silicone Manufacturing Installation,2044,electricity,0.0785
+Dow Silicone Manufacturing Installation,2044,gas,0.7689
+Dow Silicone Manufacturing Installation,2044,hydrogen,1.0015
+Dow Silicone Manufacturing Installation,2046,biomass,0.5294
+Dow Silicone Manufacturing Installation,2046,electricity,0.157
+Dow Silicone Manufacturing Installation,2046,gas,0.5126
+Dow Silicone Manufacturing Installation,2046,hydrogen,1.0015
+Dow Silicone Manufacturing Installation,2048,biomass,0.5294
+Dow Silicone Manufacturing Installation,2048,electricity,0.314
+Dow Silicone Manufacturing Installation,2048,gas,0.0073
+Dow Silicone Manufacturing Installation,2048,hydrogen,1.0015
+Dow Silicone Manufacturing Installation,2050,biomass,0.5294
+Dow Silicone Manufacturing Installation,2050,electricity,0.314
+Dow Silicone Manufacturing Installation,2050,hydrogen,1.0015
+Dunbar Plant,2026,gas,1.9169
+Dunbar Plant,2028,gas,2.2221
+Dunbar Plant,2030,gas,2.3829
+Dunbar Plant,2032,gas,2.4115
+Dunbar Plant,2034,gas,2.4115
+Dunbar Plant,2036,gas,2.4115
+Dunbar Plant,2038,gas,2.4115
+Dunbar Plant,2040,gas,2.4115
+Dunbar Plant,2042,gas,2.4115
+Dunbar Plant,2044,gas,2.4115
+Dunbar Plant,2046,gas,2.4115
+Dunbar Plant,2048,gas,2.4115
+Dunbar Plant,2050,gas,0.2663
+ETEX Building Performance Limited – Portbury Site,2026,gas,1.3134
+ETEX Building Performance Limited – Portbury Site,2028,gas,1.3134
+ETEX Building Performance Limited – Portbury Site,2030,gas,1.3134
+ETEX Building Performance Limited – Portbury Site,2032,gas,1.3193
+ETEX Building Performance Limited – Portbury Site,2034,biomass,0.1303
+ETEX Building Performance Limited – Portbury Site,2034,gas,1.1879
+ETEX Building Performance Limited – Portbury Site,2036,biomass,0.1303
+ETEX Building Performance Limited – Portbury Site,2036,gas,1.1792
+ETEX Building Performance Limited – Portbury Site,2038,biomass,0.1303
+ETEX Building Performance Limited – Portbury Site,2038,gas,1.1754
+ETEX Building Performance Limited – Portbury Site,2040,biomass,0.1303
+ETEX Building Performance Limited – Portbury Site,2040,electricity,0.0402
+ETEX Building Performance Limited – Portbury Site,2040,gas,1.0441
+ETEX Building Performance Limited – Portbury Site,2042,biomass,0.2659
+ETEX Building Performance Limited – Portbury Site,2042,electricity,0.0402
+ETEX Building Performance Limited – Portbury Site,2042,gas,0.9128
+ETEX Building Performance Limited – Portbury Site,2044,biomass,0.2659
+ETEX Building Performance Limited – Portbury Site,2044,electricity,0.0805
+ETEX Building Performance Limited – Portbury Site,2044,gas,0.7814
+ETEX Building Performance Limited – Portbury Site,2046,biomass,0.2659
+ETEX Building Performance Limited – Portbury Site,2046,electricity,0.1207
+ETEX Building Performance Limited – Portbury Site,2046,gas,0.6501
+ETEX Building Performance Limited – Portbury Site,2048,biomass,0.2659
+ETEX Building Performance Limited – Portbury Site,2048,electricity,0.5907
+ETEX Building Performance Limited – Portbury Site,2048,gas,0.1348
+ETEX Building Performance Limited – Portbury Site,2050,biomass,0.2659
+ETEX Building Performance Limited – Portbury Site,2050,electricity,0.5907
+ETEX Building Performance Limited – Portbury Site,2050,gas,0.1311
+East Leake Gypsum Works,2026,gas,1.3006
+East Leake Gypsum Works,2028,gas,1.3006
+East Leake Gypsum Works,2030,gas,1.3006
+East Leake Gypsum Works,2032,gas,1.2919
+East Leake Gypsum Works,2034,gas,1.1619
+East Leake Gypsum Works,2034,hydrogen,0.1258
+East Leake Gypsum Works,2036,gas,1.1532
+East Leake Gypsum Works,2036,hydrogen,0.1258
+East Leake Gypsum Works,2038,gas,1.1495
+East Leake Gypsum Works,2038,hydrogen,0.1258
+East Leake Gypsum Works,2040,electricity,0.0398
+East Leake Gypsum Works,2040,gas,1.0194
+East Leake Gypsum Works,2040,hydrogen,0.1258
+East Leake Gypsum Works,2042,electricity,0.0398
+East Leake Gypsum Works,2042,gas,0.8894
+East Leake Gypsum Works,2042,hydrogen,0.2567
+East Leake Gypsum Works,2044,electricity,0.0398
+East Leake Gypsum Works,2044,gas,0.7593
+East Leake Gypsum Works,2044,hydrogen,0.3876
+East Leake Gypsum Works,2046,electricity,0.0398
+East Leake Gypsum Works,2046,gas,0.7715
+East Leake Gypsum Works,2046,hydrogen,0.3876
+East Leake Gypsum Works,2048,electricity,0.6112
+East Leake Gypsum Works,2048,gas,0.146
+East Leake Gypsum Works,2048,hydrogen,0.3876
+East Leake Gypsum Works,2050,electricity,0.6112
+East Leake Gypsum Works,2050,gas,0.1423
+East Leake Gypsum Works,2050,hydrogen,0.3876
+Eastham Refinery Limited,2026,gas,0.6752
+Eastham Refinery Limited,2028,biomass,0.0718
+Eastham Refinery Limited,2028,gas,0.6077
+Eastham Refinery Limited,2030,biomass,0.1435
+Eastham Refinery Limited,2030,gas,0.5402
+Eastham Refinery Limited,2032,biomass,0.1435
+Eastham Refinery Limited,2032,gas,0.4727
+Eastham Refinery Limited,2032,hydrogen,0.0653
+Eastham Refinery Limited,2034,biomass,0.1435
+Eastham Refinery Limited,2034,gas,0.4051
+Eastham Refinery Limited,2034,hydrogen,0.1306
+Eastham Refinery Limited,2036,biomass,0.2105
+Eastham Refinery Limited,2036,gas,0.3376
+Eastham Refinery Limited,2036,hydrogen,0.1306
+Eastham Refinery Limited,2038,biomass,0.2105
+Eastham Refinery Limited,2038,gas,0.2701
+Eastham Refinery Limited,2038,hydrogen,0.1985
+Eastham Refinery Limited,2040,biomass,0.2803
+Eastham Refinery Limited,2040,gas,0.2026
+Eastham Refinery Limited,2040,hydrogen,0.1985
+Eastham Refinery Limited,2042,biomass,0.4197
+Eastham Refinery Limited,2042,gas,0.0695
+Eastham Refinery Limited,2042,hydrogen,0.1985
+Eastham Refinery Limited,2044,biomass,0.4197
+Eastham Refinery Limited,2044,gas,0.0675
+Eastham Refinery Limited,2044,hydrogen,0.1985
+Eastham Refinery Limited,2046,biomass,0.4197
+Eastham Refinery Limited,2046,gas,0.0039
+Eastham Refinery Limited,2046,hydrogen,0.2625
+Eastham Refinery Limited,2048,biomass,0.4197
+Eastham Refinery Limited,2048,gas,0.0019
+Eastham Refinery Limited,2048,hydrogen,0.2625
+Eastham Refinery Limited,2050,biomass,0.4197
+Eastham Refinery Limited,2050,hydrogen,0.2625
+Elanco AH UK Speke,2026,biomass,0.1724
+Elanco AH UK Speke,2026,gas,0.6489
+Elanco AH UK Speke,2028,biomass,0.1724
+Elanco AH UK Speke,2028,gas,0.6489
+Elanco AH UK Speke,2030,biomass,0.1724
+Elanco AH UK Speke,2030,gas,0.6489
+Elanco AH UK Speke,2032,biomass,0.1724
+Elanco AH UK Speke,2032,gas,0.5678
+Elanco AH UK Speke,2032,hydrogen,0.0784
+Elanco AH UK Speke,2034,biomass,0.1724
+Elanco AH UK Speke,2034,gas,0.411
+Elanco AH UK Speke,2034,hydrogen,0.2353
+Elanco AH UK Speke,2036,biomass,0.1724
+Elanco AH UK Speke,2036,gas,0.4055
+Elanco AH UK Speke,2036,hydrogen,0.2353
+Elanco AH UK Speke,2038,biomass,0.1724
+Elanco AH UK Speke,2038,gas,0.3244
+Elanco AH UK Speke,2038,hydrogen,0.3169
+Elanco AH UK Speke,2040,biomass,0.1724
+Elanco AH UK Speke,2040,gas,0.2433
+Elanco AH UK Speke,2040,hydrogen,0.3986
+Elanco AH UK Speke,2042,biomass,0.1724
+Elanco AH UK Speke,2042,gas,0.0203
+Elanco AH UK Speke,2042,hydrogen,0.6272
+Elanco AH UK Speke,2044,biomass,0.1724
+Elanco AH UK Speke,2044,gas,0.018
+Elanco AH UK Speke,2044,hydrogen,0.6272
+Elanco AH UK Speke,2046,biomass,0.1724
+Elanco AH UK Speke,2046,gas,0.0023
+Elanco AH UK Speke,2046,hydrogen,0.641
+Elanco AH UK Speke,2048,biomass,0.1724
+Elanco AH UK Speke,2048,hydrogen,0.641
+Elanco AH UK Speke,2050,biomass,0.1724
+Elanco AH UK Speke,2050,hydrogen,0.6386
+Encirc Glass,2026,gas,3.8076
+Encirc Glass,2028,gas,3.8557
+Encirc Glass,2030,biomass,0.3061
+Encirc Glass,2030,gas,3.578
+Encirc Glass,2032,biomass,0.3061
+Encirc Glass,2032,gas,3.1973
+Encirc Glass,2032,hydrogen,0.3682
+Encirc Glass,2034,biomass,0.3061
+Encirc Glass,2034,gas,2.8182
+Encirc Glass,2034,hydrogen,0.7348
+Encirc Glass,2036,biomass,0.3061
+Encirc Glass,2036,gas,2.8376
+Encirc Glass,2036,hydrogen,0.7348
+Encirc Glass,2038,biomass,0.3061
+Encirc Glass,2038,gas,2.4569
+Encirc Glass,2038,hydrogen,1.118
+Encirc Glass,2040,biomass,0.3061
+Encirc Glass,2040,gas,2.0761
+Encirc Glass,2040,hydrogen,1.5013
+Encirc Glass,2042,biomass,0.3061
+Encirc Glass,2042,gas,2.1119
+Encirc Glass,2042,hydrogen,1.5013
+Encirc Glass,2044,biomass,0.3061
+Encirc Glass,2044,gas,1.7311
+Encirc Glass,2044,hydrogen,1.8845
+Encirc Glass,2046,biomass,0.3061
+Encirc Glass,2046,gas,1.3503
+Encirc Glass,2046,hydrogen,2.2677
+Encirc Glass,2048,biomass,0.3061
+Encirc Glass,2048,gas,1.3395
+Encirc Glass,2048,hydrogen,2.2677
+Encirc Glass,2050,biomass,0.3061
+Encirc Glass,2050,gas,1.3395
+Encirc Glass,2050,hydrogen,2.2564
+Encirc Limited,2026,gas,1.6064
+Encirc Limited,2028,gas,1.6064
+Encirc Limited,2030,gas,1.6064
+Encirc Limited,2032,gas,1.4458
+Encirc Limited,2032,hydrogen,0.1553
+Encirc Limited,2034,biomass,0.1422
+Encirc Limited,2034,gas,1.2851
+Encirc Limited,2034,hydrogen,0.172
+Encirc Limited,2036,biomass,0.1422
+Encirc Limited,2036,gas,1.2744
+Encirc Limited,2036,hydrogen,0.172
+Encirc Limited,2038,biomass,0.1422
+Encirc Limited,2038,gas,1.2698
+Encirc Limited,2038,hydrogen,0.172
+Encirc Limited,2040,biomass,0.1422
+Encirc Limited,2040,gas,1.2849
+Encirc Limited,2040,hydrogen,0.172
+Encirc Limited,2042,biomass,0.1422
+Encirc Limited,2042,electricity,0.0492
+Encirc Limited,2042,gas,1.1243
+Encirc Limited,2042,hydrogen,0.172
+Encirc Limited,2044,biomass,0.1422
+Encirc Limited,2044,electricity,0.0492
+Encirc Limited,2044,gas,1.1394
+Encirc Limited,2044,hydrogen,0.172
+Encirc Limited,2046,biomass,0.1422
+Encirc Limited,2046,electricity,0.0984
+Encirc Limited,2046,gas,0.9787
+Encirc Limited,2046,hydrogen,0.172
+Encirc Limited,2048,biomass,0.1422
+Encirc Limited,2048,electricity,0.6664
+Encirc Limited,2048,gas,0.3561
+Encirc Limited,2048,hydrogen,0.172
+Encirc Limited,2050,biomass,0.1422
+Encirc Limited,2050,electricity,0.6664
+Encirc Limited,2050,gas,0.3515
+Encirc Limited,2050,hydrogen,0.172
+Essity UK Limited - Prudhoe Mill,2026,biomass,0.1798
+Essity UK Limited - Prudhoe Mill,2026,gas,0.6767
+Essity UK Limited - Prudhoe Mill,2028,biomass,0.1798
+Essity UK Limited - Prudhoe Mill,2028,gas,0.6767
+Essity UK Limited - Prudhoe Mill,2030,biomass,0.1798
+Essity UK Limited - Prudhoe Mill,2030,gas,0.6767
+Essity UK Limited - Prudhoe Mill,2032,biomass,0.1798
+Essity UK Limited - Prudhoe Mill,2032,gas,0.5921
+Essity UK Limited - Prudhoe Mill,2032,hydrogen,0.0818
+Essity UK Limited - Prudhoe Mill,2034,biomass,0.1798
+Essity UK Limited - Prudhoe Mill,2034,gas,0.3464
+Essity UK Limited - Prudhoe Mill,2034,hydrogen,0.3305
+Essity UK Limited - Prudhoe Mill,2036,biomass,0.1798
+Essity UK Limited - Prudhoe Mill,2036,gas,0.3408
+Essity UK Limited - Prudhoe Mill,2036,hydrogen,0.3305
+Essity UK Limited - Prudhoe Mill,2038,biomass,0.1798
+Essity UK Limited - Prudhoe Mill,2038,gas,0.3383
+Essity UK Limited - Prudhoe Mill,2038,hydrogen,0.3305
+Essity UK Limited - Prudhoe Mill,2040,biomass,0.1798
+Essity UK Limited - Prudhoe Mill,2040,gas,0.2538
+Essity UK Limited - Prudhoe Mill,2040,hydrogen,0.4156
+Essity UK Limited - Prudhoe Mill,2042,biomass,0.4393
+Essity UK Limited - Prudhoe Mill,2042,gas,0.0072
+Essity UK Limited - Prudhoe Mill,2042,hydrogen,0.4156
+Essity UK Limited - Prudhoe Mill,2044,biomass,0.4393
+Essity UK Limited - Prudhoe Mill,2044,gas,0.0048
+Essity UK Limited - Prudhoe Mill,2044,hydrogen,0.4156
+Essity UK Limited - Prudhoe Mill,2046,biomass,0.4393
+Essity UK Limited - Prudhoe Mill,2046,gas,0.0024
+Essity UK Limited - Prudhoe Mill,2046,hydrogen,0.4156
+Essity UK Limited - Prudhoe Mill,2048,biomass,0.4393
+Essity UK Limited - Prudhoe Mill,2048,hydrogen,0.4156
+Essity UK Limited - Prudhoe Mill,2050,biomass,0.4393
+Essity UK Limited - Prudhoe Mill,2050,hydrogen,0.4131
+Esso Petroleum Company Limited,2026,gas,49.1586
+Esso Petroleum Company Limited,2028,gas,49.1586
+Esso Petroleum Company Limited,2030,electricity,1.55
+Esso Petroleum Company Limited,2030,gas,44.2427
+Esso Petroleum Company Limited,2032,electricity,2.9968
+Esso Petroleum Company Limited,2032,gas,39.3269
+Esso Petroleum Company Limited,2034,electricity,3.3944
+Esso Petroleum Company Limited,2034,gas,37.7379
+Esso Petroleum Company Limited,2036,electricity,3.7921
+Esso Petroleum Company Limited,2036,gas,36.149
+Esso Petroleum Company Limited,2038,electricity,6.3023
+Esso Petroleum Company Limited,2038,gas,31.2332
+Esso Petroleum Company Limited,2040,electricity,10.6905
+Esso Petroleum Company Limited,2040,gas,26.3173
+Esso Petroleum Company Limited,2042,electricity,20.1289
+Esso Petroleum Company Limited,2042,gas,15.9057
+Esso Petroleum Company Limited,2044,electricity,34.6158
+Esso Petroleum Company Limited,2046,electricity,34.5716
+Esso Petroleum Company Limited,2048,electricity,37.3249
+Esso Petroleum Company Limited,2050,electricity,39.9653
+Fawley Chemicals,2026,biomass,0.1628
+Fawley Chemicals,2026,gas,0.6123
+Fawley Chemicals,2028,biomass,0.1628
+Fawley Chemicals,2028,gas,0.6123
+Fawley Chemicals,2030,biomass,0.1628
+Fawley Chemicals,2030,gas,0.6123
+Fawley Chemicals,2032,biomass,0.1628
+Fawley Chemicals,2032,gas,0.5358
+Fawley Chemicals,2032,hydrogen,0.074
+Fawley Chemicals,2034,biomass,0.1628
+Fawley Chemicals,2034,gas,0.3878
+Fawley Chemicals,2034,hydrogen,0.222
+Fawley Chemicals,2036,biomass,0.1628
+Fawley Chemicals,2036,gas,0.3827
+Fawley Chemicals,2036,hydrogen,0.222
+Fawley Chemicals,2038,biomass,0.1628
+Fawley Chemicals,2038,gas,0.3062
+Fawley Chemicals,2038,hydrogen,0.2991
+Fawley Chemicals,2040,biomass,0.1628
+Fawley Chemicals,2040,gas,0.2296
+Fawley Chemicals,2040,hydrogen,0.3761
+Fawley Chemicals,2042,biomass,0.1628
+Fawley Chemicals,2042,gas,0.0787
+Fawley Chemicals,2042,hydrogen,0.5302
+Fawley Chemicals,2044,biomass,0.1628
+Fawley Chemicals,2044,gas,0.0765
+Fawley Chemicals,2044,hydrogen,0.5302
+Fawley Chemicals,2046,biomass,0.1628
+Fawley Chemicals,2046,gas,0.0044
+Fawley Chemicals,2046,hydrogen,0.6027
+Fawley Chemicals,2048,biomass,0.1628
+Fawley Chemicals,2048,gas,0.0022
+Fawley Chemicals,2048,hydrogen,0.6027
+Fawley Chemicals,2050,biomass,0.1628
+Fawley Chemicals,2050,hydrogen,0.6027
+Fawley Refinery,2026,gas,11.029
+Fawley Refinery,2028,gas,11.029
+Fawley Refinery,2030,gas,11.029
+Fawley Refinery,2032,electricity,0.0099
+Fawley Refinery,2032,gas,10.9239
+Fawley Refinery,2034,electricity,0.0099
+Fawley Refinery,2034,gas,10.8504
+Fawley Refinery,2036,electricity,0.0099
+Fawley Refinery,2036,gas,10.7769
+Fawley Refinery,2038,electricity,0.0099
+Fawley Refinery,2038,gas,10.7454
+Fawley Refinery,2040,electricity,0.9945
+Fawley Refinery,2040,gas,9.6425
+Fawley Refinery,2042,electricity,1.979
+Fawley Refinery,2042,gas,8.5396
+Fawley Refinery,2044,electricity,2.9635
+Fawley Refinery,2044,gas,7.4367
+Fawley Refinery,2046,electricity,3.948
+Fawley Refinery,2046,gas,6.3338
+Fawley Refinery,2048,electricity,9.7393
+Fawley Refinery,2050,electricity,9.7293
+Fife Ethylene Plant,2026,gas,12.1713
+Fife Ethylene Plant,2028,gas,12.1713
+Fife Ethylene Plant,2030,gas,12.1713
+Fife Ethylene Plant,2032,electricity,0.011
+Fife Ethylene Plant,2032,gas,12.0553
+Fife Ethylene Plant,2034,electricity,0.011
+Fife Ethylene Plant,2034,gas,11.9742
+Fife Ethylene Plant,2036,electricity,0.011
+Fife Ethylene Plant,2036,gas,11.8931
+Fife Ethylene Plant,2038,electricity,0.011
+Fife Ethylene Plant,2038,gas,11.8583
+Fife Ethylene Plant,2040,electricity,1.0975
+Fife Ethylene Plant,2040,gas,10.6412
+Fife Ethylene Plant,2042,electricity,2.1839
+Fife Ethylene Plant,2042,gas,9.424
+Fife Ethylene Plant,2044,electricity,3.2704
+Fife Ethylene Plant,2044,gas,8.2069
+Fife Ethylene Plant,2046,electricity,4.3569
+Fife Ethylene Plant,2046,gas,6.9898
+Fife Ethylene Plant,2048,electricity,10.748
+Fife Ethylene Plant,2050,electricity,10.737
+Grangemouth Chemicals,2026,gas,7.3179
+Grangemouth Chemicals,2028,biomass,0.7779
+Grangemouth Chemicals,2028,gas,6.5862
+Grangemouth Chemicals,2030,biomass,0.7779
+Grangemouth Chemicals,2030,gas,6.6758
+Grangemouth Chemicals,2032,biomass,0.7779
+Grangemouth Chemicals,2032,gas,6.6897
+Grangemouth Chemicals,2032,hydrogen,0.0217
+Grangemouth Chemicals,2034,biomass,0.7779
+Grangemouth Chemicals,2034,gas,6.727
+Grangemouth Chemicals,2034,hydrogen,0.0217
+Grangemouth Chemicals,2036,biomass,0.7779
+Grangemouth Chemicals,2036,gas,5.9952
+Grangemouth Chemicals,2036,hydrogen,0.7293
+Grangemouth Chemicals,2038,biomass,1.3927
+Grangemouth Chemicals,2038,gas,5.2634
+Grangemouth Chemicals,2038,hydrogen,0.8666
+Grangemouth Chemicals,2040,biomass,1.7343
+Grangemouth Chemicals,2040,gas,4.5316
+Grangemouth Chemicals,2040,hydrogen,1.2702
+Grangemouth Chemicals,2042,biomass,2.7353
+Grangemouth Chemicals,2042,gas,3.5691
+Grangemouth Chemicals,2042,hydrogen,1.2702
+Grangemouth Chemicals,2044,biomass,3.2458
+Grangemouth Chemicals,2044,gas,3.068
+Grangemouth Chemicals,2044,hydrogen,1.2702
+Grangemouth Chemicals,2046,biomass,3.2458
+Grangemouth Chemicals,2046,gas,2.3362
+Grangemouth Chemicals,2046,hydrogen,2.0067
+Grangemouth Chemicals,2048,biomass,3.2458
+Grangemouth Chemicals,2048,gas,2.3153
+Grangemouth Chemicals,2048,hydrogen,2.0067
+Grangemouth Chemicals,2050,biomass,3.2458
+Grangemouth Chemicals,2050,gas,2.3153
+Grangemouth Chemicals,2050,hydrogen,1.985
+Guardian Industries UK Limited,2026,biomass,0.0
+Guardian Industries UK Limited,2026,gas,1.8923
+Guardian Industries UK Limited,2028,biomass,0.0
+Guardian Industries UK Limited,2028,gas,1.8923
+Guardian Industries UK Limited,2030,biomass,0.0
+Guardian Industries UK Limited,2030,gas,1.8923
+Guardian Industries UK Limited,2032,biomass,0.0
+Guardian Industries UK Limited,2032,gas,1.7031
+Guardian Industries UK Limited,2032,hydrogen,0.183
+Guardian Industries UK Limited,2034,biomass,0.0
+Guardian Industries UK Limited,2034,gas,1.5138
+Guardian Industries UK Limited,2034,hydrogen,0.366
+Guardian Industries UK Limited,2036,biomass,0.0
+Guardian Industries UK Limited,2036,gas,1.3246
+Guardian Industries UK Limited,2036,hydrogen,0.5489
+Guardian Industries UK Limited,2038,biomass,0.0
+Guardian Industries UK Limited,2038,gas,1.3192
+Guardian Industries UK Limited,2038,hydrogen,0.5489
+Guardian Industries UK Limited,2040,biomass,0.0
+Guardian Industries UK Limited,2040,electricity,0.058
+Guardian Industries UK Limited,2040,gas,1.13
+Guardian Industries UK Limited,2040,hydrogen,0.5489
+Guardian Industries UK Limited,2042,biomass,0.0
+Guardian Industries UK Limited,2042,electricity,0.1159
+Guardian Industries UK Limited,2042,gas,0.9407
+Guardian Industries UK Limited,2042,hydrogen,0.5489
+Guardian Industries UK Limited,2044,biomass,0.0
+Guardian Industries UK Limited,2044,electricity,0.1159
+Guardian Industries UK Limited,2044,gas,0.7515
+Guardian Industries UK Limited,2044,hydrogen,0.7394
+Guardian Industries UK Limited,2046,biomass,0.0
+Guardian Industries UK Limited,2046,electricity,0.1739
+Guardian Industries UK Limited,2046,gas,0.5623
+Guardian Industries UK Limited,2046,hydrogen,0.7394
+Guardian Industries UK Limited,2048,biomass,0.0
+Guardian Industries UK Limited,2048,electricity,0.6806
+Guardian Industries UK Limited,2048,gas,0.0054
+Guardian Industries UK Limited,2048,hydrogen,0.7394
+Guardian Industries UK Limited,2050,biomass,0.0
+Guardian Industries UK Limited,2050,electricity,0.6806
+Guardian Industries UK Limited,2050,hydrogen,0.7394
+Hindlow Lime,2026,biomass,0.0
+Hindlow Lime,2026,gas,3.0642
+Hindlow Lime,2028,biomass,0.0
+Hindlow Lime,2028,gas,3.0642
+Hindlow Lime,2030,biomass,0.0
+Hindlow Lime,2030,gas,3.0642
+Hindlow Lime,2032,biomass,0.3041
+Hindlow Lime,2032,gas,2.7578
+Hindlow Lime,2034,biomass,0.3041
+Hindlow Lime,2034,gas,2.7636
+Hindlow Lime,2034,hydrogen,0.0091
+Hindlow Lime,2036,biomass,0.6081
+Hindlow Lime,2036,gas,2.4572
+Hindlow Lime,2036,hydrogen,0.0091
+Hindlow Lime,2038,biomass,0.9245
+Hindlow Lime,2038,gas,2.1507
+Hindlow Lime,2038,hydrogen,0.0091
+Hindlow Lime,2040,biomass,0.9245
+Hindlow Lime,2040,electricity,0.0939
+Hindlow Lime,2040,gas,1.8443
+Hindlow Lime,2040,hydrogen,0.0091
+Hindlow Lime,2042,biomass,0.9245
+Hindlow Lime,2042,electricity,0.1195
+Hindlow Lime,2042,gas,1.677
+Hindlow Lime,2042,hydrogen,0.1054
+Hindlow Lime,2044,biomass,1.241
+Hindlow Lime,2044,electricity,0.1195
+Hindlow Lime,2044,gas,1.3705
+Hindlow Lime,2044,hydrogen,0.1054
+Hindlow Lime,2046,biomass,1.241
+Hindlow Lime,2046,electricity,0.1195
+Hindlow Lime,2046,gas,1.0641
+Hindlow Lime,2046,hydrogen,0.4138
+Hindlow Lime,2048,biomass,1.241
+Hindlow Lime,2048,electricity,0.6746
+Hindlow Lime,2048,gas,0.4513
+Hindlow Lime,2048,hydrogen,0.4138
+Hindlow Lime,2050,biomass,1.241
+Hindlow Lime,2050,electricity,0.6746
+Hindlow Lime,2050,gas,0.4513
+Hindlow Lime,2050,hydrogen,0.4047
+Hope Cement Works,2026,gas,3.8728
+Hope Cement Works,2028,gas,4.1048
+Hope Cement Works,2030,gas,4.4598
+Hope Cement Works,2032,gas,4.4915
+Hope Cement Works,2034,gas,4.7138
+Hope Cement Works,2036,gas,4.8722
+Hope Cement Works,2038,gas,4.8722
+Hope Cement Works,2040,gas,4.8722
+Hope Cement Works,2042,gas,4.8722
+Hope Cement Works,2044,gas,4.8722
+Hope Cement Works,2046,gas,4.8722
+Hope Cement Works,2048,gas,4.8722
+Hope Cement Works,2050,gas,4.8722
+Humber Refinery,2026,gas,41.2656
+Humber Refinery,2028,gas,41.2656
+Humber Refinery,2030,electricity,0.2059
+Humber Refinery,2030,gas,40.6126
+Humber Refinery,2032,electricity,1.4203
+Humber Refinery,2032,gas,36.4861
+Humber Refinery,2034,electricity,1.4203
+Humber Refinery,2034,gas,36.211
+Humber Refinery,2036,electricity,1.4203
+Humber Refinery,2036,gas,35.9359
+Humber Refinery,2038,electricity,5.1039
+Humber Refinery,2038,gas,31.8093
+Humber Refinery,2040,electricity,8.7876
+Humber Refinery,2040,gas,27.6827
+Humber Refinery,2042,electricity,12.4712
+Humber Refinery,2042,gas,23.5562
+Humber Refinery,2044,electricity,21.9255
+Humber Refinery,2044,gas,13.1498
+Humber Refinery,2046,electricity,33.7924
+Humber Refinery,2046,gas,0.1179
+Humber Refinery,2048,electricity,33.7924
+Humber Refinery,2050,electricity,33.7552
+INOVYN Chlorvinyls Newton Aycliffe,2026,biomass,0.0558
+INOVYN Chlorvinyls Newton Aycliffe,2026,gas,0.6611
+INOVYN Chlorvinyls Newton Aycliffe,2028,biomass,0.0758
+INOVYN Chlorvinyls Newton Aycliffe,2028,gas,0.6423
+INOVYN Chlorvinyls Newton Aycliffe,2030,biomass,0.1517
+INOVYN Chlorvinyls Newton Aycliffe,2030,gas,0.5709
+INOVYN Chlorvinyls Newton Aycliffe,2032,biomass,0.1517
+INOVYN Chlorvinyls Newton Aycliffe,2032,gas,0.4996
+INOVYN Chlorvinyls Newton Aycliffe,2032,hydrogen,0.069
+INOVYN Chlorvinyls Newton Aycliffe,2034,biomass,0.1517
+INOVYN Chlorvinyls Newton Aycliffe,2034,gas,0.4048
+INOVYN Chlorvinyls Newton Aycliffe,2034,hydrogen,0.1622
+INOVYN Chlorvinyls Newton Aycliffe,2036,biomass,0.1517
+INOVYN Chlorvinyls Newton Aycliffe,2036,gas,0.3568
+INOVYN Chlorvinyls Newton Aycliffe,2036,hydrogen,0.207
+INOVYN Chlorvinyls Newton Aycliffe,2038,biomass,0.1517
+INOVYN Chlorvinyls Newton Aycliffe,2038,gas,0.2855
+INOVYN Chlorvinyls Newton Aycliffe,2038,hydrogen,0.2789
+INOVYN Chlorvinyls Newton Aycliffe,2040,biomass,0.1517
+INOVYN Chlorvinyls Newton Aycliffe,2040,gas,0.2141
+INOVYN Chlorvinyls Newton Aycliffe,2040,hydrogen,0.3507
+INOVYN Chlorvinyls Newton Aycliffe,2042,biomass,0.1517
+INOVYN Chlorvinyls Newton Aycliffe,2042,gas,0.0734
+INOVYN Chlorvinyls Newton Aycliffe,2042,hydrogen,0.4943
+INOVYN Chlorvinyls Newton Aycliffe,2044,biomass,0.1517
+INOVYN Chlorvinyls Newton Aycliffe,2044,gas,0.0714
+INOVYN Chlorvinyls Newton Aycliffe,2044,hydrogen,0.4943
+INOVYN Chlorvinyls Newton Aycliffe,2046,biomass,0.1517
+INOVYN Chlorvinyls Newton Aycliffe,2046,gas,0.0041
+INOVYN Chlorvinyls Newton Aycliffe,2046,hydrogen,0.5619
+INOVYN Chlorvinyls Newton Aycliffe,2048,biomass,0.1517
+INOVYN Chlorvinyls Newton Aycliffe,2048,gas,0.002
+INOVYN Chlorvinyls Newton Aycliffe,2048,hydrogen,0.5619
+INOVYN Chlorvinyls Newton Aycliffe,2050,biomass,0.1517
+INOVYN Chlorvinyls Newton Aycliffe,2050,hydrogen,0.5619
+Ibstock Brick Limited - Leicester,2026,biomass,0.1895
+Ibstock Brick Limited - Leicester,2026,gas,0.713
+Ibstock Brick Limited - Leicester,2028,biomass,0.1895
+Ibstock Brick Limited - Leicester,2028,gas,0.713
+Ibstock Brick Limited - Leicester,2030,biomass,0.1895
+Ibstock Brick Limited - Leicester,2030,gas,0.713
+Ibstock Brick Limited - Leicester,2032,biomass,0.2752
+Ibstock Brick Limited - Leicester,2032,gas,0.6238
+Ibstock Brick Limited - Leicester,2032,hydrogen,0.0026
+Ibstock Brick Limited - Leicester,2034,biomass,0.5441
+Ibstock Brick Limited - Leicester,2034,gas,0.365
+Ibstock Brick Limited - Leicester,2034,hydrogen,0.0026
+Ibstock Brick Limited - Leicester,2036,biomass,0.5441
+Ibstock Brick Limited - Leicester,2036,gas,0.359
+Ibstock Brick Limited - Leicester,2036,hydrogen,0.0026
+Ibstock Brick Limited - Leicester,2038,biomass,0.5441
+Ibstock Brick Limited - Leicester,2038,gas,0.3565
+Ibstock Brick Limited - Leicester,2038,hydrogen,0.0026
+Ibstock Brick Limited - Leicester,2040,biomass,0.9095
+Ibstock Brick Limited - Leicester,2040,gas,0.0102
+Ibstock Brick Limited - Leicester,2040,hydrogen,0.0026
+Ibstock Brick Limited - Leicester,2042,biomass,0.9095
+Ibstock Brick Limited - Leicester,2042,gas,0.0076
+Ibstock Brick Limited - Leicester,2042,hydrogen,0.0026
+Ibstock Brick Limited - Leicester,2044,biomass,0.9095
+Ibstock Brick Limited - Leicester,2044,gas,0.0051
+Ibstock Brick Limited - Leicester,2044,hydrogen,0.0026
+Ibstock Brick Limited - Leicester,2046,biomass,0.9095
+Ibstock Brick Limited - Leicester,2046,gas,0.0025
+Ibstock Brick Limited - Leicester,2046,hydrogen,0.0026
+Ibstock Brick Limited - Leicester,2048,biomass,0.9095
+Ibstock Brick Limited - Leicester,2048,hydrogen,0.0026
+Ibstock Brick Limited - Leicester,2050,biomass,0.9095
+Ineos Acetyls Hull,2026,biomass,0.0001
+Ineos Acetyls Hull,2026,gas,2.1065
+Ineos Acetyls Hull,2028,biomass,0.0001
+Ineos Acetyls Hull,2028,gas,2.1065
+Ineos Acetyls Hull,2030,biomass,0.0001
+Ineos Acetyls Hull,2030,gas,2.1065
+Ineos Acetyls Hull,2032,biomass,0.0001
+Ineos Acetyls Hull,2032,gas,1.8958
+Ineos Acetyls Hull,2032,hydrogen,0.2037
+Ineos Acetyls Hull,2034,biomass,0.2091
+Ineos Acetyls Hull,2034,gas,1.6852
+Ineos Acetyls Hull,2034,hydrogen,0.2037
+Ineos Acetyls Hull,2036,biomass,0.4181
+Ineos Acetyls Hull,2036,gas,1.4745
+Ineos Acetyls Hull,2036,hydrogen,0.2037
+Ineos Acetyls Hull,2038,biomass,0.4181
+Ineos Acetyls Hull,2038,gas,1.4685
+Ineos Acetyls Hull,2038,hydrogen,0.2037
+Ineos Acetyls Hull,2040,biomass,0.4181
+Ineos Acetyls Hull,2040,gas,1.4883
+Ineos Acetyls Hull,2040,hydrogen,0.2037
+Ineos Acetyls Hull,2042,biomass,0.6356
+Ineos Acetyls Hull,2042,gas,1.2777
+Ineos Acetyls Hull,2042,hydrogen,0.2037
+Ineos Acetyls Hull,2044,biomass,0.6356
+Ineos Acetyls Hull,2044,gas,1.067
+Ineos Acetyls Hull,2044,hydrogen,0.4157
+Ineos Acetyls Hull,2046,biomass,0.6356
+Ineos Acetyls Hull,2046,electricity,0.0645
+Ineos Acetyls Hull,2046,gas,0.8564
+Ineos Acetyls Hull,2046,hydrogen,0.4157
+Ineos Acetyls Hull,2048,biomass,0.6356
+Ineos Acetyls Hull,2048,electricity,0.6286
+Ineos Acetyls Hull,2048,gas,0.2365
+Ineos Acetyls Hull,2048,hydrogen,0.4157
+Ineos Acetyls Hull,2050,biomass,0.6356
+Ineos Acetyls Hull,2050,electricity,0.6286
+Ineos Acetyls Hull,2050,gas,0.2304
+Ineos Acetyls Hull,2050,hydrogen,0.4157
+Jaguar Land Rover Limited Solihull,2026,biomass,0.0
+Jaguar Land Rover Limited Solihull,2026,gas,0.9892
+Jaguar Land Rover Limited Solihull,2028,biomass,0.0
+Jaguar Land Rover Limited Solihull,2028,gas,0.9892
+Jaguar Land Rover Limited Solihull,2030,biomass,0.0
+Jaguar Land Rover Limited Solihull,2030,gas,0.9892
+Jaguar Land Rover Limited Solihull,2032,biomass,0.0
+Jaguar Land Rover Limited Solihull,2032,gas,0.9826
+Jaguar Land Rover Limited Solihull,2034,biomass,0.0
+Jaguar Land Rover Limited Solihull,2034,gas,0.976
+Jaguar Land Rover Limited Solihull,2036,biomass,0.0
+Jaguar Land Rover Limited Solihull,2036,gas,0.9694
+Jaguar Land Rover Limited Solihull,2038,biomass,0.0
+Jaguar Land Rover Limited Solihull,2038,gas,0.9666
+Jaguar Land Rover Limited Solihull,2040,biomass,0.0
+Jaguar Land Rover Limited Solihull,2040,electricity,0.0303
+Jaguar Land Rover Limited Solihull,2040,gas,0.8677
+Jaguar Land Rover Limited Solihull,2042,biomass,0.0
+Jaguar Land Rover Limited Solihull,2042,electricity,0.0606
+Jaguar Land Rover Limited Solihull,2042,gas,0.7688
+Jaguar Land Rover Limited Solihull,2044,biomass,0.0
+Jaguar Land Rover Limited Solihull,2044,electricity,0.0606
+Jaguar Land Rover Limited Solihull,2044,gas,0.6698
+Jaguar Land Rover Limited Solihull,2044,hydrogen,0.0996
+Jaguar Land Rover Limited Solihull,2046,biomass,0.0
+Jaguar Land Rover Limited Solihull,2046,electricity,0.0909
+Jaguar Land Rover Limited Solihull,2046,gas,0.5709
+Jaguar Land Rover Limited Solihull,2046,hydrogen,0.0996
+Jaguar Land Rover Limited Solihull,2048,biomass,0.0
+Jaguar Land Rover Limited Solihull,2048,electricity,0.6103
+Jaguar Land Rover Limited Solihull,2048,gas,0.0028
+Jaguar Land Rover Limited Solihull,2048,hydrogen,0.0996
+Jaguar Land Rover Limited Solihull,2050,biomass,0.0
+Jaguar Land Rover Limited Solihull,2050,electricity,0.6103
+Jaguar Land Rover Limited Solihull,2050,hydrogen,0.0996
+KETTON WORKS,2026,gas,2.1782
+KETTON WORKS,2028,gas,2.3087
+KETTON WORKS,2030,gas,2.5084
+KETTON WORKS,2032,gas,2.5262
+KETTON WORKS,2034,gas,2.3701
+KETTON WORKS,2036,gas,2.5619
+KETTON WORKS,2038,gas,1.0004
+KETTON WORKS,2040,gas,2.7404
+KETTON WORKS,2042,gas,2.7404
+KETTON WORKS,2044,gas,2.7404
+KETTON WORKS,2046,gas,2.7404
+KETTON WORKS,2048,gas,2.7404
+KETTON WORKS,2050,gas,2.7404
+Knauf Drywall Sittingbourne,2026,biomass,0.1631
+Knauf Drywall Sittingbourne,2026,gas,0.6137
+Knauf Drywall Sittingbourne,2028,biomass,0.1631
+Knauf Drywall Sittingbourne,2028,gas,0.6137
+Knauf Drywall Sittingbourne,2030,biomass,0.1631
+Knauf Drywall Sittingbourne,2030,gas,0.6137
+Knauf Drywall Sittingbourne,2032,biomass,0.2392
+Knauf Drywall Sittingbourne,2032,gas,0.537
+Knauf Drywall Sittingbourne,2034,biomass,0.2392
+Knauf Drywall Sittingbourne,2034,gas,0.3887
+Knauf Drywall Sittingbourne,2034,hydrogen,0.1484
+Knauf Drywall Sittingbourne,2036,biomass,0.2392
+Knauf Drywall Sittingbourne,2036,gas,0.3836
+Knauf Drywall Sittingbourne,2036,hydrogen,0.1484
+Knauf Drywall Sittingbourne,2038,biomass,0.2392
+Knauf Drywall Sittingbourne,2038,gas,0.3069
+Knauf Drywall Sittingbourne,2038,hydrogen,0.2256
+Knauf Drywall Sittingbourne,2040,biomass,0.2392
+Knauf Drywall Sittingbourne,2040,gas,0.2301
+Knauf Drywall Sittingbourne,2040,hydrogen,0.3028
+Knauf Drywall Sittingbourne,2042,biomass,0.3169
+Knauf Drywall Sittingbourne,2042,gas,0.0789
+Knauf Drywall Sittingbourne,2042,hydrogen,0.3815
+Knauf Drywall Sittingbourne,2044,biomass,0.3169
+Knauf Drywall Sittingbourne,2044,gas,0.0767
+Knauf Drywall Sittingbourne,2044,hydrogen,0.3815
+Knauf Drywall Sittingbourne,2046,biomass,0.3169
+Knauf Drywall Sittingbourne,2046,gas,0.0044
+Knauf Drywall Sittingbourne,2046,hydrogen,0.4541
+Knauf Drywall Sittingbourne,2048,biomass,0.3169
+Knauf Drywall Sittingbourne,2048,gas,0.0022
+Knauf Drywall Sittingbourne,2048,hydrogen,0.4541
+Knauf Drywall Sittingbourne,2050,biomass,0.3169
+Knauf Drywall Sittingbourne,2050,hydrogen,0.4541
+Knauf Immingham,2026,biomass,0.0759
+Knauf Immingham,2026,gas,0.6427
+Knauf Immingham,2028,biomass,0.0759
+Knauf Immingham,2028,gas,0.6427
+Knauf Immingham,2030,biomass,0.1518
+Knauf Immingham,2030,gas,0.5713
+Knauf Immingham,2032,biomass,0.1518
+Knauf Immingham,2032,gas,0.4999
+Knauf Immingham,2032,hydrogen,0.069
+Knauf Immingham,2034,biomass,0.1518
+Knauf Immingham,2034,gas,0.3618
+Knauf Immingham,2034,hydrogen,0.2071
+Knauf Immingham,2036,biomass,0.1518
+Knauf Immingham,2036,gas,0.357
+Knauf Immingham,2036,hydrogen,0.2071
+Knauf Immingham,2038,biomass,0.2255
+Knauf Immingham,2038,gas,0.2856
+Knauf Immingham,2038,hydrogen,0.2071
+Knauf Immingham,2040,biomass,0.2255
+Knauf Immingham,2040,gas,0.2142
+Knauf Immingham,2040,hydrogen,0.279
+Knauf Immingham,2042,biomass,0.2255
+Knauf Immingham,2042,gas,0.0734
+Knauf Immingham,2042,hydrogen,0.4228
+Knauf Immingham,2044,biomass,0.2255
+Knauf Immingham,2044,gas,0.0714
+Knauf Immingham,2044,hydrogen,0.4228
+Knauf Immingham,2046,biomass,0.2255
+Knauf Immingham,2046,gas,0.0041
+Knauf Immingham,2046,hydrogen,0.4904
+Knauf Immingham,2048,biomass,0.2255
+Knauf Immingham,2048,gas,0.002
+Knauf Immingham,2048,hydrogen,0.4904
+Knauf Immingham,2050,biomass,0.2255
+Knauf Immingham,2050,hydrogen,0.4904
+Knauf Insulation Queensferry,2026,gas,0.6828
+Knauf Insulation Queensferry,2028,biomass,0.0725
+Knauf Insulation Queensferry,2028,gas,0.6145
+Knauf Insulation Queensferry,2030,biomass,0.1451
+Knauf Insulation Queensferry,2030,gas,0.5463
+Knauf Insulation Queensferry,2032,biomass,0.1451
+Knauf Insulation Queensferry,2032,gas,0.478
+Knauf Insulation Queensferry,2032,hydrogen,0.066
+Knauf Insulation Queensferry,2034,biomass,0.1451
+Knauf Insulation Queensferry,2034,gas,0.4097
+Knauf Insulation Queensferry,2034,hydrogen,0.1321
+Knauf Insulation Queensferry,2036,biomass,0.1451
+Knauf Insulation Queensferry,2036,gas,0.3414
+Knauf Insulation Queensferry,2036,hydrogen,0.1981
+Knauf Insulation Queensferry,2038,biomass,0.1451
+Knauf Insulation Queensferry,2038,gas,0.2731
+Knauf Insulation Queensferry,2038,hydrogen,0.2668
+Knauf Insulation Queensferry,2040,biomass,0.1451
+Knauf Insulation Queensferry,2040,gas,0.2048
+Knauf Insulation Queensferry,2040,hydrogen,0.3355
+Knauf Insulation Queensferry,2042,biomass,0.1451
+Knauf Insulation Queensferry,2042,gas,0.0702
+Knauf Insulation Queensferry,2042,hydrogen,0.473
+Knauf Insulation Queensferry,2044,biomass,0.1451
+Knauf Insulation Queensferry,2044,gas,0.0683
+Knauf Insulation Queensferry,2044,hydrogen,0.473
+Knauf Insulation Queensferry,2046,biomass,0.1451
+Knauf Insulation Queensferry,2046,gas,0.0039
+Knauf Insulation Queensferry,2046,hydrogen,0.5376
+Knauf Insulation Queensferry,2048,biomass,0.1451
+Knauf Insulation Queensferry,2048,gas,0.002
+Knauf Insulation Queensferry,2048,hydrogen,0.5376
+Knauf Insulation Queensferry,2050,biomass,0.1451
+Knauf Insulation Queensferry,2050,hydrogen,0.5376
+Kronospan Ltd,2026,biomass,0.0001
+Kronospan Ltd,2026,gas,2.7229
+Kronospan Ltd,2028,biomass,0.0001
+Kronospan Ltd,2028,gas,2.7229
+Kronospan Ltd,2030,biomass,0.0001
+Kronospan Ltd,2030,gas,2.7229
+Kronospan Ltd,2032,biomass,0.0001
+Kronospan Ltd,2032,gas,2.4506
+Kronospan Ltd,2032,hydrogen,0.2633
+Kronospan Ltd,2034,biomass,0.0001
+Kronospan Ltd,2034,gas,2.1783
+Kronospan Ltd,2034,hydrogen,0.5266
+Kronospan Ltd,2036,biomass,0.0001
+Kronospan Ltd,2036,gas,2.1922
+Kronospan Ltd,2036,hydrogen,0.5266
+Kronospan Ltd,2038,biomass,0.0001
+Kronospan Ltd,2038,gas,2.2178
+Kronospan Ltd,2038,hydrogen,0.5266
+Kronospan Ltd,2040,biomass,0.0001
+Kronospan Ltd,2040,electricity,0.0834
+Kronospan Ltd,2040,gas,1.9455
+Kronospan Ltd,2040,hydrogen,0.5266
+Kronospan Ltd,2042,biomass,0.0001
+Kronospan Ltd,2042,electricity,0.1668
+Kronospan Ltd,2042,gas,1.6732
+Kronospan Ltd,2042,hydrogen,0.5266
+Kronospan Ltd,2044,biomass,0.0001
+Kronospan Ltd,2044,electricity,0.1668
+Kronospan Ltd,2044,gas,1.4009
+Kronospan Ltd,2044,hydrogen,0.8006
+Kronospan Ltd,2046,biomass,0.0001
+Kronospan Ltd,2046,electricity,0.2502
+Kronospan Ltd,2046,gas,1.1286
+Kronospan Ltd,2046,hydrogen,0.8006
+Kronospan Ltd,2048,biomass,0.0001
+Kronospan Ltd,2048,electricity,0.7363
+Kronospan Ltd,2048,gas,0.5918
+Kronospan Ltd,2048,hydrogen,0.8006
+Kronospan Ltd,2050,biomass,0.0001
+Kronospan Ltd,2050,electricity,0.7363
+Kronospan Ltd,2050,gas,0.5841
+Kronospan Ltd,2050,hydrogen,0.8006
+Lhoist UK Limited,2026,gas,3.1677
+Lhoist UK Limited,2028,gas,3.1925
+Lhoist UK Limited,2030,gas,3.1974
+Lhoist UK Limited,2032,gas,2.8973
+Lhoist UK Limited,2032,hydrogen,0.291
+Lhoist UK Limited,2034,gas,2.5805
+Lhoist UK Limited,2034,hydrogen,0.5973
+Lhoist UK Limited,2036,biomass,0.3143
+Lhoist UK Limited,2036,gas,2.2638
+Lhoist UK Limited,2036,hydrogen,0.5973
+Lhoist UK Limited,2038,biomass,0.3143
+Lhoist UK Limited,2038,gas,2.2935
+Lhoist UK Limited,2038,hydrogen,0.5973
+Lhoist UK Limited,2040,biomass,0.3143
+Lhoist UK Limited,2040,electricity,0.097
+Lhoist UK Limited,2040,gas,1.9767
+Lhoist UK Limited,2040,hydrogen,0.5973
+Lhoist UK Limited,2042,biomass,0.3143
+Lhoist UK Limited,2042,electricity,0.1941
+Lhoist UK Limited,2042,gas,1.66
+Lhoist UK Limited,2042,hydrogen,0.5973
+Lhoist UK Limited,2044,biomass,0.3143
+Lhoist UK Limited,2044,electricity,0.2876
+Lhoist UK Limited,2044,gas,1.3432
+Lhoist UK Limited,2044,hydrogen,0.6087
+Lhoist UK Limited,2046,biomass,0.3143
+Lhoist UK Limited,2046,electricity,0.3846
+Lhoist UK Limited,2046,gas,1.0264
+Lhoist UK Limited,2046,hydrogen,0.6087
+Lhoist UK Limited,2048,biomass,0.3143
+Lhoist UK Limited,2048,electricity,0.7423
+Lhoist UK Limited,2048,gas,0.6282
+Lhoist UK Limited,2048,hydrogen,0.6087
+Lhoist UK Limited,2050,biomass,0.3143
+Lhoist UK Limited,2050,electricity,0.7423
+Lhoist UK Limited,2050,gas,0.6282
+Lhoist UK Limited,2050,hydrogen,0.5994
+Llanwern Steelworks,2026,gas,0.0564
+Llanwern Steelworks,2028,electricity,0.0033
+Llanwern Steelworks,2028,gas,0.0519
+Llanwern Steelworks,2030,electricity,0.0414
+Llanwern Steelworks,2032,electricity,0.0414
+Llanwern Steelworks,2034,electricity,0.0414
+Llanwern Steelworks,2036,electricity,0.0414
+Llanwern Steelworks,2038,electricity,0.0414
+Llanwern Steelworks,2040,electricity,0.0414
+Llanwern Steelworks,2042,electricity,0.0414
+Llanwern Steelworks,2044,electricity,0.0414
+Llanwern Steelworks,2046,electricity,0.0414
+Llanwern Steelworks,2048,electricity,0.0414
+Llanwern Steelworks,2050,electricity,0.0414
+Lochaber Smelter,2026,biomass,0.2058
+Lochaber Smelter,2026,gas,0.7743
+Lochaber Smelter,2028,biomass,0.2058
+Lochaber Smelter,2028,gas,0.7743
+Lochaber Smelter,2030,biomass,0.2058
+Lochaber Smelter,2030,gas,0.7743
+Lochaber Smelter,2032,biomass,0.2989
+Lochaber Smelter,2032,gas,0.6776
+Lochaber Smelter,2032,hydrogen,0.0029
+Lochaber Smelter,2034,biomass,0.2989
+Lochaber Smelter,2034,gas,0.3964
+Lochaber Smelter,2034,hydrogen,0.2875
+Lochaber Smelter,2036,biomass,0.2989
+Lochaber Smelter,2036,gas,0.3899
+Lochaber Smelter,2036,hydrogen,0.2875
+Lochaber Smelter,2038,biomass,0.2989
+Lochaber Smelter,2038,gas,0.3872
+Lochaber Smelter,2038,hydrogen,0.2875
+Lochaber Smelter,2040,biomass,0.6958
+Lochaber Smelter,2040,gas,0.0111
+Lochaber Smelter,2040,hydrogen,0.2875
+Lochaber Smelter,2042,biomass,0.6958
+Lochaber Smelter,2042,gas,0.0083
+Lochaber Smelter,2042,hydrogen,0.2875
+Lochaber Smelter,2044,biomass,0.6958
+Lochaber Smelter,2044,gas,0.0055
+Lochaber Smelter,2044,hydrogen,0.2875
+Lochaber Smelter,2046,biomass,0.6958
+Lochaber Smelter,2046,gas,0.0028
+Lochaber Smelter,2046,hydrogen,0.2875
+Lochaber Smelter,2048,biomass,0.6958
+Lochaber Smelter,2048,hydrogen,0.2875
+Lochaber Smelter,2050,biomass,0.6958
+Lochaber Smelter,2050,hydrogen,0.2846
+Measham,2026,biomass,0.0
+Measham,2026,gas,0.6584
+Measham,2028,biomass,0.07
+Measham,2028,gas,0.5926
+Measham,2030,biomass,0.14
+Measham,2030,gas,0.5268
+Measham,2032,biomass,0.2053
+Measham,2032,gas,0.4609
+Measham,2034,biomass,0.2707
+Measham,2034,gas,0.3951
+Measham,2036,biomass,0.2707
+Measham,2036,gas,0.3292
+Measham,2036,hydrogen,0.0637
+Measham,2038,biomass,0.3387
+Measham,2038,gas,0.2634
+Measham,2038,hydrogen,0.0637
+Measham,2040,biomass,0.4067
+Measham,2040,gas,0.1975
+Measham,2040,hydrogen,0.0637
+Measham,2042,biomass,0.5427
+Measham,2042,gas,0.0677
+Measham,2042,hydrogen,0.0637
+Measham,2044,biomass,0.5427
+Measham,2044,gas,0.0658
+Measham,2044,hydrogen,0.0637
+Measham,2046,biomass,0.5427
+Measham,2046,gas,0.0038
+Measham,2046,hydrogen,0.126
+Measham,2048,biomass,0.5427
+Measham,2048,gas,0.0019
+Measham,2048,hydrogen,0.126
+Measham,2050,biomass,0.5427
+Measham,2050,hydrogen,0.126
+Melton Ross Limeworks,2026,gas,4.2956
+Melton Ross Limeworks,2028,biomass,0.4566
+Melton Ross Limeworks,2028,gas,3.866
+Melton Ross Limeworks,2030,biomass,0.4566
+Melton Ross Limeworks,2030,gas,3.9187
+Melton Ross Limeworks,2032,biomass,0.4566
+Melton Ross Limeworks,2032,gas,3.4891
+Melton Ross Limeworks,2032,hydrogen,0.4154
+Melton Ross Limeworks,2034,biomass,0.4566
+Melton Ross Limeworks,2034,gas,3.0596
+Melton Ross Limeworks,2034,hydrogen,0.8307
+Melton Ross Limeworks,2036,biomass,0.4566
+Melton Ross Limeworks,2036,gas,2.63
+Melton Ross Limeworks,2036,hydrogen,1.2461
+Melton Ross Limeworks,2038,biomass,0.4566
+Melton Ross Limeworks,2038,gas,2.2004
+Melton Ross Limeworks,2038,hydrogen,1.6784
+Melton Ross Limeworks,2040,biomass,0.4566
+Melton Ross Limeworks,2040,gas,2.2408
+Melton Ross Limeworks,2040,hydrogen,1.6784
+Melton Ross Limeworks,2042,biomass,0.4566
+Melton Ross Limeworks,2042,gas,2.2811
+Melton Ross Limeworks,2042,hydrogen,1.6784
+Melton Ross Limeworks,2044,biomass,0.9002
+Melton Ross Limeworks,2044,gas,1.8516
+Melton Ross Limeworks,2044,hydrogen,1.6784
+Melton Ross Limeworks,2046,biomass,0.9002
+Melton Ross Limeworks,2046,gas,1.422
+Melton Ross Limeworks,2046,hydrogen,2.1108
+Melton Ross Limeworks,2048,biomass,0.9002
+Melton Ross Limeworks,2048,gas,1.4098
+Melton Ross Limeworks,2048,hydrogen,2.1108
+Melton Ross Limeworks,2050,biomass,0.9002
+Melton Ross Limeworks,2050,gas,1.4098
+Melton Ross Limeworks,2050,hydrogen,2.098
+Nissan Motor Manufacturing (UK) Ltd,2026,gas,0.6398
+Nissan Motor Manufacturing (UK) Ltd,2028,biomass,0.068
+Nissan Motor Manufacturing (UK) Ltd,2028,gas,0.5759
+Nissan Motor Manufacturing (UK) Ltd,2030,biomass,0.136
+Nissan Motor Manufacturing (UK) Ltd,2030,gas,0.5119
+Nissan Motor Manufacturing (UK) Ltd,2032,biomass,0.1995
+Nissan Motor Manufacturing (UK) Ltd,2032,gas,0.4479
+Nissan Motor Manufacturing (UK) Ltd,2034,biomass,0.263
+Nissan Motor Manufacturing (UK) Ltd,2034,gas,0.3839
+Nissan Motor Manufacturing (UK) Ltd,2036,biomass,0.3264
+Nissan Motor Manufacturing (UK) Ltd,2036,gas,0.3199
+Nissan Motor Manufacturing (UK) Ltd,2038,biomass,0.3925
+Nissan Motor Manufacturing (UK) Ltd,2038,gas,0.2559
+Nissan Motor Manufacturing (UK) Ltd,2040,biomass,0.3925
+Nissan Motor Manufacturing (UK) Ltd,2040,gas,0.192
+Nissan Motor Manufacturing (UK) Ltd,2040,hydrogen,0.0644
+Nissan Motor Manufacturing (UK) Ltd,2042,biomass,0.3925
+Nissan Motor Manufacturing (UK) Ltd,2042,gas,0.0658
+Nissan Motor Manufacturing (UK) Ltd,2042,hydrogen,0.1932
+Nissan Motor Manufacturing (UK) Ltd,2044,biomass,0.3925
+Nissan Motor Manufacturing (UK) Ltd,2044,gas,0.064
+Nissan Motor Manufacturing (UK) Ltd,2044,hydrogen,0.1932
+Nissan Motor Manufacturing (UK) Ltd,2046,biomass,0.3925
+Nissan Motor Manufacturing (UK) Ltd,2046,gas,0.0037
+Nissan Motor Manufacturing (UK) Ltd,2046,hydrogen,0.2538
+Nissan Motor Manufacturing (UK) Ltd,2048,biomass,0.3925
+Nissan Motor Manufacturing (UK) Ltd,2048,gas,0.0018
+Nissan Motor Manufacturing (UK) Ltd,2048,hydrogen,0.2538
+Nissan Motor Manufacturing (UK) Ltd,2050,biomass,0.3925
+Nissan Motor Manufacturing (UK) Ltd,2050,hydrogen,0.2538
+Norbord Cowie,2026,biomass,0.0
+Norbord Cowie,2026,gas,1.0141
+Norbord Cowie,2028,biomass,0.0
+Norbord Cowie,2028,gas,1.0141
+Norbord Cowie,2030,biomass,0.0
+Norbord Cowie,2030,gas,1.0141
+Norbord Cowie,2032,biomass,0.0
+Norbord Cowie,2032,gas,1.0073
+Norbord Cowie,2034,biomass,0.0
+Norbord Cowie,2034,gas,1.0006
+Norbord Cowie,2036,biomass,0.0
+Norbord Cowie,2036,gas,0.9938
+Norbord Cowie,2038,biomass,0.0
+Norbord Cowie,2038,gas,0.9909
+Norbord Cowie,2040,biomass,0.0
+Norbord Cowie,2040,electricity,0.0311
+Norbord Cowie,2040,gas,0.8895
+Norbord Cowie,2042,biomass,0.1047
+Norbord Cowie,2042,electricity,0.0311
+Norbord Cowie,2042,gas,0.7881
+Norbord Cowie,2044,biomass,0.1047
+Norbord Cowie,2044,electricity,0.0311
+Norbord Cowie,2044,gas,0.7976
+Norbord Cowie,2046,biomass,0.1047
+Norbord Cowie,2046,electricity,0.0311
+Norbord Cowie,2046,gas,0.8071
+Norbord Cowie,2048,biomass,0.1047
+Norbord Cowie,2048,electricity,0.5636
+Norbord Cowie,2048,gas,0.2248
+Norbord Cowie,2050,biomass,0.1047
+Norbord Cowie,2050,electricity,0.5636
+Norbord Cowie,2050,gas,0.2219
+Novelis Latchford,2026,biomass,0.1799
+Novelis Latchford,2026,gas,0.677
+Novelis Latchford,2028,biomass,0.1799
+Novelis Latchford,2028,gas,0.677
+Novelis Latchford,2030,biomass,0.1799
+Novelis Latchford,2030,gas,0.677
+Novelis Latchford,2032,biomass,0.1799
+Novelis Latchford,2032,gas,0.5924
+Novelis Latchford,2032,hydrogen,0.0818
+Novelis Latchford,2034,biomass,0.1799
+Novelis Latchford,2034,gas,0.3466
+Novelis Latchford,2034,hydrogen,0.3307
+Novelis Latchford,2036,biomass,0.1799
+Novelis Latchford,2036,gas,0.3409
+Novelis Latchford,2036,hydrogen,0.3307
+Novelis Latchford,2038,biomass,0.1799
+Novelis Latchford,2038,gas,0.3385
+Novelis Latchford,2038,hydrogen,0.3307
+Novelis Latchford,2040,biomass,0.1799
+Novelis Latchford,2040,gas,0.1298
+Novelis Latchford,2040,hydrogen,0.5444
+Novelis Latchford,2042,biomass,0.1799
+Novelis Latchford,2042,gas,0.0073
+Novelis Latchford,2042,hydrogen,0.6688
+Novelis Latchford,2044,biomass,0.1799
+Novelis Latchford,2044,gas,0.0048
+Novelis Latchford,2044,hydrogen,0.6688
+Novelis Latchford,2046,biomass,0.1799
+Novelis Latchford,2046,gas,0.0024
+Novelis Latchford,2046,hydrogen,0.6688
+Novelis Latchford,2048,biomass,0.1799
+Novelis Latchford,2048,hydrogen,0.6688
+Novelis Latchford,2050,biomass,0.1799
+Novelis Latchford,2050,hydrogen,0.6663
+O-I Glass Limited,2026,gas,1.1885
+O-I Glass Limited,2028,gas,1.1885
+O-I Glass Limited,2030,gas,1.1885
+O-I Glass Limited,2032,gas,1.1806
+O-I Glass Limited,2034,gas,1.0617
+O-I Glass Limited,2034,hydrogen,0.1149
+O-I Glass Limited,2036,gas,1.0538
+O-I Glass Limited,2036,hydrogen,0.1149
+O-I Glass Limited,2038,gas,1.0504
+O-I Glass Limited,2038,hydrogen,0.1149
+O-I Glass Limited,2040,electricity,0.0364
+O-I Glass Limited,2040,gas,0.9315
+O-I Glass Limited,2040,hydrogen,0.1149
+O-I Glass Limited,2042,electricity,0.0728
+O-I Glass Limited,2042,gas,0.8127
+O-I Glass Limited,2042,hydrogen,0.1149
+O-I Glass Limited,2044,electricity,0.0728
+O-I Glass Limited,2044,gas,0.6938
+O-I Glass Limited,2044,hydrogen,0.2345
+O-I Glass Limited,2046,electricity,0.1092
+O-I Glass Limited,2046,gas,0.575
+O-I Glass Limited,2046,hydrogen,0.2345
+O-I Glass Limited,2048,electricity,0.6313
+O-I Glass Limited,2048,gas,0.0034
+O-I Glass Limited,2048,hydrogen,0.2345
+O-I Glass Limited,2050,electricity,0.6313
+O-I Glass Limited,2050,hydrogen,0.2345
+Omega Proteins Limited,2026,biomass,0.0
+Omega Proteins Limited,2026,gas,0.9783
+Omega Proteins Limited,2028,biomass,0.0
+Omega Proteins Limited,2028,gas,0.9783
+Omega Proteins Limited,2030,biomass,0.0
+Omega Proteins Limited,2030,gas,0.9783
+Omega Proteins Limited,2032,biomass,0.0
+Omega Proteins Limited,2032,gas,0.9718
+Omega Proteins Limited,2034,biomass,0.0
+Omega Proteins Limited,2034,gas,0.9653
+Omega Proteins Limited,2036,biomass,0.0
+Omega Proteins Limited,2036,gas,0.9588
+Omega Proteins Limited,2038,biomass,0.0
+Omega Proteins Limited,2038,gas,0.956
+Omega Proteins Limited,2040,biomass,0.0
+Omega Proteins Limited,2040,gas,0.9651
+Omega Proteins Limited,2042,biomass,0.0
+Omega Proteins Limited,2042,gas,0.8673
+Omega Proteins Limited,2042,hydrogen,0.0985
+Omega Proteins Limited,2044,biomass,0.0
+Omega Proteins Limited,2044,gas,0.8765
+Omega Proteins Limited,2044,hydrogen,0.0985
+Omega Proteins Limited,2046,biomass,0.0
+Omega Proteins Limited,2046,electricity,0.03
+Omega Proteins Limited,2046,gas,0.7787
+Omega Proteins Limited,2046,hydrogen,0.0985
+Omega Proteins Limited,2048,biomass,0.0
+Omega Proteins Limited,2048,electricity,0.5437
+Omega Proteins Limited,2048,gas,0.2168
+Omega Proteins Limited,2048,hydrogen,0.0985
+Omega Proteins Limited,2050,biomass,0.0
+Omega Proteins Limited,2050,electricity,0.5437
+Omega Proteins Limited,2050,gas,0.214
+Omega Proteins Limited,2050,hydrogen,0.0985
+Padeswood Works,2026,gas,1.5119
+Padeswood Works,2028,gas,1.6025
+Padeswood Works,2030,gas,1.7411
+Padeswood Works,2032,gas,1.7535
+Padeswood Works,2034,gas,0.4526
+Padeswood Works,2036,gas,0.531
+Padeswood Works,2038,gas,0.531
+Padeswood Works,2040,gas,0.531
+Padeswood Works,2042,gas,0.531
+Padeswood Works,2044,gas,1.9021
+Padeswood Works,2046,gas,1.9021
+Padeswood Works,2048,gas,1.9021
+Padeswood Works,2050,gas,1.9021
+Palm Paper Ltd PM7 Newsprint Mill,2026,biomass,0.0
+Palm Paper Ltd PM7 Newsprint Mill,2026,gas,3.1002
+Palm Paper Ltd PM7 Newsprint Mill,2028,biomass,0.0
+Palm Paper Ltd PM7 Newsprint Mill,2028,gas,3.1002
+Palm Paper Ltd PM7 Newsprint Mill,2030,biomass,0.0
+Palm Paper Ltd PM7 Newsprint Mill,2030,gas,3.1002
+Palm Paper Ltd PM7 Newsprint Mill,2032,biomass,0.0
+Palm Paper Ltd PM7 Newsprint Mill,2032,gas,2.7902
+Palm Paper Ltd PM7 Newsprint Mill,2032,hydrogen,0.2998
+Palm Paper Ltd PM7 Newsprint Mill,2034,biomass,0.0
+Palm Paper Ltd PM7 Newsprint Mill,2034,gas,2.4802
+Palm Paper Ltd PM7 Newsprint Mill,2034,hydrogen,0.5996
+Palm Paper Ltd PM7 Newsprint Mill,2036,biomass,0.0
+Palm Paper Ltd PM7 Newsprint Mill,2036,gas,2.496
+Palm Paper Ltd PM7 Newsprint Mill,2036,hydrogen,0.5996
+Palm Paper Ltd PM7 Newsprint Mill,2038,biomass,0.0
+Palm Paper Ltd PM7 Newsprint Mill,2038,gas,2.186
+Palm Paper Ltd PM7 Newsprint Mill,2038,hydrogen,0.9116
+Palm Paper Ltd PM7 Newsprint Mill,2040,biomass,0.0
+Palm Paper Ltd PM7 Newsprint Mill,2040,electricity,0.095
+Palm Paper Ltd PM7 Newsprint Mill,2040,gas,1.8759
+Palm Paper Ltd PM7 Newsprint Mill,2040,hydrogen,0.9116
+Palm Paper Ltd PM7 Newsprint Mill,2042,biomass,0.0
+Palm Paper Ltd PM7 Newsprint Mill,2042,electricity,0.095
+Palm Paper Ltd PM7 Newsprint Mill,2042,gas,1.5659
+Palm Paper Ltd PM7 Newsprint Mill,2042,hydrogen,1.2236
+Palm Paper Ltd PM7 Newsprint Mill,2044,biomass,0.0
+Palm Paper Ltd PM7 Newsprint Mill,2044,electricity,0.1899
+Palm Paper Ltd PM7 Newsprint Mill,2044,gas,1.2559
+Palm Paper Ltd PM7 Newsprint Mill,2044,hydrogen,1.2236
+Palm Paper Ltd PM7 Newsprint Mill,2046,biomass,0.0
+Palm Paper Ltd PM7 Newsprint Mill,2046,electricity,0.2849
+Palm Paper Ltd PM7 Newsprint Mill,2046,gas,0.9459
+Palm Paper Ltd PM7 Newsprint Mill,2046,hydrogen,1.2236
+Palm Paper Ltd PM7 Newsprint Mill,2048,biomass,0.0
+Palm Paper Ltd PM7 Newsprint Mill,2048,electricity,0.8465
+Palm Paper Ltd PM7 Newsprint Mill,2048,gas,0.3258
+Palm Paper Ltd PM7 Newsprint Mill,2048,hydrogen,1.2236
+Palm Paper Ltd PM7 Newsprint Mill,2050,biomass,0.0
+Palm Paper Ltd PM7 Newsprint Mill,2050,electricity,0.8465
+Palm Paper Ltd PM7 Newsprint Mill,2050,gas,0.3258
+Palm Paper Ltd PM7 Newsprint Mill,2050,hydrogen,1.2144
+Partington Papermill,2026,biomass,0.0001
+Partington Papermill,2026,gas,3.1853
+Partington Papermill,2028,biomass,0.0001
+Partington Papermill,2028,gas,3.2255
+Partington Papermill,2030,biomass,0.0001
+Partington Papermill,2030,gas,3.2645
+Partington Papermill,2032,biomass,0.0001
+Partington Papermill,2032,gas,2.946
+Partington Papermill,2032,hydrogen,0.308
+Partington Papermill,2034,biomass,0.0001
+Partington Papermill,2034,gas,2.6275
+Partington Papermill,2034,hydrogen,0.616
+Partington Papermill,2036,biomass,0.0467
+Partington Papermill,2036,gas,2.3248
+Partington Papermill,2036,hydrogen,0.864
+Partington Papermill,2038,biomass,0.0467
+Partington Papermill,2038,gas,2.0063
+Partington Papermill,2038,hydrogen,1.1846
+Partington Papermill,2040,biomass,0.0467
+Partington Papermill,2040,gas,1.6877
+Partington Papermill,2040,hydrogen,1.5051
+Partington Papermill,2042,biomass,0.0467
+Partington Papermill,2042,gas,1.3692
+Partington Papermill,2042,hydrogen,1.8257
+Partington Papermill,2044,biomass,0.0467
+Partington Papermill,2044,gas,1.0507
+Partington Papermill,2044,hydrogen,2.1463
+Partington Papermill,2046,biomass,0.0467
+Partington Papermill,2046,electricity,0.0976
+Partington Papermill,2046,gas,0.7322
+Partington Papermill,2046,hydrogen,2.1463
+Partington Papermill,2048,biomass,0.0467
+Partington Papermill,2048,electricity,0.0976
+Partington Papermill,2048,gas,0.7231
+Partington Papermill,2048,hydrogen,2.1463
+Partington Papermill,2050,biomass,0.0467
+Partington Papermill,2050,electricity,0.0976
+Partington Papermill,2050,gas,0.7231
+Partington Papermill,2050,hydrogen,2.1369
+Pilkington United Kingdom Limited - Greengate,2026,gas,2.563
+Pilkington United Kingdom Limited - Greengate,2028,gas,2.563
+Pilkington United Kingdom Limited - Greengate,2030,gas,2.563
+Pilkington United Kingdom Limited - Greengate,2032,gas,2.3067
+Pilkington United Kingdom Limited - Greengate,2032,hydrogen,0.2478
+Pilkington United Kingdom Limited - Greengate,2034,gas,2.0504
+Pilkington United Kingdom Limited - Greengate,2034,hydrogen,0.4957
+Pilkington United Kingdom Limited - Greengate,2036,gas,1.7941
+Pilkington United Kingdom Limited - Greengate,2036,hydrogen,0.7435
+Pilkington United Kingdom Limited - Greengate,2038,gas,1.5378
+Pilkington United Kingdom Limited - Greengate,2038,hydrogen,1.0015
+Pilkington United Kingdom Limited - Greengate,2040,electricity,0.0785
+Pilkington United Kingdom Limited - Greengate,2040,gas,1.2815
+Pilkington United Kingdom Limited - Greengate,2040,hydrogen,1.0015
+Pilkington United Kingdom Limited - Greengate,2042,electricity,0.157
+Pilkington United Kingdom Limited - Greengate,2042,gas,1.0252
+Pilkington United Kingdom Limited - Greengate,2042,hydrogen,1.0015
+Pilkington United Kingdom Limited - Greengate,2044,electricity,0.157
+Pilkington United Kingdom Limited - Greengate,2044,gas,1.0492
+Pilkington United Kingdom Limited - Greengate,2044,hydrogen,1.0015
+Pilkington United Kingdom Limited - Greengate,2046,electricity,0.2355
+Pilkington United Kingdom Limited - Greengate,2046,gas,0.7929
+Pilkington United Kingdom Limited - Greengate,2046,hydrogen,1.0015
+Pilkington United Kingdom Limited - Greengate,2048,electricity,0.6931
+Pilkington United Kingdom Limited - Greengate,2048,gas,0.2877
+Pilkington United Kingdom Limited - Greengate,2048,hydrogen,1.0015
+Pilkington United Kingdom Limited - Greengate,2050,electricity,0.6931
+Pilkington United Kingdom Limited - Greengate,2050,gas,0.2804
+Pilkington United Kingdom Limited - Greengate,2050,hydrogen,1.0015
+Plasmor Limited,2026,gas,0.6344
+Plasmor Limited,2028,biomass,0.0674
+Plasmor Limited,2028,gas,0.5709
+Plasmor Limited,2030,biomass,0.1349
+Plasmor Limited,2030,gas,0.5075
+Plasmor Limited,2032,biomass,0.1978
+Plasmor Limited,2032,gas,0.4441
+Plasmor Limited,2034,biomass,0.2608
+Plasmor Limited,2034,gas,0.3806
+Plasmor Limited,2036,biomass,0.3237
+Plasmor Limited,2036,gas,0.3172
+Plasmor Limited,2038,biomass,0.3892
+Plasmor Limited,2038,gas,0.2537
+Plasmor Limited,2040,biomass,0.3892
+Plasmor Limited,2040,gas,0.1903
+Plasmor Limited,2040,hydrogen,0.0638
+Plasmor Limited,2042,biomass,0.5202
+Plasmor Limited,2042,gas,0.0652
+Plasmor Limited,2042,hydrogen,0.0638
+Plasmor Limited,2044,biomass,0.5202
+Plasmor Limited,2044,gas,0.0634
+Plasmor Limited,2044,hydrogen,0.0638
+Plasmor Limited,2046,biomass,0.5202
+Plasmor Limited,2046,gas,0.0036
+Plasmor Limited,2046,hydrogen,0.1239
+Plasmor Limited,2048,biomass,0.5202
+Plasmor Limited,2048,gas,0.0018
+Plasmor Limited,2048,hydrogen,0.1239
+Plasmor Limited,2050,biomass,0.5202
+Plasmor Limited,2050,hydrogen,0.1239
+Port Talbot Steelworks,2026,gas,0.2546
+Port Talbot Steelworks,2028,electricity,6.4282
+Port Talbot Steelworks,2028,gas,0.2342
+Port Talbot Steelworks,2030,electricity,6.6
+Port Talbot Steelworks,2032,electricity,6.6
+Port Talbot Steelworks,2034,electricity,6.6
+Port Talbot Steelworks,2036,electricity,6.6
+Port Talbot Steelworks,2038,electricity,6.6
+Port Talbot Steelworks,2040,electricity,6.6
+Port Talbot Steelworks,2042,electricity,6.6
+Port Talbot Steelworks,2044,electricity,6.6
+Port Talbot Steelworks,2046,electricity,6.6
+Port Talbot Steelworks,2048,electricity,6.6
+Port Talbot Steelworks,2050,electricity,6.6
+Port of Liverpool CHP,2026,biomass,0.0
+Port of Liverpool CHP,2026,gas,3.0083
+Port of Liverpool CHP,2028,biomass,0.0
+Port of Liverpool CHP,2028,gas,3.0083
+Port of Liverpool CHP,2030,biomass,0.0
+Port of Liverpool CHP,2030,gas,3.0083
+Port of Liverpool CHP,2032,biomass,0.0
+Port of Liverpool CHP,2032,gas,2.7075
+Port of Liverpool CHP,2032,hydrogen,0.2909
+Port of Liverpool CHP,2034,biomass,0.0
+Port of Liverpool CHP,2034,gas,2.4066
+Port of Liverpool CHP,2034,hydrogen,0.5818
+Port of Liverpool CHP,2036,biomass,0.0
+Port of Liverpool CHP,2036,gas,2.1058
+Port of Liverpool CHP,2036,hydrogen,0.8727
+Port of Liverpool CHP,2038,biomass,0.3107
+Port of Liverpool CHP,2038,gas,1.805
+Port of Liverpool CHP,2038,hydrogen,0.8727
+Port of Liverpool CHP,2040,biomass,0.3107
+Port of Liverpool CHP,2040,gas,1.8332
+Port of Liverpool CHP,2040,hydrogen,0.8727
+Port of Liverpool CHP,2042,biomass,0.3107
+Port of Liverpool CHP,2042,electricity,0.0921
+Port of Liverpool CHP,2042,gas,1.5324
+Port of Liverpool CHP,2042,hydrogen,0.8727
+Port of Liverpool CHP,2044,biomass,0.6214
+Port of Liverpool CHP,2044,electricity,0.0921
+Port of Liverpool CHP,2044,gas,1.2316
+Port of Liverpool CHP,2044,hydrogen,0.8727
+Port of Liverpool CHP,2046,biomass,0.6214
+Port of Liverpool CHP,2046,electricity,0.1843
+Port of Liverpool CHP,2046,gas,0.9307
+Port of Liverpool CHP,2046,hydrogen,0.8727
+Port of Liverpool CHP,2048,biomass,0.6214
+Port of Liverpool CHP,2048,electricity,0.3713
+Port of Liverpool CHP,2048,gas,0.3291
+Port of Liverpool CHP,2048,hydrogen,0.8727
+Port of Liverpool CHP,2050,biomass,0.6214
+Port of Liverpool CHP,2050,electricity,0.3713
+Port of Liverpool CHP,2050,gas,0.3291
+Port of Liverpool CHP,2050,hydrogen,0.8638
+Ribblesdale Works,2026,gas,1.815
+Ribblesdale Works,2028,gas,1.9357
+Ribblesdale Works,2030,gas,2.0901
+Ribblesdale Works,2032,gas,2.2485
+Ribblesdale Works,2034,gas,1.9433
+Ribblesdale Works,2036,gas,2.2834
+Ribblesdale Works,2038,gas,2.2834
+Ribblesdale Works,2040,gas,2.2834
+Ribblesdale Works,2042,gas,2.2834
+Ribblesdale Works,2044,gas,2.2834
+Ribblesdale Works,2046,gas,2.2834
+Ribblesdale Works,2048,gas,2.2834
+Ribblesdale Works,2050,gas,2.2834
+Robertsbridge Gypsum Works,2026,gas,0.6797
+Robertsbridge Gypsum Works,2028,biomass,0.0722
+Robertsbridge Gypsum Works,2028,gas,0.6117
+Robertsbridge Gypsum Works,2030,biomass,0.1444
+Robertsbridge Gypsum Works,2030,gas,0.5438
+Robertsbridge Gypsum Works,2032,biomass,0.1444
+Robertsbridge Gypsum Works,2032,gas,0.4758
+Robertsbridge Gypsum Works,2032,hydrogen,0.0657
+Robertsbridge Gypsum Works,2034,biomass,0.1444
+Robertsbridge Gypsum Works,2034,gas,0.4078
+Robertsbridge Gypsum Works,2034,hydrogen,0.1315
+Robertsbridge Gypsum Works,2036,biomass,0.1444
+Robertsbridge Gypsum Works,2036,gas,0.3399
+Robertsbridge Gypsum Works,2036,hydrogen,0.1972
+Robertsbridge Gypsum Works,2038,biomass,0.1444
+Robertsbridge Gypsum Works,2038,gas,0.2719
+Robertsbridge Gypsum Works,2038,hydrogen,0.2656
+Robertsbridge Gypsum Works,2040,biomass,0.1444
+Robertsbridge Gypsum Works,2040,gas,0.2039
+Robertsbridge Gypsum Works,2040,hydrogen,0.334
+Robertsbridge Gypsum Works,2042,biomass,0.1444
+Robertsbridge Gypsum Works,2042,gas,0.0699
+Robertsbridge Gypsum Works,2042,hydrogen,0.4708
+Robertsbridge Gypsum Works,2044,biomass,0.1444
+Robertsbridge Gypsum Works,2044,gas,0.068
+Robertsbridge Gypsum Works,2044,hydrogen,0.4708
+Robertsbridge Gypsum Works,2046,biomass,0.1444
+Robertsbridge Gypsum Works,2046,gas,0.0039
+Robertsbridge Gypsum Works,2046,hydrogen,0.5352
+Robertsbridge Gypsum Works,2048,biomass,0.1444
+Robertsbridge Gypsum Works,2048,gas,0.0019
+Robertsbridge Gypsum Works,2048,hydrogen,0.5352
+Robertsbridge Gypsum Works,2050,biomass,0.1444
+Robertsbridge Gypsum Works,2050,hydrogen,0.5352
+Rockwool Bridgend,2026,biomass,0.0
+Rockwool Bridgend,2026,gas,1.4727
+Rockwool Bridgend,2028,biomass,0.0
+Rockwool Bridgend,2028,gas,1.4727
+Rockwool Bridgend,2030,biomass,0.0
+Rockwool Bridgend,2030,gas,1.4727
+Rockwool Bridgend,2032,biomass,0.0
+Rockwool Bridgend,2032,gas,1.4802
+Rockwool Bridgend,2034,biomass,0.1461
+Rockwool Bridgend,2034,gas,1.333
+Rockwool Bridgend,2036,biomass,0.1461
+Rockwool Bridgend,2036,gas,1.3232
+Rockwool Bridgend,2038,biomass,0.1461
+Rockwool Bridgend,2038,gas,1.3189
+Rockwool Bridgend,2040,biomass,0.1461
+Rockwool Bridgend,2040,electricity,0.0451
+Rockwool Bridgend,2040,gas,1.1717
+Rockwool Bridgend,2042,biomass,0.1461
+Rockwool Bridgend,2042,electricity,0.0451
+Rockwool Bridgend,2042,gas,1.1855
+Rockwool Bridgend,2044,biomass,0.1461
+Rockwool Bridgend,2044,electricity,0.0451
+Rockwool Bridgend,2044,gas,1.0382
+Rockwool Bridgend,2044,hydrogen,0.1482
+Rockwool Bridgend,2046,biomass,0.1461
+Rockwool Bridgend,2046,electricity,0.0902
+Rockwool Bridgend,2046,gas,0.891
+Rockwool Bridgend,2046,hydrogen,0.1482
+Rockwool Bridgend,2048,biomass,0.1461
+Rockwool Bridgend,2048,electricity,0.6109
+Rockwool Bridgend,2048,gas,0.3201
+Rockwool Bridgend,2048,hydrogen,0.1482
+Rockwool Bridgend,2050,biomass,0.1461
+Rockwool Bridgend,2050,electricity,0.6109
+Rockwool Bridgend,2050,gas,0.3159
+Rockwool Bridgend,2050,hydrogen,0.1482
+Rolls-Royce - Sinfin,2026,gas,1.6184
+Rolls-Royce - Sinfin,2028,gas,1.6184
+Rolls-Royce - Sinfin,2030,gas,1.6184
+Rolls-Royce - Sinfin,2032,gas,1.4565
+Rolls-Royce - Sinfin,2032,hydrogen,0.1565
+Rolls-Royce - Sinfin,2034,gas,1.2947
+Rolls-Royce - Sinfin,2034,hydrogen,0.313
+Rolls-Royce - Sinfin,2036,gas,1.2839
+Rolls-Royce - Sinfin,2036,hydrogen,0.313
+Rolls-Royce - Sinfin,2038,gas,1.2793
+Rolls-Royce - Sinfin,2038,hydrogen,0.313
+Rolls-Royce - Sinfin,2040,electricity,0.0496
+Rolls-Royce - Sinfin,2040,gas,1.1175
+Rolls-Royce - Sinfin,2040,hydrogen,0.313
+Rolls-Royce - Sinfin,2042,electricity,0.0991
+Rolls-Royce - Sinfin,2042,gas,0.9556
+Rolls-Royce - Sinfin,2042,hydrogen,0.313
+Rolls-Royce - Sinfin,2044,electricity,0.0991
+Rolls-Royce - Sinfin,2044,gas,0.7938
+Rolls-Royce - Sinfin,2044,hydrogen,0.4759
+Rolls-Royce - Sinfin,2046,electricity,0.1487
+Rolls-Royce - Sinfin,2046,gas,0.6319
+Rolls-Royce - Sinfin,2046,hydrogen,0.4759
+Rolls-Royce - Sinfin,2048,electricity,0.7209
+Rolls-Royce - Sinfin,2048,gas,0.0046
+Rolls-Royce - Sinfin,2048,hydrogen,0.4759
+Rolls-Royce - Sinfin,2050,electricity,0.7209
+Rolls-Royce - Sinfin,2050,hydrogen,0.4759
+Rugby Works,2026,gas,3.7491
+Rugby Works,2028,gas,3.9737
+Rugby Works,2030,gas,4.3174
+Rugby Works,2032,gas,4.3481
+Rugby Works,2034,gas,4.3788
+Rugby Works,2036,gas,1.8675
+Rugby Works,2038,gas,3.0499
+Rugby Works,2040,gas,3.0499
+Rugby Works,2042,gas,4.7166
+Rugby Works,2044,gas,4.7166
+Rugby Works,2046,gas,4.7166
+Rugby Works,2048,gas,4.7166
+Rugby Works,2050,gas,4.7166
+Saint-Gobain Glass (United Kingdom) Limited,2026,gas,1.8177
+Saint-Gobain Glass (United Kingdom) Limited,2028,gas,1.8177
+Saint-Gobain Glass (United Kingdom) Limited,2030,gas,1.8177
+Saint-Gobain Glass (United Kingdom) Limited,2032,gas,1.827
+Saint-Gobain Glass (United Kingdom) Limited,2034,gas,1.8363
+Saint-Gobain Glass (United Kingdom) Limited,2036,gas,1.6545
+Saint-Gobain Glass (United Kingdom) Limited,2036,hydrogen,0.1758
+Saint-Gobain Glass (United Kingdom) Limited,2038,gas,1.6493
+Saint-Gobain Glass (United Kingdom) Limited,2038,hydrogen,0.1758
+Saint-Gobain Glass (United Kingdom) Limited,2040,gas,1.4675
+Saint-Gobain Glass (United Kingdom) Limited,2040,hydrogen,0.3587
+Saint-Gobain Glass (United Kingdom) Limited,2042,electricity,0.0557
+Saint-Gobain Glass (United Kingdom) Limited,2042,gas,1.2858
+Saint-Gobain Glass (United Kingdom) Limited,2042,hydrogen,0.3587
+Saint-Gobain Glass (United Kingdom) Limited,2044,biomass,0.1877
+Saint-Gobain Glass (United Kingdom) Limited,2044,electricity,0.0557
+Saint-Gobain Glass (United Kingdom) Limited,2044,gas,1.104
+Saint-Gobain Glass (United Kingdom) Limited,2044,hydrogen,0.3587
+Saint-Gobain Glass (United Kingdom) Limited,2046,biomass,0.1877
+Saint-Gobain Glass (United Kingdom) Limited,2046,electricity,0.1114
+Saint-Gobain Glass (United Kingdom) Limited,2046,gas,0.9222
+Saint-Gobain Glass (United Kingdom) Limited,2046,hydrogen,0.3587
+Saint-Gobain Glass (United Kingdom) Limited,2048,biomass,0.1877
+Saint-Gobain Glass (United Kingdom) Limited,2048,electricity,0.5981
+Saint-Gobain Glass (United Kingdom) Limited,2048,gas,0.3873
+Saint-Gobain Glass (United Kingdom) Limited,2048,hydrogen,0.3587
+Saint-Gobain Glass (United Kingdom) Limited,2050,biomass,0.1877
+Saint-Gobain Glass (United Kingdom) Limited,2050,electricity,0.5981
+Saint-Gobain Glass (United Kingdom) Limited,2050,gas,0.3821
+Saint-Gobain Glass (United Kingdom) Limited,2050,hydrogen,0.3587
+Scunthorpe Integrated Iron & Steel Works,2026,gas,4.9367
+Scunthorpe Integrated Iron & Steel Works,2028,electricity,3.6203
+Scunthorpe Integrated Iron & Steel Works,2030,electricity,3.6203
+Scunthorpe Integrated Iron & Steel Works,2032,electricity,3.6203
+Scunthorpe Integrated Iron & Steel Works,2034,electricity,3.6203
+Scunthorpe Integrated Iron & Steel Works,2036,electricity,3.6203
+Scunthorpe Integrated Iron & Steel Works,2038,electricity,3.6203
+Scunthorpe Integrated Iron & Steel Works,2040,electricity,3.6203
+Scunthorpe Integrated Iron & Steel Works,2042,electricity,3.6203
+Scunthorpe Integrated Iron & Steel Works,2044,electricity,3.6203
+Scunthorpe Integrated Iron & Steel Works,2046,electricity,3.6203
+Scunthorpe Integrated Iron & Steel Works,2048,electricity,3.6203
+Scunthorpe Integrated Iron & Steel Works,2050,electricity,3.6203
+Selby Wheat Processing Facility,2026,gas,2.0532
+Selby Wheat Processing Facility,2028,gas,2.0532
+Selby Wheat Processing Facility,2030,gas,2.0532
+Selby Wheat Processing Facility,2032,gas,1.8478
+Selby Wheat Processing Facility,2032,hydrogen,0.1985
+Selby Wheat Processing Facility,2034,gas,1.8583
+Selby Wheat Processing Facility,2034,hydrogen,0.1985
+Selby Wheat Processing Facility,2036,biomass,0.2037
+Selby Wheat Processing Facility,2036,gas,1.653
+Selby Wheat Processing Facility,2036,hydrogen,0.1985
+Selby Wheat Processing Facility,2038,biomass,0.2037
+Selby Wheat Processing Facility,2038,gas,1.6471
+Selby Wheat Processing Facility,2038,hydrogen,0.1985
+Selby Wheat Processing Facility,2040,biomass,0.2037
+Selby Wheat Processing Facility,2040,gas,1.6252
+Selby Wheat Processing Facility,2040,hydrogen,0.2365
+Selby Wheat Processing Facility,2042,biomass,0.2037
+Selby Wheat Processing Facility,2042,electricity,0.0629
+Selby Wheat Processing Facility,2042,gas,1.4199
+Selby Wheat Processing Facility,2042,hydrogen,0.2365
+Selby Wheat Processing Facility,2044,biomass,0.2037
+Selby Wheat Processing Facility,2044,electricity,0.0629
+Selby Wheat Processing Facility,2044,gas,1.2145
+Selby Wheat Processing Facility,2044,hydrogen,0.4431
+Selby Wheat Processing Facility,2046,biomass,0.2037
+Selby Wheat Processing Facility,2046,electricity,0.1258
+Selby Wheat Processing Facility,2046,gas,1.0092
+Selby Wheat Processing Facility,2046,hydrogen,0.4431
+Selby Wheat Processing Facility,2048,biomass,0.2037
+Selby Wheat Processing Facility,2048,electricity,0.6756
+Selby Wheat Processing Facility,2048,gas,0.405
+Selby Wheat Processing Facility,2048,hydrogen,0.4431
+Selby Wheat Processing Facility,2050,biomass,0.2037
+Selby Wheat Processing Facility,2050,electricity,0.6756
+Selby Wheat Processing Facility,2050,gas,0.3992
+Selby Wheat Processing Facility,2050,hydrogen,0.4431
+Sellafield Site,2026,gas,2.6097
+Sellafield Site,2028,gas,2.6097
+Sellafield Site,2030,gas,2.6097
+Sellafield Site,2032,gas,2.3487
+Sellafield Site,2032,hydrogen,0.2524
+Sellafield Site,2034,gas,2.0878
+Sellafield Site,2034,hydrogen,0.5047
+Sellafield Site,2036,gas,1.8268
+Sellafield Site,2036,hydrogen,0.7571
+Sellafield Site,2038,gas,1.5658
+Sellafield Site,2038,hydrogen,1.0197
+Sellafield Site,2040,electricity,0.0513
+Sellafield Site,2040,gas,1.3048
+Sellafield Site,2040,hydrogen,1.1138
+Sellafield Site,2042,electricity,0.0513
+Sellafield Site,2042,gas,1.0438
+Sellafield Site,2042,hydrogen,1.3765
+Sellafield Site,2044,electricity,0.0513
+Sellafield Site,2044,gas,0.7829
+Sellafield Site,2044,hydrogen,1.6391
+Sellafield Site,2046,electricity,0.1312
+Sellafield Site,2046,gas,0.5219
+Sellafield Site,2046,hydrogen,1.6391
+Sellafield Site,2048,electricity,0.5971
+Sellafield Site,2048,gas,0.0075
+Sellafield Site,2048,hydrogen,1.6391
+Sellafield Site,2050,electricity,0.5971
+Sellafield Site,2050,hydrogen,1.6391
+Shell UK Limited Fife NGL Plant,2026,biomass,0.0
+Shell UK Limited Fife NGL Plant,2026,gas,2.313
+Shell UK Limited Fife NGL Plant,2028,biomass,0.0
+Shell UK Limited Fife NGL Plant,2028,gas,2.313
+Shell UK Limited Fife NGL Plant,2030,biomass,0.0
+Shell UK Limited Fife NGL Plant,2030,gas,2.313
+Shell UK Limited Fife NGL Plant,2032,biomass,0.0
+Shell UK Limited Fife NGL Plant,2032,gas,2.0817
+Shell UK Limited Fife NGL Plant,2032,hydrogen,0.2237
+Shell UK Limited Fife NGL Plant,2034,biomass,0.0
+Shell UK Limited Fife NGL Plant,2034,gas,2.0935
+Shell UK Limited Fife NGL Plant,2034,hydrogen,0.2237
+Shell UK Limited Fife NGL Plant,2036,biomass,0.2295
+Shell UK Limited Fife NGL Plant,2036,gas,1.8622
+Shell UK Limited Fife NGL Plant,2036,hydrogen,0.2237
+Shell UK Limited Fife NGL Plant,2038,biomass,0.2295
+Shell UK Limited Fife NGL Plant,2038,gas,1.8839
+Shell UK Limited Fife NGL Plant,2038,hydrogen,0.2237
+Shell UK Limited Fife NGL Plant,2040,biomass,0.2295
+Shell UK Limited Fife NGL Plant,2040,electricity,0.0708
+Shell UK Limited Fife NGL Plant,2040,gas,1.6526
+Shell UK Limited Fife NGL Plant,2040,hydrogen,0.2237
+Shell UK Limited Fife NGL Plant,2042,biomass,0.2295
+Shell UK Limited Fife NGL Plant,2042,electricity,0.1417
+Shell UK Limited Fife NGL Plant,2042,gas,1.4213
+Shell UK Limited Fife NGL Plant,2042,hydrogen,0.2237
+Shell UK Limited Fife NGL Plant,2044,biomass,0.2295
+Shell UK Limited Fife NGL Plant,2044,electricity,0.1417
+Shell UK Limited Fife NGL Plant,2044,gas,1.4431
+Shell UK Limited Fife NGL Plant,2044,hydrogen,0.2237
+Shell UK Limited Fife NGL Plant,2046,biomass,0.2295
+Shell UK Limited Fife NGL Plant,2046,electricity,0.2125
+Shell UK Limited Fife NGL Plant,2046,gas,1.2118
+Shell UK Limited Fife NGL Plant,2046,hydrogen,0.2237
+Shell UK Limited Fife NGL Plant,2048,biomass,0.2295
+Shell UK Limited Fife NGL Plant,2048,electricity,0.6255
+Shell UK Limited Fife NGL Plant,2048,gas,0.7558
+Shell UK Limited Fife NGL Plant,2048,hydrogen,0.2237
+Shell UK Limited Fife NGL Plant,2050,biomass,0.2295
+Shell UK Limited Fife NGL Plant,2050,electricity,0.6255
+Shell UK Limited Fife NGL Plant,2050,gas,0.7492
+Shell UK Limited Fife NGL Plant,2050,hydrogen,0.2237
+Sherburn Gypsum Works,2026,biomass,0.0
+Sherburn Gypsum Works,2026,gas,0.6504
+Sherburn Gypsum Works,2028,biomass,0.0692
+Sherburn Gypsum Works,2028,gas,0.5854
+Sherburn Gypsum Works,2030,biomass,0.1383
+Sherburn Gypsum Works,2030,gas,0.5204
+Sherburn Gypsum Works,2032,biomass,0.1383
+Sherburn Gypsum Works,2032,gas,0.4553
+Sherburn Gypsum Works,2032,hydrogen,0.0629
+Sherburn Gypsum Works,2034,biomass,0.1383
+Sherburn Gypsum Works,2034,gas,0.3903
+Sherburn Gypsum Works,2034,hydrogen,0.1258
+Sherburn Gypsum Works,2036,biomass,0.1383
+Sherburn Gypsum Works,2036,gas,0.3252
+Sherburn Gypsum Works,2036,hydrogen,0.1887
+Sherburn Gypsum Works,2038,biomass,0.1383
+Sherburn Gypsum Works,2038,gas,0.2602
+Sherburn Gypsum Works,2038,hydrogen,0.2542
+Sherburn Gypsum Works,2040,biomass,0.1383
+Sherburn Gypsum Works,2040,gas,0.1951
+Sherburn Gypsum Works,2040,hydrogen,0.3196
+Sherburn Gypsum Works,2042,biomass,0.1383
+Sherburn Gypsum Works,2042,gas,0.0669
+Sherburn Gypsum Works,2042,hydrogen,0.4505
+Sherburn Gypsum Works,2044,biomass,0.1383
+Sherburn Gypsum Works,2044,gas,0.065
+Sherburn Gypsum Works,2044,hydrogen,0.4505
+Sherburn Gypsum Works,2046,biomass,0.1383
+Sherburn Gypsum Works,2046,gas,0.0037
+Sherburn Gypsum Works,2046,hydrogen,0.5122
+Sherburn Gypsum Works,2048,biomass,0.1383
+Sherburn Gypsum Works,2048,gas,0.0019
+Sherburn Gypsum Works,2048,hydrogen,0.5122
+Sherburn Gypsum Works,2050,biomass,0.1383
+Sherburn Gypsum Works,2050,hydrogen,0.5122
+Smurfit Westrock SSK,2026,biomass,0.0001
+Smurfit Westrock SSK,2026,gas,1.2213
+Smurfit Westrock SSK,2028,biomass,0.0001
+Smurfit Westrock SSK,2028,gas,1.2213
+Smurfit Westrock SSK,2030,biomass,0.0001
+Smurfit Westrock SSK,2030,gas,1.2213
+Smurfit Westrock SSK,2032,biomass,0.0001
+Smurfit Westrock SSK,2032,gas,1.2131
+Smurfit Westrock SSK,2034,biomass,0.0001
+Smurfit Westrock SSK,2034,gas,1.2194
+Smurfit Westrock SSK,2036,biomass,0.0001
+Smurfit Westrock SSK,2036,gas,1.2112
+Smurfit Westrock SSK,2038,biomass,0.0001
+Smurfit Westrock SSK,2038,gas,1.2077
+Smurfit Westrock SSK,2040,biomass,0.0001
+Smurfit Westrock SSK,2040,gas,1.0856
+Smurfit Westrock SSK,2040,hydrogen,0.1229
+Smurfit Westrock SSK,2042,biomass,0.0001
+Smurfit Westrock SSK,2042,electricity,0.0374
+Smurfit Westrock SSK,2042,gas,0.9635
+Smurfit Westrock SSK,2042,hydrogen,0.1229
+Smurfit Westrock SSK,2044,biomass,0.0001
+Smurfit Westrock SSK,2044,electricity,0.0374
+Smurfit Westrock SSK,2044,gas,0.8414
+Smurfit Westrock SSK,2044,hydrogen,0.2458
+Smurfit Westrock SSK,2046,biomass,0.0001
+Smurfit Westrock SSK,2046,electricity,0.0374
+Smurfit Westrock SSK,2046,gas,0.7192
+Smurfit Westrock SSK,2046,hydrogen,0.3687
+Smurfit Westrock SSK,2048,biomass,0.0001
+Smurfit Westrock SSK,2048,electricity,0.4832
+Smurfit Westrock SSK,2048,gas,0.1319
+Smurfit Westrock SSK,2048,hydrogen,0.3687
+Smurfit Westrock SSK,2050,biomass,0.0001
+Smurfit Westrock SSK,2050,electricity,0.4832
+Smurfit Westrock SSK,2050,gas,0.1284
+Smurfit Westrock SSK,2050,hydrogen,0.3687
+Smurfit Westrock Townsend Hook,2026,biomass,0.0
+Smurfit Westrock Townsend Hook,2026,gas,1.5008
+Smurfit Westrock Townsend Hook,2028,biomass,0.0
+Smurfit Westrock Townsend Hook,2028,gas,1.5008
+Smurfit Westrock Townsend Hook,2030,biomass,0.0
+Smurfit Westrock Townsend Hook,2030,gas,1.5008
+Smurfit Westrock Townsend Hook,2032,biomass,0.0
+Smurfit Westrock Townsend Hook,2032,gas,1.3507
+Smurfit Westrock Townsend Hook,2032,hydrogen,0.1451
+Smurfit Westrock Townsend Hook,2034,biomass,0.0
+Smurfit Westrock Townsend Hook,2034,gas,1.2006
+Smurfit Westrock Townsend Hook,2034,hydrogen,0.2902
+Smurfit Westrock Townsend Hook,2036,biomass,0.0
+Smurfit Westrock Townsend Hook,2036,gas,1.1906
+Smurfit Westrock Townsend Hook,2036,hydrogen,0.2902
+Smurfit Westrock Townsend Hook,2038,biomass,0.0
+Smurfit Westrock Townsend Hook,2038,gas,1.1863
+Smurfit Westrock Townsend Hook,2038,hydrogen,0.2902
+Smurfit Westrock Townsend Hook,2040,biomass,0.0
+Smurfit Westrock Townsend Hook,2040,gas,1.2004
+Smurfit Westrock Townsend Hook,2040,hydrogen,0.2902
+Smurfit Westrock Townsend Hook,2042,biomass,0.155
+Smurfit Westrock Townsend Hook,2042,gas,1.0504
+Smurfit Westrock Townsend Hook,2042,hydrogen,0.2902
+Smurfit Westrock Townsend Hook,2044,biomass,0.31
+Smurfit Westrock Townsend Hook,2044,gas,0.9003
+Smurfit Westrock Townsend Hook,2044,hydrogen,0.2902
+Smurfit Westrock Townsend Hook,2046,biomass,0.31
+Smurfit Westrock Townsend Hook,2046,electricity,0.046
+Smurfit Westrock Townsend Hook,2046,gas,0.7502
+Smurfit Westrock Townsend Hook,2046,hydrogen,0.2902
+Smurfit Westrock Townsend Hook,2048,biomass,0.31
+Smurfit Westrock Townsend Hook,2048,electricity,0.5766
+Smurfit Westrock Townsend Hook,2048,gas,0.1685
+Smurfit Westrock Townsend Hook,2048,hydrogen,0.2902
+Smurfit Westrock Townsend Hook,2050,biomass,0.31
+Smurfit Westrock Townsend Hook,2050,electricity,0.5766
+Smurfit Westrock Townsend Hook,2050,gas,0.1642
+Smurfit Westrock Townsend Hook,2050,hydrogen,0.2902
+Solutia UK Limited - Newport,2026,biomass,0.0775
+Solutia UK Limited - Newport,2026,gas,0.6564
+Solutia UK Limited - Newport,2028,biomass,0.0775
+Solutia UK Limited - Newport,2028,gas,0.6564
+Solutia UK Limited - Newport,2030,biomass,0.1551
+Solutia UK Limited - Newport,2030,gas,0.5835
+Solutia UK Limited - Newport,2032,biomass,0.1551
+Solutia UK Limited - Newport,2032,gas,0.5106
+Solutia UK Limited - Newport,2032,hydrogen,0.0705
+Solutia UK Limited - Newport,2034,biomass,0.1551
+Solutia UK Limited - Newport,2034,gas,0.3695
+Solutia UK Limited - Newport,2034,hydrogen,0.2116
+Solutia UK Limited - Newport,2036,biomass,0.1551
+Solutia UK Limited - Newport,2036,gas,0.3647
+Solutia UK Limited - Newport,2036,hydrogen,0.2116
+Solutia UK Limited - Newport,2038,biomass,0.1551
+Solutia UK Limited - Newport,2038,gas,0.2917
+Solutia UK Limited - Newport,2038,hydrogen,0.285
+Solutia UK Limited - Newport,2040,biomass,0.1551
+Solutia UK Limited - Newport,2040,gas,0.2188
+Solutia UK Limited - Newport,2040,hydrogen,0.3584
+Solutia UK Limited - Newport,2042,biomass,0.1551
+Solutia UK Limited - Newport,2042,gas,0.075
+Solutia UK Limited - Newport,2042,hydrogen,0.5052
+Solutia UK Limited - Newport,2044,biomass,0.1551
+Solutia UK Limited - Newport,2044,gas,0.0729
+Solutia UK Limited - Newport,2044,hydrogen,0.5052
+Solutia UK Limited - Newport,2046,biomass,0.1551
+Solutia UK Limited - Newport,2046,gas,0.0042
+Solutia UK Limited - Newport,2046,hydrogen,0.5743
+Solutia UK Limited - Newport,2048,biomass,0.1551
+Solutia UK Limited - Newport,2048,gas,0.0021
+Solutia UK Limited - Newport,2048,hydrogen,0.5743
+Solutia UK Limited - Newport,2050,biomass,0.1551
+Solutia UK Limited - Newport,2050,hydrogen,0.5743
+Stanlow Manufacturing Complex,2026,gas,34.1682
+Stanlow Manufacturing Complex,2028,gas,34.1682
+Stanlow Manufacturing Complex,2030,gas,34.1682
+Stanlow Manufacturing Complex,2032,electricity,0.0308
+Stanlow Manufacturing Complex,2032,gas,33.8428
+Stanlow Manufacturing Complex,2034,electricity,0.0308
+Stanlow Manufacturing Complex,2034,gas,33.615
+Stanlow Manufacturing Complex,2036,electricity,0.0308
+Stanlow Manufacturing Complex,2036,gas,33.3873
+Stanlow Manufacturing Complex,2038,electricity,0.9397
+Stanlow Manufacturing Complex,2038,gas,30.407
+Stanlow Manufacturing Complex,2040,electricity,3.9898
+Stanlow Manufacturing Complex,2040,gas,26.9902
+Stanlow Manufacturing Complex,2042,electricity,7.0399
+Stanlow Manufacturing Complex,2042,gas,23.5733
+Stanlow Manufacturing Complex,2044,electricity,10.09
+Stanlow Manufacturing Complex,2044,gas,20.1565
+Stanlow Manufacturing Complex,2046,electricity,24.3468
+Stanlow Manufacturing Complex,2046,gas,4.5441
+Stanlow Manufacturing Complex,2048,electricity,28.4327
+Stanlow Manufacturing Complex,2050,electricity,28.402
+Syngenta Limited,2026,biomass,0.0001
+Syngenta Limited,2026,gas,1.0978
+Syngenta Limited,2028,biomass,0.0001
+Syngenta Limited,2028,gas,1.0978
+Syngenta Limited,2030,biomass,0.0001
+Syngenta Limited,2030,gas,1.0978
+Syngenta Limited,2032,biomass,0.0001
+Syngenta Limited,2032,gas,1.0905
+Syngenta Limited,2034,biomass,0.0001
+Syngenta Limited,2034,gas,1.0832
+Syngenta Limited,2036,biomass,0.0001
+Syngenta Limited,2036,gas,1.0758
+Syngenta Limited,2038,biomass,0.0001
+Syngenta Limited,2038,gas,1.0727
+Syngenta Limited,2040,biomass,0.0001
+Syngenta Limited,2040,electricity,0.0336
+Syngenta Limited,2040,gas,0.9629
+Syngenta Limited,2042,biomass,0.0001
+Syngenta Limited,2042,electricity,0.0673
+Syngenta Limited,2042,gas,0.8531
+Syngenta Limited,2044,biomass,0.1135
+Syngenta Limited,2044,electricity,0.0673
+Syngenta Limited,2044,gas,0.7434
+Syngenta Limited,2046,biomass,0.1135
+Syngenta Limited,2046,electricity,0.1009
+Syngenta Limited,2046,gas,0.6336
+Syngenta Limited,2048,biomass,0.1135
+Syngenta Limited,2048,electricity,0.6773
+Syngenta Limited,2048,gas,0.0031
+Syngenta Limited,2050,biomass,0.1135
+Syngenta Limited,2050,electricity,0.6773
+Tata Steel Colors,2026,gas,0.0842
+Tata Steel Colors,2028,electricity,0.005
+Tata Steel Colors,2028,gas,0.0775
+Tata Steel Colors,2030,electricity,0.0618
+Tata Steel Colors,2032,electricity,0.0618
+Tata Steel Colors,2034,electricity,0.0618
+Tata Steel Colors,2036,electricity,0.0618
+Tata Steel Colors,2038,electricity,0.0618
+Tata Steel Colors,2040,electricity,0.0618
+Tata Steel Colors,2042,electricity,0.0618
+Tata Steel Colors,2044,electricity,0.0618
+Tata Steel Colors,2046,electricity,0.0618
+Tata Steel Colors,2048,electricity,0.0618
+Tata Steel Colors,2050,electricity,0.0618
+Tata Steel Packaging Plus UK,2026,gas,0.0608
+Tata Steel Packaging Plus UK,2028,electricity,0.0037
+Tata Steel Packaging Plus UK,2028,gas,0.0559
+Tata Steel Packaging Plus UK,2030,electricity,0.0447
+Tata Steel Packaging Plus UK,2032,electricity,0.0447
+Tata Steel Packaging Plus UK,2034,electricity,0.0447
+Tata Steel Packaging Plus UK,2036,electricity,0.0447
+Tata Steel Packaging Plus UK,2038,electricity,0.0447
+Tata Steel Packaging Plus UK,2040,electricity,0.0447
+Tata Steel Packaging Plus UK,2042,electricity,0.0447
+Tata Steel Packaging Plus UK,2044,electricity,0.0447
+Tata Steel Packaging Plus UK,2046,electricity,0.0447
+Tata Steel Packaging Plus UK,2048,electricity,0.0447
+Tata Steel Packaging Plus UK,2050,electricity,0.0447
+Tate and Lyle Sugars,2026,gas,1.7448
+Tate and Lyle Sugars,2028,gas,1.7448
+Tate and Lyle Sugars,2030,gas,1.7448
+Tate and Lyle Sugars,2032,biomass,0.1731
+Tate and Lyle Sugars,2032,gas,1.5703
+Tate and Lyle Sugars,2034,biomass,0.3462
+Tate and Lyle Sugars,2034,gas,1.3958
+Tate and Lyle Sugars,2036,biomass,0.3462
+Tate and Lyle Sugars,2036,gas,1.3184
+Tate and Lyle Sugars,2036,hydrogen,0.0682
+Tate and Lyle Sugars,2038,biomass,0.3462
+Tate and Lyle Sugars,2038,gas,1.3134
+Tate and Lyle Sugars,2038,hydrogen,0.0682
+Tate and Lyle Sugars,2040,biomass,0.3462
+Tate and Lyle Sugars,2040,gas,1.3298
+Tate and Lyle Sugars,2040,hydrogen,0.0682
+Tate and Lyle Sugars,2042,biomass,0.3462
+Tate and Lyle Sugars,2042,electricity,0.0534
+Tate and Lyle Sugars,2042,gas,1.1553
+Tate and Lyle Sugars,2042,hydrogen,0.0682
+Tate and Lyle Sugars,2044,biomass,0.3462
+Tate and Lyle Sugars,2044,electricity,0.1069
+Tate and Lyle Sugars,2044,gas,0.9808
+Tate and Lyle Sugars,2044,hydrogen,0.0682
+Tate and Lyle Sugars,2046,biomass,0.3462
+Tate and Lyle Sugars,2046,electricity,0.1069
+Tate and Lyle Sugars,2046,gas,0.8063
+Tate and Lyle Sugars,2046,hydrogen,0.2438
+Tate and Lyle Sugars,2048,biomass,0.3462
+Tate and Lyle Sugars,2048,electricity,0.6633
+Tate and Lyle Sugars,2048,gas,0.1959
+Tate and Lyle Sugars,2048,hydrogen,0.2438
+Tate and Lyle Sugars,2050,biomass,0.3462
+Tate and Lyle Sugars,2050,electricity,0.6633
+Tate and Lyle Sugars,2050,gas,0.1909
+Tate and Lyle Sugars,2050,hydrogen,0.2438
+Teesside Beam Mill,2026,gas,0.0942
+Teesside Beam Mill,2028,electricity,0.0055
+Teesside Beam Mill,2028,gas,0.0867
+Teesside Beam Mill,2030,electricity,0.0691
+Teesside Beam Mill,2032,electricity,0.0691
+Teesside Beam Mill,2034,electricity,0.0691
+Teesside Beam Mill,2036,electricity,0.0691
+Teesside Beam Mill,2038,electricity,0.0691
+Teesside Beam Mill,2040,electricity,0.0691
+Teesside Beam Mill,2042,electricity,0.0691
+Teesside Beam Mill,2044,electricity,0.0691
+Teesside Beam Mill,2046,electricity,0.0691
+Teesside Beam Mill,2048,electricity,0.0691
+Teesside Beam Mill,2050,electricity,0.0691
+Teesside Hydrogen Plant,2026,biomass,0.0001
+Teesside Hydrogen Plant,2026,gas,3.0655
+Teesside Hydrogen Plant,2028,biomass,0.0001
+Teesside Hydrogen Plant,2028,gas,3.0655
+Teesside Hydrogen Plant,2030,biomass,0.0001
+Teesside Hydrogen Plant,2030,gas,3.0655
+Teesside Hydrogen Plant,2032,biomass,0.0001
+Teesside Hydrogen Plant,2032,gas,2.759
+Teesside Hydrogen Plant,2032,hydrogen,0.2964
+Teesside Hydrogen Plant,2034,biomass,0.0001
+Teesside Hydrogen Plant,2034,gas,2.4524
+Teesside Hydrogen Plant,2034,hydrogen,0.5929
+Teesside Hydrogen Plant,2036,biomass,0.0001
+Teesside Hydrogen Plant,2036,gas,2.1459
+Teesside Hydrogen Plant,2036,hydrogen,0.8893
+Teesside Hydrogen Plant,2038,biomass,0.0001
+Teesside Hydrogen Plant,2038,gas,1.8393
+Teesside Hydrogen Plant,2038,hydrogen,1.1978
+Teesside Hydrogen Plant,2040,biomass,0.0001
+Teesside Hydrogen Plant,2040,electricity,0.0939
+Teesside Hydrogen Plant,2040,gas,1.5328
+Teesside Hydrogen Plant,2040,hydrogen,1.1978
+Teesside Hydrogen Plant,2042,biomass,0.0001
+Teesside Hydrogen Plant,2042,electricity,0.1878
+Teesside Hydrogen Plant,2042,gas,1.2262
+Teesside Hydrogen Plant,2042,hydrogen,1.1978
+Teesside Hydrogen Plant,2044,biomass,0.0001
+Teesside Hydrogen Plant,2044,electricity,0.2817
+Teesside Hydrogen Plant,2044,gas,0.9197
+Teesside Hydrogen Plant,2044,hydrogen,1.1978
+Teesside Hydrogen Plant,2046,biomass,0.0001
+Teesside Hydrogen Plant,2046,electricity,0.3756
+Teesside Hydrogen Plant,2046,gas,0.6131
+Teesside Hydrogen Plant,2046,hydrogen,1.1978
+Teesside Hydrogen Plant,2048,biomass,0.0001
+Teesside Hydrogen Plant,2048,electricity,0.9309
+Teesside Hydrogen Plant,2048,hydrogen,1.1978
+Teesside Hydrogen Plant,2050,biomass,0.0001
+Teesside Hydrogen Plant,2050,electricity,0.9309
+Teesside Hydrogen Plant,2050,hydrogen,1.1887
+The Girvan Distillery,2026,biomass,0.0
+The Girvan Distillery,2026,gas,1.3041
+The Girvan Distillery,2028,biomass,0.0
+The Girvan Distillery,2028,gas,1.3041
+The Girvan Distillery,2030,biomass,0.0
+The Girvan Distillery,2030,gas,1.3041
+The Girvan Distillery,2032,biomass,0.0
+The Girvan Distillery,2032,gas,1.2954
+The Girvan Distillery,2034,biomass,0.1294
+The Girvan Distillery,2034,gas,1.165
+The Girvan Distillery,2036,biomass,0.1294
+The Girvan Distillery,2036,gas,1.1563
+The Girvan Distillery,2038,biomass,0.1294
+The Girvan Distillery,2038,gas,1.1526
+The Girvan Distillery,2040,biomass,0.1294
+The Girvan Distillery,2040,electricity,0.0399
+The Girvan Distillery,2040,gas,1.0222
+The Girvan Distillery,2042,biomass,0.1294
+The Girvan Distillery,2042,electricity,0.0799
+The Girvan Distillery,2042,gas,0.8918
+The Girvan Distillery,2044,biomass,0.1294
+The Girvan Distillery,2044,electricity,0.0799
+The Girvan Distillery,2044,gas,0.7613
+The Girvan Distillery,2044,hydrogen,0.1312
+The Girvan Distillery,2046,biomass,0.1294
+The Girvan Distillery,2046,electricity,0.0799
+The Girvan Distillery,2046,gas,0.6309
+The Girvan Distillery,2046,hydrogen,0.2625
+The Girvan Distillery,2048,biomass,0.1294
+The Girvan Distillery,2048,electricity,0.6528
+The Girvan Distillery,2048,gas,0.0037
+The Girvan Distillery,2048,hydrogen,0.2625
+The Girvan Distillery,2050,biomass,0.1294
+The Girvan Distillery,2050,electricity,0.6528
+The Girvan Distillery,2050,hydrogen,0.2625
+The Lycra Company UK Limited,2026,biomass,0.1835
+The Lycra Company UK Limited,2026,gas,0.6905
+The Lycra Company UK Limited,2028,biomass,0.1835
+The Lycra Company UK Limited,2028,gas,0.6905
+The Lycra Company UK Limited,2030,biomass,0.1835
+The Lycra Company UK Limited,2030,gas,0.6905
+The Lycra Company UK Limited,2032,biomass,0.1835
+The Lycra Company UK Limited,2032,gas,0.6042
+The Lycra Company UK Limited,2032,hydrogen,0.0835
+The Lycra Company UK Limited,2034,biomass,0.1835
+The Lycra Company UK Limited,2034,gas,0.3535
+The Lycra Company UK Limited,2034,hydrogen,0.3373
+The Lycra Company UK Limited,2036,biomass,0.1835
+The Lycra Company UK Limited,2036,gas,0.3477
+The Lycra Company UK Limited,2036,hydrogen,0.3373
+The Lycra Company UK Limited,2038,biomass,0.1835
+The Lycra Company UK Limited,2038,gas,0.3453
+The Lycra Company UK Limited,2038,hydrogen,0.3373
+The Lycra Company UK Limited,2040,biomass,0.1835
+The Lycra Company UK Limited,2040,gas,0.0099
+The Lycra Company UK Limited,2040,hydrogen,0.6822
+The Lycra Company UK Limited,2042,biomass,0.1835
+The Lycra Company UK Limited,2042,gas,0.0074
+The Lycra Company UK Limited,2042,hydrogen,0.6822
+The Lycra Company UK Limited,2044,biomass,0.1835
+The Lycra Company UK Limited,2044,gas,0.0049
+The Lycra Company UK Limited,2044,hydrogen,0.6822
+The Lycra Company UK Limited,2046,biomass,0.1835
+The Lycra Company UK Limited,2046,gas,0.0025
+The Lycra Company UK Limited,2046,hydrogen,0.6822
+The Lycra Company UK Limited,2048,biomass,0.1835
+The Lycra Company UK Limited,2048,hydrogen,0.6822
+The Lycra Company UK Limited,2050,biomass,0.1835
+The Lycra Company UK Limited,2050,hydrogen,0.6796
+Tronox Pigment - CHP Plant,2026,gas,2.508
+Tronox Pigment - CHP Plant,2028,gas,2.508
+Tronox Pigment - CHP Plant,2030,gas,2.508
+Tronox Pigment - CHP Plant,2032,gas,2.5208
+Tronox Pigment - CHP Plant,2034,gas,2.5337
+Tronox Pigment - CHP Plant,2036,biomass,0.2489
+Tronox Pigment - CHP Plant,2036,gas,2.2828
+Tronox Pigment - CHP Plant,2038,biomass,0.5079
+Tronox Pigment - CHP Plant,2038,gas,2.032
+Tronox Pigment - CHP Plant,2040,biomass,0.5079
+Tronox Pigment - CHP Plant,2040,gas,2.0556
+Tronox Pigment - CHP Plant,2042,biomass,0.5079
+Tronox Pigment - CHP Plant,2042,gas,2.0792
+Tronox Pigment - CHP Plant,2044,biomass,0.7669
+Tronox Pigment - CHP Plant,2044,gas,1.8284
+Tronox Pigment - CHP Plant,2046,biomass,0.7669
+Tronox Pigment - CHP Plant,2046,electricity,0.0768
+Tronox Pigment - CHP Plant,2046,gas,1.5775
+Tronox Pigment - CHP Plant,2048,biomass,0.7669
+Tronox Pigment - CHP Plant,2048,electricity,0.5246
+Tronox Pigment - CHP Plant,2048,gas,1.0831
+Tronox Pigment - CHP Plant,2050,biomass,0.7669
+Tronox Pigment - CHP Plant,2050,electricity,0.5246
+Tronox Pigment - CHP Plant,2050,gas,1.076
+Tunstead Cement,2026,gas,2.3267
+Tunstead Cement,2028,gas,2.4661
+Tunstead Cement,2030,gas,2.6793
+Tunstead Cement,2032,gas,2.6983
+Tunstead Cement,2034,gas,2.5315
+Tunstead Cement,2036,gas,2.7365
+Tunstead Cement,2038,gas,1.0684
+Tunstead Cement,2040,gas,2.6434
+Tunstead Cement,2042,gas,2.6434
+Tunstead Cement,2044,gas,2.9271
+Tunstead Cement,2046,gas,2.9271
+Tunstead Cement,2048,gas,2.9271
+Tunstead Cement,2050,gas,2.9271
+Tunstead Lime,2026,gas,6.3705
+Tunstead Lime,2028,biomass,0.6772
+Tunstead Lime,2028,gas,5.7335
+Tunstead Lime,2030,biomass,1.3351
+Tunstead Lime,2030,gas,5.1146
+Tunstead Lime,2032,biomass,1.9672
+Tunstead Lime,2032,gas,4.4776
+Tunstead Lime,2034,biomass,1.9672
+Tunstead Lime,2034,gas,3.8405
+Tunstead Lime,2034,hydrogen,0.616
+Tunstead Lime,2036,biomass,2.5992
+Tunstead Lime,2036,gas,3.2035
+Tunstead Lime,2036,hydrogen,0.616
+Tunstead Lime,2038,biomass,2.5992
+Tunstead Lime,2038,gas,2.5664
+Tunstead Lime,2038,hydrogen,1.2572
+Tunstead Lime,2040,biomass,2.5992
+Tunstead Lime,2040,electricity,0.1951
+Tunstead Lime,2040,gas,1.9294
+Tunstead Lime,2040,hydrogen,1.2572
+Tunstead Lime,2042,biomass,2.5992
+Tunstead Lime,2042,electricity,0.3903
+Tunstead Lime,2042,gas,1.2923
+Tunstead Lime,2042,hydrogen,1.2572
+Tunstead Lime,2044,biomass,2.5992
+Tunstead Lime,2044,electricity,0.3903
+Tunstead Lime,2044,gas,0.6553
+Tunstead Lime,2044,hydrogen,1.8983
+Tunstead Lime,2046,biomass,2.5992
+Tunstead Lime,2046,electricity,0.3903
+Tunstead Lime,2046,gas,0.7151
+Tunstead Lime,2046,hydrogen,1.8983
+Tunstead Lime,2048,biomass,2.5992
+Tunstead Lime,2048,electricity,0.3903
+Tunstead Lime,2048,gas,0.6969
+Tunstead Lime,2048,hydrogen,1.8983
+Tunstead Lime,2050,biomass,2.5992
+Tunstead Lime,2050,electricity,0.3903
+Tunstead Lime,2050,gas,0.6969
+Tunstead Lime,2050,hydrogen,1.8795
+"Valero, Pembroke",2026,gas,50.7087
+"Valero, Pembroke",2028,gas,50.7087
+"Valero, Pembroke",2030,electricity,1.5989
+"Valero, Pembroke",2030,gas,45.6378
+"Valero, Pembroke",2032,electricity,3.0913
+"Valero, Pembroke",2032,gas,40.5669
+"Valero, Pembroke",2034,electricity,4.5836
+"Valero, Pembroke",2034,gas,35.4961
+"Valero, Pembroke",2036,electricity,6.0759
+"Valero, Pembroke",2036,gas,30.4252
+"Valero, Pembroke",2038,electricity,10.6025
+"Valero, Pembroke",2038,gas,25.3543
+"Valero, Pembroke",2040,electricity,25.3182
+"Valero, Pembroke",2040,gas,9.1953
+"Valero, Pembroke",2042,electricity,33.6348
+"Valero, Pembroke",2044,electricity,34.6929
+"Valero, Pembroke",2046,electricity,38.093
+"Valero, Pembroke",2048,electricity,38.6954
+"Valero, Pembroke",2050,electricity,39.0198
+Venator Materials UK Limited,2026,gas,1.4733
+Venator Materials UK Limited,2028,gas,1.4733
+Venator Materials UK Limited,2030,gas,1.4733
+Venator Materials UK Limited,2032,biomass,0.1462
+Venator Materials UK Limited,2032,gas,1.326
+Venator Materials UK Limited,2034,biomass,0.2924
+Venator Materials UK Limited,2034,gas,1.1786
+Venator Materials UK Limited,2036,biomass,0.2924
+Venator Materials UK Limited,2036,gas,1.1688
+Venator Materials UK Limited,2038,biomass,0.2924
+Venator Materials UK Limited,2038,gas,1.1646
+Venator Materials UK Limited,2040,biomass,0.2924
+Venator Materials UK Limited,2040,electricity,0.0451
+Venator Materials UK Limited,2040,gas,1.0173
+Venator Materials UK Limited,2042,biomass,0.2924
+Venator Materials UK Limited,2042,electricity,0.0903
+Venator Materials UK Limited,2042,gas,0.8699
+Venator Materials UK Limited,2044,biomass,0.2924
+Venator Materials UK Limited,2044,electricity,0.1354
+Venator Materials UK Limited,2044,gas,0.7226
+Venator Materials UK Limited,2046,biomass,0.2924
+Venator Materials UK Limited,2046,electricity,0.1805
+Venator Materials UK Limited,2046,gas,0.5753
+Venator Materials UK Limited,2048,biomass,0.2924
+Venator Materials UK Limited,2048,electricity,0.7014
+Venator Materials UK Limited,2048,gas,0.0042
+Venator Materials UK Limited,2050,biomass,0.2924
+Venator Materials UK Limited,2050,electricity,0.7014
+Whittlesey,2026,biomass,0.2009
+Whittlesey,2026,gas,0.7563
+Whittlesey,2028,biomass,0.2009
+Whittlesey,2028,gas,0.7563
+Whittlesey,2030,biomass,0.2009
+Whittlesey,2030,gas,0.7563
+Whittlesey,2032,biomass,0.2918
+Whittlesey,2032,gas,0.6617
+Whittlesey,2032,hydrogen,0.0028
+Whittlesey,2034,biomass,0.2918
+Whittlesey,2034,gas,0.3871
+Whittlesey,2034,hydrogen,0.2808
+Whittlesey,2036,biomass,0.2918
+Whittlesey,2036,gas,0.3808
+Whittlesey,2036,hydrogen,0.2808
+Whittlesey,2038,biomass,0.2918
+Whittlesey,2038,gas,0.3781
+Whittlesey,2038,hydrogen,0.2808
+Whittlesey,2040,biomass,0.6795
+Whittlesey,2040,gas,0.0108
+Whittlesey,2040,hydrogen,0.2808
+Whittlesey,2042,biomass,0.6795
+Whittlesey,2042,gas,0.0081
+Whittlesey,2042,hydrogen,0.2808
+Whittlesey,2044,biomass,0.6795
+Whittlesey,2044,gas,0.0054
+Whittlesey,2044,hydrogen,0.2808
+Whittlesey,2046,biomass,0.6795
+Whittlesey,2046,gas,0.0027
+Whittlesey,2046,hydrogen,0.2808
+Whittlesey,2048,biomass,0.6795
+Whittlesey,2048,hydrogen,0.2808
+Whittlesey,2050,biomass,0.6795
+Whittlesey,2050,hydrogen,0.278
+Whitwell Works Lime Kiln Plant,2026,gas,3.3826
+Whitwell Works Lime Kiln Plant,2028,gas,3.4253
+Whitwell Works Lime Kiln Plant,2030,gas,3.4667
+Whitwell Works Lime Kiln Plant,2032,biomass,0.3356
+Whitwell Works Lime Kiln Plant,2032,gas,3.1284
+Whitwell Works Lime Kiln Plant,2034,biomass,0.661
+Whitwell Works Lime Kiln Plant,2034,gas,2.7902
+Whitwell Works Lime Kiln Plant,2034,hydrogen,0.01
+Whitwell Works Lime Kiln Plant,2036,biomass,0.9966
+Whitwell Works Lime Kiln Plant,2036,gas,2.4519
+Whitwell Works Lime Kiln Plant,2036,hydrogen,0.01
+Whitwell Works Lime Kiln Plant,2038,biomass,0.9966
+Whitwell Works Lime Kiln Plant,2038,gas,2.4837
+Whitwell Works Lime Kiln Plant,2038,hydrogen,0.01
+Whitwell Works Lime Kiln Plant,2040,biomass,0.9966
+Whitwell Works Lime Kiln Plant,2040,electricity,0.1036
+Whitwell Works Lime Kiln Plant,2040,gas,2.1454
+Whitwell Works Lime Kiln Plant,2040,hydrogen,0.01
+Whitwell Works Lime Kiln Plant,2042,biomass,0.9966
+Whitwell Works Lime Kiln Plant,2042,electricity,0.1036
+Whitwell Works Lime Kiln Plant,2042,gas,2.1772
+Whitwell Works Lime Kiln Plant,2042,hydrogen,0.01
+Whitwell Works Lime Kiln Plant,2044,biomass,1.0444
+Whitwell Works Lime Kiln Plant,2044,electricity,0.193
+Whitwell Works Lime Kiln Plant,2044,gas,1.8389
+Whitwell Works Lime Kiln Plant,2044,hydrogen,0.01
+Whitwell Works Lime Kiln Plant,2046,biomass,1.0444
+Whitwell Works Lime Kiln Plant,2046,electricity,0.193
+Whitwell Works Lime Kiln Plant,2046,gas,1.8707
+Whitwell Works Lime Kiln Plant,2046,hydrogen,0.01
+Whitwell Works Lime Kiln Plant,2048,biomass,1.0444
+Whitwell Works Lime Kiln Plant,2048,electricity,0.193
+Whitwell Works Lime Kiln Plant,2048,gas,1.861
+Whitwell Works Lime Kiln Plant,2048,hydrogen,0.01
+Whitwell Works Lime Kiln Plant,2050,biomass,1.0444
+Whitwell Works Lime Kiln Plant,2050,electricity,0.193
+Whitwell Works Lime Kiln Plant,2050,gas,1.861
+Wigton Boiler Plant,2026,biomass,0.0
+Wigton Boiler Plant,2026,gas,1.3809
+Wigton Boiler Plant,2028,biomass,0.0
+Wigton Boiler Plant,2028,gas,1.3809
+Wigton Boiler Plant,2030,biomass,0.0
+Wigton Boiler Plant,2030,gas,1.3809
+Wigton Boiler Plant,2032,biomass,0.0
+Wigton Boiler Plant,2032,gas,1.2428
+Wigton Boiler Plant,2032,hydrogen,0.1335
+Wigton Boiler Plant,2034,biomass,0.0
+Wigton Boiler Plant,2034,gas,1.1047
+Wigton Boiler Plant,2034,hydrogen,0.2671
+Wigton Boiler Plant,2036,biomass,0.0
+Wigton Boiler Plant,2036,gas,1.0955
+Wigton Boiler Plant,2036,hydrogen,0.2671
+Wigton Boiler Plant,2038,biomass,0.0
+Wigton Boiler Plant,2038,gas,1.0916
+Wigton Boiler Plant,2038,hydrogen,0.2671
+Wigton Boiler Plant,2040,biomass,0.0
+Wigton Boiler Plant,2040,electricity,0.0423
+Wigton Boiler Plant,2040,gas,0.9535
+Wigton Boiler Plant,2040,hydrogen,0.2671
+Wigton Boiler Plant,2042,biomass,0.0
+Wigton Boiler Plant,2042,electricity,0.0423
+Wigton Boiler Plant,2042,gas,0.9665
+Wigton Boiler Plant,2042,hydrogen,0.2671
+Wigton Boiler Plant,2044,biomass,0.0
+Wigton Boiler Plant,2044,electricity,0.0423
+Wigton Boiler Plant,2044,gas,0.8284
+Wigton Boiler Plant,2044,hydrogen,0.406
+Wigton Boiler Plant,2046,biomass,0.0
+Wigton Boiler Plant,2046,electricity,0.0423
+Wigton Boiler Plant,2046,gas,0.6903
+Wigton Boiler Plant,2046,hydrogen,0.545
+Wigton Boiler Plant,2048,biomass,0.0
+Wigton Boiler Plant,2048,electricity,0.5305
+Wigton Boiler Plant,2048,gas,0.155
+Wigton Boiler Plant,2048,hydrogen,0.545
+Wigton Boiler Plant,2050,biomass,0.0
+Wigton Boiler Plant,2050,electricity,0.5305
+Wigton Boiler Plant,2050,gas,0.1511
+Wigton Boiler Plant,2050,hydrogen,0.545
+Winnington Sodium Carbonate Manufacturing Site,2026,gas,1.1774
+Winnington Sodium Carbonate Manufacturing Site,2028,gas,1.1774
+Winnington Sodium Carbonate Manufacturing Site,2030,gas,1.1774
+Winnington Sodium Carbonate Manufacturing Site,2032,gas,1.1695
+Winnington Sodium Carbonate Manufacturing Site,2034,gas,1.1617
+Winnington Sodium Carbonate Manufacturing Site,2036,gas,1.1538
+Winnington Sodium Carbonate Manufacturing Site,2038,gas,1.1505
+Winnington Sodium Carbonate Manufacturing Site,2040,gas,1.0327
+Winnington Sodium Carbonate Manufacturing Site,2040,hydrogen,0.1185
+Winnington Sodium Carbonate Manufacturing Site,2042,electricity,0.0361
+Winnington Sodium Carbonate Manufacturing Site,2042,gas,0.915
+Winnington Sodium Carbonate Manufacturing Site,2042,hydrogen,0.1185
+Winnington Sodium Carbonate Manufacturing Site,2044,electricity,0.0361
+Winnington Sodium Carbonate Manufacturing Site,2044,gas,0.7972
+Winnington Sodium Carbonate Manufacturing Site,2044,hydrogen,0.237
+Winnington Sodium Carbonate Manufacturing Site,2046,electricity,0.0721
+Winnington Sodium Carbonate Manufacturing Site,2046,gas,0.6795
+Winnington Sodium Carbonate Manufacturing Site,2046,hydrogen,0.237
+Winnington Sodium Carbonate Manufacturing Site,2048,electricity,0.6904
+Winnington Sodium Carbonate Manufacturing Site,2048,gas,0.0034
+Winnington Sodium Carbonate Manufacturing Site,2048,hydrogen,0.237
+Winnington Sodium Carbonate Manufacturing Site,2050,electricity,0.6904
+Winnington Sodium Carbonate Manufacturing Site,2050,hydrogen,0.237
+Wissington Sugar Factory,2026,biomass,0.0
+Wissington Sugar Factory,2026,gas,6.2869
+Wissington Sugar Factory,2028,biomass,0.4464
+Wissington Sugar Factory,2028,gas,5.8934
+Wissington Sugar Factory,2030,biomass,1.0956
+Wissington Sugar Factory,2030,gas,5.2826
+Wissington Sugar Factory,2032,biomass,1.6611
+Wissington Sugar Factory,2032,gas,4.6539
+Wissington Sugar Factory,2032,hydrogen,0.0568
+Wissington Sugar Factory,2034,biomass,2.2849
+Wissington Sugar Factory,2034,gas,4.0253
+Wissington Sugar Factory,2034,hydrogen,0.0568
+Wissington Sugar Factory,2036,biomass,2.2849
+Wissington Sugar Factory,2036,gas,4.0574
+Wissington Sugar Factory,2036,hydrogen,0.0568
+Wissington Sugar Factory,2038,biomass,2.9342
+Wissington Sugar Factory,2038,gas,3.4287
+Wissington Sugar Factory,2038,hydrogen,0.0568
+Wissington Sugar Factory,2040,biomass,3.5834
+Wissington Sugar Factory,2040,gas,2.8
+Wissington Sugar Factory,2040,hydrogen,0.0568
+Wissington Sugar Factory,2042,biomass,3.5834
+Wissington Sugar Factory,2042,electricity,0.1926
+Wissington Sugar Factory,2042,gas,2.1713
+Wissington Sugar Factory,2042,hydrogen,0.0568
+Wissington Sugar Factory,2044,biomass,3.7956
+Wissington Sugar Factory,2044,electricity,0.1926
+Wissington Sugar Factory,2044,gas,2.0055
+Wissington Sugar Factory,2044,hydrogen,0.0568
+Wissington Sugar Factory,2046,biomass,3.7956
+Wissington Sugar Factory,2046,electricity,0.1926
+Wissington Sugar Factory,2046,gas,2.0646
+Wissington Sugar Factory,2046,hydrogen,0.0568
+Wissington Sugar Factory,2048,biomass,3.7956
+Wissington Sugar Factory,2048,electricity,0.1926
+Wissington Sugar Factory,2048,gas,2.0467
+Wissington Sugar Factory,2048,hydrogen,0.0568
+Wissington Sugar Factory,2050,biomass,3.7956
+Wissington Sugar Factory,2050,electricity,0.1926
+Wissington Sugar Factory,2050,gas,2.0467
+Wissington Sugar Factory,2050,hydrogen,0.0382
+dispersed_heat,2026,gas,50.061
+dispersed_heat,2028,gas,47.952
+dispersed_heat,2030,gas,47.952
+dispersed_heat,2032,gas,47.952
+dispersed_heat,2034,gas,47.952
+dispersed_heat,2036,gas,47.952
+dispersed_heat,2038,gas,47.952
+dispersed_heat,2040,gas,47.952
+dispersed_heat,2042,gas,47.952
+dispersed_heat,2044,gas,47.952
+dispersed_heat,2046,gas,47.952
+dispersed_heat,2048,electricity,1.3312
+dispersed_heat,2048,gas,43.7301
+dispersed_heat,2050,electricity,37.946
+dispersed_heat,2050,hydrogen,0.1947
+dispersed_steel,2026,gas,0.2313
+dispersed_steel,2028,electricity,0.0135
+dispersed_steel,2028,gas,0.2129
+dispersed_steel,2030,electricity,0.0271
+dispersed_steel,2030,gas,0.1944
+dispersed_steel,2032,electricity,0.0407
+dispersed_steel,2032,gas,0.1759
+dispersed_steel,2034,electricity,0.1696
+dispersed_steel,2036,electricity,0.1696
+dispersed_steel,2038,electricity,0.1696
+dispersed_steel,2040,electricity,0.1696
+dispersed_steel,2042,electricity,0.1696
+dispersed_steel,2044,electricity,0.1696
+dispersed_steel,2046,electricity,0.1696
+dispersed_steel,2048,electricity,0.1696
+dispersed_steel,2050,electricity,0.1696
