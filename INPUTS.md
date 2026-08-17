@@ -30,6 +30,15 @@ cbam_phase  2032  1.000                                                        f
 cbam_phase  2050  1.000                                                                                                                  held judgement
 ```
 
+### committed_events.csv — Committed closures (demand zeroed from year).
+2 rows; basis mix: official 2
+
+```
+                site  from_year                                                                                                                      source    basis
+Lindsey Oil Refinery       2026 Prax insolvency Jun 2025 - refining ceased - mothballed by Phillips 66 (partial-2025 emissions slipped the registry filter) official
+Grangemouth Refining       2026                                                            Petroineos ceased refining Apr 2025 - import terminal thereafter official
+```
+
 ### finance.csv — Hurdle rates, discount rate, usage-inertia cost (the calibrated behaviour).
 2 rows; basis mix: derived 1, judgement 1
 
@@ -134,7 +143,7 @@ Port Talbot Steelworks     steel  2050    3.0                                   
 
 ### sites.csv — The site universe: who, where (band), how big, incumbent kit, inertia factor.
 102 rows; basis mix: derived 102
-(large file — see the CSV; columns: site, sector, band, traded, commodity, demand_pj, incumbent_tech, start_capacity, inertia_factor, source, retrieved, basis)
+(large file — see the CSV; columns: site, sector, band, traded, commodity, demand_pj, incumbent_tech, start_capacity, inertia_factor, cluster, source, retrieved, basis)
 
 ### technologies.csv — The technology roster: costs, lifetimes, fuel intensities, first years, ramps.
 10 rows; basis mix: derived 3, judgement 5, official 2

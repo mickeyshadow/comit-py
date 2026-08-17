@@ -134,7 +134,9 @@ def load_inputs(data_dir: str, window: Window) -> Inputs:
             start_capacity={r.incumbent_tech: float(r.start_capacity)},
             inertia_factor=(float(r.inertia_factor)
                             if "inertia_factor" in sites.columns
-                            and pd.notna(r.inertia_factor) else 1.0)))
+                            and pd.notna(r.inertia_factor) else 1.0),
+            cluster=(str(r.cluster) if "cluster" in sites.columns
+                     and pd.notna(r.cluster) else "Unmapped")))
 
     hurdles = {r.sector: float(r.hurdle_rate)
                for _, r in fin.iterrows() if pd.notna(r.hurdle_rate)}

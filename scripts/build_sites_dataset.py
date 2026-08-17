@@ -46,6 +46,38 @@ def sector_of(nace, desc):
     return "heat"
 
 
+# cluster geography: ETS permit -> harness crosswalk -> NAEI plant ->
+# cluster_location. Coverage follows the crosswalk (~91% of traded
+# emissions); unmatched sites are honestly "Unmapped".
+import openpyxl as _oxl
+
+cw = {}
+with open(CW, encoding="utf-8") as fh:
+    for row in csv.DictReader(fh):
+        for part in row["permits"].split(";"):
+            if "x" in part:
+                permit, frac = part.rsplit("x", 1)
+                if permit not in cw or float(frac) > cw[permit][1]:
+                    cw[permit] = (row["plant_id"], float(frac))
+
+_naei = _oxl.load_workbook(
+    r"D:\comit-harness\comit\data_template_archive"
+    r"\comit_input_1_4_0_public_updated.xlsx", read_only=True)
+_nr = list(_naei["NAEI_df_clean_2023_revised"].iter_rows(values_only=True))
+_hi = next(i for i, r in enumerate(_nr) if r and "PlantID" in [str(c) for c in r])
+_nh = {h: i for i, h in enumerate(_nr[_hi])}
+plant_cluster = {str(r[_nh["PlantID"]]): str(r[_nh["cluster_location"]])
+                 for r in _nr[_hi + 1:] if r and r[_nh["PlantID"]]}
+
+
+def cluster_of(permit):
+    hit = cw.get(str(permit))
+    if not hit:
+        return "Unmapped"
+    c = plant_cluster.get(hit[0], "Unmapped")
+    return "Dispersed" if c == "Not in cluster" else c
+
+
 ets = []
 for r in rows[1:]:
     if r[hdr["Account type"]] != "OPERATOR_HOLDING_ACCOUNT":
@@ -64,6 +96,7 @@ for r in rows[1:]:
         "name": (r[hdr["Installation name"]] or r[hdr["Account Holder Name"]]),
         "sector": sector_of(nace, desc),
         "e25_kt": e25 / 1e3,
+        "cluster": cluster_of(r[hdr["Permit ID or Monitoring plan ID"]]),
     })
 
 ets.sort(key=lambda e: -e["e25_kt"])
@@ -111,7 +144,7 @@ for e in top:
     commodity = e["sector"] if e["sector"] in ("steel", "cement") else "heat"
     out.append([e["name"], e["sector"], band, True, commodity,
                 round(d, 4), tech, round(d / 0.9, 4), factors[e["name"]],
-                SRC, RET, "derived"])
+                e["cluster"], SRC, RET, "derived"])
 
 tail_by_sector = defaultdict(float)
 for e in tail:
@@ -120,14 +153,14 @@ for sector, kt in sorted(tail_by_sector.items()):
     d, tech = demand_and_tech(sector, kt)
     commodity = sector if sector in ("steel", "cement") else "heat"
     out.append([f"dispersed_{sector}", sector, "small", False, commodity,
-                round(d, 4), tech, round(d / 0.9, 4), 1.3,
+                round(d, 4), tech, round(d / 0.9, 4), 1.3, "Dispersed",
                 SRC + " (aggregate of sub-100 installations)", RET, "derived"])
 
 with open(OUT, "w", newline="", encoding="utf-8") as fh:
     w = csv.writer(fh)
     w.writerow(["site", "sector", "band", "traded", "commodity", "demand_pj",
                 "incumbent_tech", "start_capacity", "inertia_factor",
-                "source", "retrieved", "basis"])
+                "cluster", "source", "retrieved", "basis"])
     w.writerows(out)
 print(f"wrote {OUT}: {len(out)} sites "
       f"({len(top)} named + {len(tail_by_sector)} dispersed aggregates)")

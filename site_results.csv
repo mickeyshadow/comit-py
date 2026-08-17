@@ -1,0 +1,101 @@
+site,central,levies_off,gas_up50,gas_down30,carbon_x1.5,carbon_x0.6,ccs_slip,lo,hi,cluster,sector
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,0.001,0.001,0.001,0.001,0.001,0.024,0.001,0.001,0.024,Unmapped,steel
+Aberthaw Cement Plant,0.185,0.185,0.185,0.185,0.185,0.283,0.24,0.185,0.283,Dispersed,cement
+Allied Glass Containers Ltd - Knottingley,0.043,0.043,0.043,0.043,0.043,0.043,0.043,0.043,0.043,Dispersed,heat
+Archer Daniels Midland Erith Ltd,0.066,0.066,0.066,0.066,0.066,0.066,0.066,0.066,0.066,Unmapped,heat
+Ardagh Glass - Headlands,0.042,0.042,0.042,0.042,0.042,0.042,0.042,0.042,0.042,Unmapped,heat
+Ardagh Glass - Wheatley,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,Unmapped,heat
+Ardagh Glass Limited,0.066,0.066,0.066,0.066,0.066,0.066,0.066,0.066,0.066,Unmapped,heat
+Ardagh Glass Ltd,0.117,0.117,0.117,0.117,0.117,0.117,0.117,0.117,0.117,Unmapped,heat
+Barrow Mill,0.033,0.033,0.033,0.033,0.033,0.033,0.033,0.033,0.033,Dispersed,heat
+Beatson Clark plc - Rotherham,0.045,0.045,0.045,0.045,0.043,0.045,0.045,0.043,0.045,Dispersed,heat
+Billingham Fertilizer Works,0.033,0.033,0.033,0.033,0.033,0.033,0.033,0.033,0.033,Unmapped,heat
+Bones Lane Factory,0.042,0.042,0.042,0.042,0.042,0.042,0.042,0.042,0.042,Dispersed,heat
+Bridgend Operation,0.042,0.042,0.042,0.042,0.042,0.042,0.042,0.042,0.042,South Wales,heat
+British Sugar plc - Newark,0.091,0.091,0.091,0.091,0.091,0.091,0.091,0.091,0.091,Dispersed,heat
+Bury St Edmunds Sugar Factory,0.223,0.223,0.223,0.223,0.223,0.223,0.223,0.223,0.223,Dispersed,heat
+Cantley Sugar Factory,0.041,0.041,0.041,0.041,0.041,0.041,0.041,0.041,0.041,Unmapped,heat
+Cargill - Trafford Park,0.114,0.114,0.114,0.114,0.114,0.114,0.114,0.114,0.114,Dispersed,heat
+Cauldon Cement,0.383,0.383,0.383,0.383,0.383,0.586,0.498,0.383,0.586,Dispersed,cement
+Cookstown Cement,0.173,0.173,0.173,0.173,0.173,0.265,0.225,0.173,0.265,Dispersed,cement
+DSM Dalry,0.057,0.057,0.057,0.057,0.057,0.057,0.057,0.057,0.057,Dispersed,heat
+Desford,0.036,0.036,0.036,0.036,0.036,0.036,0.036,0.036,0.036,Dispersed,heat
+Dow Silicone Manufacturing Installation,0.129,0.129,0.129,0.129,0.129,0.129,0.129,0.129,0.129,Dispersed,heat
+Dunbar Plant,0.283,0.283,0.283,0.283,0.022,0.432,0.367,0.022,0.432,Dispersed,cement
+ETEX Building Performance Limited – Portbury Site,0.066,0.066,0.066,0.066,0.066,0.066,0.066,0.066,0.066,Dispersed,heat
+East Leake Gypsum Works,0.065,0.065,0.065,0.065,0.065,0.065,0.065,0.065,0.065,Dispersed,heat
+Eastham Refinery Limited,0.034,0.034,0.034,0.034,0.034,0.034,0.034,0.034,0.034,Merseyside,heat
+Elanco AH UK Speke,0.041,0.041,0.041,0.041,0.041,0.041,0.041,0.041,0.041,Merseyside,heat
+Encirc Glass,0.191,0.191,0.191,0.191,0.191,0.191,0.191,0.191,0.191,Unmapped,heat
+Encirc Limited,0.081,0.081,0.081,0.081,0.081,0.081,0.081,0.081,0.081,Unmapped,heat
+Essity UK Limited - Prudhoe Mill,0.042,0.042,0.042,0.042,0.042,0.042,0.042,0.042,0.042,Dispersed,heat
+Esso Petroleum Company Limited,2.467,2.467,2.467,2.467,2.467,2.467,2.467,2.467,2.467,Southampton,heat
+Fawley Chemicals,0.038,0.038,0.038,0.038,0.038,0.038,0.038,0.038,0.038,Unmapped,heat
+Fawley Refinery,0.553,0.553,0.553,0.553,0.553,0.553,0.553,0.553,0.553,Southampton,heat
+Fife Ethylene Plant,0.611,0.611,0.611,0.611,0.611,0.611,0.611,0.611,0.611,Unmapped,heat
+Grangemouth Chemicals,0.367,0.367,0.367,0.367,0.367,0.367,0.367,0.367,0.367,Grangemouth,heat
+Guardian Industries UK Limited,0.095,0.095,0.095,0.095,0.095,0.095,0.095,0.095,0.095,Humberside,heat
+Hindlow Lime,0.154,0.154,0.154,0.154,0.154,0.154,0.154,0.154,0.154,Dispersed,heat
+Hope Cement Works,0.571,0.571,0.571,0.571,0.496,0.874,0.742,0.496,0.874,Dispersed,cement
+Humber Refinery,2.071,2.071,2.071,2.071,2.071,2.071,2.071,2.071,2.071,Humberside,heat
+INOVYN Chlorvinyls Newton Aycliffe,0.036,0.036,0.036,0.036,0.036,0.036,0.036,0.036,0.036,Teesside,heat
+Ibstock Brick Limited - Leicester,0.045,0.045,0.045,0.045,0.042,0.045,0.045,0.042,0.045,Dispersed,heat
+Ineos Acetyls Hull,0.106,0.106,0.106,0.106,0.106,0.106,0.106,0.106,0.106,Dispersed,heat
+Jaguar Land Rover Limited Solihull,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,Black Country,heat
+KETTON WORKS,0.321,0.321,0.321,0.321,0.321,0.491,0.473,0.321,0.491,Dispersed,cement
+Knauf Drywall Sittingbourne,0.038,0.038,0.038,0.038,0.038,0.038,0.038,0.038,0.038,Dispersed,heat
+Knauf Immingham,0.036,0.036,0.036,0.036,0.036,0.036,0.036,0.036,0.036,Unmapped,heat
+Knauf Insulation Queensferry,0.034,0.034,0.034,0.034,0.034,0.034,0.034,0.034,0.034,Merseyside,heat
+Kronospan Ltd,0.137,0.137,0.137,0.137,0.137,0.137,0.137,0.137,0.137,Dispersed,heat
+Lhoist UK Limited,0.159,0.159,0.159,0.159,0.159,0.159,0.159,0.159,0.159,Dispersed,heat
+Llanwern Steelworks,0.001,0.001,0.001,0.001,0.001,0.021,0.001,0.001,0.021,Dispersed,steel
+Lochaber Smelter,0.049,0.049,0.049,0.049,0.044,0.049,0.049,0.044,0.049,Dispersed,heat
+Measham,0.033,0.033,0.033,0.033,0.033,0.033,0.033,0.033,0.033,Dispersed,heat
+Melton Ross Limeworks,0.216,0.216,0.216,0.216,0.216,0.216,0.216,0.216,0.216,Humberside,heat
+Nissan Motor Manufacturing (UK) Ltd,0.032,0.032,0.032,0.032,0.032,0.032,0.032,0.032,0.032,Dispersed,heat
+Norbord Cowie,0.051,0.051,0.051,0.051,0.051,0.051,0.051,0.051,0.051,Grangemouth,heat
+Novelis Latchford,0.042,0.042,0.042,0.042,0.042,0.042,0.042,0.042,0.042,Merseyside,heat
+O-I Glass Limited,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,Unmapped,heat
+Omega Proteins Limited,0.049,0.049,0.049,0.049,0.049,0.049,0.049,0.049,0.049,Dispersed,heat
+Padeswood Works,0.223,0.223,0.223,0.223,0.018,0.341,0.29,0.018,0.341,Merseyside,cement
+Palm Paper Ltd PM7 Newsprint Mill,0.156,0.156,0.156,0.156,0.156,0.156,0.156,0.156,0.156,Unmapped,heat
+Partington Papermill,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,Dispersed,heat
+Pilkington United Kingdom Limited - Greengate,0.129,0.129,0.129,0.129,0.129,0.129,0.129,0.129,0.129,Merseyside,heat
+Plasmor Limited,0.032,0.032,0.032,0.032,0.032,0.032,0.032,0.032,0.032,Dispersed,heat
+Port Talbot Steelworks,0.201,0.201,0.201,0.201,0.201,0.201,0.201,0.201,0.201,South Wales,steel
+Port of Liverpool CHP,0.151,0.151,0.151,0.151,0.151,0.151,0.151,0.151,0.151,Dispersed,heat
+Ribblesdale Works,0.268,0.268,0.268,0.268,0.021,0.409,0.348,0.021,0.409,Dispersed,cement
+Robertsbridge Gypsum Works,0.034,0.034,0.034,0.034,0.034,0.034,0.034,0.034,0.034,Unmapped,heat
+Rockwool Bridgend,0.074,0.074,0.074,0.074,0.074,0.074,0.074,0.074,0.074,South Wales,heat
+Rolls-Royce - Sinfin,0.081,0.081,0.081,0.081,0.081,0.081,0.081,0.081,0.081,Dispersed,heat
+Rugby Works,0.553,0.553,0.553,0.553,0.553,0.846,0.718,0.553,0.846,Dispersed,cement
+Saint-Gobain Glass (United Kingdom) Limited,0.091,0.091,0.091,0.091,0.091,0.091,0.091,0.091,0.091,Dispersed,heat
+Scunthorpe Integrated Iron & Steel Works,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,Humberside,steel
+Selby Wheat Processing Facility,0.103,0.103,0.103,0.103,0.103,0.103,0.103,0.103,0.103,Dispersed,heat
+Sellafield Site,0.131,0.131,0.131,0.131,0.131,0.131,0.131,0.131,0.131,Unmapped,heat
+Shell UK Limited Fife NGL Plant,0.116,0.116,0.116,0.116,0.116,0.116,0.116,0.116,0.116,Unmapped,heat
+Sherburn Gypsum Works,0.033,0.033,0.033,0.033,0.033,0.033,0.033,0.033,0.033,Dispersed,heat
+Smurfit Westrock SSK,0.061,0.061,0.061,0.061,0.061,0.061,0.061,0.061,0.061,Unmapped,heat
+Smurfit Westrock Townsend Hook,0.075,0.075,0.075,0.075,0.075,0.075,0.075,0.075,0.075,Dispersed,heat
+Solutia UK Limited - Newport,0.037,0.037,0.037,0.037,0.037,0.037,0.037,0.037,0.037,Dispersed,heat
+Stanlow Manufacturing Complex,1.714,1.714,1.714,1.714,1.714,1.714,1.714,1.714,1.714,Merseyside,heat
+Syngenta Limited,0.055,0.055,0.055,0.055,0.055,0.055,0.055,0.055,0.055,Dispersed,heat
+Tata Steel Colors,0.002,0.002,0.002,0.002,0.002,0.032,0.002,0.002,0.032,Unmapped,steel
+Tata Steel Packaging Plus UK,0.001,0.001,0.001,0.001,0.001,0.023,0.001,0.001,0.023,Unmapped,steel
+Tate and Lyle Sugars,0.088,0.088,0.088,0.088,0.088,0.088,0.088,0.088,0.088,Dispersed,heat
+Teesside Beam Mill,0.002,0.002,0.002,0.002,0.002,0.036,0.002,0.002,0.036,Teesside,steel
+Teesside Hydrogen Plant,0.154,0.154,0.154,0.154,0.154,0.154,0.154,0.154,0.154,Teesside,heat
+The Girvan Distillery,0.065,0.065,0.065,0.065,0.065,0.065,0.065,0.065,0.065,Unmapped,heat
+The Lycra Company UK Limited,0.043,0.043,0.043,0.043,0.043,0.043,0.043,0.043,0.043,Unmapped,heat
+Tronox Pigment - CHP Plant,0.126,0.126,0.126,0.126,0.126,0.126,0.126,0.126,0.126,Dispersed,heat
+Tunstead Cement,0.343,0.343,0.343,0.343,0.343,0.525,0.446,0.343,0.525,Dispersed,cement
+Tunstead Lime,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,Unmapped,heat
+"Valero, Pembroke",2.544,2.544,2.544,2.544,1.765,2.544,2.544,1.765,2.544,South Wales,heat
+Venator Materials UK Limited,0.074,0.074,0.074,0.074,0.074,0.074,0.074,0.074,0.074,Unmapped,heat
+Whittlesey,0.047,0.047,0.047,0.047,0.043,0.047,0.047,0.043,0.047,Dispersed,heat
+Whitwell Works Lime Kiln Plant,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,Dispersed,heat
+Wigton Boiler Plant,0.069,0.069,0.069,0.069,0.069,0.069,0.069,0.069,0.069,Unmapped,heat
+Winnington Sodium Carbonate Manufacturing Site,0.059,0.059,0.059,0.059,0.059,0.059,0.059,0.059,0.059,Merseyside,heat
+Wissington Sugar Factory,0.315,0.315,0.315,0.315,0.315,0.315,0.315,0.315,0.315,Dispersed,heat
+dispersed_heat,2.455,2.455,2.455,2.455,2.455,2.455,2.455,2.455,2.455,Dispersed,heat
+dispersed_steel,0.143,0.143,0.143,0.143,0.143,0.143,0.143,0.143,0.143,Dispersed,steel

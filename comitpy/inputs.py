@@ -107,6 +107,7 @@ class Site:
     # costs (contract positions, operational flexibility) smooth the
     # aggregate response from a corner-solution cliff into a graded curve
     inertia_factor: float = 1.0
+    cluster: str = "Unmapped"        # industrial cluster (reporting dimension)
 
 
 @dataclass(frozen=True)
