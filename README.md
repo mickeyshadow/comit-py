@@ -57,9 +57,26 @@ harness's registry data).
 
 ```
 pip install -e .[dev]
-pytest tests            # 22 tests, every feature proven to bind
+pytest tests            # 24 tests, every feature proven to bind
 python run_forecast.py  # the 10-year forecast + a net-zero-2050 pathway
 ```
+
+## Dashboard
+
+```
+pip install -e .[dashboard]
+python scripts/build_results_store.py   # 9 solves -> results_store.csv (~2 min)
+python -m streamlit run dashboard.py
+```
+
+Two pages. **Results** slices every standard run (central, six worlds,
+the 2050 pathway pair) by sector, coverage layer, cluster, site and fuel —
+all read from `results_store.csv`, the one tidy table every consumer
+shares (`comitpy/results_store.py`). **Levers** re-solves the forecast
+live: carbon, gas, electricity levies, CCS slip, hurdle rate and usage
+inertia sliders against the central trajectory. Levers reproduce the
+ensemble worlds exactly (carbon ×1.5 → the `carbon_x1.5` objective to
+the pound).
 
 ## Honest v0 boundaries
 
