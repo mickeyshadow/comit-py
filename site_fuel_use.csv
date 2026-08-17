@@ -12,6 +12,17 @@ site,year,fuel,PJ
 7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,2034,electricity,0.0464
 7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,2035,electricity,0.0464
 7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,2036,electricity,0.0464
+AH Marks Bradford CHP,2026,gas,0.4785
+AH Marks Bradford CHP,2027,gas,0.4785
+AH Marks Bradford CHP,2028,gas,0.4785
+AH Marks Bradford CHP,2029,gas,0.4785
+AH Marks Bradford CHP,2030,gas,0.4785
+AH Marks Bradford CHP,2031,gas,0.4769
+AH Marks Bradford CHP,2032,gas,0.4753
+AH Marks Bradford CHP,2033,gas,0.4737
+AH Marks Bradford CHP,2034,gas,0.4721
+AH Marks Bradford CHP,2035,gas,0.4705
+AH Marks Bradford CHP,2036,gas,0.469
 Aberthaw Cement Plant,2026,gas,1.2528
 Aberthaw Cement Plant,2027,gas,1.2865
 Aberthaw Cement Plant,2028,gas,1.3274
@@ -23,6 +34,17 @@ Aberthaw Cement Plant,2033,gas,1.4581
 Aberthaw Cement Plant,2034,gas,1.4633
 Aberthaw Cement Plant,2035,gas,1.4735
 Aberthaw Cement Plant,2036,gas,1.4735
+Allerton Waste Recovery Park,2026,gas,1.1773
+Allerton Waste Recovery Park,2027,gas,1.1773
+Allerton Waste Recovery Park,2028,gas,1.1773
+Allerton Waste Recovery Park,2029,gas,1.1773
+Allerton Waste Recovery Park,2030,gas,1.1773
+Allerton Waste Recovery Park,2031,gas,1.1733
+Allerton Waste Recovery Park,2032,gas,1.1694
+Allerton Waste Recovery Park,2033,gas,1.1655
+Allerton Waste Recovery Park,2034,gas,1.1616
+Allerton Waste Recovery Park,2035,gas,1.1576
+Allerton Waste Recovery Park,2036,gas,1.1537
 Allied Glass Containers Ltd - Knottingley,2026,gas,0.8571
 Allied Glass Containers Ltd - Knottingley,2027,gas,0.8571
 Allied Glass Containers Ltd - Knottingley,2028,gas,0.8571
@@ -34,6 +56,17 @@ Allied Glass Containers Ltd - Knottingley,2033,gas,0.8486
 Allied Glass Containers Ltd - Knottingley,2034,gas,0.8457
 Allied Glass Containers Ltd - Knottingley,2035,gas,0.8429
 Allied Glass Containers Ltd - Knottingley,2036,gas,0.84
+Allington Quarry,2026,gas,1.7273
+Allington Quarry,2027,gas,1.7273
+Allington Quarry,2028,gas,1.7273
+Allington Quarry,2029,gas,1.7273
+Allington Quarry,2030,gas,1.7273
+Allington Quarry,2031,gas,1.7215
+Allington Quarry,2032,gas,1.7158
+Allington Quarry,2033,gas,1.71
+Allington Quarry,2034,gas,1.7042
+Allington Quarry,2035,gas,1.6985
+Allington Quarry,2036,gas,1.6927
 Archer Daniels Midland Erith Ltd,2026,biomass,0.0001
 Archer Daniels Midland Erith Ltd,2026,gas,1.3173
 Archer Daniels Midland Erith Ltd,2027,biomass,0.0001
@@ -133,6 +166,28 @@ Ardagh Glass Ltd,2035,biomass,0.0001
 Ardagh Glass Ltd,2035,gas,2.2894
 Ardagh Glass Ltd,2036,biomass,0.0001
 Ardagh Glass Ltd,2036,gas,2.2816
+Ardley Landfill,2026,gas,1.1463
+Ardley Landfill,2027,gas,1.1463
+Ardley Landfill,2028,gas,1.1463
+Ardley Landfill,2029,gas,1.1463
+Ardley Landfill,2030,gas,1.1463
+Ardley Landfill,2031,gas,1.1425
+Ardley Landfill,2032,gas,1.1387
+Ardley Landfill,2033,gas,1.1348
+Ardley Landfill,2034,gas,1.131
+Ardley Landfill,2035,gas,1.1272
+Ardley Landfill,2036,gas,1.1234
+Austerfield Works,2026,gas,0.4745
+Austerfield Works,2027,gas,0.4745
+Austerfield Works,2028,gas,0.4745
+Austerfield Works,2029,gas,0.4745
+Austerfield Works,2030,gas,0.4745
+Austerfield Works,2031,gas,0.4729
+Austerfield Works,2032,gas,0.4714
+Austerfield Works,2033,gas,0.4698
+Austerfield Works,2034,gas,0.4682
+Austerfield Works,2035,gas,0.4666
+Austerfield Works,2036,gas,0.465
 Barrow Mill,2026,gas,0.6496
 Barrow Mill,2027,gas,0.6496
 Barrow Mill,2028,gas,0.6496
@@ -144,6 +199,28 @@ Barrow Mill,2033,gas,0.6431
 Barrow Mill,2034,gas,0.6409
 Barrow Mill,2035,gas,0.6387
 Barrow Mill,2036,gas,0.6366
+Barry,2026,gas,0.2208
+Barry,2027,gas,0.2208
+Barry,2028,gas,0.2208
+Barry,2029,gas,0.2208
+Barry,2030,gas,0.2208
+Barry,2031,gas,0.22
+Barry,2032,gas,0.2193
+Barry,2033,gas,0.2186
+Barry,2034,gas,0.2178
+Barry,2035,gas,0.2171
+Barry,2036,gas,0.2164
+Battlefield EfW,2026,gas,0.3301
+Battlefield EfW,2027,gas,0.3301
+Battlefield EfW,2028,gas,0.3301
+Battlefield EfW,2029,gas,0.3301
+Battlefield EfW,2030,gas,0.3301
+Battlefield EfW,2031,gas,0.329
+Battlefield EfW,2032,gas,0.3279
+Battlefield EfW,2033,gas,0.3268
+Battlefield EfW,2034,gas,0.3257
+Battlefield EfW,2035,gas,0.3246
+Battlefield EfW,2036,gas,0.3235
 Beatson Clark plc - Rotherham,2026,biomass,0.0
 Beatson Clark plc - Rotherham,2026,gas,0.9012
 Beatson Clark plc - Rotherham,2027,biomass,0.0
@@ -166,6 +243,61 @@ Beatson Clark plc - Rotherham,2035,biomass,0.0
 Beatson Clark plc - Rotherham,2035,gas,0.8862
 Beatson Clark plc - Rotherham,2036,biomass,0.0
 Beatson Clark plc - Rotherham,2036,gas,0.8832
+Beckton STW,2026,gas,0.2398
+Beckton STW,2027,gas,0.2398
+Beckton STW,2028,gas,0.2398
+Beckton STW,2029,gas,0.2398
+Beckton STW,2030,gas,0.2398
+Beckton STW,2031,gas,0.239
+Beckton STW,2032,gas,0.2382
+Beckton STW,2033,gas,0.2374
+Beckton STW,2034,gas,0.2366
+Beckton STW,2035,gas,0.2358
+Beckton STW,2036,gas,0.235
+Beddington ERF,2026,gas,0.8872
+Beddington ERF,2027,gas,0.8872
+Beddington ERF,2028,gas,0.8872
+Beddington ERF,2029,gas,0.8872
+Beddington ERF,2030,gas,0.8872
+Beddington ERF,2031,gas,0.8843
+Beddington ERF,2032,gas,0.8813
+Beddington ERF,2033,gas,0.8784
+Beddington ERF,2034,gas,0.8754
+Beddington ERF,2035,gas,0.8724
+Beddington ERF,2036,gas,0.8695
+Belfast,2026,gas,0.2683
+Belfast,2027,gas,0.2683
+Belfast,2028,gas,0.2683
+Belfast,2029,gas,0.2683
+Belfast,2030,gas,0.2683
+Belfast,2031,gas,0.2674
+Belfast,2032,gas,0.2665
+Belfast,2033,gas,0.2656
+Belfast,2034,gas,0.2647
+Belfast,2035,gas,0.2638
+Belfast,2036,gas,0.2629
+Belfast (2),2026,gas,0.4621
+Belfast (2),2027,gas,0.4621
+Belfast (2),2028,gas,0.4621
+Belfast (2),2029,gas,0.4621
+Belfast (2),2030,gas,0.4621
+Belfast (2),2031,gas,0.4606
+Belfast (2),2032,gas,0.459
+Belfast (2),2033,gas,0.4575
+Belfast (2),2034,gas,0.4559
+Belfast (2),2035,gas,0.4544
+Belfast (2),2036,gas,0.4529
+Belvedere,2026,gas,2.711
+Belvedere,2027,gas,2.711
+Belvedere,2028,gas,2.711
+Belvedere,2029,gas,2.711
+Belvedere,2030,gas,2.711
+Belvedere,2031,gas,2.7019
+Belvedere,2032,gas,2.6929
+Belvedere,2033,gas,2.6838
+Belvedere,2034,gas,2.6748
+Belvedere,2035,gas,2.6658
+Belvedere,2036,gas,2.6567
 Billingham Fertilizer Works,2026,gas,0.6672
 Billingham Fertilizer Works,2027,gas,0.6672
 Billingham Fertilizer Works,2028,gas,0.6672
@@ -177,6 +309,17 @@ Billingham Fertilizer Works,2033,gas,0.6605
 Billingham Fertilizer Works,2034,gas,0.6583
 Billingham Fertilizer Works,2035,gas,0.6561
 Billingham Fertilizer Works,2036,gas,0.6539
+Bolton,2026,gas,0.2748
+Bolton,2027,gas,0.2748
+Bolton,2028,gas,0.2748
+Bolton,2029,gas,0.2748
+Bolton,2030,gas,0.2748
+Bolton,2031,gas,0.2739
+Bolton,2032,gas,0.273
+Bolton,2033,gas,0.2721
+Bolton,2034,gas,0.2712
+Bolton,2035,gas,0.2703
+Bolton,2036,gas,0.2693
 Bones Lane Factory,2026,biomass,0.0001
 Bones Lane Factory,2026,gas,0.8319
 Bones Lane Factory,2027,biomass,0.0001
@@ -221,6 +364,17 @@ Bridgend Operation,2035,biomass,0.0
 Bridgend Operation,2035,gas,0.8285
 Bridgend Operation,2036,biomass,0.0
 Bridgend Operation,2036,gas,0.8257
+Bridgewater Diary,2026,gas,0.2044
+Bridgewater Diary,2027,gas,0.2044
+Bridgewater Diary,2028,gas,0.2044
+Bridgewater Diary,2029,gas,0.2044
+Bridgewater Diary,2030,gas,0.2044
+Bridgewater Diary,2031,gas,0.2037
+Bridgewater Diary,2032,gas,0.203
+Bridgewater Diary,2033,gas,0.2023
+Bridgewater Diary,2034,gas,0.2016
+Bridgewater Diary,2035,gas,0.2009
+Bridgewater Diary,2036,gas,0.2003
 British Sugar plc - Newark,2026,biomass,0.0001
 British Sugar plc - Newark,2026,gas,1.8209
 British Sugar plc - Newark,2027,biomass,0.0001
@@ -243,6 +397,39 @@ British Sugar plc - Newark,2035,biomass,0.0001
 British Sugar plc - Newark,2035,gas,1.7905
 British Sugar plc - Newark,2036,biomass,0.0001
 British Sugar plc - Newark,2036,gas,1.7845
+Bromborough,2026,gas,0.3934
+Bromborough,2027,gas,0.3934
+Bromborough,2028,gas,0.3934
+Bromborough,2029,gas,0.3934
+Bromborough,2030,gas,0.3934
+Bromborough,2031,gas,0.3921
+Bromborough,2032,gas,0.3908
+Bromborough,2033,gas,0.3895
+Bromborough,2034,gas,0.3881
+Bromborough,2035,gas,0.3868
+Bromborough,2036,gas,0.3855
+Broomfleet Works,2026,gas,0.29
+Broomfleet Works,2027,gas,0.29
+Broomfleet Works,2028,gas,0.29
+Broomfleet Works,2029,gas,0.29
+Broomfleet Works,2030,gas,0.29
+Broomfleet Works,2031,gas,0.2891
+Broomfleet Works,2032,gas,0.2881
+Broomfleet Works,2033,gas,0.2871
+Broomfleet Works,2034,gas,0.2862
+Broomfleet Works,2035,gas,0.2852
+Broomfleet Works,2036,gas,0.2842
+Burton Latimer,2026,gas,0.3161
+Burton Latimer,2027,gas,0.3161
+Burton Latimer,2028,gas,0.3161
+Burton Latimer,2029,gas,0.3161
+Burton Latimer,2030,gas,0.3161
+Burton Latimer,2031,gas,0.3151
+Burton Latimer,2032,gas,0.314
+Burton Latimer,2033,gas,0.313
+Burton Latimer,2034,gas,0.3119
+Burton Latimer,2035,gas,0.3109
+Burton Latimer,2036,gas,0.3098
 Bury St Edmunds Sugar Factory,2026,gas,4.4439
 Bury St Edmunds Sugar Factory,2027,gas,4.4439
 Bury St Edmunds Sugar Factory,2028,gas,4.4439
@@ -254,6 +441,17 @@ Bury St Edmunds Sugar Factory,2033,gas,4.3994
 Bury St Edmunds Sugar Factory,2034,gas,4.3846
 Bury St Edmunds Sugar Factory,2035,gas,4.3698
 Bury St Edmunds Sugar Factory,2036,gas,4.355
+Cambuslang,2026,gas,0.2805
+Cambuslang,2027,gas,0.2805
+Cambuslang,2028,gas,0.2805
+Cambuslang,2029,gas,0.2805
+Cambuslang,2030,gas,0.2805
+Cambuslang,2031,gas,0.2796
+Cambuslang,2032,gas,0.2786
+Cambuslang,2033,gas,0.2777
+Cambuslang,2034,gas,0.2768
+Cambuslang,2035,gas,0.2758
+Cambuslang,2036,gas,0.2749
 Cantley Sugar Factory,2026,biomass,0.0001
 Cantley Sugar Factory,2026,gas,0.8267
 Cantley Sugar Factory,2027,biomass,0.0001
@@ -291,13 +489,57 @@ Cauldon Cement,2026,gas,2.5975
 Cauldon Cement,2027,gas,2.6673
 Cauldon Cement,2028,gas,2.752
 Cauldon Cement,2029,gas,2.8716
-Cauldon Cement,2030,gas,2.9388
+Cauldon Cement,2030,gas,2.9912
 Cauldon Cement,2031,gas,3.0018
 Cauldon Cement,2032,gas,3.0124
 Cauldon Cement,2033,gas,3.0231
 Cauldon Cement,2034,gas,3.0337
 Cauldon Cement,2035,gas,3.055
 Cauldon Cement,2036,gas,3.055
+Caw House,2026,gas,0.3231
+Caw House,2027,gas,0.3231
+Caw House,2028,gas,0.3231
+Caw House,2029,gas,0.3231
+Caw House,2030,gas,0.3231
+Caw House,2031,gas,0.322
+Caw House,2032,gas,0.321
+Caw House,2033,gas,0.3199
+Caw House,2034,gas,0.3188
+Caw House,2035,gas,0.3177
+Caw House,2036,gas,0.3167
+Chineham,2026,gas,0.3482
+Chineham,2027,gas,0.3482
+Chineham,2028,gas,0.3482
+Chineham,2029,gas,0.3482
+Chineham,2030,gas,0.3482
+Chineham,2031,gas,0.347
+Chineham,2032,gas,0.3459
+Chineham,2033,gas,0.3447
+Chineham,2034,gas,0.3436
+Chineham,2035,gas,0.3424
+Chineham,2036,gas,0.3412
+Chirnside,2026,gas,0.543
+Chirnside,2027,gas,0.543
+Chirnside,2028,gas,0.543
+Chirnside,2029,gas,0.543
+Chirnside,2030,gas,0.543
+Chirnside,2031,gas,0.5412
+Chirnside,2032,gas,0.5394
+Chirnside,2033,gas,0.5376
+Chirnside,2034,gas,0.5358
+Chirnside,2035,gas,0.534
+Chirnside,2036,gas,0.5322
+Colnbrook,2026,gas,1.3942
+Colnbrook,2027,gas,1.3942
+Colnbrook,2028,gas,1.3942
+Colnbrook,2029,gas,1.3942
+Colnbrook,2030,gas,1.3942
+Colnbrook,2031,gas,1.3895
+Colnbrook,2032,gas,1.3849
+Colnbrook,2033,gas,1.3802
+Colnbrook,2034,gas,1.3756
+Colnbrook,2035,gas,1.3709
+Colnbrook,2036,gas,1.3663
 Cookstown Cement,2026,gas,1.1744
 Cookstown Cement,2027,gas,1.206
 Cookstown Cement,2028,gas,1.2443
@@ -309,6 +551,61 @@ Cookstown Cement,2033,gas,1.3668
 Cookstown Cement,2034,gas,1.3716
 Cookstown Cement,2035,gas,1.3813
 Cookstown Cement,2036,gas,1.3813
+Cornwall Energy Recovery Centre,2026,gas,0.8222
+Cornwall Energy Recovery Centre,2027,gas,0.8222
+Cornwall Energy Recovery Centre,2028,gas,0.8222
+Cornwall Energy Recovery Centre,2029,gas,0.8222
+Cornwall Energy Recovery Centre,2030,gas,0.8222
+Cornwall Energy Recovery Centre,2031,gas,0.8194
+Cornwall Energy Recovery Centre,2032,gas,0.8167
+Cornwall Energy Recovery Centre,2033,gas,0.814
+Cornwall Energy Recovery Centre,2034,gas,0.8112
+Cornwall Energy Recovery Centre,2035,gas,0.8085
+Cornwall Energy Recovery Centre,2036,gas,0.8057
+Coventry,2026,gas,0.9856
+Coventry,2027,gas,0.9856
+Coventry,2028,gas,0.9856
+Coventry,2029,gas,0.9856
+Coventry,2030,gas,0.9856
+Coventry,2031,gas,0.9823
+Coventry,2032,gas,0.979
+Coventry,2033,gas,0.9757
+Coventry,2034,gas,0.9724
+Coventry,2035,gas,0.9691
+Coventry,2036,gas,0.9659
+Cowley,2026,gas,0.6005
+Cowley,2027,gas,0.6005
+Cowley,2028,gas,0.6005
+Cowley,2029,gas,0.6005
+Cowley,2030,gas,0.6005
+Cowley,2031,gas,0.5985
+Cowley,2032,gas,0.5965
+Cowley,2033,gas,0.5945
+Cowley,2034,gas,0.5925
+Cowley,2035,gas,0.5905
+Cowley,2036,gas,0.5885
+Craigavon,2026,gas,0.2838
+Craigavon,2027,gas,0.2838
+Craigavon,2028,gas,0.2838
+Craigavon,2029,gas,0.2838
+Craigavon,2030,gas,0.2838
+Craigavon,2031,gas,0.2829
+Craigavon,2032,gas,0.2819
+Craigavon,2033,gas,0.281
+Craigavon,2034,gas,0.28
+Craigavon,2035,gas,0.2791
+Craigavon,2036,gas,0.2782
+Cramlington,2026,gas,0.2654
+Cramlington,2027,gas,0.2654
+Cramlington,2028,gas,0.2654
+Cramlington,2029,gas,0.2654
+Cramlington,2030,gas,0.2654
+Cramlington,2031,gas,0.2645
+Cramlington,2032,gas,0.2636
+Cramlington,2033,gas,0.2627
+Cramlington,2034,gas,0.2619
+Cramlington,2035,gas,0.261
+Cramlington,2036,gas,0.2601
 DSM Dalry,2026,biomass,0.0
 DSM Dalry,2026,gas,1.1312
 DSM Dalry,2027,biomass,0.0
@@ -331,6 +628,39 @@ DSM Dalry,2035,biomass,0.0
 DSM Dalry,2035,gas,1.1123
 DSM Dalry,2036,biomass,0.0
 DSM Dalry,2036,gas,1.1085
+Darley Dale,2026,gas,1.0514
+Darley Dale,2027,gas,1.0514
+Darley Dale,2028,gas,1.0514
+Darley Dale,2029,gas,1.0514
+Darley Dale,2030,gas,1.0514
+Darley Dale,2031,gas,1.0479
+Darley Dale,2032,gas,1.0444
+Darley Dale,2033,gas,1.0409
+Darley Dale,2034,gas,1.0374
+Darley Dale,2035,gas,1.0339
+Darley Dale,2036,gas,1.0304
+Davidstow Creamery,2026,gas,0.3314
+Davidstow Creamery,2027,gas,0.3314
+Davidstow Creamery,2028,gas,0.3314
+Davidstow Creamery,2029,gas,0.3314
+Davidstow Creamery,2030,gas,0.3314
+Davidstow Creamery,2031,gas,0.3303
+Davidstow Creamery,2032,gas,0.3292
+Davidstow Creamery,2033,gas,0.3281
+Davidstow Creamery,2034,gas,0.327
+Davidstow Creamery,2035,gas,0.3259
+Davidstow Creamery,2036,gas,0.3248
+"Deeside Industrial Estate, Deeside",2026,gas,0.6452
+"Deeside Industrial Estate, Deeside",2027,gas,0.6452
+"Deeside Industrial Estate, Deeside",2028,gas,0.6452
+"Deeside Industrial Estate, Deeside",2029,gas,0.6452
+"Deeside Industrial Estate, Deeside",2030,gas,0.6452
+"Deeside Industrial Estate, Deeside",2031,gas,0.6431
+"Deeside Industrial Estate, Deeside",2032,gas,0.6409
+"Deeside Industrial Estate, Deeside",2033,gas,0.6388
+"Deeside Industrial Estate, Deeside",2034,gas,0.6366
+"Deeside Industrial Estate, Deeside",2035,gas,0.6345
+"Deeside Industrial Estate, Deeside",2036,gas,0.6323
 Desford,2026,biomass,0.0001
 Desford,2026,gas,0.7179
 Desford,2027,biomass,0.0001
@@ -353,6 +683,28 @@ Desford,2035,biomass,0.0001
 Desford,2035,gas,0.7059
 Desford,2036,biomass,0.0001
 Desford,2036,gas,0.7035
+Doncaster,2026,gas,0.2525
+Doncaster,2027,gas,0.2525
+Doncaster,2028,gas,0.2525
+Doncaster,2029,gas,0.2525
+Doncaster,2030,gas,0.2525
+Doncaster,2031,gas,0.2517
+Doncaster,2032,gas,0.2508
+Doncaster,2033,gas,0.25
+Doncaster,2034,gas,0.2492
+Doncaster,2035,gas,0.2483
+Doncaster,2036,gas,0.2475
+Dorket Head Brickworks,2026,gas,0.52
+Dorket Head Brickworks,2027,gas,0.52
+Dorket Head Brickworks,2028,gas,0.52
+Dorket Head Brickworks,2029,gas,0.52
+Dorket Head Brickworks,2030,gas,0.52
+Dorket Head Brickworks,2031,gas,0.5183
+Dorket Head Brickworks,2032,gas,0.5166
+Dorket Head Brickworks,2033,gas,0.5148
+Dorket Head Brickworks,2034,gas,0.5131
+Dorket Head Brickworks,2035,gas,0.5114
+Dorket Head Brickworks,2036,gas,0.5096
 Dow Silicone Manufacturing Installation,2026,gas,2.5632
 Dow Silicone Manufacturing Installation,2027,gas,2.5632
 Dow Silicone Manufacturing Installation,2028,gas,2.5632
@@ -364,6 +716,28 @@ Dow Silicone Manufacturing Installation,2033,gas,2.5376
 Dow Silicone Manufacturing Installation,2034,gas,2.529
 Dow Silicone Manufacturing Installation,2035,gas,2.5205
 Dow Silicone Manufacturing Installation,2036,gas,2.5119
+Dudley,2026,gas,0.2581
+Dudley,2027,gas,0.2581
+Dudley,2028,gas,0.2581
+Dudley,2029,gas,0.2581
+Dudley,2030,gas,0.2581
+Dudley,2031,gas,0.2572
+Dudley,2032,gas,0.2564
+Dudley,2033,gas,0.2555
+Dudley,2034,gas,0.2546
+Dudley,2035,gas,0.2538
+Dudley,2036,gas,0.2529
+Dumfries,2026,gas,0.3299
+Dumfries,2027,gas,0.3299
+Dumfries,2028,gas,0.3299
+Dumfries,2029,gas,0.3299
+Dumfries,2030,gas,0.3299
+Dumfries,2031,gas,0.3288
+Dumfries,2032,gas,0.3277
+Dumfries,2033,gas,0.3266
+Dumfries,2034,gas,0.3255
+Dumfries,2035,gas,0.3244
+Dumfries,2036,gas,0.3233
 Dunbar Plant,2026,gas,1.9169
 Dunbar Plant,2027,gas,1.9684
 Dunbar Plant,2028,gas,2.0388
@@ -375,6 +749,17 @@ Dunbar Plant,2033,gas,2.2309
 Dunbar Plant,2034,gas,2.2523
 Dunbar Plant,2035,gas,2.2545
 Dunbar Plant,2036,gas,2.2545
+Duns,2026,gas,0.3611
+Duns,2027,gas,0.3611
+Duns,2028,gas,0.3611
+Duns,2029,gas,0.3611
+Duns,2030,gas,0.3611
+Duns,2031,gas,0.3599
+Duns,2032,gas,0.3587
+Duns,2033,gas,0.3575
+Duns,2034,gas,0.3563
+Duns,2035,gas,0.3551
+Duns,2036,gas,0.3539
 ETEX Building Performance Limited – Portbury Site,2026,gas,1.3134
 ETEX Building Performance Limited – Portbury Site,2027,gas,1.3134
 ETEX Building Performance Limited – Portbury Site,2028,gas,1.3134
@@ -397,6 +782,17 @@ East Leake Gypsum Works,2033,gas,1.2876
 East Leake Gypsum Works,2034,gas,1.2832
 East Leake Gypsum Works,2035,gas,1.2789
 East Leake Gypsum Works,2036,gas,1.2746
+Eastcroft,2026,gas,0.6258
+Eastcroft,2027,gas,0.6258
+Eastcroft,2028,gas,0.6258
+Eastcroft,2029,gas,0.6258
+Eastcroft,2030,gas,0.6258
+Eastcroft,2031,gas,0.6237
+Eastcroft,2032,gas,0.6216
+Eastcroft,2033,gas,0.6196
+Eastcroft,2034,gas,0.6175
+Eastcroft,2035,gas,0.6154
+Eastcroft,2036,gas,0.6133
 Eastham Refinery Limited,2026,gas,0.6752
 Eastham Refinery Limited,2027,gas,0.6752
 Eastham Refinery Limited,2028,gas,0.6752
@@ -408,6 +804,17 @@ Eastham Refinery Limited,2033,gas,0.6685
 Eastham Refinery Limited,2034,gas,0.6662
 Eastham Refinery Limited,2035,gas,0.664
 Eastham Refinery Limited,2036,gas,0.6617
+Edmonton,2026,gas,1.6344
+Edmonton,2027,gas,1.6344
+Edmonton,2028,gas,1.6344
+Edmonton,2029,gas,1.6344
+Edmonton,2030,gas,1.6344
+Edmonton,2031,gas,1.6289
+Edmonton,2032,gas,1.6235
+Edmonton,2033,gas,1.618
+Edmonton,2034,gas,1.6126
+Edmonton,2035,gas,1.6071
+Edmonton,2036,gas,1.6017
 Elanco AH UK Speke,2026,gas,0.8111
 Elanco AH UK Speke,2027,gas,0.8111
 Elanco AH UK Speke,2028,gas,0.8111
@@ -463,6 +870,17 @@ Esso Petroleum Company Limited,2033,gas,48.667
 Esso Petroleum Company Limited,2034,gas,48.5031
 Esso Petroleum Company Limited,2035,gas,48.3393
 Esso Petroleum Company Limited,2036,gas,48.1754
+Exeter EfW,2026,gas,0.2119
+Exeter EfW,2027,gas,0.2119
+Exeter EfW,2028,gas,0.2119
+Exeter EfW,2029,gas,0.2119
+Exeter EfW,2030,gas,0.2119
+Exeter EfW,2031,gas,0.2112
+Exeter EfW,2032,gas,0.2105
+Exeter EfW,2033,gas,0.2098
+Exeter EfW,2034,gas,0.2091
+Exeter EfW,2035,gas,0.2084
+Exeter EfW,2036,gas,0.2077
 Fawley Chemicals,2026,biomass,0.0
 Fawley Chemicals,2026,gas,0.7654
 Fawley Chemicals,2027,biomass,0.0
@@ -507,6 +925,18 @@ Fife Ethylene Plant,2033,gas,12.0495
 Fife Ethylene Plant,2034,gas,12.009
 Fife Ethylene Plant,2035,gas,11.9684
 Fife Ethylene Plant,2036,gas,11.9278
+Gateshead,2026,gas,0.4512
+Glasgow Recycling & Renewable Energy Centre,2026,gas,0.5375
+Glasgow Recycling & Renewable Energy Centre,2027,gas,0.5375
+Glasgow Recycling & Renewable Energy Centre,2028,gas,0.5375
+Glasgow Recycling & Renewable Energy Centre,2029,gas,0.5375
+Glasgow Recycling & Renewable Energy Centre,2030,gas,0.5375
+Glasgow Recycling & Renewable Energy Centre,2031,gas,0.5357
+Glasgow Recycling & Renewable Energy Centre,2032,gas,0.5339
+Glasgow Recycling & Renewable Energy Centre,2033,gas,0.5321
+Glasgow Recycling & Renewable Energy Centre,2034,gas,0.5303
+Glasgow Recycling & Renewable Energy Centre,2035,gas,0.5285
+Glasgow Recycling & Renewable Energy Centre,2036,gas,0.5267
 Grangemouth Chemicals,2026,gas,7.3179
 Grangemouth Chemicals,2027,gas,7.3179
 Grangemouth Chemicals,2028,gas,7.3179
@@ -518,6 +948,61 @@ Grangemouth Chemicals,2033,gas,7.2447
 Grangemouth Chemicals,2034,gas,7.2203
 Grangemouth Chemicals,2035,gas,7.1959
 Grangemouth Chemicals,2036,gas,7.1715
+Great Ryburgh Maltings,2026,gas,0.1991
+Great Ryburgh Maltings,2027,gas,0.1991
+Great Ryburgh Maltings,2028,gas,0.1991
+Great Ryburgh Maltings,2029,gas,0.1991
+Great Ryburgh Maltings,2030,gas,0.1991
+Great Ryburgh Maltings,2031,gas,0.1985
+Great Ryburgh Maltings,2032,gas,0.1978
+Great Ryburgh Maltings,2033,gas,0.1971
+Great Ryburgh Maltings,2034,gas,0.1965
+Great Ryburgh Maltings,2035,gas,0.1958
+Great Ryburgh Maltings,2036,gas,0.1952
+Greatham,2026,gas,0.2611
+Greatham,2027,gas,0.2611
+Greatham,2028,gas,0.2611
+Greatham,2029,gas,0.2611
+Greatham,2030,gas,0.2611
+Greatham,2031,gas,0.2602
+Greatham,2032,gas,0.2593
+Greatham,2033,gas,0.2585
+Greatham,2034,gas,0.2576
+Greatham,2035,gas,0.2567
+Greatham,2036,gas,0.2559
+Greatmoor EfW,2026,gas,0.9336
+Greatmoor EfW,2027,gas,0.9336
+Greatmoor EfW,2028,gas,0.9336
+Greatmoor EfW,2029,gas,0.9336
+Greatmoor EfW,2030,gas,0.9336
+Greatmoor EfW,2031,gas,0.9305
+Greatmoor EfW,2032,gas,0.9274
+Greatmoor EfW,2033,gas,0.9243
+Greatmoor EfW,2034,gas,0.9212
+Greatmoor EfW,2035,gas,0.9181
+Greatmoor EfW,2036,gas,0.9149
+Greenock,2026,gas,0.2061
+Greenock,2027,gas,0.2061
+Greenock,2028,gas,0.2061
+Greenock,2029,gas,0.2061
+Greenock,2030,gas,0.2061
+Greenock,2031,gas,0.2054
+Greenock,2032,gas,0.2048
+Greenock,2033,gas,0.2041
+Greenock,2034,gas,0.2034
+Greenock,2035,gas,0.2027
+Greenock,2036,gas,0.202
+Grimsby,2026,gas,0.9053
+Grimsby,2027,gas,0.9053
+Grimsby,2028,gas,0.9053
+Grimsby,2029,gas,0.9053
+Grimsby,2030,gas,0.9053
+Grimsby,2031,gas,0.9023
+Grimsby,2032,gas,0.8993
+Grimsby,2033,gas,0.8963
+Grimsby,2034,gas,0.8932
+Grimsby,2035,gas,0.8902
+Grimsby,2036,gas,0.8872
 Guardian Industries UK Limited,2026,biomass,0.0
 Guardian Industries UK Limited,2026,gas,1.8923
 Guardian Industries UK Limited,2027,biomass,0.0
@@ -540,6 +1025,50 @@ Guardian Industries UK Limited,2035,biomass,0.0
 Guardian Industries UK Limited,2035,gas,1.8608
 Guardian Industries UK Limited,2036,biomass,0.0
 Guardian Industries UK Limited,2036,gas,1.8545
+Halewood,2026,gas,0.3664
+Halewood,2027,gas,0.3664
+Halewood,2028,gas,0.3664
+Halewood,2029,gas,0.3664
+Halewood,2030,gas,0.3664
+Halewood,2031,gas,0.3652
+Halewood,2032,gas,0.364
+Halewood,2033,gas,0.3627
+Halewood,2034,gas,0.3615
+Halewood,2035,gas,0.3603
+Halewood,2036,gas,0.3591
+Harlesden,2026,gas,0.2667
+Harlesden,2027,gas,0.2667
+Harlesden,2028,gas,0.2667
+Harlesden,2029,gas,0.2667
+Harlesden,2030,gas,0.2667
+Harlesden,2031,gas,0.2658
+Harlesden,2032,gas,0.265
+Harlesden,2033,gas,0.2641
+Harlesden,2034,gas,0.2632
+Harlesden,2035,gas,0.2623
+Harlesden,2036,gas,0.2614
+Harlow,2026,gas,0.4424
+Harlow,2027,gas,0.4424
+Harlow,2028,gas,0.4424
+Harlow,2029,gas,0.4424
+Harlow,2030,gas,0.4424
+Harlow,2031,gas,0.441
+Harlow,2032,gas,0.4395
+Harlow,2033,gas,0.438
+Harlow,2034,gas,0.4365
+Harlow,2035,gas,0.4351
+Harlow,2036,gas,0.4336
+Hartlebury Factory,2026,gas,0.2566
+Hartlebury Factory,2027,gas,0.2566
+Hartlebury Factory,2028,gas,0.2566
+Hartlebury Factory,2029,gas,0.2566
+Hartlebury Factory,2030,gas,0.2566
+Hartlebury Factory,2031,gas,0.2558
+Hartlebury Factory,2032,gas,0.2549
+Hartlebury Factory,2033,gas,0.2541
+Hartlebury Factory,2034,gas,0.2532
+Hartlebury Factory,2035,gas,0.2524
+Hartlebury Factory,2036,gas,0.2515
 Hindlow Lime,2026,biomass,0.0
 Hindlow Lime,2026,gas,3.0642
 Hindlow Lime,2027,biomass,0.0
@@ -573,6 +1102,17 @@ Hope Cement Works,2033,gas,4.5074
 Hope Cement Works,2034,gas,4.5232
 Hope Cement Works,2035,gas,4.555
 Hope Cement Works,2036,gas,4.555
+Huddersfield,2026,gas,0.4471
+Huddersfield,2027,gas,0.4471
+Huddersfield,2028,gas,0.4471
+Huddersfield,2029,gas,0.4471
+Huddersfield,2030,gas,0.4471
+Huddersfield,2031,gas,0.4456
+Huddersfield,2032,gas,0.4441
+Huddersfield,2033,gas,0.4426
+Huddersfield,2034,gas,0.4411
+Huddersfield,2035,gas,0.4397
+Huddersfield,2036,gas,0.4382
 Humber Refinery,2026,gas,41.2656
 Humber Refinery,2027,gas,41.2656
 Humber Refinery,2028,gas,41.2656
@@ -584,6 +1124,39 @@ Humber Refinery,2033,gas,40.8529
 Humber Refinery,2034,gas,40.7154
 Humber Refinery,2035,gas,40.5778
 Humber Refinery,2036,gas,40.4403
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",2026,gas,0.7933
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",2027,gas,0.7933
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",2028,gas,0.7933
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",2029,gas,0.7933
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",2030,gas,0.7933
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",2031,gas,0.7907
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",2032,gas,0.788
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",2033,gas,0.7854
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",2034,gas,0.7827
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",2035,gas,0.7801
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",2036,gas,0.7775
+Hythe,2026,gas,0.2713
+Hythe,2027,gas,0.2713
+Hythe,2028,gas,0.2713
+Hythe,2029,gas,0.2713
+Hythe,2030,gas,0.2713
+Hythe,2031,gas,0.2704
+Hythe,2032,gas,0.2695
+Hythe,2033,gas,0.2686
+Hythe,2034,gas,0.2677
+Hythe,2035,gas,0.2668
+Hythe,2036,gas,0.2659
+Hythe (2),2026,gas,1.0356
+Hythe (2),2027,gas,1.0356
+Hythe (2),2028,gas,1.0356
+Hythe (2),2029,gas,1.0356
+Hythe (2),2030,gas,1.0356
+Hythe (2),2031,gas,1.0322
+Hythe (2),2032,gas,1.0287
+Hythe (2),2033,gas,1.0253
+Hythe (2),2034,gas,1.0218
+Hythe (2),2035,gas,1.0184
+Hythe (2),2036,gas,1.0149
 INOVYN Chlorvinyls Newton Aycliffe,2026,gas,0.7136
 INOVYN Chlorvinyls Newton Aycliffe,2027,gas,0.7136
 INOVYN Chlorvinyls Newton Aycliffe,2028,gas,0.7136
@@ -639,6 +1212,28 @@ Ineos Acetyls Hull,2035,biomass,0.0001
 Ineos Acetyls Hull,2035,gas,2.0714
 Ineos Acetyls Hull,2036,biomass,0.0001
 Ineos Acetyls Hull,2036,gas,2.0644
+Ipswich,2026,gas,0.995
+Ipswich,2027,gas,0.995
+Ipswich,2028,gas,0.995
+Ipswich,2029,gas,0.995
+Ipswich,2030,gas,0.995
+Ipswich,2031,gas,0.9917
+Ipswich,2032,gas,0.9884
+Ipswich,2033,gas,0.9851
+Ipswich,2034,gas,0.9817
+Ipswich,2035,gas,0.9784
+Ipswich,2036,gas,0.9751
+Jacobs Bakery,2026,gas,0.5012
+Jacobs Bakery,2027,gas,0.5012
+Jacobs Bakery,2028,gas,0.5012
+Jacobs Bakery,2029,gas,0.5012
+Jacobs Bakery,2030,gas,0.5012
+Jacobs Bakery,2031,gas,0.4995
+Jacobs Bakery,2032,gas,0.4978
+Jacobs Bakery,2033,gas,0.4962
+Jacobs Bakery,2034,gas,0.4945
+Jacobs Bakery,2035,gas,0.4928
+Jacobs Bakery,2036,gas,0.4911
 Jaguar Land Rover Limited Solihull,2026,biomass,0.0
 Jaguar Land Rover Limited Solihull,2026,gas,0.9892
 Jaguar Land Rover Limited Solihull,2027,biomass,0.0
@@ -672,6 +1267,17 @@ KETTON WORKS,2033,gas,2.5351
 KETTON WORKS,2034,gas,2.5441
 KETTON WORKS,2035,gas,2.5619
 KETTON WORKS,2036,gas,2.5619
+Kemsley Generating Station,2026,gas,1.9018
+Kemsley Generating Station,2027,gas,1.9018
+Kemsley Generating Station,2028,gas,1.9018
+Kemsley Generating Station,2029,gas,1.9018
+Kemsley Generating Station,2030,gas,1.9018
+Kemsley Generating Station,2031,gas,1.8954
+Kemsley Generating Station,2032,gas,1.8891
+Kemsley Generating Station,2033,gas,1.8827
+Kemsley Generating Station,2034,gas,1.8764
+Kemsley Generating Station,2035,gas,1.8701
+Kemsley Generating Station,2036,gas,1.8637
 Knauf Drywall Sittingbourne,2026,gas,0.7671
 Knauf Drywall Sittingbourne,2027,gas,0.7671
 Knauf Drywall Sittingbourne,2028,gas,0.7671
@@ -727,6 +1333,50 @@ Kronospan Ltd,2035,biomass,0.0001
 Kronospan Ltd,2035,gas,2.6775
 Kronospan Ltd,2036,biomass,0.0001
 Kronospan Ltd,2036,gas,2.6684
+Lancaster,2026,gas,0.2267
+Lancaster,2027,gas,0.2267
+Lancaster,2028,gas,0.2267
+Lancaster,2029,gas,0.2267
+Lancaster,2030,gas,0.2267
+Lancaster,2031,gas,0.2259
+Lancaster,2032,gas,0.2252
+Lancaster,2033,gas,0.2244
+Lancaster,2034,gas,0.2236
+Lancaster,2035,gas,0.2229
+Lancaster,2036,gas,0.2221
+Lancing,2026,gas,0.2167
+Lancing,2027,gas,0.2167
+Lancing,2028,gas,0.2167
+Lancing,2029,gas,0.2167
+Lancing,2030,gas,0.2167
+Lancing,2031,gas,0.2159
+Lancing,2032,gas,0.2152
+Lancing,2033,gas,0.2145
+Lancing,2034,gas,0.2138
+Lancing,2035,gas,0.2131
+Lancing,2036,gas,0.2123
+Leeds RERF,2026,gas,0.6628
+Leeds RERF,2027,gas,0.6628
+Leeds RERF,2028,gas,0.6628
+Leeds RERF,2029,gas,0.6628
+Leeds RERF,2030,gas,0.6628
+Leeds RERF,2031,gas,0.6606
+Leeds RERF,2032,gas,0.6584
+Leeds RERF,2033,gas,0.6562
+Leeds RERF,2034,gas,0.6539
+Leeds RERF,2035,gas,0.6517
+Leeds RERF,2036,gas,0.6495
+Leek,2026,gas,0.4004
+Leek,2027,gas,0.4004
+Leek,2028,gas,0.4004
+Leek,2029,gas,0.4004
+Leek,2030,gas,0.4004
+Leek,2031,gas,0.399
+Leek,2032,gas,0.3977
+Leek,2033,gas,0.3964
+Leek,2034,gas,0.395
+Leek,2035,gas,0.3937
+Leek,2036,gas,0.3924
 Lhoist UK Limited,2026,gas,3.1677
 Lhoist UK Limited,2027,gas,3.1677
 Lhoist UK Limited,2028,gas,3.1677
@@ -738,6 +1388,28 @@ Lhoist UK Limited,2033,gas,3.136
 Lhoist UK Limited,2034,gas,3.1255
 Lhoist UK Limited,2035,gas,3.1149
 Lhoist UK Limited,2036,gas,3.1044
+Llanelli,2026,gas,0.3499
+Llanelli,2027,gas,0.3499
+Llanelli,2028,gas,0.3499
+Llanelli,2029,gas,0.3499
+Llanelli,2030,gas,0.3499
+Llanelli,2031,gas,0.3487
+Llanelli,2032,gas,0.3475
+Llanelli,2033,gas,0.3464
+Llanelli,2034,gas,0.3452
+Llanelli,2035,gas,0.344
+Llanelli,2036,gas,0.3429
+"Llanelli, Carmarthenshire",2026,gas,0.0216
+"Llanelli, Carmarthenshire",2027,gas,0.0216
+"Llanelli, Carmarthenshire",2028,gas,0.0216
+"Llanelli, Carmarthenshire",2029,gas,0.0216
+"Llanelli, Carmarthenshire",2030,gas,0.0216
+"Llanelli, Carmarthenshire",2031,gas,0.0216
+"Llanelli, Carmarthenshire",2032,gas,0.0216
+"Llanelli, Carmarthenshire",2033,gas,0.0216
+"Llanelli, Carmarthenshire",2034,gas,0.0216
+"Llanelli, Carmarthenshire",2035,gas,0.0216
+"Llanelli, Carmarthenshire",2036,gas,0.0216
 Llanwern Steelworks,2026,gas,0.0564
 Llanwern Steelworks,2027,electricity,0.0016
 Llanwern Steelworks,2027,gas,0.0542
@@ -762,6 +1434,28 @@ Lochaber Smelter,2033,gas,0.9582
 Lochaber Smelter,2034,gas,0.955
 Lochaber Smelter,2035,gas,0.9518
 Lochaber Smelter,2036,gas,0.9486
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,2026,gas,0.3936
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,2027,gas,0.3936
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,2028,gas,0.3936
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,2029,gas,0.3936
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,2030,gas,0.3936
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,2031,gas,0.3923
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,2032,gas,0.391
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,2033,gas,0.3897
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,2034,gas,0.3884
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,2035,gas,0.387
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,2036,gas,0.3857
+Manchester,2026,gas,0.2415
+Manchester,2027,gas,0.2415
+Manchester,2028,gas,0.2415
+Manchester,2029,gas,0.2415
+Manchester,2030,gas,0.2415
+Manchester,2031,gas,0.2407
+Manchester,2032,gas,0.2399
+Manchester,2033,gas,0.2391
+Manchester,2034,gas,0.2383
+Manchester,2035,gas,0.2375
+Manchester,2036,gas,0.2367
 Measham,2026,biomass,0.0
 Measham,2026,gas,0.6584
 Measham,2027,biomass,0.0
@@ -795,6 +1489,83 @@ Melton Ross Limeworks,2033,gas,4.2526
 Melton Ross Limeworks,2034,gas,4.2383
 Melton Ross Limeworks,2035,gas,4.224
 Melton Ross Limeworks,2036,gas,4.2097
+Mercia Envirecover Site,2026,gas,0.7136
+Mercia Envirecover Site,2027,gas,0.7136
+Mercia Envirecover Site,2028,gas,0.7136
+Mercia Envirecover Site,2029,gas,0.7136
+Mercia Envirecover Site,2030,gas,0.7136
+Mercia Envirecover Site,2031,gas,0.7112
+Mercia Envirecover Site,2032,gas,0.7089
+Mercia Envirecover Site,2033,gas,0.7065
+Mercia Envirecover Site,2034,gas,0.7041
+Mercia Envirecover Site,2035,gas,0.7017
+Mercia Envirecover Site,2036,gas,0.6993
+Merevale AD Plant,2026,gas,0.4195
+Merevale AD Plant,2027,gas,0.4195
+Merevale AD Plant,2028,gas,0.4195
+Merevale AD Plant,2029,gas,0.4195
+Merevale AD Plant,2030,gas,0.4195
+Merevale AD Plant,2031,gas,0.4181
+Merevale AD Plant,2032,gas,0.4167
+Merevale AD Plant,2033,gas,0.4153
+Merevale AD Plant,2034,gas,0.4139
+Merevale AD Plant,2035,gas,0.4125
+Merevale AD Plant,2036,gas,0.4111
+Middlesbrough,2026,gas,0.2496
+Middlesbrough,2027,gas,0.2496
+Middlesbrough,2028,gas,0.2496
+Middlesbrough,2029,gas,0.2496
+Middlesbrough,2030,gas,0.2496
+Middlesbrough,2031,gas,0.2488
+Middlesbrough,2032,gas,0.248
+Middlesbrough,2033,gas,0.2471
+Middlesbrough,2034,gas,0.2463
+Middlesbrough,2035,gas,0.2455
+Middlesbrough,2036,gas,0.2446
+Mostyn,2026,gas,0.296
+Mostyn,2027,gas,0.296
+Mostyn,2028,gas,0.296
+Mostyn,2029,gas,0.296
+Mostyn,2030,gas,0.296
+Mostyn,2031,gas,0.2951
+Mostyn,2032,gas,0.2941
+Mostyn,2033,gas,0.2931
+Mostyn,2034,gas,0.2921
+Mostyn,2035,gas,0.2911
+Mostyn,2036,gas,0.2901
+Nestle Purina Wisbech,2026,gas,0.2329
+Nestle Purina Wisbech,2027,gas,0.2329
+Nestle Purina Wisbech,2028,gas,0.2329
+Nestle Purina Wisbech,2029,gas,0.2329
+Nestle Purina Wisbech,2030,gas,0.2329
+Nestle Purina Wisbech,2031,gas,0.2321
+Nestle Purina Wisbech,2032,gas,0.2313
+Nestle Purina Wisbech,2033,gas,0.2305
+Nestle Purina Wisbech,2034,gas,0.2298
+Nestle Purina Wisbech,2035,gas,0.229
+Nestle Purina Wisbech,2036,gas,0.2282
+Newcastle Upon Tyne,2026,gas,0.3377
+Newcastle Upon Tyne,2027,gas,0.3377
+Newcastle Upon Tyne,2028,gas,0.3377
+Newcastle Upon Tyne,2029,gas,0.3377
+Newcastle Upon Tyne,2030,gas,0.3377
+Newcastle Upon Tyne,2031,gas,0.3365
+Newcastle Upon Tyne,2032,gas,0.3354
+Newcastle Upon Tyne,2033,gas,0.3343
+Newcastle Upon Tyne,2034,gas,0.3332
+Newcastle Upon Tyne,2035,gas,0.332
+Newcastle Upon Tyne,2036,gas,0.3309
+Newhaven EfW Plant,2026,gas,0.708
+Newhaven EfW Plant,2027,gas,0.708
+Newhaven EfW Plant,2028,gas,0.708
+Newhaven EfW Plant,2029,gas,0.708
+Newhaven EfW Plant,2030,gas,0.708
+Newhaven EfW Plant,2031,gas,0.7056
+Newhaven EfW Plant,2032,gas,0.7032
+Newhaven EfW Plant,2033,gas,0.7009
+Newhaven EfW Plant,2034,gas,0.6985
+Newhaven EfW Plant,2035,gas,0.6962
+Newhaven EfW Plant,2036,gas,0.6938
 Nissan Motor Manufacturing (UK) Ltd,2026,gas,0.6398
 Nissan Motor Manufacturing (UK) Ltd,2027,gas,0.6398
 Nissan Motor Manufacturing (UK) Ltd,2028,gas,0.6398
@@ -828,6 +1599,28 @@ Norbord Cowie,2035,biomass,0.0
 Norbord Cowie,2035,gas,0.9972
 Norbord Cowie,2036,biomass,0.0
 Norbord Cowie,2036,gas,0.9938
+North Tees Site,2026,gas,0.6851
+North Tees Site,2027,gas,0.6851
+North Tees Site,2028,gas,0.6851
+North Tees Site,2029,gas,0.6851
+North Tees Site,2030,gas,0.6851
+North Tees Site,2031,gas,0.6828
+North Tees Site,2032,gas,0.6805
+North Tees Site,2033,gas,0.6782
+North Tees Site,2034,gas,0.676
+North Tees Site,2035,gas,0.6737
+North Tees Site,2036,gas,0.6714
+Northfleet Mill,2026,gas,0.2676
+Northfleet Mill,2027,gas,0.2676
+Northfleet Mill,2028,gas,0.2676
+Northfleet Mill,2029,gas,0.2676
+Northfleet Mill,2030,gas,0.2676
+Northfleet Mill,2031,gas,0.2667
+Northfleet Mill,2032,gas,0.2658
+Northfleet Mill,2033,gas,0.2649
+Northfleet Mill,2034,gas,0.2641
+Northfleet Mill,2035,gas,0.2632
+Northfleet Mill,2036,gas,0.2623
 Novelis Latchford,2026,biomass,0.0
 Novelis Latchford,2026,gas,0.8463
 Novelis Latchford,2027,biomass,0.0
@@ -861,6 +1654,17 @@ O-I Glass Limited,2033,gas,1.1766
 O-I Glass Limited,2034,gas,1.1726
 O-I Glass Limited,2035,gas,1.1687
 O-I Glass Limited,2036,gas,1.1647
+Oakenholt Paper Mill,2026,gas,0.396
+Oakenholt Paper Mill,2027,gas,0.396
+Oakenholt Paper Mill,2028,gas,0.396
+Oakenholt Paper Mill,2029,gas,0.396
+Oakenholt Paper Mill,2030,gas,0.396
+Oakenholt Paper Mill,2031,gas,0.3947
+Oakenholt Paper Mill,2032,gas,0.3934
+Oakenholt Paper Mill,2033,gas,0.3921
+Oakenholt Paper Mill,2034,gas,0.3908
+Oakenholt Paper Mill,2035,gas,0.3894
+Oakenholt Paper Mill,2036,gas,0.3881
 Omega Proteins Limited,2026,biomass,0.0
 Omega Proteins Limited,2026,gas,0.9783
 Omega Proteins Limited,2027,biomass,0.0
@@ -883,11 +1687,22 @@ Omega Proteins Limited,2035,biomass,0.0
 Omega Proteins Limited,2035,gas,0.962
 Omega Proteins Limited,2036,biomass,0.0
 Omega Proteins Limited,2036,gas,0.9588
+Overton Mill,2026,gas,0.3663
+Overton Mill,2027,gas,0.3663
+Overton Mill,2028,gas,0.3663
+Overton Mill,2029,gas,0.3663
+Overton Mill,2030,gas,0.3663
+Overton Mill,2031,gas,0.3651
+Overton Mill,2032,gas,0.3639
+Overton Mill,2033,gas,0.3626
+Overton Mill,2034,gas,0.3614
+Overton Mill,2035,gas,0.3602
+Overton Mill,2036,gas,0.359
 Padeswood Works,2026,gas,1.5119
 Padeswood Works,2027,gas,1.5526
 Padeswood Works,2028,gas,1.6047
 Padeswood Works,2029,gas,1.6715
-Padeswood Works,2030,gas,1.6173
+Padeswood Works,2030,gas,1.7411
 Padeswood Works,2031,gas,1.7473
 Padeswood Works,2032,gas,1.7535
 Padeswood Works,2033,gas,1.7597
@@ -994,6 +1809,50 @@ Port of Liverpool CHP,2035,biomass,0.0
 Port of Liverpool CHP,2035,gas,2.9582
 Port of Liverpool CHP,2036,biomass,0.0
 Port of Liverpool CHP,2036,gas,2.9481
+Portsmouth,2026,gas,0.6411
+Portsmouth,2027,gas,0.6411
+Portsmouth,2028,gas,0.6411
+Portsmouth,2029,gas,0.6411
+Portsmouth,2030,gas,0.6411
+Portsmouth,2031,gas,0.639
+Portsmouth,2032,gas,0.6369
+Portsmouth,2033,gas,0.6347
+Portsmouth,2034,gas,0.6326
+Portsmouth,2035,gas,0.6305
+Portsmouth,2036,gas,0.6283
+Queenborough,2026,gas,0.2522
+Queenborough,2027,gas,0.2522
+Queenborough,2028,gas,0.2522
+Queenborough,2029,gas,0.2522
+Queenborough,2030,gas,0.2522
+Queenborough,2031,gas,0.2514
+Queenborough,2032,gas,0.2505
+Queenborough,2033,gas,0.2497
+Queenborough,2034,gas,0.2488
+Queenborough,2035,gas,0.248
+Queenborough,2036,gas,0.2471
+Rawcliffe Bridge,2026,gas,0.4046
+Rawcliffe Bridge,2027,gas,0.4046
+Rawcliffe Bridge,2028,gas,0.4046
+Rawcliffe Bridge,2029,gas,0.4046
+Rawcliffe Bridge,2030,gas,0.4046
+Rawcliffe Bridge,2031,gas,0.4032
+Rawcliffe Bridge,2032,gas,0.4019
+Rawcliffe Bridge,2033,gas,0.4005
+Rawcliffe Bridge,2034,gas,0.3992
+Rawcliffe Bridge,2035,gas,0.3979
+Rawcliffe Bridge,2036,gas,0.3965
+Redhill,2026,gas,0.238
+Redhill,2027,gas,0.238
+Redhill,2028,gas,0.238
+Redhill,2029,gas,0.238
+Redhill,2030,gas,0.238
+Redhill,2031,gas,0.2372
+Redhill,2032,gas,0.2364
+Redhill,2033,gas,0.2356
+Redhill,2034,gas,0.2348
+Redhill,2035,gas,0.234
+Redhill,2036,gas,0.2332
 Ribblesdale Works,2026,gas,1.815
 Ribblesdale Works,2027,gas,1.8638
 Ribblesdale Works,2028,gas,1.9304
@@ -1060,6 +1919,39 @@ Rugby Works,2033,gas,4.3634
 Rugby Works,2034,gas,4.3788
 Rugby Works,2035,gas,4.4095
 Rugby Works,2036,gas,4.4095
+Runcorn,2026,gas,0.2853
+Runcorn,2027,gas,0.2853
+Runcorn,2028,gas,0.2853
+Runcorn,2029,gas,0.2853
+Runcorn,2030,gas,0.2853
+Runcorn,2031,gas,0.2843
+Runcorn,2032,gas,0.2834
+Runcorn,2033,gas,0.2824
+Runcorn,2034,gas,0.2815
+Runcorn,2035,gas,0.2805
+Runcorn,2036,gas,0.2796
+SELCHP,2026,gas,1.3235
+SELCHP,2027,gas,1.3235
+SELCHP,2028,gas,1.3235
+SELCHP,2029,gas,1.3235
+SELCHP,2030,gas,1.3235
+SELCHP,2031,gas,1.319
+SELCHP,2032,gas,1.3146
+SELCHP,2033,gas,1.3102
+SELCHP,2034,gas,1.3058
+SELCHP,2035,gas,1.3014
+SELCHP,2036,gas,1.297
+Saddlebow Paper Mill,2026,gas,2.7884
+Saddlebow Paper Mill,2027,gas,2.7884
+Saddlebow Paper Mill,2028,gas,2.7884
+Saddlebow Paper Mill,2029,gas,2.7884
+Saddlebow Paper Mill,2030,gas,2.7884
+Saddlebow Paper Mill,2031,gas,2.7791
+Saddlebow Paper Mill,2032,gas,2.7698
+Saddlebow Paper Mill,2033,gas,2.7605
+Saddlebow Paper Mill,2034,gas,2.7513
+Saddlebow Paper Mill,2035,gas,2.742
+Saddlebow Paper Mill,2036,gas,2.7327
 Saint-Gobain Glass (United Kingdom) Limited,2026,gas,1.8177
 Saint-Gobain Glass (United Kingdom) Limited,2027,gas,1.8177
 Saint-Gobain Glass (United Kingdom) Limited,2028,gas,1.8177
@@ -1083,6 +1975,17 @@ Scunthorpe Integrated Iron & Steel Works,2033,electricity,3.6203
 Scunthorpe Integrated Iron & Steel Works,2034,electricity,3.6203
 Scunthorpe Integrated Iron & Steel Works,2035,electricity,3.6203
 Scunthorpe Integrated Iron & Steel Works,2036,electricity,3.6203
+Seal Sands High Temparature Incinerator,2026,gas,0.2006
+Seal Sands High Temparature Incinerator,2027,gas,0.2006
+Seal Sands High Temparature Incinerator,2028,gas,0.2006
+Seal Sands High Temparature Incinerator,2029,gas,0.2006
+Seal Sands High Temparature Incinerator,2030,gas,0.2006
+Seal Sands High Temparature Incinerator,2031,gas,0.1999
+Seal Sands High Temparature Incinerator,2032,gas,0.1992
+Seal Sands High Temparature Incinerator,2033,gas,0.1986
+Seal Sands High Temparature Incinerator,2034,gas,0.1979
+Seal Sands High Temparature Incinerator,2035,gas,0.1972
+Seal Sands High Temparature Incinerator,2036,gas,0.1966
 Selby Wheat Processing Facility,2026,gas,2.0532
 Selby Wheat Processing Facility,2027,gas,2.0532
 Selby Wheat Processing Facility,2028,gas,2.0532
@@ -1105,6 +2008,39 @@ Sellafield Site,2033,gas,2.5836
 Sellafield Site,2034,gas,2.5749
 Sellafield Site,2035,gas,2.5662
 Sellafield Site,2036,gas,2.5575
+Severnside Energy Recovery Centre,2026,gas,1.3544
+Severnside Energy Recovery Centre,2027,gas,1.3544
+Severnside Energy Recovery Centre,2028,gas,1.3544
+Severnside Energy Recovery Centre,2029,gas,1.3544
+Severnside Energy Recovery Centre,2030,gas,1.3544
+Severnside Energy Recovery Centre,2031,gas,1.3499
+Severnside Energy Recovery Centre,2032,gas,1.3454
+Severnside Energy Recovery Centre,2033,gas,1.3409
+Severnside Energy Recovery Centre,2034,gas,1.3364
+Severnside Energy Recovery Centre,2035,gas,1.3318
+Severnside Energy Recovery Centre,2036,gas,1.3273
+Shap,2026,gas,0.2435
+Shap,2027,gas,0.2435
+Shap,2028,gas,0.2435
+Shap,2029,gas,0.2435
+Shap,2030,gas,0.2435
+Shap,2031,gas,0.2427
+Shap,2032,gas,0.2419
+Shap,2033,gas,0.2411
+Shap,2034,gas,0.2403
+Shap,2035,gas,0.2395
+Shap,2036,gas,0.2387
+Sheffield,2026,gas,0.771
+Sheffield,2027,gas,0.771
+Sheffield,2028,gas,0.771
+Sheffield,2029,gas,0.771
+Sheffield,2030,gas,0.771
+Sheffield,2031,gas,0.7684
+Sheffield,2032,gas,0.7659
+Sheffield,2033,gas,0.7633
+Sheffield,2034,gas,0.7607
+Sheffield,2035,gas,0.7582
+Sheffield,2036,gas,0.7556
 Shell UK Limited Fife NGL Plant,2026,biomass,0.0
 Shell UK Limited Fife NGL Plant,2026,gas,2.313
 Shell UK Limited Fife NGL Plant,2027,biomass,0.0
@@ -1149,6 +2085,17 @@ Sherburn Gypsum Works,2035,biomass,0.0
 Sherburn Gypsum Works,2035,gas,0.6396
 Sherburn Gypsum Works,2036,biomass,0.0
 Sherburn Gypsum Works,2036,gas,0.6374
+Slough Chocolate Factory,2026,gas,0.218
+Slough Chocolate Factory,2027,gas,0.218
+Slough Chocolate Factory,2028,gas,0.218
+Slough Chocolate Factory,2029,gas,0.218
+Slough Chocolate Factory,2030,gas,0.218
+Slough Chocolate Factory,2031,gas,0.2173
+Slough Chocolate Factory,2032,gas,0.2166
+Slough Chocolate Factory,2033,gas,0.2158
+Slough Chocolate Factory,2034,gas,0.2151
+Slough Chocolate Factory,2035,gas,0.2144
+Slough Chocolate Factory,2036,gas,0.2136
 Smurfit Westrock SSK,2026,biomass,0.0001
 Smurfit Westrock SSK,2026,gas,1.2213
 Smurfit Westrock SSK,2027,biomass,0.0001
@@ -1215,6 +2162,39 @@ Solutia UK Limited - Newport,2035,biomass,0.0
 Solutia UK Limited - Newport,2035,gas,0.7172
 Solutia UK Limited - Newport,2036,biomass,0.0
 Solutia UK Limited - Newport,2036,gas,0.7148
+South Holmwood Brickworks,2026,gas,0.2485
+South Holmwood Brickworks,2027,gas,0.2485
+South Holmwood Brickworks,2028,gas,0.2485
+South Holmwood Brickworks,2029,gas,0.2485
+South Holmwood Brickworks,2030,gas,0.2485
+South Holmwood Brickworks,2031,gas,0.2477
+South Holmwood Brickworks,2032,gas,0.2469
+South Holmwood Brickworks,2033,gas,0.246
+South Holmwood Brickworks,2034,gas,0.2452
+South Holmwood Brickworks,2035,gas,0.2444
+South Holmwood Brickworks,2036,gas,0.2436
+South Wirral,2026,gas,1.8223
+South Wirral,2027,gas,1.8223
+South Wirral,2028,gas,1.8223
+South Wirral,2029,gas,1.8223
+South Wirral,2030,gas,1.8223
+South Wirral,2031,gas,1.8162
+South Wirral,2032,gas,1.8101
+South Wirral,2033,gas,1.8041
+South Wirral,2034,gas,1.798
+South Wirral,2035,gas,1.7919
+South Wirral,2036,gas,1.7858
+Southampton,2026,gas,0.7067
+Southampton,2027,gas,0.7067
+Southampton,2028,gas,0.7067
+Southampton,2029,gas,0.7067
+Southampton,2030,gas,0.7067
+Southampton,2031,gas,0.7044
+Southampton,2032,gas,0.702
+Southampton,2033,gas,0.6997
+Southampton,2034,gas,0.6973
+Southampton,2035,gas,0.695
+Southampton,2036,gas,0.6926
 Stanlow Manufacturing Complex,2026,gas,34.1682
 Stanlow Manufacturing Complex,2027,gas,34.1682
 Stanlow Manufacturing Complex,2028,gas,34.1682
@@ -1226,6 +2206,61 @@ Stanlow Manufacturing Complex,2033,gas,33.8266
 Stanlow Manufacturing Complex,2034,gas,33.7127
 Stanlow Manufacturing Complex,2035,gas,33.5988
 Stanlow Manufacturing Complex,2036,gas,33.4849
+Stoke-On-Trent,2026,gas,0.6214
+Stoke-On-Trent,2027,gas,0.6214
+Stoke-On-Trent,2028,gas,0.6214
+Stoke-On-Trent,2029,gas,0.6214
+Stoke-On-Trent,2030,gas,0.6214
+Stoke-On-Trent,2031,gas,0.6193
+Stoke-On-Trent,2032,gas,0.6172
+Stoke-On-Trent,2033,gas,0.6152
+Stoke-On-Trent,2034,gas,0.6131
+Stoke-On-Trent,2035,gas,0.611
+Stoke-On-Trent,2036,gas,0.609
+Stoneywood Mill,2026,gas,0.4229
+Stoneywood Mill,2027,gas,0.4229
+Stoneywood Mill,2028,gas,0.4229
+Stoneywood Mill,2029,gas,0.4229
+Stoneywood Mill,2030,gas,0.4229
+Stoneywood Mill,2031,gas,0.4215
+Stoneywood Mill,2032,gas,0.4201
+Stoneywood Mill,2033,gas,0.4187
+Stoneywood Mill,2034,gas,0.4173
+Stoneywood Mill,2035,gas,0.4159
+Stoneywood Mill,2036,gas,0.4145
+Stourton,2026,gas,0.693
+Stourton,2027,gas,0.693
+Stourton,2028,gas,0.693
+Stourton,2029,gas,0.693
+Stourton,2030,gas,0.693
+Stourton,2031,gas,0.6907
+Stourton,2032,gas,0.6884
+Stourton,2033,gas,0.686
+Stourton,2034,gas,0.6837
+Stourton,2035,gas,0.6814
+Stourton,2036,gas,0.6791
+Stranglands Lane West Yorkshire,2026,gas,2.1919
+Stranglands Lane West Yorkshire,2027,gas,2.1919
+Stranglands Lane West Yorkshire,2028,gas,2.1919
+Stranglands Lane West Yorkshire,2029,gas,2.1919
+Stranglands Lane West Yorkshire,2030,gas,2.1919
+Stranglands Lane West Yorkshire,2031,gas,2.1846
+Stranglands Lane West Yorkshire,2032,gas,2.1773
+Stranglands Lane West Yorkshire,2033,gas,2.17
+Stranglands Lane West Yorkshire,2034,gas,2.1627
+Stranglands Lane West Yorkshire,2035,gas,2.1554
+Stranglands Lane West Yorkshire,2036,gas,2.1481
+Stubbins Mill,2026,gas,0.272
+Stubbins Mill,2027,gas,0.272
+Stubbins Mill,2028,gas,0.272
+Stubbins Mill,2029,gas,0.272
+Stubbins Mill,2030,gas,0.272
+Stubbins Mill,2031,gas,0.271
+Stubbins Mill,2032,gas,0.2701
+Stubbins Mill,2033,gas,0.2692
+Stubbins Mill,2034,gas,0.2683
+Stubbins Mill,2035,gas,0.2674
+Stubbins Mill,2036,gas,0.2665
 Syngenta Limited,2026,biomass,0.0001
 Syngenta Limited,2026,gas,1.0978
 Syngenta Limited,2027,biomass,0.0001
@@ -1353,6 +2388,7 @@ The Lycra Company UK Limited,2033,gas,0.8545
 The Lycra Company UK Limited,2034,gas,0.8516
 The Lycra Company UK Limited,2035,gas,0.8488
 The Lycra Company UK Limited,2036,gas,0.8459
+Thornton-Cleveleys,2026,gas,0.3047
 Tronox Pigment - CHP Plant,2026,gas,2.508
 Tronox Pigment - CHP Plant,2027,gas,2.508
 Tronox Pigment - CHP Plant,2028,gas,2.508
@@ -1368,7 +2404,7 @@ Tunstead Cement,2026,gas,2.3267
 Tunstead Cement,2027,gas,2.3892
 Tunstead Cement,2028,gas,2.4651
 Tunstead Cement,2029,gas,2.5722
-Tunstead Cement,2030,gas,2.6793
+Tunstead Cement,2030,gas,2.5032
 Tunstead Cement,2031,gas,2.6888
 Tunstead Cement,2032,gas,2.6983
 Tunstead Cement,2033,gas,2.7079
@@ -1386,6 +2422,17 @@ Tunstead Lime,2033,gas,6.3068
 Tunstead Lime,2034,gas,6.2856
 Tunstead Lime,2035,gas,6.2643
 Tunstead Lime,2036,gas,6.2431
+Tyseley,2026,gas,1.2119
+Tyseley,2027,gas,1.2119
+Tyseley,2028,gas,1.2119
+Tyseley,2029,gas,1.2119
+Tyseley,2030,gas,1.2119
+Tyseley,2031,gas,1.2079
+Tyseley,2032,gas,1.2038
+Tyseley,2033,gas,1.1998
+Tyseley,2034,gas,1.1957
+Tyseley,2035,gas,1.1917
+Tyseley,2036,gas,1.1877
 "Valero, Pembroke",2026,gas,50.7087
 "Valero, Pembroke",2027,gas,50.7087
 "Valero, Pembroke",2028,gas,50.7087
@@ -1408,6 +2455,17 @@ Venator Materials UK Limited,2033,gas,1.4586
 Venator Materials UK Limited,2034,gas,1.4537
 Venator Materials UK Limited,2035,gas,1.4487
 Venator Materials UK Limited,2036,gas,1.4438
+Wakefield,2026,gas,0.235
+Wakefield,2027,gas,0.235
+Wakefield,2028,gas,0.235
+Wakefield,2029,gas,0.235
+Wakefield,2030,gas,0.235
+Wakefield,2031,gas,0.2342
+Wakefield,2032,gas,0.2334
+Wakefield,2033,gas,0.2326
+Wakefield,2034,gas,0.2319
+Wakefield,2035,gas,0.2311
+Wakefield,2036,gas,0.2303
 Whittlesey,2026,gas,0.9453
 Whittlesey,2027,gas,0.9453
 Whittlesey,2028,gas,0.9453
@@ -1430,6 +2488,18 @@ Whitwell Works Lime Kiln Plant,2033,gas,3.3488
 Whitwell Works Lime Kiln Plant,2034,gas,3.3375
 Whitwell Works Lime Kiln Plant,2035,gas,3.3262
 Whitwell Works Lime Kiln Plant,2036,gas,3.315
+Widnes,2026,gas,0.4836
+Widnes,2027,gas,0.4836
+Widnes,2028,gas,0.4836
+Widnes,2029,gas,0.4836
+Widnes,2030,gas,0.4836
+Widnes,2031,gas,0.482
+Widnes,2032,gas,0.4804
+Widnes,2033,gas,0.4788
+Widnes,2034,gas,0.4772
+Widnes,2035,gas,0.4756
+Widnes,2036,gas,0.474
+Wigan,2026,gas,0.418
 Wigton Boiler Plant,2026,biomass,0.0
 Wigton Boiler Plant,2026,gas,1.3809
 Wigton Boiler Plant,2027,biomass,0.0
@@ -1452,6 +2522,39 @@ Wigton Boiler Plant,2035,biomass,0.0
 Wigton Boiler Plant,2035,gas,1.3579
 Wigton Boiler Plant,2036,biomass,0.0
 Wigton Boiler Plant,2036,gas,1.3533
+Wilton 11 EfW Plant,2026,gas,1.41
+Wilton 11 EfW Plant,2027,gas,1.41
+Wilton 11 EfW Plant,2028,gas,1.41
+Wilton 11 EfW Plant,2029,gas,1.41
+Wilton 11 EfW Plant,2030,gas,1.41
+Wilton 11 EfW Plant,2031,gas,1.4053
+Wilton 11 EfW Plant,2032,gas,1.4006
+Wilton 11 EfW Plant,2033,gas,1.3959
+Wilton 11 EfW Plant,2034,gas,1.3912
+Wilton 11 EfW Plant,2035,gas,1.3865
+Wilton 11 EfW Plant,2036,gas,1.3818
+Wilton Package boilers,2026,gas,0.2137
+Wilton Package boilers,2027,gas,0.2137
+Wilton Package boilers,2028,gas,0.2137
+Wilton Package boilers,2029,gas,0.2137
+Wilton Package boilers,2030,gas,0.2137
+Wilton Package boilers,2031,gas,0.213
+Wilton Package boilers,2032,gas,0.2123
+Wilton Package boilers,2033,gas,0.2115
+Wilton Package boilers,2034,gas,0.2108
+Wilton Package boilers,2035,gas,0.2101
+Wilton Package boilers,2036,gas,0.2094
+Wilton Teraphalic Acid/Melinar Plant,2026,gas,0.2944
+Wilton Teraphalic Acid/Melinar Plant,2027,gas,0.2944
+Wilton Teraphalic Acid/Melinar Plant,2028,gas,0.2944
+Wilton Teraphalic Acid/Melinar Plant,2029,gas,0.2944
+Wilton Teraphalic Acid/Melinar Plant,2030,gas,0.2944
+Wilton Teraphalic Acid/Melinar Plant,2031,gas,0.2934
+Wilton Teraphalic Acid/Melinar Plant,2032,gas,0.2924
+Wilton Teraphalic Acid/Melinar Plant,2033,gas,0.2914
+Wilton Teraphalic Acid/Melinar Plant,2034,gas,0.2904
+Wilton Teraphalic Acid/Melinar Plant,2035,gas,0.2895
+Wilton Teraphalic Acid/Melinar Plant,2036,gas,0.2885
 Winnington Sodium Carbonate Manufacturing Site,2026,gas,1.1774
 Winnington Sodium Carbonate Manufacturing Site,2027,gas,1.1774
 Winnington Sodium Carbonate Manufacturing Site,2028,gas,1.1774
@@ -1485,25 +2588,104 @@ Wissington Sugar Factory,2035,biomass,0.0
 Wissington Sugar Factory,2035,gas,6.1821
 Wissington Sugar Factory,2036,biomass,0.0
 Wissington Sugar Factory,2036,gas,6.1612
-dispersed_heat,2026,gas,50.061
-dispersed_heat,2027,gas,47.952
-dispersed_heat,2028,gas,47.952
-dispersed_heat,2029,gas,47.952
-dispersed_heat,2030,gas,47.952
-dispersed_heat,2031,gas,47.952
-dispersed_heat,2032,gas,47.952
-dispersed_heat,2033,gas,47.952
-dispersed_heat,2034,gas,47.952
-dispersed_heat,2035,gas,47.952
-dispersed_heat,2036,gas,47.952
-dispersed_steel,2026,gas,0.2313
-dispersed_steel,2027,gas,0.2313
-dispersed_steel,2028,gas,0.2313
-dispersed_steel,2029,gas,0.2313
-dispersed_steel,2030,gas,0.2313
-dispersed_steel,2031,gas,0.2313
-dispersed_steel,2032,gas,0.2313
-dispersed_steel,2033,gas,0.2313
-dispersed_steel,2034,gas,0.2313
-dispersed_steel,2035,gas,0.2313
-dispersed_steel,2036,gas,0.2313
+Wolverhampton,2026,gas,0.3296
+Wolverhampton,2027,gas,0.3296
+Wolverhampton,2028,gas,0.3296
+Wolverhampton,2029,gas,0.3296
+Wolverhampton,2030,gas,0.3296
+Wolverhampton,2031,gas,0.3285
+Wolverhampton,2032,gas,0.3274
+Wolverhampton,2033,gas,0.3263
+Wolverhampton,2034,gas,0.3252
+Wolverhampton,2035,gas,0.3241
+Wolverhampton,2036,gas,0.323
+Worsley,2026,gas,0.9503
+Worsley,2027,gas,0.9503
+Worsley,2028,gas,0.9503
+Worsley,2029,gas,0.9503
+Worsley,2030,gas,0.9503
+Worsley,2031,gas,0.9471
+Worsley,2032,gas,0.9439
+Worsley,2033,gas,0.9408
+Worsley,2034,gas,0.9376
+Worsley,2035,gas,0.9344
+Worsley,2036,gas,0.9313
+diffuse_industry,2026,gas,258.3687
+diffuse_industry,2027,gas,258.3687
+diffuse_industry,2028,gas,258.3687
+diffuse_industry,2029,gas,258.3687
+diffuse_industry,2030,gas,258.3687
+diffuse_industry,2031,gas,257.5075
+diffuse_industry,2032,gas,256.6462
+diffuse_industry,2033,gas,255.785
+diffuse_industry,2034,gas,254.9238
+diffuse_industry,2035,gas,254.0626
+diffuse_industry,2036,gas,253.2013
+ets_tail_heat,2026,biomass,0.0038
+ets_tail_heat,2026,gas,50.0574
+ets_tail_heat,2027,biomass,0.0038
+ets_tail_heat,2027,gas,47.9484
+ets_tail_heat,2028,biomass,0.0038
+ets_tail_heat,2028,gas,47.9484
+ets_tail_heat,2029,biomass,0.0038
+ets_tail_heat,2029,gas,47.9484
+ets_tail_heat,2030,biomass,0.0038
+ets_tail_heat,2030,gas,47.9484
+ets_tail_heat,2031,biomass,0.0038
+ets_tail_heat,2031,gas,47.9484
+ets_tail_heat,2032,biomass,0.0038
+ets_tail_heat,2032,gas,47.9484
+ets_tail_heat,2033,biomass,0.0038
+ets_tail_heat,2033,gas,47.9484
+ets_tail_heat,2034,biomass,0.0038
+ets_tail_heat,2034,gas,47.9484
+ets_tail_heat,2035,biomass,0.0038
+ets_tail_heat,2035,gas,47.9484
+ets_tail_heat,2036,biomass,0.0038
+ets_tail_heat,2036,gas,47.9484
+ets_tail_steel,2026,gas,0.2313
+ets_tail_steel,2027,electricity,0.0067
+ets_tail_steel,2027,gas,0.2221
+ets_tail_steel,2028,electricity,0.0135
+ets_tail_steel,2028,gas,0.2129
+ets_tail_steel,2029,electricity,0.1696
+ets_tail_steel,2030,electricity,0.1696
+ets_tail_steel,2031,electricity,0.1696
+ets_tail_steel,2032,electricity,0.1696
+ets_tail_steel,2033,electricity,0.1696
+ets_tail_steel,2034,electricity,0.1696
+ets_tail_steel,2035,electricity,0.1696
+ets_tail_steel,2036,electricity,0.1696
+nontraded_tail_cement,2026,gas,0.0205
+nontraded_tail_cement,2027,gas,0.0211
+nontraded_tail_cement,2028,gas,0.0216
+nontraded_tail_cement,2029,gas,0.0224
+nontraded_tail_cement,2030,gas,0.0232
+nontraded_tail_cement,2031,gas,0.0232
+nontraded_tail_cement,2032,gas,0.0232
+nontraded_tail_cement,2033,gas,0.0232
+nontraded_tail_cement,2034,gas,0.0232
+nontraded_tail_cement,2035,gas,0.0232
+nontraded_tail_cement,2036,gas,0.0232
+nontraded_tail_heat,2026,gas,15.1857
+nontraded_tail_heat,2027,gas,15.1857
+nontraded_tail_heat,2028,gas,15.1857
+nontraded_tail_heat,2029,gas,15.1857
+nontraded_tail_heat,2030,gas,15.1857
+nontraded_tail_heat,2031,gas,15.1351
+nontraded_tail_heat,2032,gas,15.0845
+nontraded_tail_heat,2033,gas,15.0338
+nontraded_tail_heat,2034,gas,14.9832
+nontraded_tail_heat,2035,gas,14.9326
+nontraded_tail_heat,2036,gas,14.882
+nontraded_tail_steel,2026,gas,0.0039
+nontraded_tail_steel,2027,gas,0.0039
+nontraded_tail_steel,2028,gas,0.0039
+nontraded_tail_steel,2029,gas,0.0039
+nontraded_tail_steel,2030,gas,0.0039
+nontraded_tail_steel,2031,gas,0.0039
+nontraded_tail_steel,2032,gas,0.0039
+nontraded_tail_steel,2033,gas,0.0039
+nontraded_tail_steel,2034,gas,0.0039
+nontraded_tail_steel,2035,gas,0.0039
+nontraded_tail_steel,2036,gas,0.0039

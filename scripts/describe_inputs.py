@@ -7,7 +7,7 @@ import os
 import pandas as pd
 
 PURPOSE = {
-    "sites.csv": "The site universe: who, where (band), how big, incumbent kit, inertia factor.",
+    "sites.csv": "The v2 site universe (all UK industry, five coverage layers, 46.5 Mt anchor): who, coverage layer, cluster, band, size, incumbent kit, inertia factor.",
     "technologies.csv": "The technology roster: costs, lifetimes, fuel intensities, first years, ramps.",
     "fuel_prices.csv": "Price stacks per fuel: wholesale/network/levies/margin pins + band multipliers.",
     "fuel_emissions.csv": "Emissions factors per fuel per year (grid decarbonisation lives here).",

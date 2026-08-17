@@ -1,103 +1,212 @@
-site,sector,band,traded,commodity,demand_pj,incumbent_tech,start_capacity,inertia_factor,cluster,source,retrieved,basis
-Scunthorpe Integrated Iron & Steel Works,steel,large,True,steel,1.6456,bof,1.8284,0.56,Humberside,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-"Valero, Pembroke",heat,large,True,heat,45.6835,gas_boiler,50.7595,0.6,South Wales,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Esso Petroleum Company Limited,heat,large,True,heat,44.287,gas_boiler,49.2078,0.64,Southampton,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Humber Refinery,heat,large,True,heat,37.1762,gas_boiler,41.3069,0.68,Humberside,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Stanlow Manufacturing Complex,heat,large,True,heat,30.7822,gas_boiler,34.2025,0.72,Merseyside,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Hope Cement Works,cement,large,True,cement,1.1898,cement_kiln,1.322,0.76,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Rugby Works,cement,large,True,cement,1.1518,cement_kiln,1.2797,0.8,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Lindsey Oil Refinery,heat,large,True,heat,11.6197,gas_boiler,12.9108,0.84,Humberside,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Fife Ethylene Plant,heat,large,True,heat,10.9651,gas_boiler,12.1835,0.88,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Cauldon Cement,cement,large,True,cement,0.798,cement_kiln,0.8867,0.92,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Fawley Refinery,heat,large,True,heat,9.936,gas_boiler,11.04,0.96,Southampton,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Tunstead Cement,cement,large,True,cement,0.7148,cement_kiln,0.7943,1.0,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-KETTON WORKS,cement,large,True,cement,0.6692,cement_kiln,0.7436,1.04,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Dunbar Plant,cement,mid,True,cement,0.5889,cement_kiln,0.6544,0.7,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Ribblesdale Works,cement,mid,True,cement,0.5576,cement_kiln,0.6195,0.711,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Grangemouth Chemicals,heat,mid,True,heat,6.5927,gas_boiler,7.3253,0.722,Grangemouth,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Padeswood Works,cement,mid,True,cement,0.4645,cement_kiln,0.5162,0.733,Merseyside,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Tunstead Lime,heat,mid,True,heat,5.7392,gas_boiler,6.3769,0.744,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Wissington Sugar Factory,heat,mid,True,heat,5.6639,gas_boiler,6.2932,0.755,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Aberthaw Cement Plant,cement,mid,True,cement,0.3849,cement_kiln,0.4276,0.765,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Cookstown Cement,cement,mid,True,cement,0.3608,cement_kiln,0.4009,0.776,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Bury St Edmunds Sugar Factory,heat,mid,True,heat,4.0035,gas_boiler,4.4484,0.787,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Melton Ross Limeworks,heat,mid,True,heat,3.8699,gas_boiler,4.2999,0.798,Humberside,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Encirc Glass,heat,mid,True,heat,3.4303,gas_boiler,3.8115,0.809,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Whitwell Works Lime Kiln Plant,heat,mid,True,heat,3.0474,gas_boiler,3.3861,0.82,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Partington Papermill,heat,mid,True,heat,2.8697,gas_boiler,3.1885,0.831,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Lhoist UK Limited,heat,mid,True,heat,2.8538,gas_boiler,3.1709,0.842,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Port Talbot Steelworks,steel,mid,True,steel,0.0849,bof,0.0943,0.853,South Wales,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Palm Paper Ltd PM7 Newsprint Mill,heat,mid,True,heat,2.793,gas_boiler,3.1033,0.864,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Teesside Hydrogen Plant,heat,mid,True,heat,2.7618,gas_boiler,3.0686,0.875,Teesside,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Hindlow Lime,heat,mid,True,heat,2.7606,gas_boiler,3.0673,0.885,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Port of Liverpool CHP,heat,mid,True,heat,2.7102,gas_boiler,3.0113,0.896,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Kronospan Ltd,heat,mid,True,heat,2.4531,gas_boiler,2.7256,0.907,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Sellafield Site,heat,mid,True,heat,2.3511,gas_boiler,2.6124,0.918,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Grangemouth Refining,heat,mid,True,heat,2.3287,gas_boiler,2.5875,0.929,Grangemouth,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Dow Silicone Manufacturing Installation,heat,mid,True,heat,2.3092,gas_boiler,2.5658,0.94,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Pilkington United Kingdom Limited - Greengate,heat,mid,True,heat,2.309,gas_boiler,2.5656,0.951,Merseyside,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Tronox Pigment - CHP Plant,heat,mid,True,heat,2.2595,gas_boiler,2.5106,0.962,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Ardagh Glass Ltd,heat,mid,True,heat,2.0975,gas_boiler,2.3305,0.973,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Shell UK Limited Fife NGL Plant,heat,mid,True,heat,2.0838,gas_boiler,2.3153,0.984,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Cargill - Trafford Park,heat,mid,True,heat,2.0488,gas_boiler,2.2765,0.995,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Ardagh Glass - Wheatley,heat,mid,True,heat,1.9664,gas_boiler,2.1849,1.005,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Ineos Acetyls Hull,heat,mid,True,heat,1.8978,gas_boiler,2.1086,1.016,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Selby Wheat Processing Facility,heat,mid,True,heat,1.8497,gas_boiler,2.0553,1.027,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Guardian Industries UK Limited,heat,mid,True,heat,1.7048,gas_boiler,1.8942,1.038,Humberside,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-British Sugar plc - Newark,heat,mid,True,heat,1.6405,gas_boiler,1.8227,1.049,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Saint-Gobain Glass (United Kingdom) Limited,heat,mid,True,heat,1.6376,gas_boiler,1.8196,1.06,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Tate and Lyle Sugars,heat,mid,True,heat,1.5719,gas_boiler,1.7466,1.071,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Rolls-Royce - Sinfin,heat,mid,True,heat,1.458,gas_boiler,1.62,1.082,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Encirc Limited,heat,mid,True,heat,1.4472,gas_boiler,1.608,1.093,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Smurfit Westrock Townsend Hook,heat,mid,True,heat,1.3521,gas_boiler,1.5023,1.104,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Venator Materials UK Limited,heat,mid,True,heat,1.3273,gas_boiler,1.4748,1.115,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Rockwool Bridgend,heat,mid,True,heat,1.3268,gas_boiler,1.4742,1.125,South Wales,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Wigton Boiler Plant,heat,mid,True,heat,1.2441,gas_boiler,1.3823,1.136,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Archer Daniels Midland Erith Ltd,heat,mid,True,heat,1.1868,gas_boiler,1.3186,1.147,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-ETEX Building Performance Limited – Portbury Site,heat,mid,True,heat,1.1832,gas_boiler,1.3147,1.158,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Ardagh Glass Limited,heat,mid,True,heat,1.1767,gas_boiler,1.3074,1.169,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-The Girvan Distillery,heat,mid,True,heat,1.1749,gas_boiler,1.3054,1.18,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-East Leake Gypsum Works,heat,mid,True,heat,1.1717,gas_boiler,1.3019,1.191,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Smurfit Westrock SSK,heat,mid,True,heat,1.1003,gas_boiler,1.2225,1.202,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-O-I Glass Limited,heat,mid,True,heat,1.0707,gas_boiler,1.1897,1.213,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Winnington Sodium Carbonate Manufacturing Site,heat,mid,True,heat,1.0607,gas_boiler,1.1786,1.224,Merseyside,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Teesside Beam Mill,steel,mid,True,steel,0.0314,bof,0.0349,1.235,Teesside,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-DSM Dalry,heat,mid,True,heat,1.0191,gas_boiler,1.1323,1.245,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Syngenta Limited,heat,mid,True,heat,0.9891,gas_boiler,1.0989,1.256,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Tata Steel Colors,steel,mid,True,steel,0.0281,bof,0.0312,1.267,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Norbord Cowie,heat,mid,True,heat,0.9136,gas_boiler,1.0151,1.278,Grangemouth,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Jaguar Land Rover Limited Solihull,heat,mid,True,heat,0.8912,gas_boiler,0.9902,1.289,Black Country,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Omega Proteins Limited,heat,mid,True,heat,0.8814,gas_boiler,0.9793,1.3,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Lochaber Smelter,heat,small,True,heat,0.872,gas_boiler,0.9689,0.91,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Whittlesey,heat,small,True,heat,0.8516,gas_boiler,0.9463,0.936,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Beatson Clark plc - Rotherham,heat,small,True,heat,0.8119,gas_boiler,0.9021,0.962,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Ibstock Brick Limited - Leicester,heat,small,True,heat,0.8029,gas_boiler,0.8921,0.988,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-The Lycra Company UK Limited,heat,small,True,heat,0.7776,gas_boiler,0.864,1.014,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Allied Glass Containers Ltd - Knottingley,heat,small,True,heat,0.7722,gas_boiler,0.858,1.04,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Novelis Latchford,heat,small,True,heat,0.7624,gas_boiler,0.8471,1.066,Merseyside,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Essity UK Limited - Prudhoe Mill,heat,small,True,heat,0.762,gas_boiler,0.8467,1.092,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Bridgend Operation,heat,small,True,heat,0.7591,gas_boiler,0.8434,1.118,South Wales,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Ardagh Glass - Headlands,heat,small,True,heat,0.7568,gas_boiler,0.8408,1.144,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Bones Lane Factory,heat,small,True,heat,0.7495,gas_boiler,0.8327,1.17,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Cantley Sugar Factory,heat,small,True,heat,0.7448,gas_boiler,0.8275,1.196,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Elanco AH UK Speke,heat,small,True,heat,0.7307,gas_boiler,0.8119,1.222,Merseyside,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,steel,small,True,steel,0.0211,bof,0.0235,1.248,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Knauf Drywall Sittingbourne,heat,small,True,heat,0.6911,gas_boiler,0.7679,1.274,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Fawley Chemicals,heat,small,True,heat,0.6896,gas_boiler,0.7662,1.3,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Tata Steel Packaging Plus UK,steel,small,True,steel,0.0203,bof,0.0225,1.326,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Solutia UK Limited - Newport,heat,small,True,heat,0.6571,gas_boiler,0.7301,1.352,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Desford,heat,small,True,heat,0.6468,gas_boiler,0.7186,1.378,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Knauf Immingham,heat,small,True,heat,0.6433,gas_boiler,0.7148,1.404,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-INOVYN Chlorvinyls Newton Aycliffe,heat,small,True,heat,0.6429,gas_boiler,0.7144,1.43,Teesside,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Llanwern Steelworks,steel,small,True,steel,0.0188,bof,0.0209,1.456,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Knauf Insulation Queensferry,heat,small,True,heat,0.6151,gas_boiler,0.6835,1.482,Merseyside,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Robertsbridge Gypsum Works,heat,small,True,heat,0.6123,gas_boiler,0.6804,1.508,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Eastham Refinery Limited,heat,small,True,heat,0.6083,gas_boiler,0.6759,1.534,Merseyside,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Billingham Fertilizer Works,heat,small,True,heat,0.6011,gas_boiler,0.6679,1.56,Unmapped,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Measham,heat,small,True,heat,0.5932,gas_boiler,0.6591,1.586,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Sherburn Gypsum Works,heat,small,True,heat,0.586,gas_boiler,0.6511,1.612,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Barrow Mill,heat,small,True,heat,0.5852,gas_boiler,0.6503,1.638,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Nissan Motor Manufacturing (UK) Ltd,heat,small,True,heat,0.5764,gas_boiler,0.6405,1.664,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-Plasmor Limited,heat,small,True,heat,0.5715,gas_boiler,0.635,1.69,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness",2026-08-16,derived
-dispersed_heat,heat,small,False,heat,45.0968,gas_boiler,50.1075,1.3,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness (aggregate of sub-100 installations)",2026-08-16,derived
-dispersed_steel,steel,small,False,steel,0.0771,bof,0.0857,1.3,Dispersed,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) via comit-harness (aggregate of sub-100 installations)",2026-08-16,derived
+site,sector,band,traded,commodity,demand_pj,incumbent_tech,start_capacity,inertia_factor,cluster,layer,source,retrieved,basis
+Scunthorpe Integrated Iron & Steel Works,steel,large,True,steel,1.6456,bof,1.8284,0.56,Humberside,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+"Valero, Pembroke",heat,large,True,heat,45.6835,gas_boiler,50.7595,0.6,South Wales,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Esso Petroleum Company Limited,heat,large,True,heat,44.287,gas_boiler,49.2078,0.64,Southampton,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Humber Refinery,heat,large,True,heat,37.1762,gas_boiler,41.3069,0.68,Humberside,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Stanlow Manufacturing Complex,heat,large,True,heat,30.7822,gas_boiler,34.2025,0.72,Merseyside,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Hope Cement Works,cement,large,True,cement,1.1898,cement_kiln,1.322,0.76,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Rugby Works,cement,large,True,cement,1.1518,cement_kiln,1.2797,0.8,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Lindsey Oil Refinery,heat,large,True,heat,11.6197,gas_boiler,12.9108,0.84,Humberside,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Fife Ethylene Plant,heat,large,True,heat,10.9651,gas_boiler,12.1835,0.88,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Cauldon Cement,cement,large,True,cement,0.798,cement_kiln,0.8867,0.92,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Fawley Refinery,heat,large,True,heat,9.936,gas_boiler,11.04,0.96,Southampton,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Tunstead Cement,cement,large,True,cement,0.7148,cement_kiln,0.7943,1.0,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+KETTON WORKS,cement,large,True,cement,0.6692,cement_kiln,0.7436,1.04,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Dunbar Plant,cement,mid,True,cement,0.5889,cement_kiln,0.6544,0.7,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Ribblesdale Works,cement,mid,True,cement,0.5576,cement_kiln,0.6195,0.711,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Grangemouth Chemicals,heat,mid,True,heat,6.5927,gas_boiler,7.3253,0.722,Grangemouth,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Padeswood Works,cement,mid,True,cement,0.4645,cement_kiln,0.5162,0.733,Merseyside,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Tunstead Lime,heat,mid,True,heat,5.7392,gas_boiler,6.3769,0.744,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Wissington Sugar Factory,heat,mid,True,heat,5.6639,gas_boiler,6.2932,0.755,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Aberthaw Cement Plant,cement,mid,True,cement,0.3849,cement_kiln,0.4276,0.765,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Cookstown Cement,cement,mid,True,cement,0.3608,cement_kiln,0.4009,0.776,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Bury St Edmunds Sugar Factory,heat,mid,True,heat,4.0035,gas_boiler,4.4484,0.787,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Melton Ross Limeworks,heat,mid,True,heat,3.8699,gas_boiler,4.2999,0.798,Humberside,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Encirc Glass,heat,mid,True,heat,3.4303,gas_boiler,3.8115,0.809,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Whitwell Works Lime Kiln Plant,heat,mid,True,heat,3.0474,gas_boiler,3.3861,0.82,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Partington Papermill,heat,mid,True,heat,2.8697,gas_boiler,3.1885,0.831,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Lhoist UK Limited,heat,mid,True,heat,2.8538,gas_boiler,3.1709,0.842,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Port Talbot Steelworks,steel,mid,True,steel,0.0849,bof,0.0943,0.853,South Wales,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Palm Paper Ltd PM7 Newsprint Mill,heat,mid,True,heat,2.793,gas_boiler,3.1033,0.864,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Teesside Hydrogen Plant,heat,mid,True,heat,2.7618,gas_boiler,3.0686,0.875,Teesside,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Hindlow Lime,heat,mid,True,heat,2.7606,gas_boiler,3.0673,0.885,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Port of Liverpool CHP,heat,mid,True,heat,2.7102,gas_boiler,3.0113,0.896,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Kronospan Ltd,heat,mid,True,heat,2.4531,gas_boiler,2.7256,0.907,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Sellafield Site,heat,mid,True,heat,2.3511,gas_boiler,2.6124,0.918,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Grangemouth Refining,heat,mid,True,heat,2.3287,gas_boiler,2.5875,0.929,Grangemouth,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Dow Silicone Manufacturing Installation,heat,mid,True,heat,2.3092,gas_boiler,2.5658,0.94,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Pilkington United Kingdom Limited - Greengate,heat,mid,True,heat,2.309,gas_boiler,2.5656,0.951,Merseyside,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Tronox Pigment - CHP Plant,heat,mid,True,heat,2.2595,gas_boiler,2.5106,0.962,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Ardagh Glass Ltd,heat,mid,True,heat,2.0975,gas_boiler,2.3305,0.973,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Shell UK Limited Fife NGL Plant,heat,mid,True,heat,2.0838,gas_boiler,2.3153,0.984,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Cargill - Trafford Park,heat,mid,True,heat,2.0488,gas_boiler,2.2765,0.995,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Ardagh Glass - Wheatley,heat,mid,True,heat,1.9664,gas_boiler,2.1849,1.005,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Ineos Acetyls Hull,heat,mid,True,heat,1.8978,gas_boiler,2.1086,1.016,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Selby Wheat Processing Facility,heat,mid,True,heat,1.8497,gas_boiler,2.0553,1.027,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Guardian Industries UK Limited,heat,mid,True,heat,1.7048,gas_boiler,1.8942,1.038,Humberside,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+British Sugar plc - Newark,heat,mid,True,heat,1.6405,gas_boiler,1.8227,1.049,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Saint-Gobain Glass (United Kingdom) Limited,heat,mid,True,heat,1.6376,gas_boiler,1.8196,1.06,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Tate and Lyle Sugars,heat,mid,True,heat,1.5719,gas_boiler,1.7466,1.071,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Rolls-Royce - Sinfin,heat,mid,True,heat,1.458,gas_boiler,1.62,1.082,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Encirc Limited,heat,mid,True,heat,1.4472,gas_boiler,1.608,1.093,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Smurfit Westrock Townsend Hook,heat,mid,True,heat,1.3521,gas_boiler,1.5023,1.104,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Venator Materials UK Limited,heat,mid,True,heat,1.3273,gas_boiler,1.4748,1.115,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Rockwool Bridgend,heat,mid,True,heat,1.3268,gas_boiler,1.4742,1.125,South Wales,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Wigton Boiler Plant,heat,mid,True,heat,1.2441,gas_boiler,1.3823,1.136,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Archer Daniels Midland Erith Ltd,heat,mid,True,heat,1.1868,gas_boiler,1.3186,1.147,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+ETEX Building Performance Limited – Portbury Site,heat,mid,True,heat,1.1832,gas_boiler,1.3147,1.158,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Ardagh Glass Limited,heat,mid,True,heat,1.1767,gas_boiler,1.3074,1.169,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+The Girvan Distillery,heat,mid,True,heat,1.1749,gas_boiler,1.3054,1.18,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+East Leake Gypsum Works,heat,mid,True,heat,1.1717,gas_boiler,1.3019,1.191,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Smurfit Westrock SSK,heat,mid,True,heat,1.1003,gas_boiler,1.2225,1.202,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+O-I Glass Limited,heat,mid,True,heat,1.0707,gas_boiler,1.1897,1.213,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Winnington Sodium Carbonate Manufacturing Site,heat,mid,True,heat,1.0607,gas_boiler,1.1786,1.224,Merseyside,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Teesside Beam Mill,steel,mid,True,steel,0.0314,bof,0.0349,1.235,Teesside,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+DSM Dalry,heat,mid,True,heat,1.0191,gas_boiler,1.1323,1.245,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Syngenta Limited,heat,mid,True,heat,0.9891,gas_boiler,1.0989,1.256,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Tata Steel Colors,steel,mid,True,steel,0.0281,bof,0.0312,1.267,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Norbord Cowie,heat,mid,True,heat,0.9136,gas_boiler,1.0151,1.278,Grangemouth,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Jaguar Land Rover Limited Solihull,heat,mid,True,heat,0.8912,gas_boiler,0.9902,1.289,Black Country,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Omega Proteins Limited,heat,mid,True,heat,0.8814,gas_boiler,0.9793,1.3,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Lochaber Smelter,heat,small,True,heat,0.872,gas_boiler,0.9689,0.91,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Whittlesey,heat,small,True,heat,0.8516,gas_boiler,0.9463,0.936,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Beatson Clark plc - Rotherham,heat,small,True,heat,0.8119,gas_boiler,0.9021,0.962,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Ibstock Brick Limited - Leicester,heat,small,True,heat,0.8029,gas_boiler,0.8921,0.988,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+The Lycra Company UK Limited,heat,small,True,heat,0.7776,gas_boiler,0.864,1.014,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Allied Glass Containers Ltd - Knottingley,heat,small,True,heat,0.7722,gas_boiler,0.858,1.04,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Novelis Latchford,heat,small,True,heat,0.7624,gas_boiler,0.8471,1.066,Merseyside,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Essity UK Limited - Prudhoe Mill,heat,small,True,heat,0.762,gas_boiler,0.8467,1.092,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Bridgend Operation,heat,small,True,heat,0.7591,gas_boiler,0.8434,1.118,South Wales,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Ardagh Glass - Headlands,heat,small,True,heat,0.7568,gas_boiler,0.8408,1.144,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Bones Lane Factory,heat,small,True,heat,0.7495,gas_boiler,0.8327,1.17,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Cantley Sugar Factory,heat,small,True,heat,0.7448,gas_boiler,0.8275,1.196,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Elanco AH UK Speke,heat,small,True,heat,0.7307,gas_boiler,0.8119,1.222,Merseyside,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,steel,small,True,steel,0.0211,bof,0.0235,1.248,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Knauf Drywall Sittingbourne,heat,small,True,heat,0.6911,gas_boiler,0.7679,1.274,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Fawley Chemicals,heat,small,True,heat,0.6896,gas_boiler,0.7662,1.3,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Tata Steel Packaging Plus UK,steel,small,True,steel,0.0203,bof,0.0225,1.326,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Solutia UK Limited - Newport,heat,small,True,heat,0.6571,gas_boiler,0.7301,1.352,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Desford,heat,small,True,heat,0.6468,gas_boiler,0.7186,1.378,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Knauf Immingham,heat,small,True,heat,0.6433,gas_boiler,0.7148,1.404,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+INOVYN Chlorvinyls Newton Aycliffe,heat,small,True,heat,0.6429,gas_boiler,0.7144,1.43,Teesside,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Llanwern Steelworks,steel,small,True,steel,0.0188,bof,0.0209,1.456,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Knauf Insulation Queensferry,heat,small,True,heat,0.6151,gas_boiler,0.6835,1.482,Merseyside,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Robertsbridge Gypsum Works,heat,small,True,heat,0.6123,gas_boiler,0.6804,1.508,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Eastham Refinery Limited,heat,small,True,heat,0.6083,gas_boiler,0.6759,1.534,Merseyside,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Billingham Fertilizer Works,heat,small,True,heat,0.6011,gas_boiler,0.6679,1.56,Unmapped,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Measham,heat,small,True,heat,0.5932,gas_boiler,0.6591,1.586,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Sherburn Gypsum Works,heat,small,True,heat,0.586,gas_boiler,0.6511,1.612,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Barrow Mill,heat,small,True,heat,0.5852,gas_boiler,0.6503,1.638,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Nissan Motor Manufacturing (UK) Ltd,heat,small,True,heat,0.5764,gas_boiler,0.6405,1.664,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+Plasmor Limited,heat,small,True,heat,0.5715,gas_boiler,0.635,1.69,Dispersed,ets_named,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026)",2026-08-16,derived
+ets_tail_heat,heat,small,True,heat,45.0968,gas_boiler,50.1075,1.3,Dispersed,ets_tail,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (sub-100 aggregate; traded - v1 flag fixed)",2026-08-16,derived
+ets_tail_steel,steel,small,True,steel,0.0771,bof,0.0857,1.3,Dispersed,ets_tail,"UK ETS compliance report 2021-2025 (registry, pub 22 Jun 2026) (sub-100 aggregate; traded - v1 flag fixed)",2026-08-16,derived
+Dumfries,heat,small,False,heat,0.2972,gas_boiler,0.3302,1.318,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Belfast,heat,small,False,heat,0.2417,gas_boiler,0.2686,1.445,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Shap,heat,small,False,heat,0.2194,gas_boiler,0.2438,1.554,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Belfast (2),heat,small,False,heat,0.4163,gas_boiler,0.4626,1.445,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Lancaster,heat,small,False,heat,0.2042,gas_boiler,0.2268,1.608,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Doncaster,heat,small,False,heat,0.2275,gas_boiler,0.2528,1.518,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Darley Dale,heat,mid,False,heat,0.9472,gas_boiler,1.0524,1.194,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Llanelli,heat,small,False,heat,0.3152,gas_boiler,0.3503,1.273,South Wales,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Chirnside,heat,small,False,heat,0.4892,gas_boiler,0.5436,1.073,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Stourton,heat,small,False,heat,0.6243,gas_boiler,0.6937,1.001,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Worsley,heat,small,False,heat,0.8561,gas_boiler,0.9513,0.91,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Manchester,heat,small,False,heat,0.2176,gas_boiler,0.2417,1.563,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Harlow,heat,small,False,heat,0.3986,gas_boiler,0.4429,1.164,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Bromborough,heat,small,False,heat,0.3544,gas_boiler,0.3938,1.237,Merseyside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Northfleet Mill,heat,small,False,heat,0.2411,gas_boiler,0.2679,1.454,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Cowley,heat,small,False,heat,0.541,gas_boiler,0.6011,1.064,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+AH Marks Bradford CHP,heat,small,False,heat,0.4311,gas_boiler,0.479,1.119,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Nestle Purina Wisbech,heat,small,False,heat,0.2098,gas_boiler,0.2331,1.599,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Runcorn,heat,small,False,heat,0.257,gas_boiler,0.2856,1.391,Merseyside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Dorket Head Brickworks,heat,small,False,heat,0.4685,gas_boiler,0.5205,1.091,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+South Holmwood Brickworks,heat,small,False,heat,0.2239,gas_boiler,0.2488,1.545,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Wigan,heat,small,False,heat,0.3766,gas_boiler,0.4185,1.191,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Oakenholt Paper Mill,heat,small,False,heat,0.3568,gas_boiler,0.3964,1.218,Merseyside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Mostyn,heat,small,False,heat,0.2667,gas_boiler,0.2963,1.363,Merseyside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Greatham,heat,small,False,heat,0.2352,gas_boiler,0.2613,1.49,Teesside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Widnes,heat,small,False,heat,0.4357,gas_boiler,0.4842,1.11,Merseyside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Leek,heat,small,False,heat,0.3607,gas_boiler,0.4007,1.209,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Barry,heat,small,False,heat,0.1989,gas_boiler,0.221,1.617,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Great Ryburgh Maltings,heat,small,False,heat,0.1794,gas_boiler,0.1993,1.69,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Wakefield,heat,small,False,heat,0.2117,gas_boiler,0.2352,1.59,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Harlesden,heat,small,False,heat,0.2403,gas_boiler,0.267,1.463,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Grimsby,heat,small,False,heat,0.8156,gas_boiler,0.9063,0.928,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Gateshead,heat,small,False,heat,0.4065,gas_boiler,0.4516,1.146,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Cramlington,heat,small,False,heat,0.2391,gas_boiler,0.2657,1.481,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Greenock,heat,small,False,heat,0.1857,gas_boiler,0.2064,1.663,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Thornton-Cleveleys,heat,small,False,heat,0.2745,gas_boiler,0.305,1.354,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Rawcliffe Bridge,heat,small,False,heat,0.3645,gas_boiler,0.405,1.2,Humberside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Queenborough,heat,small,False,heat,0.2272,gas_boiler,0.2524,1.527,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Craigavon,heat,small,False,heat,0.2557,gas_boiler,0.2841,1.4,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Hartlebury Factory,heat,small,False,heat,0.2312,gas_boiler,0.2569,1.509,Black Country,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Halewood,heat,small,False,heat,0.3301,gas_boiler,0.3668,1.246,Merseyside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Duns,heat,small,False,heat,0.3253,gas_boiler,0.3614,1.264,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Wilton Package boilers,heat,small,False,heat,0.1925,gas_boiler,0.2139,1.645,Teesside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Newcastle Upon Tyne,heat,small,False,heat,0.3042,gas_boiler,0.338,1.291,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Saddlebow Paper Mill,heat,mid,False,heat,2.5121,gas_boiler,2.7912,0.7,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Wilton Teraphalic Acid/Melinar Plant,heat,small,False,heat,0.2652,gas_boiler,0.2947,1.373,Teesside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Cambuslang,heat,small,False,heat,0.2527,gas_boiler,0.2808,1.409,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Hythe,heat,small,False,heat,0.2444,gas_boiler,0.2716,1.229,Southampton,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Broomfleet Works,heat,small,False,heat,0.2613,gas_boiler,0.2903,1.382,Humberside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Stubbins Mill,heat,small,False,heat,0.245,gas_boiler,0.2722,1.427,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Davidstow Creamery,heat,small,False,heat,0.2986,gas_boiler,0.3318,1.3,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Jacobs Bakery,heat,small,False,heat,0.4515,gas_boiler,0.5017,1.1,Merseyside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Slough Chocolate Factory,heat,small,False,heat,0.1964,gas_boiler,0.2183,1.627,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+"Llanelli, Carmarthenshire",steel,small,False,steel,0.0072,bof,0.008,1.472,South Wales,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.38 to 2025",2026-08-16,derived
+North Tees Site,heat,small,False,heat,0.6172,gas_boiler,0.6858,1.01,Teesside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Burton Latimer,heat,small,False,heat,0.2848,gas_boiler,0.3164,1.345,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Overton Mill,heat,small,False,heat,0.33,gas_boiler,0.3666,1.255,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Caw House,heat,small,False,heat,0.2911,gas_boiler,0.3235,1.336,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,heat,small,False,heat,0.3546,gas_boiler,0.394,1.227,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Austerfield Works,heat,small,False,heat,0.4275,gas_boiler,0.475,1.128,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Stoneywood Mill,heat,small,False,heat,0.381,gas_boiler,0.4233,1.173,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Bridgewater Diary,heat,small,False,heat,0.1841,gas_boiler,0.2045,1.672,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",heat,small,False,heat,0.7147,gas_boiler,0.7941,0.955,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+South Wirral,heat,mid,False,heat,1.6417,gas_boiler,1.8242,0.841,Merseyside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Coventry,heat,mid,False,heat,0.8879,gas_boiler,0.9865,1.3,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Bolton,heat,small,False,heat,0.2476,gas_boiler,0.2751,1.418,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Edmonton,heat,mid,False,heat,1.4724,gas_boiler,1.636,0.912,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Dudley,heat,small,False,heat,0.2325,gas_boiler,0.2584,1.5,Black Country,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Wolverhampton,heat,small,False,heat,0.2969,gas_boiler,0.3299,1.327,Black Country,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Stoke-On-Trent,heat,small,False,heat,0.5598,gas_boiler,0.622,1.055,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Southampton,heat,small,False,heat,0.6367,gas_boiler,0.7075,0.992,Southampton,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Portsmouth,heat,small,False,heat,0.5776,gas_boiler,0.6418,1.037,Southampton,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Chineham,heat,small,False,heat,0.3137,gas_boiler,0.3486,1.282,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Sheffield,heat,small,False,heat,0.6946,gas_boiler,0.7718,0.964,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Belvedere,heat,mid,False,heat,2.4423,gas_boiler,2.7136,0.735,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Hythe (2),heat,mid,False,heat,0.933,gas_boiler,1.0366,1.229,Southampton,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Huddersfield,heat,small,False,heat,0.4028,gas_boiler,0.4475,1.155,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+SELCHP,heat,mid,False,heat,1.1923,gas_boiler,1.3247,1.053,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Tyseley,heat,mid,False,heat,1.0918,gas_boiler,1.2131,1.088,Black Country,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Eastcroft,heat,small,False,heat,0.5638,gas_boiler,0.6264,1.046,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Beckton STW,heat,small,False,heat,0.216,gas_boiler,0.24,1.572,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Middlesbrough,heat,small,False,heat,0.2249,gas_boiler,0.2498,1.536,Teesside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Allington Quarry,heat,mid,False,heat,1.5561,gas_boiler,1.729,0.876,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+"Deeside Industrial Estate, Deeside",heat,small,False,heat,0.5813,gas_boiler,0.6459,1.028,Merseyside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Newhaven EfW Plant,heat,small,False,heat,0.6378,gas_boiler,0.7087,0.983,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Redhill,heat,small,False,heat,0.2144,gas_boiler,0.2383,1.581,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Colnbrook,heat,mid,False,heat,1.256,gas_boiler,1.3955,0.982,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Lancing,heat,small,False,heat,0.1952,gas_boiler,0.2169,1.636,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Seal Sands High Temparature Incinerator,heat,small,False,heat,0.1807,gas_boiler,0.2008,1.681,Teesside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Ardley Landfill,heat,mid,False,heat,1.0327,gas_boiler,1.1474,1.159,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Exeter EfW,heat,small,False,heat,0.1909,gas_boiler,0.2121,1.654,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Ipswich,heat,mid,False,heat,0.8964,gas_boiler,0.996,1.265,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Battlefield EfW,heat,small,False,heat,0.2974,gas_boiler,0.3304,1.309,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Leeds RERF,heat,small,False,heat,0.5971,gas_boiler,0.6635,1.019,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Greatmoor EfW,heat,small,False,heat,0.8411,gas_boiler,0.9346,0.919,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Wilton 11 EfW Plant,heat,mid,False,heat,1.2703,gas_boiler,1.4115,0.947,Teesside,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Merevale AD Plant,heat,small,False,heat,0.3779,gas_boiler,0.4198,1.182,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Severnside Energy Recovery Centre,heat,mid,False,heat,1.2202,gas_boiler,1.3558,1.018,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Cornwall Energy Recovery Centre,heat,small,False,heat,0.7407,gas_boiler,0.823,0.946,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Mercia Envirecover Site,heat,small,False,heat,0.6429,gas_boiler,0.7143,0.973,Black Country,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Allerton Waste Recovery Park,heat,mid,False,heat,1.0606,gas_boiler,1.1784,1.124,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Stranglands Lane West Yorkshire,heat,mid,False,heat,1.9747,gas_boiler,2.1942,0.771,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Glasgow Recycling & Renewable Energy Centre,heat,small,False,heat,0.4842,gas_boiler,0.538,1.082,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Beddington ERF,heat,small,False,heat,0.7993,gas_boiler,0.8881,0.937,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+Kemsley Generating Station,heat,mid,False,heat,1.7133,gas_boiler,1.9037,0.806,Dispersed,nontraded_named,"NAEI point sources via COMIT template (2023 vintage, OGL) x0.85 to 2025",2026-08-16,derived
+nontraded_tail_cement,cement,small,False,cement,0.0063,cement_kiln,0.007,1.3,Dispersed,nontraded_tail,"NAEI point sources via COMIT template (2023 vintage, OGL) (sub-10kt aggregate)",2026-08-16,derived
+nontraded_tail_heat,heat,small,False,heat,13.6808,gas_boiler,15.2009,1.3,Dispersed,nontraded_tail,"NAEI point sources via COMIT template (2023 vintage, OGL) (sub-10kt aggregate)",2026-08-16,derived
+nontraded_tail_steel,steel,small,False,steel,0.0013,bof,0.0014,1.3,Dispersed,nontraded_tail,"NAEI point sources via COMIT template (2023 vintage, OGL) (sub-10kt aggregate)",2026-08-16,derived
+diffuse_industry,heat,small,False,heat,232.7646,gas_boiler,258.6273,1.3,Dispersed,diffuse,remainder to DESNZ 2024 territorial industry anchor (13% of 371 Mt ~48 Mt; -3% to 2025 = 46.5 Mt),2026-08-16,derived

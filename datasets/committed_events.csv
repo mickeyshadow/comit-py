@@ -1,3 +1,6 @@
 site,from_year,source,retrieved,basis
 Lindsey Oil Refinery,2026,Prax insolvency Jun 2025 - refining ceased - mothballed by Phillips 66 (partial-2025 emissions slipped the registry filter),2026-08-16,official
 Grangemouth Refining,2026,Petroineos ceased refining Apr 2025 - import terminal thereafter,2026-08-16,official
+Thornton-Cleveleys,2027,AGC Chemicals Thornton Cleveleys closure end-2026 - non-traded share; NAEI names point sources by location so the match is by location not operator,2026-08-16,judgement
+Wigan,2027,Nippon Electric Glass Wigan closure - non-traded share; location-matched NAEI row,2026-08-16,judgement
+Gateshead,2027,Union Electric Steel Gateshead closure - non-traded share; location-matched NAEI row,2026-08-16,judgement

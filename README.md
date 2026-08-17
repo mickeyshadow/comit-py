@@ -37,8 +37,14 @@ not a fudge).
 
 ## The data (real, current, sourced)
 
-`datasets/sites.csv` — 100 named installations + dispersed aggregates from
-the UK ETS registry's 2025 verified emissions (not NAEI-2021).
+`datasets/sites.csv` — **the v2 universe: all UK industry**, anchored to
+the DESNZ territorial industry total (~46.5 Mt in 2025), in five layers
+(`layer` column): top-100 ETS installations named (2025 verified
+emissions), ETS tail aggregated (traded), NAEI non-traded point sources
+≥10 kt named (2023 vintage scaled to 2025 by crosswalk sector ratios),
+their tail aggregated, and a diffuse remainder to the anchor. A
+double-count guard keeps NAEI rows naming parts of ETS complexes out;
+the hindcast stays scored on the ETS-verified core, where outturn exists.
 `fuel_prices.csv` — Aug-2026 market forwards spliced into central
 projections. `carbon.csv` — UKA outturn/futures + linkage-converged EUA
 consensus. `fuel_emissions.csv` — real grid-decarbonisation trajectory.
@@ -51,7 +57,7 @@ harness's registry data).
 
 ```
 pip install -e .[dev]
-pytest tests            # 13 tests, every feature proven to bind
+pytest tests            # 22 tests, every feature proven to bind
 python run_forecast.py  # the 10-year forecast + a net-zero-2050 pathway
 ```
 
@@ -64,7 +70,10 @@ python run_forecast.py  # the 10-year forecast + a net-zero-2050 pathway
   quantitative pathway costs; the pathway mode's cost figures are
   placeholder until the zero-carbon roster (CCS variants, hydrogen supply
   caps, cluster timing) is carried over from the harness libraries.
-- Imports lack an explicit CBAM component (add to `ImportOption` price).
+- ~~Imports lack an explicit CBAM component~~ — built: CBAM = embodied
+  emissions × traded carbon × phase curve on covered imports
+  (`imports.csv`, `carbon.csv` cbam_phase; test-enforced that it closes
+  the cement import leak).
 - Validation gates: **both passed.** Solver parity: R-COMIT's exported
   700k-variable LP solved to the same objective at rel diff 2e-15
   (`parity.py`). Backcast skill: 2021–25 on this package's own pipeline

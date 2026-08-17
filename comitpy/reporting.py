@@ -3,6 +3,14 @@ import pandas as pd
 
 EPS = 1e-3
 
+UNIVERSE_NOTE = (
+    "**v2 universe - all UK industry**, anchored to the DESNZ territorial\n"
+    "industry total (~46.5 Mt in 2025), in five transparent layers: the\n"
+    "top-100 ETS installations named, the ETS tail aggregated, NAEI\n"
+    "non-traded point sources >=10 kt named, their tail aggregated, and a\n"
+    "diffuse remainder. The hindcast (skill score) stays defined on the\n"
+    "ETS-verified core, where annual outturn exists.")
+
 
 def site_fuel_use(sol, technologies) -> pd.DataFrame:
     """Per (site, year, fuel) PJ: usage x technology fuel intensities."""

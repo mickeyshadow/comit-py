@@ -3,6 +3,6 @@ Port Talbot Steelworks,steel,2026,0.6,residual downstream operations pre-EAF (20
 Port Talbot Steelworks,steel,2027,0.6,EAF commissioning end-2027,2026-08-16,official
 Port Talbot Steelworks,steel,2028,3.0,EAF nameplate 3 Mt/yr from 2028 (Tata GBP1.25bn project under construction),2026-08-16,official
 Port Talbot Steelworks,steel,2050,3.0,held at nameplate,2026-08-16,judgement
-dispersed_heat,heat,2026,45.1,base (2025-derived),2026-08-16,derived
-dispersed_heat,heat,2027,43.2,announced 2026 closures within the aggregate: AGC Thornton Cleveleys (end-2026) + Nippon Electric Glass Wigan + JDE Banbury + Union Electric Gateshead ~ -1.9 PJ estimated,2026-08-16,judgement
-dispersed_heat,heat,2050,43.2,held,2026-08-16,judgement
+ets_tail_heat,heat,2026,45.1,base (v2 ETS sub-100 aggregate; was dispersed_heat in v1),2026-08-16,derived
+ets_tail_heat,heat,2027,43.2,announced 2026 closures within the ETS tail: AGC Thornton Cleveleys (end-2026) + Nippon Electric Glass Wigan + JDE Banbury + Union Electric Gateshead ~ -1.9 PJ estimated (their non-traded shares close via committed_events),2026-08-16,judgement
+ets_tail_heat,heat,2050,43.2,held,2026-08-16,judgement

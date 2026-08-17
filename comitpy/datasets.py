@@ -124,6 +124,10 @@ def load_inputs(data_dir: str, window: Window) -> Inputs:
             return pins({int(window.start): base})
         return lambda y: base * idx(y) / 100.0
 
+    dup = sites.site[sites.site.duplicated()]
+    if not dup.empty:
+        raise ValueError(f"sites.csv has duplicate site names (would corrupt "
+                         f"the variable index): {sorted(set(dup))[:5]}")
     site_objs = []
     for _, r in sites.iterrows():
         site_objs.append(Site(

@@ -59,6 +59,21 @@ complete list of mechanics — there are no others.
 | Hurdle rate | 0.20 | backcast dip-rebound saturation (vs 3.5% Green Book) |
 | Usage inertia | £36m/PJ × site factor | backcast 2022 dip signature |
 
+## The universe (v2 — all UK industry)
+
+`sites.csv` covers all UK industry, anchored to the DESNZ territorial
+industry total (~46.5 Mt in 2025), in five layers marked by the `layer`
+column: `ets_named` (top-100 ETS installations, 2025 verified emissions),
+`ets_tail` (the remaining ETS installations, per-sector aggregates,
+traded), `nontraded_named` (NAEI non-traded point sources ≥10 kt, 2023
+vintage scaled to 2025 by crosswalk sector ratios), `nontraded_tail`
+(per-sector aggregate), `diffuse` (the remainder to the anchor). A
+double-count guard excludes NAEI rows naming parts of ETS complexes;
+name collisions (NAEI names point sources by location) are suffixed,
+and the loader refuses duplicate site names outright — duplicates
+would silently merge LP constraint rows. Reports split by layer, so
+the verified core and the estimated layers are never blended invisibly.
+
 ## Run modes
 
 - **Forecast** (`run_forecast.py`): no target imposed — the model says what
@@ -67,6 +82,10 @@ complete list of mechanics — there are no others.
   constraint — the model says what meeting the target costs.
 - **Hindcast** (`run_backcast.py`): 2021–2025 vs UK ETS outturn — the skill
   score (currently 3.7% indexed MAPE, conditional on known events).
+  Deliberately stays on the ETS-verified core (`datasets_backcast/`), not
+  the v2 universe: the non-traded and diffuse layers have no annual
+  outturn, and scoring against unverifiable layers would dilute the
+  number's meaning.
 
 ## Where the levers are
 

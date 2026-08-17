@@ -1,292 +1,669 @@
 site,cluster,tech,pathway_year,earliest,latest,n_worlds,forecast_year,cap_forced
 7 Steel Manufacturing (UK) Ltd – Rod & Bar Mill,Unmapped,eaf,2028.0,2028,2028,7,2028.0,
-Aberthaw Cement Plant,Dispersed,cement_kiln_ccs,2028.0,2028,2032,7,2028.0,
-Allied Glass Containers Ltd - Knottingley,Dispersed,hydrogen_boiler,2034.0,2030,2038,7,2040.0,earlier
-Archer Daniels Midland Erith Ltd,Unmapped,elec_boiler,2048.0,2048,2048,7,,yes
-Archer Daniels Midland Erith Ltd,Unmapped,gas_boiler_ccs,2032.0,2030,2032,5,,yes
-Archer Daniels Midland Erith Ltd,Unmapped,heat_pump,2040.0,2040,2040,6,,yes
-Archer Daniels Midland Erith Ltd,Unmapped,hydrogen_boiler,2034.0,2032,2046,7,,yes
-Ardagh Glass - Headlands,Unmapped,hydrogen_boiler,2032.0,2030,2032,7,2032.0,
-Ardagh Glass - Wheatley,Unmapped,biomass_boiler,,2032,2032,1,,yes
-Ardagh Glass - Wheatley,Unmapped,elec_boiler,2048.0,2048,2048,7,,yes
-Ardagh Glass - Wheatley,Unmapped,gas_boiler_ccs,2038.0,2030,2038,5,,yes
-Ardagh Glass - Wheatley,Unmapped,heat_pump,,2040,2040,1,,yes
-Ardagh Glass - Wheatley,Unmapped,hydrogen_boiler,2032.0,2030,2034,6,,yes
-Ardagh Glass Limited,Unmapped,elec_boiler,2048.0,2048,2048,7,,yes
-Ardagh Glass Limited,Unmapped,gas_boiler_ccs,2042.0,2030,2042,6,,yes
-Ardagh Glass Limited,Unmapped,heat_pump,2040.0,2040,2040,6,,yes
-Ardagh Glass Limited,Unmapped,hydrogen_boiler,2034.0,2034,2044,6,,yes
-Ardagh Glass Ltd,Unmapped,biomass_boiler,2034.0,2034,2034,6,,yes
-Ardagh Glass Ltd,Unmapped,elec_boiler,2048.0,2048,2048,6,,yes
-Ardagh Glass Ltd,Unmapped,gas_boiler_ccs,2032.0,2030,2032,7,,yes
-Ardagh Glass Ltd,Unmapped,heat_pump,2040.0,2040,2042,7,,yes
-Ardagh Glass Ltd,Unmapped,hydrogen_boiler,,2034,2034,1,,yes
-Barrow Mill,Dispersed,biomass_boiler,2028.0,2028,2028,7,,yes
+AH Marks Bradford CHP,Dispersed,biomass_boiler,2042.0,2042,2042,7,,yes
+AH Marks Bradford CHP,Dispersed,elec_boiler,2046.0,2044,2046,6,,yes
+AH Marks Bradford CHP,Dispersed,gas_boiler_ccs,2044.0,2040,2044,6,,yes
+AH Marks Bradford CHP,Dispersed,heat_pump,,2040,2040,1,,yes
+AH Marks Bradford CHP,Dispersed,hydrogen_boiler,2040.0,2038,2040,6,,yes
+Aberthaw Cement Plant,Dispersed,cement_kiln_ccs,2028.0,2028,2038,7,2028.0,
+Allerton Waste Recovery Park,Dispersed,elec_boiler,2044.0,2044,2044,7,,yes
+Allerton Waste Recovery Park,Dispersed,gas_boiler_ccs,2042.0,2042,2042,6,,yes
+Allied Glass Containers Ltd - Knottingley,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,2034.0,earlier
+Allington Quarry,Dispersed,elec_boiler,2044.0,2044,2044,7,,yes
+Allington Quarry,Dispersed,gas_boiler_ccs,2042.0,2042,2042,6,,yes
+Archer Daniels Midland Erith Ltd,Unmapped,biomass_boiler,2032.0,2028,2032,6,,yes
+Archer Daniels Midland Erith Ltd,Unmapped,elec_boiler,,2044,2044,2,,yes
+Archer Daniels Midland Erith Ltd,Unmapped,gas_boiler_ccs,2028.0,2028,2036,7,,yes
+Archer Daniels Midland Erith Ltd,Unmapped,heat_pump,2042.0,2034,2042,6,,yes
+Archer Daniels Midland Erith Ltd,Unmapped,hydrogen_boiler,2034.0,2028,2034,7,,yes
+Ardagh Glass - Headlands,Unmapped,hydrogen_boiler,2032.0,2030,2032,7,2038.0,earlier
+Ardagh Glass - Wheatley,Unmapped,elec_boiler,,2044,2044,1,,yes
+Ardagh Glass - Wheatley,Unmapped,gas_boiler_ccs,2028.0,2028,2032,7,,yes
+Ardagh Glass - Wheatley,Unmapped,heat_pump,,2036,2042,2,,yes
+Ardagh Glass - Wheatley,Unmapped,hydrogen_boiler,2032.0,2030,2032,7,,yes
+Ardagh Glass Limited,Unmapped,elec_boiler,,2044,2044,2,,yes
+Ardagh Glass Limited,Unmapped,gas_boiler_ccs,2028.0,2028,2028,6,,yes
+Ardagh Glass Limited,Unmapped,heat_pump,2038.0,2034,2038,7,,yes
+Ardagh Glass Limited,Unmapped,hydrogen_boiler,2032.0,2028,2032,7,,yes
+Ardagh Glass Ltd,Unmapped,biomass_boiler,,2028,2028,1,,yes
+Ardagh Glass Ltd,Unmapped,elec_boiler,,2044,2044,1,,yes
+Ardagh Glass Ltd,Unmapped,gas_boiler_ccs,2030.0,2028,2034,7,,yes
+Ardagh Glass Ltd,Unmapped,heat_pump,2038.0,2036,2040,7,,yes
+Ardagh Glass Ltd,Unmapped,hydrogen_boiler,2034.0,2028,2034,7,,yes
+Ardley Landfill,Dispersed,elec_boiler,2044.0,2044,2044,7,,yes
+Ardley Landfill,Dispersed,gas_boiler_ccs,2042.0,2042,2042,6,,yes
+Austerfield Works,Dispersed,biomass_boiler,2040.0,2040,2042,7,,yes
+Austerfield Works,Dispersed,elec_boiler,2046.0,2044,2046,6,,yes
+Austerfield Works,Dispersed,gas_boiler_ccs,2044.0,2040,2046,7,,yes
+Austerfield Works,Dispersed,hydrogen_boiler,,2038,2040,2,,yes
+Barrow Mill,Dispersed,biomass_boiler,2028.0,2028,2028,4,,yes
 Barrow Mill,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,,yes
-Beatson Clark plc - Rotherham,Dispersed,hydrogen_boiler,2032.0,2030,2034,7,2032.0,
-Billingham Fertilizer Works,Unmapped,biomass_boiler,2028.0,2028,2028,3,,yes
-Billingham Fertilizer Works,Unmapped,hydrogen_boiler,2038.0,2030,2038,7,,yes
-Bones Lane Factory,Dispersed,hydrogen_boiler,2034.0,2030,2034,7,2032.0,
-Bridgend Operation,South Wales,hydrogen_boiler,2032.0,2030,2044,7,2034.0,earlier
-British Sugar plc - Newark,Dispersed,biomass_boiler,2040.0,2040,2040,6,,yes
-British Sugar plc - Newark,Dispersed,elec_boiler,,2048,2048,2,,yes
-British Sugar plc - Newark,Dispersed,gas_boiler_ccs,2036.0,2030,2044,5,,yes
-British Sugar plc - Newark,Dispersed,heat_pump,2042.0,2040,2042,7,,yes
-British Sugar plc - Newark,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,,yes
-Bury St Edmunds Sugar Factory,Dispersed,biomass_boiler,2030.0,2028,2030,5,,yes
-Bury St Edmunds Sugar Factory,Dispersed,gas_boiler_ccs,2028.0,2028,2034,7,,yes
-Bury St Edmunds Sugar Factory,Dispersed,heat_pump,2040.0,2040,2040,7,,yes
-Bury St Edmunds Sugar Factory,Dispersed,hydrogen_boiler,2032.0,2028,2032,7,,yes
-Cantley Sugar Factory,Unmapped,hydrogen_boiler,2032.0,2030,2032,7,,yes
-Cargill - Trafford Park,Dispersed,biomass_boiler,2034.0,2030,2034,7,,yes
-Cargill - Trafford Park,Dispersed,elec_boiler,2048.0,2048,2048,7,,yes
-Cargill - Trafford Park,Dispersed,gas_boiler_ccs,2032.0,2030,2038,7,,yes
-Cargill - Trafford Park,Dispersed,heat_pump,2040.0,2040,2040,7,,yes
-Cargill - Trafford Park,Dispersed,hydrogen_boiler,,2032,2032,1,,yes
-Cauldon Cement,Dispersed,cement_kiln_ccs,2028.0,2028,2038,7,2028.0,
-Cookstown Cement,Dispersed,cement_kiln_ccs,2028.0,2028,2036,7,2028.0,
-DSM Dalry,Dispersed,elec_boiler,2048.0,2048,2048,7,,yes
-DSM Dalry,Dispersed,heat_pump,,2042,2042,1,,yes
-DSM Dalry,Dispersed,hydrogen_boiler,2040.0,2040,2040,7,,yes
-Desford,Dispersed,hydrogen_boiler,2032.0,2030,2032,6,,yes
-Dow Silicone Manufacturing Installation,Dispersed,biomass_boiler,2038.0,2038,2038,6,,yes
-Dow Silicone Manufacturing Installation,Dispersed,elec_boiler,,2048,2048,2,,yes
-Dow Silicone Manufacturing Installation,Dispersed,gas_boiler_ccs,,2030,2030,2,,yes
-Dow Silicone Manufacturing Installation,Dispersed,heat_pump,2040.0,2040,2042,7,,yes
-Dow Silicone Manufacturing Installation,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,,yes
-Dunbar Plant,Dispersed,cement_kiln_ccs,2028.0,2028,2032,7,2028.0,
-ETEX Building Performance Limited – Portbury Site,Dispersed,biomass_boiler,2034.0,2032,2042,7,,yes
-ETEX Building Performance Limited – Portbury Site,Dispersed,elec_boiler,2048.0,2048,2048,7,,yes
-ETEX Building Performance Limited – Portbury Site,Dispersed,gas_boiler_ccs,2032.0,2030,2044,6,,yes
-ETEX Building Performance Limited – Portbury Site,Dispersed,heat_pump,2040.0,2040,2040,7,,yes
-East Leake Gypsum Works,Dispersed,biomass_boiler,,2042,2042,1,,yes
-East Leake Gypsum Works,Dispersed,elec_boiler,2048.0,2048,2048,7,,yes
-East Leake Gypsum Works,Dispersed,gas_boiler_ccs,2046.0,2030,2046,6,,yes
-East Leake Gypsum Works,Dispersed,heat_pump,2040.0,2040,2040,6,,yes
-East Leake Gypsum Works,Dispersed,hydrogen_boiler,2034.0,2034,2042,7,,yes
-Eastham Refinery Limited,Merseyside,biomass_boiler,2028.0,2028,2028,2,,yes
+Barry,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Barry,Dispersed,elec_boiler,,2044,2048,2,,yes
+Barry,Dispersed,heat_pump,2046.0,2046,2046,6,,yes
+Battlefield EfW,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Battlefield EfW,Dispersed,elec_boiler,2046.0,2044,2048,7,,yes
+Battlefield EfW,Dispersed,gas_boiler_ccs,,2042,2042,1,,yes
+Battlefield EfW,Dispersed,heat_pump,2048.0,2046,2048,6,,yes
+Beatson Clark plc - Rotherham,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,2034.0,earlier
+Beckton STW,Dispersed,biomass_boiler,2044.0,2044,2044,6,,yes
+Beckton STW,Dispersed,elec_boiler,2048.0,2048,2048,6,,yes
+Beckton STW,Dispersed,gas_boiler_ccs,,2048,2048,1,,yes
+Beckton STW,Dispersed,hydrogen_boiler,2042.0,2042,2044,7,,yes
+Beddington ERF,Dispersed,biomass_boiler,,2042,2042,1,,yes
+Beddington ERF,Dispersed,gas_boiler_ccs,2044.0,2040,2044,6,,yes
+Beddington ERF,Dispersed,heat_pump,,2040,2044,2,,yes
+Beddington ERF,Dispersed,hydrogen_boiler,2038.0,2038,2042,7,,yes
+Belfast,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Belfast,Dispersed,elec_boiler,,2050,2050,1,,yes
+Belfast,Dispersed,gas_boiler_ccs,,2046,2046,1,,yes
+Belfast,Dispersed,heat_pump,2044.0,2044,2046,7,,yes
+Belfast,Dispersed,hydrogen_boiler,,2042,2050,2,,yes
+Belfast (2),Dispersed,biomass_boiler,2042.0,2042,2042,5,,yes
+Belfast (2),Dispersed,elec_boiler,2044.0,2044,2046,6,,yes
+Belfast (2),Dispersed,gas_boiler_ccs,,2042,2044,2,,yes
+Belfast (2),Dispersed,heat_pump,2050.0,2042,2050,6,,yes
+Belfast (2),Dispersed,hydrogen_boiler,,2050,2050,2,,yes
+Belvedere,Dispersed,elec_boiler,2044.0,2044,2044,7,,yes
+Belvedere,Dispersed,gas_boiler_ccs,2042.0,2042,2042,7,,yes
+Billingham Fertilizer Works,Unmapped,hydrogen_boiler,2030.0,2030,2030,7,,yes
+Bolton,Dispersed,biomass_boiler,2042.0,2042,2042,7,,yes
+Bolton,Dispersed,elec_boiler,,2044,2044,1,,yes
+Bolton,Dispersed,gas_boiler_ccs,2044.0,2044,2044,6,,yes
+Bolton,Dispersed,heat_pump,2046.0,2046,2046,6,,yes
+Bolton,Dispersed,hydrogen_boiler,2048.0,2048,2048,6,,yes
+Bones Lane Factory,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,2034.0,earlier
+Bridgend Operation,South Wales,hydrogen_boiler,2032.0,2030,2032,7,2038.0,earlier
+Bridgewater Diary,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Bridgewater Diary,Dispersed,elec_boiler,2044.0,2044,2046,6,,yes
+Bridgewater Diary,Dispersed,heat_pump,,2044,2044,1,,yes
+Bridgewater Diary,Dispersed,hydrogen_boiler,,2044,2044,1,,yes
+British Sugar plc - Newark,Dispersed,biomass_boiler,,2030,2030,1,,yes
+British Sugar plc - Newark,Dispersed,elec_boiler,,2044,2044,1,,yes
+British Sugar plc - Newark,Dispersed,gas_boiler_ccs,2028.0,2028,2032,7,,yes
+British Sugar plc - Newark,Dispersed,heat_pump,2038.0,2036,2038,7,,yes
+British Sugar plc - Newark,Dispersed,hydrogen_boiler,2034.0,2028,2034,7,,yes
+Bromborough,Merseyside,biomass_boiler,2040.0,2040,2046,7,,yes
+Bromborough,Merseyside,gas_boiler_ccs,,2046,2046,1,,yes
+Bromborough,Merseyside,heat_pump,2046.0,2042,2046,6,,yes
+Bromborough,Merseyside,hydrogen_boiler,,2038,2046,4,,yes
+Broomfleet Works,Humberside,biomass_boiler,2042.0,2042,2042,6,,yes
+Broomfleet Works,Humberside,elec_boiler,2046.0,2046,2046,6,,yes
+Broomfleet Works,Humberside,gas_boiler_ccs,,2046,2046,1,,yes
+Broomfleet Works,Humberside,hydrogen_boiler,,2042,2042,1,,yes
+Burton Latimer,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Burton Latimer,Dispersed,elec_boiler,2048.0,2048,2048,6,,yes
+Burton Latimer,Dispersed,gas_boiler_ccs,,2046,2046,1,,yes
+Burton Latimer,Dispersed,heat_pump,2046.0,2042,2046,7,,yes
+Bury St Edmunds Sugar Factory,Dispersed,biomass_boiler,,2028,2028,1,2042.0,
+Bury St Edmunds Sugar Factory,Dispersed,elec_boiler,,2044,2044,1,,yes
+Bury St Edmunds Sugar Factory,Dispersed,gas_boiler_ccs,2032.0,2032,2034,7,2038.0,earlier
+Bury St Edmunds Sugar Factory,Dispersed,heat_pump,2038.0,2036,2038,7,,yes
+Bury St Edmunds Sugar Factory,Dispersed,hydrogen_boiler,2034.0,2028,2034,7,2040.0,earlier
+Cambuslang,Dispersed,elec_boiler,,2046,2046,1,,yes
+Cambuslang,Dispersed,gas_boiler_ccs,,2050,2050,1,,yes
+Cambuslang,Dispersed,heat_pump,2046.0,2046,2048,7,,yes
+Cambuslang,Dispersed,hydrogen_boiler,2042.0,2042,2042,7,,yes
+Cantley Sugar Factory,Unmapped,hydrogen_boiler,2032.0,2030,2032,7,2036.0,earlier
+Cargill - Trafford Park,Dispersed,elec_boiler,,2044,2044,1,,yes
+Cargill - Trafford Park,Dispersed,gas_boiler_ccs,2028.0,2028,2032,7,,yes
+Cargill - Trafford Park,Dispersed,heat_pump,2036.0,2036,2040,7,,yes
+Cargill - Trafford Park,Dispersed,hydrogen_boiler,2030.0,2028,2030,7,,yes
+Cauldon Cement,Dispersed,cement_kiln_ccs,2028.0,2028,2028,6,2028.0,
+Caw House,Dispersed,elec_boiler,2046.0,2046,2046,7,,yes
+Caw House,Dispersed,gas_boiler_ccs,2044.0,2044,2044,6,,yes
+Caw House,Dispersed,heat_pump,2042.0,2042,2048,6,,yes
+Caw House,Dispersed,hydrogen_boiler,,2042,2042,2,,yes
+Chineham,Dispersed,biomass_boiler,2040.0,2040,2042,7,,yes
+Chineham,Dispersed,elec_boiler,2046.0,2046,2046,7,,yes
+Chineham,Dispersed,gas_boiler_ccs,,2040,2040,1,,yes
+Chineham,Dispersed,heat_pump,,2040,2044,2,,yes
+Chineham,Dispersed,hydrogen_boiler,,2038,2040,2,,yes
+Chirnside,Dispersed,biomass_boiler,,2042,2042,1,,yes
+Chirnside,Dispersed,elec_boiler,,2046,2046,1,,yes
+Chirnside,Dispersed,heat_pump,,2040,2040,1,,yes
+Chirnside,Dispersed,hydrogen_boiler,2038.0,2038,2040,7,,yes
+Colnbrook,Dispersed,elec_boiler,2044.0,2044,2044,7,,yes
+Colnbrook,Dispersed,gas_boiler_ccs,2042.0,2042,2042,6,,yes
+Cookstown Cement,Dispersed,cement_kiln_ccs,2028.0,2028,2050,7,2028.0,
+Cornwall Energy Recovery Centre,Dispersed,biomass_boiler,2040.0,2040,2042,6,,yes
+Cornwall Energy Recovery Centre,Dispersed,gas_boiler_ccs,,2040,2040,1,,yes
+Cornwall Energy Recovery Centre,Dispersed,heat_pump,,2040,2040,1,,yes
+Cornwall Energy Recovery Centre,Dispersed,hydrogen_boiler,2038.0,2038,2044,7,,yes
+Coventry,Dispersed,elec_boiler,2044.0,2044,2044,7,,yes
+Coventry,Dispersed,gas_boiler_ccs,2042.0,2042,2042,6,,yes
+Cowley,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Cowley,Dispersed,elec_boiler,,2046,2046,1,,yes
+Cowley,Dispersed,gas_boiler_ccs,2044.0,2044,2044,6,,yes
+Cowley,Dispersed,heat_pump,,2040,2040,1,,yes
+Cowley,Dispersed,hydrogen_boiler,2038.0,2038,2040,7,,yes
+Craigavon,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Craigavon,Dispersed,elec_boiler,2046.0,2046,2046,6,,yes
+Craigavon,Dispersed,gas_boiler_ccs,2044.0,2044,2048,7,,yes
+Craigavon,Dispersed,hydrogen_boiler,,2042,2042,1,,yes
+Cramlington,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Cramlington,Dispersed,elec_boiler,2046.0,2044,2046,7,,yes
+Cramlington,Dispersed,gas_boiler_ccs,2044.0,2044,2044,6,,yes
+Cramlington,Dispersed,heat_pump,,2042,2042,1,,yes
+DSM Dalry,Dispersed,biomass_boiler,2028.0,2028,2028,6,,yes
+DSM Dalry,Dispersed,elec_boiler,,2044,2044,2,,yes
+DSM Dalry,Dispersed,gas_boiler_ccs,2028.0,2028,2034,6,,yes
+DSM Dalry,Dispersed,heat_pump,2042.0,2036,2042,7,,yes
+DSM Dalry,Dispersed,hydrogen_boiler,2030.0,2028,2030,7,,yes
+Darley Dale,Dispersed,elec_boiler,2044.0,2044,2044,7,,yes
+Darley Dale,Dispersed,gas_boiler_ccs,2042.0,2042,2042,6,,yes
+Davidstow Creamery,Dispersed,elec_boiler,2046.0,2046,2046,7,,yes
+Davidstow Creamery,Dispersed,heat_pump,2044.0,2040,2044,6,,yes
+Davidstow Creamery,Dispersed,hydrogen_boiler,2042.0,2042,2042,7,,yes
+"Deeside Industrial Estate, Deeside",Merseyside,biomass_boiler,2040.0,2040,2044,6,,yes
+"Deeside Industrial Estate, Deeside",Merseyside,elec_boiler,,2044,2044,1,,yes
+"Deeside Industrial Estate, Deeside",Merseyside,heat_pump,,2042,2042,1,,yes
+"Deeside Industrial Estate, Deeside",Merseyside,hydrogen_boiler,2038.0,2038,2040,7,,yes
+Desford,Dispersed,hydrogen_boiler,2030.0,2030,2030,7,,yes
+Doncaster,Dispersed,biomass_boiler,,2042,2042,1,,yes
+Doncaster,Dispersed,elec_boiler,2046.0,2044,2048,7,,yes
+Doncaster,Dispersed,gas_boiler_ccs,2044.0,2044,2048,7,,yes
+Doncaster,Dispersed,hydrogen_boiler,2042.0,2042,2042,6,,yes
+Dorket Head Brickworks,Dispersed,biomass_boiler,2040.0,2040,2042,7,,yes
+Dorket Head Brickworks,Dispersed,elec_boiler,,2046,2046,1,,yes
+Dorket Head Brickworks,Dispersed,gas_boiler_ccs,2044.0,2044,2044,6,,yes
+Dorket Head Brickworks,Dispersed,heat_pump,,2040,2040,1,,yes
+Dorket Head Brickworks,Dispersed,hydrogen_boiler,,2038,2040,3,,yes
+Dow Silicone Manufacturing Installation,Dispersed,biomass_boiler,,2028,2028,1,,yes
+Dow Silicone Manufacturing Installation,Dispersed,elec_boiler,,2044,2044,1,,yes
+Dow Silicone Manufacturing Installation,Dispersed,gas_boiler_ccs,2032.0,2030,2040,7,,yes
+Dow Silicone Manufacturing Installation,Dispersed,heat_pump,2038.0,2036,2038,7,,yes
+Dow Silicone Manufacturing Installation,Dispersed,hydrogen_boiler,2032.0,2028,2032,7,,yes
+Dudley,Black Country,biomass_boiler,2042.0,2042,2046,7,,yes
+Dudley,Black Country,elec_boiler,2046.0,2046,2046,6,,yes
+Dudley,Black Country,gas_boiler_ccs,,2042,2042,1,,yes
+Dudley,Black Country,heat_pump,,2044,2044,1,,yes
+Dumfries,Dispersed,elec_boiler,2046.0,2044,2046,7,,yes
+Dumfries,Dispersed,heat_pump,2042.0,2042,2042,6,,yes
+Dumfries,Dispersed,hydrogen_boiler,,2042,2042,1,,yes
+Dunbar Plant,Dispersed,cement_kiln_ccs,2028.0,2028,2028,6,2028.0,
+Duns,Dispersed,gas_boiler_ccs,2044.0,2042,2044,7,,yes
+Duns,Dispersed,heat_pump,2046.0,2040,2046,7,,yes
+Duns,Dispersed,hydrogen_boiler,2040.0,2038,2040,7,,yes
+ETEX Building Performance Limited – Portbury Site,Dispersed,biomass_boiler,,2028,2028,1,,yes
+ETEX Building Performance Limited – Portbury Site,Dispersed,elec_boiler,,2044,2044,2,,yes
+ETEX Building Performance Limited – Portbury Site,Dispersed,gas_boiler_ccs,2028.0,2028,2028,6,,yes
+ETEX Building Performance Limited – Portbury Site,Dispersed,heat_pump,2038.0,2036,2042,7,,yes
+ETEX Building Performance Limited – Portbury Site,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,,yes
+East Leake Gypsum Works,Dispersed,biomass_boiler,2030.0,2030,2032,6,,yes
+East Leake Gypsum Works,Dispersed,elec_boiler,,2044,2044,2,,yes
+East Leake Gypsum Works,Dispersed,gas_boiler_ccs,2028.0,2028,2028,6,,yes
+East Leake Gypsum Works,Dispersed,heat_pump,2036.0,2036,2038,7,,yes
+East Leake Gypsum Works,Dispersed,hydrogen_boiler,2032.0,2028,2032,7,,yes
+Eastcroft,Dispersed,biomass_boiler,2040.0,2040,2042,7,,yes
+Eastcroft,Dispersed,elec_boiler,,2044,2044,1,,yes
+Eastcroft,Dispersed,gas_boiler_ccs,2044.0,2044,2044,6,,yes
+Eastcroft,Dispersed,heat_pump,,2040,2040,1,,yes
+Eastcroft,Dispersed,hydrogen_boiler,2038.0,2038,2040,7,,yes
 Eastham Refinery Limited,Merseyside,hydrogen_boiler,2032.0,2030,2032,7,,yes
-Elanco AH UK Speke,Merseyside,hydrogen_boiler,2032.0,2030,2036,7,,yes
-Encirc Glass,Unmapped,biomass_boiler,2030.0,2028,2030,7,,yes
-Encirc Glass,Unmapped,elec_boiler,,2048,2048,2,,yes
-Encirc Glass,Unmapped,gas_boiler_ccs,2028.0,2028,2040,7,,yes
-Encirc Glass,Unmapped,heat_pump,,2044,2044,1,,yes
-Encirc Glass,Unmapped,hydrogen_boiler,2032.0,2030,2032,7,,yes
-Encirc Limited,Unmapped,biomass_boiler,2034.0,2034,2034,4,,yes
-Encirc Limited,Unmapped,elec_boiler,2048.0,2048,2048,7,,yes
-Encirc Limited,Unmapped,gas_boiler_ccs,2040.0,2030,2040,7,,yes
-Encirc Limited,Unmapped,heat_pump,2042.0,2042,2042,7,,yes
-Encirc Limited,Unmapped,hydrogen_boiler,2032.0,2032,2032,4,,yes
-Essity UK Limited - Prudhoe Mill,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,2032.0,
-Esso Petroleum Company Limited,Southampton,elec_boiler,2038.0,2038,2038,7,,yes
-Esso Petroleum Company Limited,Southampton,heat_pump,2030.0,2028,2030,7,2040.0,earlier
-Fawley Chemicals,Unmapped,hydrogen_boiler,2032.0,2030,2032,7,,yes
-Fawley Refinery,Southampton,elec_boiler,2040.0,2038,2040,7,,yes
-Fawley Refinery,Southampton,heat_pump,2032.0,2032,2032,7,,yes
-Fife Ethylene Plant,Unmapped,elec_boiler,2040.0,2038,2040,7,,yes
-Fife Ethylene Plant,Unmapped,heat_pump,2032.0,2032,2032,7,,yes
-Grangemouth Chemicals,Grangemouth,biomass_boiler,2028.0,2028,2028,7,,yes
-Grangemouth Chemicals,Grangemouth,gas_boiler_ccs,2030.0,2028,2032,6,,yes
-Grangemouth Chemicals,Grangemouth,heat_pump,,2038,2038,1,,yes
-Grangemouth Chemicals,Grangemouth,hydrogen_boiler,2032.0,2030,2036,7,,yes
-Guardian Industries UK Limited,Humberside,elec_boiler,2048.0,2048,2048,7,,yes
-Guardian Industries UK Limited,Humberside,gas_boiler_ccs,,2030,2030,2,,yes
-Guardian Industries UK Limited,Humberside,heat_pump,2040.0,2038,2040,7,,yes
-Guardian Industries UK Limited,Humberside,hydrogen_boiler,2032.0,2030,2032,7,,yes
-Hindlow Lime,Dispersed,biomass_boiler,2032.0,2032,2032,7,,yes
-Hindlow Lime,Dispersed,elec_boiler,2048.0,2048,2048,6,,yes
-Hindlow Lime,Dispersed,gas_boiler_ccs,2034.0,2028,2034,6,,yes
-Hindlow Lime,Dispersed,heat_pump,2040.0,2038,2040,7,,yes
-Hindlow Lime,Dispersed,hydrogen_boiler,2034.0,2032,2046,6,,yes
-Hope Cement Works,Dispersed,cement_kiln_ccs,2028.0,2028,2036,7,2028.0,
-Humber Refinery,Humberside,elec_boiler,2038.0,2038,2038,7,,yes
-Humber Refinery,Humberside,heat_pump,2030.0,2030,2032,7,2040.0,earlier
-INOVYN Chlorvinyls Newton Aycliffe,Teesside,biomass_boiler,,2028,2028,1,,yes
-INOVYN Chlorvinyls Newton Aycliffe,Teesside,hydrogen_boiler,2032.0,2030,2032,7,,yes
-Ibstock Brick Limited - Leicester,Dispersed,hydrogen_boiler,2032.0,2030,2032,6,2040.0,earlier
-Ineos Acetyls Hull,Dispersed,biomass_boiler,2034.0,2030,2038,7,,yes
-Ineos Acetyls Hull,Dispersed,elec_boiler,2048.0,2048,2048,6,,yes
-Ineos Acetyls Hull,Dispersed,gas_boiler_ccs,2040.0,2030,2040,6,,yes
-Ineos Acetyls Hull,Dispersed,heat_pump,2046.0,2040,2046,7,,yes
-Ineos Acetyls Hull,Dispersed,hydrogen_boiler,2032.0,2032,2044,7,,yes
-Jaguar Land Rover Limited Solihull,Black Country,elec_boiler,2048.0,2048,2048,7,,yes
-Jaguar Land Rover Limited Solihull,Black Country,heat_pump,2040.0,2040,2040,7,,yes
-Jaguar Land Rover Limited Solihull,Black Country,hydrogen_boiler,2044.0,2044,2044,5,,yes
-KETTON WORKS,Dispersed,cement_kiln_ccs,2028.0,2028,2034,7,2028.0,
-Knauf Drywall Sittingbourne,Dispersed,hydrogen_boiler,2034.0,2030,2038,7,2032.0,
-Knauf Immingham,Unmapped,biomass_boiler,,2028,2028,1,,yes
-Knauf Immingham,Unmapped,hydrogen_boiler,2032.0,2030,2032,7,,yes
-Knauf Insulation Queensferry,Merseyside,biomass_boiler,2028.0,2028,2028,2,,yes
-Knauf Insulation Queensferry,Merseyside,hydrogen_boiler,2032.0,2030,2036,7,,yes
+Edmonton,Dispersed,elec_boiler,2044.0,2044,2044,7,,yes
+Edmonton,Dispersed,gas_boiler_ccs,2042.0,2042,2042,6,,yes
+Elanco AH UK Speke,Merseyside,hydrogen_boiler,2032.0,2030,2032,7,2036.0,earlier
+Encirc Glass,Unmapped,elec_boiler,,2044,2044,1,,yes
+Encirc Glass,Unmapped,gas_boiler_ccs,2028.0,2028,2032,7,,yes
+Encirc Glass,Unmapped,heat_pump,2038.0,2036,2038,7,,yes
+Encirc Glass,Unmapped,hydrogen_boiler,2032.0,2028,2032,7,,yes
+Encirc Limited,Unmapped,biomass_boiler,,2028,2028,1,,yes
+Encirc Limited,Unmapped,elec_boiler,,2044,2044,1,,yes
+Encirc Limited,Unmapped,gas_boiler_ccs,2030.0,2030,2034,7,,yes
+Encirc Limited,Unmapped,heat_pump,2036.0,2036,2038,7,,yes
+Encirc Limited,Unmapped,hydrogen_boiler,2032.0,2028,2032,7,,yes
+Essity UK Limited - Prudhoe Mill,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,2036.0,earlier
+Esso Petroleum Company Limited,Southampton,elec_boiler,2038.0,2036,2038,7,,yes
+Esso Petroleum Company Limited,Southampton,heat_pump,2028.0,2028,2028,7,,yes
+Exeter EfW,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Exeter EfW,Dispersed,elec_boiler,2044.0,2044,2046,7,,yes
+Exeter EfW,Dispersed,gas_boiler_ccs,,2044,2044,1,,yes
+Exeter EfW,Dispersed,hydrogen_boiler,,2044,2044,1,,yes
+Fawley Chemicals,Unmapped,hydrogen_boiler,2030.0,2030,2030,7,2034.0,earlier
+Fawley Refinery,Southampton,elec_boiler,2038.0,2038,2038,7,,yes
+Fawley Refinery,Southampton,heat_pump,2028.0,2028,2030,7,,yes
+Fife Ethylene Plant,Unmapped,elec_boiler,2038.0,2038,2038,7,,yes
+Fife Ethylene Plant,Unmapped,heat_pump,2028.0,2028,2030,7,,yes
+Glasgow Recycling & Renewable Energy Centre,Dispersed,biomass_boiler,2040.0,2040,2042,6,,yes
+Glasgow Recycling & Renewable Energy Centre,Dispersed,gas_boiler_ccs,,2040,2042,2,,yes
+Glasgow Recycling & Renewable Energy Centre,Dispersed,heat_pump,,2040,2040,1,,yes
+Glasgow Recycling & Renewable Energy Centre,Dispersed,hydrogen_boiler,,2038,2040,3,,yes
+Grangemouth Chemicals,Grangemouth,biomass_boiler,,2028,2028,1,2044.0,
+Grangemouth Chemicals,Grangemouth,gas_boiler_ccs,2034.0,2032,2034,7,2036.0,earlier
+Grangemouth Chemicals,Grangemouth,heat_pump,2038.0,2034,2038,7,,yes
+Grangemouth Chemicals,Grangemouth,hydrogen_boiler,2030.0,2028,2030,7,2038.0,earlier
+Great Ryburgh Maltings,Dispersed,biomass_boiler,2042.0,2042,2044,7,,yes
+Great Ryburgh Maltings,Dispersed,elec_boiler,2048.0,2048,2048,6,,yes
+Great Ryburgh Maltings,Dispersed,heat_pump,2044.0,2044,2046,6,,yes
+Greatham,Teesside,biomass_boiler,2042.0,2042,2042,7,,yes
+Greatham,Teesside,elec_boiler,2048.0,2048,2048,6,,yes
+Greatham,Teesside,gas_boiler_ccs,,2044,2046,2,,yes
+Greatham,Teesside,heat_pump,2046.0,2046,2046,6,,yes
+Greatmoor EfW,Dispersed,biomass_boiler,2040.0,2040,2042,6,,yes
+Greatmoor EfW,Dispersed,elec_boiler,2044.0,2044,2044,4,,yes
+Greatmoor EfW,Dispersed,heat_pump,2044.0,2042,2044,5,,yes
+Greatmoor EfW,Dispersed,hydrogen_boiler,2038.0,2038,2040,7,,yes
+Greenock,Dispersed,elec_boiler,2048.0,2046,2048,7,,yes
+Greenock,Dispersed,heat_pump,2042.0,2042,2042,6,,yes
+Greenock,Dispersed,hydrogen_boiler,2044.0,2044,2044,7,,yes
+Grimsby,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Grimsby,Dispersed,elec_boiler,,2044,2044,1,,yes
+Grimsby,Dispersed,heat_pump,,2040,2040,1,,yes
+Grimsby,Dispersed,hydrogen_boiler,2038.0,2038,2040,7,,yes
+Guardian Industries UK Limited,Humberside,biomass_boiler,,2028,2028,1,,yes
+Guardian Industries UK Limited,Humberside,elec_boiler,,2044,2044,1,,yes
+Guardian Industries UK Limited,Humberside,gas_boiler_ccs,2030.0,2030,2034,7,,yes
+Guardian Industries UK Limited,Humberside,heat_pump,2036.0,2036,2038,7,,yes
+Guardian Industries UK Limited,Humberside,hydrogen_boiler,2030.0,2028,2030,7,,yes
+Halewood,Merseyside,biomass_boiler,2042.0,2042,2042,6,,yes
+Halewood,Merseyside,elec_boiler,,2044,2044,1,,yes
+Halewood,Merseyside,heat_pump,2046.0,2040,2046,7,,yes
+Halewood,Merseyside,hydrogen_boiler,2040.0,2038,2040,7,,yes
+Harlesden,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Harlesden,Dispersed,elec_boiler,2048.0,2044,2048,7,,yes
+Harlesden,Dispersed,gas_boiler_ccs,,2048,2048,1,,yes
+Harlesden,Dispersed,heat_pump,2046.0,2046,2046,6,,yes
+Harlesden,Dispersed,hydrogen_boiler,,2042,2042,1,,yes
+Harlow,Dispersed,elec_boiler,2046.0,2046,2046,6,,yes
+Harlow,Dispersed,gas_boiler_ccs,,2042,2042,1,,yes
+Harlow,Dispersed,heat_pump,,2040,2044,2,,yes
+Harlow,Dispersed,hydrogen_boiler,2040.0,2038,2040,7,,yes
+Hartlebury Factory,Black Country,biomass_boiler,,2042,2042,1,,yes
+Hartlebury Factory,Black Country,elec_boiler,2046.0,2046,2046,7,,yes
+Hartlebury Factory,Black Country,heat_pump,2042.0,2042,2044,7,,yes
+Hartlebury Factory,Black Country,hydrogen_boiler,,2044,2044,1,,yes
+Hindlow Lime,Dispersed,biomass_boiler,,2030,2030,1,,yes
+Hindlow Lime,Dispersed,elec_boiler,,2044,2044,1,,yes
+Hindlow Lime,Dispersed,gas_boiler_ccs,2028.0,2028,2032,7,,yes
+Hindlow Lime,Dispersed,heat_pump,2038.0,2034,2038,7,,yes
+Hindlow Lime,Dispersed,hydrogen_boiler,2030.0,2028,2030,7,,yes
+Hope Cement Works,Dispersed,cement_kiln_ccs,2028.0,2028,2038,7,2028.0,
+Huddersfield,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Huddersfield,Dispersed,elec_boiler,,2044,2044,1,,yes
+Huddersfield,Dispersed,gas_boiler_ccs,,2040,2046,2,,yes
+Huddersfield,Dispersed,heat_pump,2044.0,2040,2044,6,,yes
+Huddersfield,Dispersed,hydrogen_boiler,2040.0,2038,2040,6,,yes
+Humber Refinery,Humberside,elec_boiler,2038.0,2036,2038,7,,yes
+Humber Refinery,Humberside,heat_pump,2028.0,2028,2028,7,,yes
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",Dispersed,biomass_boiler,2040.0,2040,2042,7,,yes
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",Dispersed,gas_boiler_ccs,,2040,2040,1,,yes
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",Dispersed,heat_pump,,2040,2040,1,,yes
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",Dispersed,hydrogen_boiler,2038.0,2038,2040,6,,yes
+Hythe,Southampton,biomass_boiler,2040.0,2040,2044,6,,yes
+Hythe,Southampton,heat_pump,2046.0,2040,2046,6,,yes
+Hythe,Southampton,hydrogen_boiler,,2038,2040,3,,yes
+Hythe (2),Southampton,elec_boiler,2044.0,2044,2044,7,,yes
+Hythe (2),Southampton,gas_boiler_ccs,2042.0,2042,2042,6,,yes
+INOVYN Chlorvinyls Newton Aycliffe,Teesside,hydrogen_boiler,2030.0,2030,2030,7,,yes
+Ibstock Brick Limited - Leicester,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,2038.0,earlier
+Ineos Acetyls Hull,Dispersed,biomass_boiler,,2030,2030,1,,yes
+Ineos Acetyls Hull,Dispersed,elec_boiler,,2044,2044,1,,yes
+Ineos Acetyls Hull,Dispersed,gas_boiler_ccs,2028.0,2028,2034,7,,yes
+Ineos Acetyls Hull,Dispersed,heat_pump,2038.0,2036,2038,7,,yes
+Ineos Acetyls Hull,Dispersed,hydrogen_boiler,2030.0,2028,2030,7,,yes
+Ipswich,Dispersed,elec_boiler,2044.0,2044,2044,7,,yes
+Ipswich,Dispersed,gas_boiler_ccs,2042.0,2042,2042,6,,yes
+Jacobs Bakery,Merseyside,biomass_boiler,2040.0,2040,2044,7,,yes
+Jacobs Bakery,Merseyside,elec_boiler,,2044,2046,3,,yes
+Jacobs Bakery,Merseyside,gas_boiler_ccs,,2042,2042,1,,yes
+Jacobs Bakery,Merseyside,heat_pump,,2040,2040,1,,yes
+Jacobs Bakery,Merseyside,hydrogen_boiler,,2038,2040,3,,yes
+Jaguar Land Rover Limited Solihull,Black Country,biomass_boiler,2028.0,2028,2028,6,,yes
+Jaguar Land Rover Limited Solihull,Black Country,elec_boiler,,2044,2044,2,,yes
+Jaguar Land Rover Limited Solihull,Black Country,gas_boiler_ccs,2030.0,2030,2030,6,,yes
+Jaguar Land Rover Limited Solihull,Black Country,heat_pump,2040.0,2036,2040,7,,yes
+Jaguar Land Rover Limited Solihull,Black Country,hydrogen_boiler,2032.0,2028,2032,7,,yes
+KETTON WORKS,Dispersed,cement_kiln_ccs,2028.0,2028,2044,7,2028.0,
+Kemsley Generating Station,Dispersed,elec_boiler,2044.0,2044,2044,7,,yes
+Kemsley Generating Station,Dispersed,gas_boiler_ccs,2042.0,2042,2042,7,,yes
+Knauf Drywall Sittingbourne,Dispersed,hydrogen_boiler,2030.0,2030,2032,7,2034.0,earlier
+Knauf Immingham,Unmapped,hydrogen_boiler,2030.0,2030,2030,7,,yes
+Knauf Insulation Queensferry,Merseyside,hydrogen_boiler,2030.0,2030,2030,7,,yes
 Kronospan Ltd,Dispersed,biomass_boiler,,2034,2034,1,,yes
-Kronospan Ltd,Dispersed,elec_boiler,2048.0,2048,2048,6,,yes
-Kronospan Ltd,Dispersed,gas_boiler_ccs,2036.0,2030,2036,6,,yes
-Kronospan Ltd,Dispersed,heat_pump,2040.0,2040,2040,7,,yes
+Kronospan Ltd,Dispersed,elec_boiler,,2044,2044,1,,yes
+Kronospan Ltd,Dispersed,gas_boiler_ccs,2028.0,2028,2036,7,,yes
+Kronospan Ltd,Dispersed,heat_pump,2038.0,2038,2040,7,,yes
 Kronospan Ltd,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,,yes
-Lhoist UK Limited,Dispersed,biomass_boiler,2036.0,2030,2036,7,,yes
-Lhoist UK Limited,Dispersed,elec_boiler,2048.0,2048,2048,4,,yes
-Lhoist UK Limited,Dispersed,gas_boiler_ccs,2028.0,2028,2044,7,,yes
-Lhoist UK Limited,Dispersed,heat_pump,2040.0,2040,2042,7,,yes
+Lancaster,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Lancaster,Dispersed,elec_boiler,,2046,2050,2,,yes
+Lancaster,Dispersed,heat_pump,2046.0,2046,2046,6,,yes
+Lancaster,Dispersed,hydrogen_boiler,,2044,2044,1,,yes
+Lancing,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Lancing,Dispersed,elec_boiler,2048.0,2044,2048,7,,yes
+Lancing,Dispersed,heat_pump,2046.0,2046,2046,6,,yes
+Leeds RERF,Dispersed,biomass_boiler,2040.0,2040,2042,6,,yes
+Leeds RERF,Dispersed,elec_boiler,,2044,2044,1,,yes
+Leeds RERF,Dispersed,gas_boiler_ccs,2044.0,2040,2044,6,,yes
+Leeds RERF,Dispersed,heat_pump,,2040,2044,2,,yes
+Leeds RERF,Dispersed,hydrogen_boiler,2038.0,2038,2040,6,,yes
+Leek,Dispersed,biomass_boiler,2040.0,2040,2042,6,,yes
+Leek,Dispersed,elec_boiler,2046.0,2044,2046,7,,yes
+Leek,Dispersed,gas_boiler_ccs,2044.0,2040,2044,6,,yes
+Leek,Dispersed,heat_pump,,2040,2040,1,,yes
+Leek,Dispersed,hydrogen_boiler,,2038,2040,2,,yes
+Lhoist UK Limited,Dispersed,elec_boiler,,2044,2044,1,,yes
+Lhoist UK Limited,Dispersed,gas_boiler_ccs,2028.0,2028,2032,7,,yes
+Lhoist UK Limited,Dispersed,heat_pump,2038.0,2036,2038,7,,yes
 Lhoist UK Limited,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,,yes
+Llanelli,South Wales,biomass_boiler,2040.0,2040,2042,6,,yes
+Llanelli,South Wales,elec_boiler,,2044,2044,1,,yes
+Llanelli,South Wales,gas_boiler_ccs,2044.0,2044,2044,5,,yes
+Llanelli,South Wales,heat_pump,2046.0,2046,2046,6,,yes
+Llanelli,South Wales,hydrogen_boiler,,2038,2040,3,,yes
+"Llanelli, Carmarthenshire",South Wales,eaf,2030.0,2030,2030,7,,yes
 Llanwern Steelworks,Dispersed,eaf,2028.0,2028,2028,7,2028.0,
-Lochaber Smelter,Dispersed,hydrogen_boiler,2032.0,2030,2034,7,,yes
+Lochaber Smelter,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,2034.0,earlier
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,Dispersed,biomass_boiler,2040.0,2040,2042,7,,yes
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,Dispersed,gas_boiler_ccs,,2046,2046,1,,yes
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,Dispersed,heat_pump,,2040,2040,1,,yes
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,Dispersed,hydrogen_boiler,2046.0,2038,2046,7,,yes
+Manchester,Dispersed,biomass_boiler,2042.0,2042,2042,4,,yes
+Manchester,Dispersed,gas_boiler_ccs,,2044,2046,2,,yes
+Manchester,Dispersed,heat_pump,2044.0,2044,2046,6,,yes
+Manchester,Dispersed,hydrogen_boiler,,2042,2044,3,,yes
 Measham,Dispersed,biomass_boiler,2028.0,2028,2028,4,,yes
-Measham,Dispersed,hydrogen_boiler,2036.0,2030,2036,7,,yes
-Melton Ross Limeworks,Humberside,biomass_boiler,2028.0,2028,2030,7,,yes
-Melton Ross Limeworks,Humberside,elec_boiler,,2048,2048,1,,yes
-Melton Ross Limeworks,Humberside,gas_boiler_ccs,2030.0,2030,2040,7,,yes
-Melton Ross Limeworks,Humberside,heat_pump,,2040,2040,1,,yes
-Melton Ross Limeworks,Humberside,hydrogen_boiler,2032.0,2030,2032,7,,yes
-Nissan Motor Manufacturing (UK) Ltd,Dispersed,biomass_boiler,2028.0,2028,2028,7,,yes
-Nissan Motor Manufacturing (UK) Ltd,Dispersed,hydrogen_boiler,2040.0,2040,2046,7,,yes
-Norbord Cowie,Grangemouth,biomass_boiler,2042.0,2042,2042,6,,yes
-Norbord Cowie,Grangemouth,elec_boiler,2048.0,2048,2048,7,,yes
-Norbord Cowie,Grangemouth,gas_boiler_ccs,2044.0,2044,2044,5,,yes
-Norbord Cowie,Grangemouth,heat_pump,2040.0,2040,2040,7,,yes
-Norbord Cowie,Grangemouth,hydrogen_boiler,,2040,2040,1,,yes
-Novelis Latchford,Merseyside,hydrogen_boiler,2032.0,2030,2042,7,2032.0,
-O-I Glass Limited,Unmapped,biomass_boiler,,2042,2042,1,,yes
-O-I Glass Limited,Unmapped,elec_boiler,2048.0,2048,2048,7,,yes
-O-I Glass Limited,Unmapped,heat_pump,2040.0,2040,2040,7,,yes
-O-I Glass Limited,Unmapped,hydrogen_boiler,2034.0,2034,2044,5,,yes
-Omega Proteins Limited,Dispersed,biomass_boiler,,2040,2040,1,,yes
-Omega Proteins Limited,Dispersed,elec_boiler,2048.0,2048,2048,7,,yes
-Omega Proteins Limited,Dispersed,gas_boiler_ccs,2040.0,2040,2040,6,,yes
-Omega Proteins Limited,Dispersed,heat_pump,2046.0,2046,2046,6,,yes
-Omega Proteins Limited,Dispersed,hydrogen_boiler,2042.0,2042,2042,6,,yes
-Padeswood Works,Merseyside,cement_kiln_ccs,2028.0,2028,2040,7,2028.0,
-Palm Paper Ltd PM7 Newsprint Mill,Unmapped,biomass_boiler,,2030,2034,5,,yes
-Palm Paper Ltd PM7 Newsprint Mill,Unmapped,elec_boiler,2048.0,2048,2048,5,,yes
-Palm Paper Ltd PM7 Newsprint Mill,Unmapped,gas_boiler_ccs,2036.0,2028,2038,7,,yes
-Palm Paper Ltd PM7 Newsprint Mill,Unmapped,heat_pump,2040.0,2040,2040,7,,yes
-Palm Paper Ltd PM7 Newsprint Mill,Unmapped,hydrogen_boiler,2032.0,2032,2032,7,,yes
-Partington Papermill,Dispersed,biomass_boiler,2036.0,2034,2036,7,,yes
-Partington Papermill,Dispersed,elec_boiler,,2048,2048,4,,yes
-Partington Papermill,Dispersed,gas_boiler_ccs,2028.0,2028,2040,7,,yes
-Partington Papermill,Dispersed,heat_pump,2046.0,2040,2046,7,,yes
-Partington Papermill,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,,yes
-Pilkington United Kingdom Limited - Greengate,Merseyside,biomass_boiler,,2034,2034,2,,yes
-Pilkington United Kingdom Limited - Greengate,Merseyside,elec_boiler,2048.0,2048,2048,7,,yes
-Pilkington United Kingdom Limited - Greengate,Merseyside,gas_boiler_ccs,2044.0,2030,2046,7,,yes
-Pilkington United Kingdom Limited - Greengate,Merseyside,heat_pump,2040.0,2040,2040,7,,yes
-Pilkington United Kingdom Limited - Greengate,Merseyside,hydrogen_boiler,2032.0,2030,2032,7,,yes
-Plasmor Limited,Dispersed,biomass_boiler,2028.0,2028,2028,7,,yes
-Plasmor Limited,Dispersed,hydrogen_boiler,2040.0,2030,2040,7,,yes
+Measham,Dispersed,hydrogen_boiler,2030.0,2030,2030,7,,yes
+Melton Ross Limeworks,Humberside,biomass_boiler,,2028,2028,1,,yes
+Melton Ross Limeworks,Humberside,elec_boiler,,2044,2044,1,,yes
+Melton Ross Limeworks,Humberside,gas_boiler_ccs,2032.0,2030,2032,6,2038.0,earlier
+Melton Ross Limeworks,Humberside,heat_pump,2038.0,2036,2038,7,,yes
+Melton Ross Limeworks,Humberside,hydrogen_boiler,2030.0,2028,2030,7,2040.0,earlier
+Mercia Envirecover Site,Black Country,biomass_boiler,2040.0,2040,2042,6,,yes
+Mercia Envirecover Site,Black Country,gas_boiler_ccs,2044.0,2044,2044,6,,yes
+Mercia Envirecover Site,Black Country,heat_pump,,2040,2040,1,,yes
+Mercia Envirecover Site,Black Country,hydrogen_boiler,2038.0,2038,2040,7,,yes
+Merevale AD Plant,Dispersed,biomass_boiler,2042.0,2040,2042,6,,yes
+Merevale AD Plant,Dispersed,elec_boiler,,2044,2044,1,,yes
+Merevale AD Plant,Dispersed,gas_boiler_ccs,,2046,2046,2,,yes
+Merevale AD Plant,Dispersed,heat_pump,,2040,2040,1,,yes
+Merevale AD Plant,Dispersed,hydrogen_boiler,2040.0,2038,2040,6,,yes
+Middlesbrough,Teesside,elec_boiler,,2044,2046,2,,yes
+Middlesbrough,Teesside,gas_boiler_ccs,,2044,2048,2,,yes
+Middlesbrough,Teesside,heat_pump,2042.0,2042,2042,6,,yes
+Mostyn,Merseyside,elec_boiler,2048.0,2046,2048,7,,yes
+Mostyn,Merseyside,gas_boiler_ccs,2044.0,2044,2048,7,,yes
+Mostyn,Merseyside,heat_pump,2046.0,2046,2046,6,,yes
+Mostyn,Merseyside,hydrogen_boiler,2042.0,2042,2042,7,,yes
+Nestle Purina Wisbech,Dispersed,elec_boiler,2046.0,2046,2046,7,,yes
+Nestle Purina Wisbech,Dispersed,gas_boiler_ccs,2044.0,2044,2044,6,,yes
+Nestle Purina Wisbech,Dispersed,heat_pump,,2044,2044,1,,yes
+Nestle Purina Wisbech,Dispersed,hydrogen_boiler,2042.0,2042,2042,6,,yes
+Newcastle Upon Tyne,Dispersed,elec_boiler,2044.0,2044,2046,7,,yes
+Newcastle Upon Tyne,Dispersed,heat_pump,2042.0,2040,2042,5,,yes
+Newcastle Upon Tyne,Dispersed,hydrogen_boiler,2040.0,2038,2040,7,,yes
+Newhaven EfW Plant,Dispersed,heat_pump,,2040,2044,2,,yes
+Newhaven EfW Plant,Dispersed,hydrogen_boiler,2038.0,2038,2040,7,,yes
+Nissan Motor Manufacturing (UK) Ltd,Dispersed,biomass_boiler,2028.0,2028,2028,4,,yes
+Nissan Motor Manufacturing (UK) Ltd,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,,yes
+Norbord Cowie,Grangemouth,biomass_boiler,2030.0,2030,2034,6,,yes
+Norbord Cowie,Grangemouth,elec_boiler,,2044,2044,2,,yes
+Norbord Cowie,Grangemouth,gas_boiler_ccs,2028.0,2028,2036,7,,yes
+Norbord Cowie,Grangemouth,heat_pump,2038.0,2038,2038,7,,yes
+Norbord Cowie,Grangemouth,hydrogen_boiler,2030.0,2028,2030,7,,yes
+North Tees Site,Teesside,biomass_boiler,2042.0,2042,2042,7,,yes
+North Tees Site,Teesside,gas_boiler_ccs,2044.0,2044,2044,6,,yes
+North Tees Site,Teesside,heat_pump,,2040,2040,1,,yes
+North Tees Site,Teesside,hydrogen_boiler,2038.0,2038,2040,7,,yes
+Northfleet Mill,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Northfleet Mill,Dispersed,elec_boiler,2044.0,2044,2046,6,,yes
+Northfleet Mill,Dispersed,gas_boiler_ccs,,2046,2046,1,,yes
+Northfleet Mill,Dispersed,hydrogen_boiler,,2042,2042,1,,yes
+Novelis Latchford,Merseyside,hydrogen_boiler,2032.0,2030,2032,7,2038.0,earlier
+O-I Glass Limited,Unmapped,biomass_boiler,2030.0,2028,2030,6,,yes
+O-I Glass Limited,Unmapped,elec_boiler,,2044,2044,2,,yes
+O-I Glass Limited,Unmapped,gas_boiler_ccs,2028.0,2028,2038,7,,yes
+O-I Glass Limited,Unmapped,heat_pump,2038.0,2036,2038,7,,yes
+O-I Glass Limited,Unmapped,hydrogen_boiler,2030.0,2030,2030,7,,yes
+Oakenholt Paper Mill,Merseyside,biomass_boiler,2040.0,2040,2044,6,,yes
+Oakenholt Paper Mill,Merseyside,elec_boiler,2046.0,2046,2046,7,,yes
+Oakenholt Paper Mill,Merseyside,heat_pump,,2042,2042,1,,yes
+Oakenholt Paper Mill,Merseyside,hydrogen_boiler,2042.0,2038,2042,7,,yes
+Omega Proteins Limited,Dispersed,elec_boiler,,2044,2044,2,,yes
+Omega Proteins Limited,Dispersed,gas_boiler_ccs,2028.0,2028,2028,6,,yes
+Omega Proteins Limited,Dispersed,heat_pump,2042.0,2036,2042,7,,yes
+Omega Proteins Limited,Dispersed,hydrogen_boiler,2030.0,2028,2030,7,,yes
+Overton Mill,Dispersed,biomass_boiler,2040.0,2040,2042,6,,yes
+Overton Mill,Dispersed,elec_boiler,,2044,2044,1,,yes
+Overton Mill,Dispersed,gas_boiler_ccs,,2040,2040,1,,yes
+Overton Mill,Dispersed,heat_pump,2044.0,2040,2044,5,,yes
+Overton Mill,Dispersed,hydrogen_boiler,2046.0,2038,2046,7,,yes
+Padeswood Works,Merseyside,cement_kiln_ccs,2028.0,2028,2034,7,2028.0,
+Palm Paper Ltd PM7 Newsprint Mill,Unmapped,elec_boiler,,2044,2044,1,,yes
+Palm Paper Ltd PM7 Newsprint Mill,Unmapped,gas_boiler_ccs,2028.0,2028,2028,6,,yes
+Palm Paper Ltd PM7 Newsprint Mill,Unmapped,heat_pump,2038.0,2034,2038,7,,yes
+Palm Paper Ltd PM7 Newsprint Mill,Unmapped,hydrogen_boiler,2032.0,2030,2032,7,,yes
+Partington Papermill,Dispersed,biomass_boiler,,2030,2030,1,,yes
+Partington Papermill,Dispersed,elec_boiler,,2044,2044,1,,yes
+Partington Papermill,Dispersed,gas_boiler_ccs,2028.0,2028,2034,7,,yes
+Partington Papermill,Dispersed,heat_pump,2038.0,2036,2038,7,,yes
+Partington Papermill,Dispersed,hydrogen_boiler,2032.0,2028,2032,7,,yes
+Pilkington United Kingdom Limited - Greengate,Merseyside,biomass_boiler,,2034,2034,1,,yes
+Pilkington United Kingdom Limited - Greengate,Merseyside,elec_boiler,,2044,2044,1,,yes
+Pilkington United Kingdom Limited - Greengate,Merseyside,gas_boiler_ccs,2028.0,2028,2036,7,,yes
+Pilkington United Kingdom Limited - Greengate,Merseyside,heat_pump,2038.0,2038,2038,7,,yes
+Pilkington United Kingdom Limited - Greengate,Merseyside,hydrogen_boiler,2034.0,2028,2034,7,,yes
+Plasmor Limited,Dispersed,biomass_boiler,2028.0,2028,2028,5,,yes
+Plasmor Limited,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,,yes
 Port Talbot Steelworks,South Wales,eaf,2028.0,2028,2028,7,2028.0,
-Port of Liverpool CHP,Dispersed,biomass_boiler,2038.0,2036,2038,7,,yes
-Port of Liverpool CHP,Dispersed,elec_boiler,,2048,2048,3,,yes
-Port of Liverpool CHP,Dispersed,gas_boiler_ccs,2040.0,2030,2040,7,,yes
-Port of Liverpool CHP,Dispersed,heat_pump,2042.0,2042,2042,7,,yes
-Port of Liverpool CHP,Dispersed,hydrogen_boiler,2032.0,2028,2032,7,,yes
-Ribblesdale Works,Dispersed,cement_kiln_ccs,2028.0,2028,2040,7,2028.0,
-Robertsbridge Gypsum Works,Unmapped,biomass_boiler,2028.0,2028,2028,2,,yes
-Robertsbridge Gypsum Works,Unmapped,hydrogen_boiler,2032.0,2030,2032,7,,yes
-Rockwool Bridgend,South Wales,biomass_boiler,2034.0,2034,2034,4,,yes
-Rockwool Bridgend,South Wales,elec_boiler,2048.0,2048,2048,7,,yes
-Rockwool Bridgend,South Wales,gas_boiler_ccs,2032.0,2030,2044,7,,yes
-Rockwool Bridgend,South Wales,heat_pump,2040.0,2040,2046,7,,yes
-Rockwool Bridgend,South Wales,hydrogen_boiler,2044.0,2032,2044,6,,yes
-Rolls-Royce - Sinfin,Dispersed,elec_boiler,2048.0,2048,2048,7,,yes
-Rolls-Royce - Sinfin,Dispersed,gas_boiler_ccs,,2030,2044,2,,yes
-Rolls-Royce - Sinfin,Dispersed,heat_pump,2040.0,2040,2040,6,,yes
-Rolls-Royce - Sinfin,Dispersed,hydrogen_boiler,2032.0,2032,2044,7,,yes
-Rugby Works,Dispersed,cement_kiln_ccs,2028.0,2028,2034,7,2028.0,
-Saint-Gobain Glass (United Kingdom) Limited,Dispersed,biomass_boiler,2044.0,2044,2044,6,,yes
-Saint-Gobain Glass (United Kingdom) Limited,Dispersed,elec_boiler,2048.0,2048,2048,6,,yes
-Saint-Gobain Glass (United Kingdom) Limited,Dispersed,gas_boiler_ccs,2032.0,2030,2034,6,,yes
-Saint-Gobain Glass (United Kingdom) Limited,Dispersed,heat_pump,2042.0,2040,2042,7,,yes
-Saint-Gobain Glass (United Kingdom) Limited,Dispersed,hydrogen_boiler,2036.0,2032,2040,7,,yes
+Port of Liverpool CHP,Dispersed,biomass_boiler,,2028,2028,1,,yes
+Port of Liverpool CHP,Dispersed,elec_boiler,,2044,2044,1,,yes
+Port of Liverpool CHP,Dispersed,gas_boiler_ccs,2028.0,2028,2034,7,,yes
+Port of Liverpool CHP,Dispersed,heat_pump,2040.0,2036,2040,7,,yes
+Port of Liverpool CHP,Dispersed,hydrogen_boiler,2030.0,2028,2030,7,,yes
+Portsmouth,Southampton,gas_boiler_ccs,2044.0,2044,2044,6,,yes
+Portsmouth,Southampton,heat_pump,,2044,2044,1,,yes
+Portsmouth,Southampton,hydrogen_boiler,2038.0,2038,2040,7,,yes
+Queenborough,Dispersed,biomass_boiler,2042.0,2042,2044,7,,yes
+Queenborough,Dispersed,elec_boiler,,2050,2050,2,,yes
+Queenborough,Dispersed,gas_boiler_ccs,,2048,2048,1,,yes
+Queenborough,Dispersed,heat_pump,2046.0,2046,2046,6,,yes
+Queenborough,Dispersed,hydrogen_boiler,2044.0,2044,2046,7,,yes
+Rawcliffe Bridge,Humberside,biomass_boiler,2040.0,2040,2042,6,,yes
+Rawcliffe Bridge,Humberside,elec_boiler,2046.0,2046,2046,6,,yes
+Rawcliffe Bridge,Humberside,gas_boiler_ccs,,2046,2046,1,,yes
+Rawcliffe Bridge,Humberside,hydrogen_boiler,2044.0,2038,2044,7,,yes
+Redhill,Dispersed,biomass_boiler,2042.0,2042,2046,7,,yes
+Redhill,Dispersed,elec_boiler,2046.0,2046,2046,6,,yes
+Redhill,Dispersed,heat_pump,2048.0,2048,2048,2,,yes
+Redhill,Dispersed,hydrogen_boiler,,2044,2048,4,,yes
+Ribblesdale Works,Dispersed,cement_kiln_ccs,2028.0,2028,2032,7,2028.0,
+Robertsbridge Gypsum Works,Unmapped,hydrogen_boiler,2030.0,2030,2030,7,,yes
+Rockwool Bridgend,South Wales,biomass_boiler,2030.0,2028,2030,6,,yes
+Rockwool Bridgend,South Wales,elec_boiler,,2044,2044,1,,yes
+Rockwool Bridgend,South Wales,gas_boiler_ccs,2028.0,2028,2032,7,,yes
+Rockwool Bridgend,South Wales,heat_pump,,2034,2042,2,,yes
+Rockwool Bridgend,South Wales,hydrogen_boiler,2030.0,2030,2030,7,,yes
+Rolls-Royce - Sinfin,Dispersed,biomass_boiler,,2028,2028,1,,yes
+Rolls-Royce - Sinfin,Dispersed,elec_boiler,,2044,2044,1,,yes
+Rolls-Royce - Sinfin,Dispersed,gas_boiler_ccs,2036.0,2036,2036,6,,yes
+Rolls-Royce - Sinfin,Dispersed,heat_pump,2040.0,2034,2042,7,,yes
+Rolls-Royce - Sinfin,Dispersed,hydrogen_boiler,2032.0,2028,2032,7,,yes
+Rugby Works,Dispersed,cement_kiln_ccs,2028.0,2028,2036,7,2028.0,
+Runcorn,Merseyside,biomass_boiler,,2046,2046,1,,yes
+Runcorn,Merseyside,elec_boiler,2046.0,2046,2046,6,,yes
+Runcorn,Merseyside,heat_pump,2042.0,2042,2044,6,,yes
+Runcorn,Merseyside,hydrogen_boiler,2044.0,2042,2044,7,,yes
+SELCHP,Dispersed,elec_boiler,2044.0,2044,2044,7,,yes
+SELCHP,Dispersed,gas_boiler_ccs,2042.0,2042,2042,6,,yes
+Saddlebow Paper Mill,Dispersed,elec_boiler,2044.0,2044,2044,7,,yes
+Saddlebow Paper Mill,Dispersed,gas_boiler_ccs,2042.0,2042,2042,7,,yes
+Saint-Gobain Glass (United Kingdom) Limited,Dispersed,elec_boiler,,2044,2044,1,,yes
+Saint-Gobain Glass (United Kingdom) Limited,Dispersed,gas_boiler_ccs,2028.0,2028,2028,6,,yes
+Saint-Gobain Glass (United Kingdom) Limited,Dispersed,heat_pump,2038.0,2034,2038,7,,yes
+Saint-Gobain Glass (United Kingdom) Limited,Dispersed,hydrogen_boiler,2032.0,2028,2032,7,,yes
 Scunthorpe Integrated Iron & Steel Works,Humberside,eaf,2028.0,2028,2028,7,2028.0,
-Selby Wheat Processing Facility,Dispersed,biomass_boiler,2036.0,2036,2044,4,,yes
-Selby Wheat Processing Facility,Dispersed,elec_boiler,2048.0,2048,2048,7,,yes
-Selby Wheat Processing Facility,Dispersed,gas_boiler_ccs,2034.0,2030,2034,6,,yes
-Selby Wheat Processing Facility,Dispersed,heat_pump,2042.0,2040,2042,7,,yes
-Selby Wheat Processing Facility,Dispersed,hydrogen_boiler,2032.0,2032,2032,7,,yes
-Sellafield Site,Unmapped,biomass_boiler,,2032,2038,4,,yes
-Sellafield Site,Unmapped,elec_boiler,2048.0,2048,2048,7,,yes
-Sellafield Site,Unmapped,gas_boiler_ccs,,2030,2030,3,,yes
-Sellafield Site,Unmapped,heat_pump,2040.0,2040,2046,7,,yes
-Sellafield Site,Unmapped,hydrogen_boiler,2032.0,2030,2042,7,,yes
-Shell UK Limited Fife NGL Plant,Unmapped,biomass_boiler,2036.0,2034,2042,7,,yes
-Shell UK Limited Fife NGL Plant,Unmapped,elec_boiler,2048.0,2048,2048,7,,yes
-Shell UK Limited Fife NGL Plant,Unmapped,gas_boiler_ccs,2034.0,2030,2044,7,,yes
-Shell UK Limited Fife NGL Plant,Unmapped,heat_pump,2040.0,2040,2040,7,,yes
-Shell UK Limited Fife NGL Plant,Unmapped,hydrogen_boiler,2032.0,2030,2038,6,,yes
-Sherburn Gypsum Works,Dispersed,biomass_boiler,2028.0,2028,2028,5,,yes
+Seal Sands High Temparature Incinerator,Teesside,biomass_boiler,2042.0,2042,2042,6,,yes
+Seal Sands High Temparature Incinerator,Teesside,elec_boiler,,2044,2044,1,,yes
+Seal Sands High Temparature Incinerator,Teesside,heat_pump,2046.0,2046,2046,6,,yes
+Selby Wheat Processing Facility,Dispersed,biomass_boiler,,2028,2028,1,,yes
+Selby Wheat Processing Facility,Dispersed,elec_boiler,,2044,2044,1,,yes
+Selby Wheat Processing Facility,Dispersed,gas_boiler_ccs,2030.0,2030,2038,7,,yes
+Selby Wheat Processing Facility,Dispersed,heat_pump,2040.0,2036,2040,7,,yes
+Selby Wheat Processing Facility,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,,yes
+Sellafield Site,Unmapped,biomass_boiler,,2028,2028,1,,yes
+Sellafield Site,Unmapped,elec_boiler,,2044,2044,1,,yes
+Sellafield Site,Unmapped,gas_boiler_ccs,2032.0,2032,2036,7,,yes
+Sellafield Site,Unmapped,heat_pump,2038.0,2034,2038,7,,yes
+Sellafield Site,Unmapped,hydrogen_boiler,2030.0,2030,2030,7,,yes
+Severnside Energy Recovery Centre,Dispersed,elec_boiler,2044.0,2044,2044,7,,yes
+Severnside Energy Recovery Centre,Dispersed,gas_boiler_ccs,2042.0,2042,2042,6,,yes
+Shap,Dispersed,biomass_boiler,2042.0,2042,2044,7,,yes
+Shap,Dispersed,elec_boiler,2046.0,2046,2046,6,,yes
+Shap,Dispersed,gas_boiler_ccs,,2048,2048,1,,yes
+Sheffield,Dispersed,biomass_boiler,,2044,2044,2,,yes
+Sheffield,Dispersed,elec_boiler,2044.0,2044,2044,5,,yes
+Sheffield,Dispersed,gas_boiler_ccs,,2040,2040,1,,yes
+Sheffield,Dispersed,hydrogen_boiler,2038.0,2038,2042,7,,yes
+Shell UK Limited Fife NGL Plant,Unmapped,biomass_boiler,,2028,2028,1,,yes
+Shell UK Limited Fife NGL Plant,Unmapped,elec_boiler,,2044,2044,1,,yes
+Shell UK Limited Fife NGL Plant,Unmapped,gas_boiler_ccs,2032.0,2028,2032,6,,yes
+Shell UK Limited Fife NGL Plant,Unmapped,heat_pump,,2036,2036,2,,yes
+Shell UK Limited Fife NGL Plant,Unmapped,hydrogen_boiler,2032.0,2028,2032,7,,yes
+Sherburn Gypsum Works,Dispersed,biomass_boiler,2028.0,2028,2028,4,,yes
 Sherburn Gypsum Works,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,,yes
-Smurfit Westrock SSK,Unmapped,elec_boiler,2048.0,2048,2048,6,,yes
-Smurfit Westrock SSK,Unmapped,gas_boiler_ccs,2034.0,2034,2034,3,,yes
-Smurfit Westrock SSK,Unmapped,heat_pump,2042.0,2040,2042,7,,yes
-Smurfit Westrock SSK,Unmapped,hydrogen_boiler,2040.0,2040,2044,7,,yes
-Smurfit Westrock Townsend Hook,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
-Smurfit Westrock Townsend Hook,Dispersed,elec_boiler,2048.0,2048,2048,7,,yes
-Smurfit Westrock Townsend Hook,Dispersed,gas_boiler_ccs,2040.0,2030,2040,6,,yes
-Smurfit Westrock Townsend Hook,Dispersed,heat_pump,2046.0,2040,2046,7,,yes
-Smurfit Westrock Townsend Hook,Dispersed,hydrogen_boiler,2032.0,2032,2034,6,,yes
-Solutia UK Limited - Newport,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,,yes
-Stanlow Manufacturing Complex,Merseyside,elec_boiler,2040.0,2038,2040,7,,yes
-Stanlow Manufacturing Complex,Merseyside,heat_pump,2032.0,2030,2032,7,,yes
-Syngenta Limited,Dispersed,biomass_boiler,2044.0,2044,2044,4,,yes
-Syngenta Limited,Dispersed,elec_boiler,2048.0,2048,2048,6,,yes
-Syngenta Limited,Dispersed,gas_boiler_ccs,,2040,2044,2,,yes
-Syngenta Limited,Dispersed,heat_pump,2040.0,2040,2042,7,,yes
+Slough Chocolate Factory,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Slough Chocolate Factory,Dispersed,elec_boiler,2046.0,2044,2046,7,,yes
+Slough Chocolate Factory,Dispersed,gas_boiler_ccs,2044.0,2044,2044,6,,yes
+Slough Chocolate Factory,Dispersed,hydrogen_boiler,,2046,2046,1,,yes
+Smurfit Westrock SSK,Unmapped,biomass_boiler,2030.0,2030,2030,6,,yes
+Smurfit Westrock SSK,Unmapped,elec_boiler,,2044,2044,2,,yes
+Smurfit Westrock SSK,Unmapped,gas_boiler_ccs,2028.0,2028,2034,7,,yes
+Smurfit Westrock SSK,Unmapped,heat_pump,2038.0,2036,2038,7,,yes
+Smurfit Westrock SSK,Unmapped,hydrogen_boiler,2030.0,2028,2032,7,,yes
+Smurfit Westrock Townsend Hook,Dispersed,biomass_boiler,,2028,2028,2,,yes
+Smurfit Westrock Townsend Hook,Dispersed,elec_boiler,,2044,2044,1,,yes
+Smurfit Westrock Townsend Hook,Dispersed,gas_boiler_ccs,2030.0,2030,2034,7,,yes
+Smurfit Westrock Townsend Hook,Dispersed,heat_pump,2038.0,2036,2042,7,,yes
+Smurfit Westrock Townsend Hook,Dispersed,hydrogen_boiler,2034.0,2028,2034,7,,yes
+Solutia UK Limited - Newport,Dispersed,hydrogen_boiler,2030.0,2030,2032,7,,yes
+South Holmwood Brickworks,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+South Holmwood Brickworks,Dispersed,elec_boiler,2046.0,2044,2046,7,,yes
+South Holmwood Brickworks,Dispersed,gas_boiler_ccs,,2048,2048,1,,yes
+South Wirral,Merseyside,elec_boiler,2044.0,2044,2044,7,,yes
+South Wirral,Merseyside,gas_boiler_ccs,2042.0,2042,2042,7,,yes
+Southampton,Southampton,biomass_boiler,,2042,2042,1,,yes
+Southampton,Southampton,heat_pump,,2040,2040,1,,yes
+Southampton,Southampton,hydrogen_boiler,2038.0,2038,2040,7,,yes
+Stanlow Manufacturing Complex,Merseyside,elec_boiler,2038.0,2038,2038,7,,yes
+Stanlow Manufacturing Complex,Merseyside,heat_pump,2028.0,2028,2028,7,,yes
+Stoke-On-Trent,Dispersed,elec_boiler,2044.0,2044,2044,6,,yes
+Stoke-On-Trent,Dispersed,heat_pump,,2040,2040,1,,yes
+Stoke-On-Trent,Dispersed,hydrogen_boiler,2038.0,2038,2040,7,,yes
+Stoneywood Mill,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Stoneywood Mill,Dispersed,elec_boiler,2046.0,2046,2046,6,,yes
+Stoneywood Mill,Dispersed,hydrogen_boiler,2040.0,2038,2040,7,,yes
+Stourton,Dispersed,biomass_boiler,,2042,2042,1,,yes
+Stourton,Dispersed,elec_boiler,,2044,2044,1,,yes
+Stourton,Dispersed,heat_pump,2042.0,2040,2042,6,,yes
+Stourton,Dispersed,hydrogen_boiler,2038.0,2038,2040,7,,yes
+Stranglands Lane West Yorkshire,Dispersed,elec_boiler,2044.0,2044,2044,7,,yes
+Stranglands Lane West Yorkshire,Dispersed,gas_boiler_ccs,2042.0,2042,2042,7,,yes
+Stubbins Mill,Dispersed,biomass_boiler,,2044,2044,1,,yes
+Stubbins Mill,Dispersed,elec_boiler,2044.0,2044,2046,7,,yes
+Stubbins Mill,Dispersed,gas_boiler_ccs,,2044,2048,2,,yes
+Stubbins Mill,Dispersed,heat_pump,,2042,2042,1,,yes
+Stubbins Mill,Dispersed,hydrogen_boiler,2042.0,2042,2042,6,,yes
+Syngenta Limited,Dispersed,biomass_boiler,2028.0,2028,2034,6,,yes
+Syngenta Limited,Dispersed,elec_boiler,,2044,2044,2,,yes
+Syngenta Limited,Dispersed,gas_boiler_ccs,2030.0,2030,2038,7,,yes
+Syngenta Limited,Dispersed,heat_pump,2038.0,2036,2038,7,,yes
+Syngenta Limited,Dispersed,hydrogen_boiler,2032.0,2028,2032,7,,yes
 Tata Steel Colors,Unmapped,eaf,2028.0,2028,2028,7,2028.0,
 Tata Steel Packaging Plus UK,Unmapped,eaf,2028.0,2028,2028,7,2028.0,
-Tate and Lyle Sugars,Dispersed,biomass_boiler,2032.0,2032,2034,6,,yes
-Tate and Lyle Sugars,Dispersed,elec_boiler,2048.0,2048,2048,7,,yes
-Tate and Lyle Sugars,Dispersed,gas_boiler_ccs,2040.0,2030,2040,6,,yes
-Tate and Lyle Sugars,Dispersed,heat_pump,2042.0,2040,2042,7,,yes
-Tate and Lyle Sugars,Dispersed,hydrogen_boiler,2036.0,2036,2046,6,,yes
+Tate and Lyle Sugars,Dispersed,biomass_boiler,,2028,2028,1,,yes
+Tate and Lyle Sugars,Dispersed,elec_boiler,,2044,2044,1,,yes
+Tate and Lyle Sugars,Dispersed,gas_boiler_ccs,2030.0,2030,2038,7,,yes
+Tate and Lyle Sugars,Dispersed,heat_pump,2038.0,2036,2038,7,,yes
+Tate and Lyle Sugars,Dispersed,hydrogen_boiler,2030.0,2028,2030,7,,yes
 Teesside Beam Mill,Teesside,eaf,2028.0,2028,2028,7,2028.0,
-Teesside Hydrogen Plant,Teesside,biomass_boiler,,2034,2034,1,,yes
-Teesside Hydrogen Plant,Teesside,elec_boiler,2048.0,2048,2048,6,,yes
-Teesside Hydrogen Plant,Teesside,gas_boiler_ccs,,2028,2042,6,,yes
-Teesside Hydrogen Plant,Teesside,heat_pump,2040.0,2038,2040,7,,yes
-Teesside Hydrogen Plant,Teesside,hydrogen_boiler,2032.0,2032,2032,7,,yes
-The Girvan Distillery,Unmapped,biomass_boiler,2034.0,2034,2034,3,,yes
-The Girvan Distillery,Unmapped,elec_boiler,2048.0,2048,2048,6,,yes
-The Girvan Distillery,Unmapped,gas_boiler_ccs,,2030,2030,1,,yes
-The Girvan Distillery,Unmapped,heat_pump,2040.0,2040,2040,7,,yes
-The Girvan Distillery,Unmapped,hydrogen_boiler,2044.0,2042,2044,6,,yes
-The Lycra Company UK Limited,Unmapped,hydrogen_boiler,2032.0,2030,2032,7,2032.0,
-Tronox Pigment - CHP Plant,Dispersed,biomass_boiler,2036.0,2030,2036,6,,yes
-Tronox Pigment - CHP Plant,Dispersed,elec_boiler,2048.0,2048,2048,7,,yes
-Tronox Pigment - CHP Plant,Dispersed,gas_boiler_ccs,2032.0,2030,2032,6,,yes
-Tronox Pigment - CHP Plant,Dispersed,heat_pump,2046.0,2040,2046,7,,yes
-Tronox Pigment - CHP Plant,Dispersed,hydrogen_boiler,,2032,2032,1,,yes
-Tunstead Cement,Dispersed,cement_kiln_ccs,2028.0,2028,2050,7,2028.0,
-Tunstead Lime,Unmapped,biomass_boiler,2028.0,2028,2028,7,,yes
-Tunstead Lime,Unmapped,gas_boiler_ccs,2046.0,2028,2046,7,,yes
-Tunstead Lime,Unmapped,heat_pump,2040.0,2038,2040,7,,yes
-Tunstead Lime,Unmapped,hydrogen_boiler,2034.0,2028,2034,7,,yes
-"Valero, Pembroke",South Wales,elec_boiler,2038.0,2038,2038,7,,yes
-"Valero, Pembroke",South Wales,heat_pump,2030.0,2028,2030,7,2038.0,earlier
-"Valero, Pembroke",South Wales,hydrogen_boiler,,2032,2032,1,2032.0,
-Venator Materials UK Limited,Unmapped,biomass_boiler,2032.0,2032,2040,6,,yes
-Venator Materials UK Limited,Unmapped,elec_boiler,2048.0,2048,2048,6,,yes
-Venator Materials UK Limited,Unmapped,gas_boiler_ccs,,2030,2042,3,,yes
-Venator Materials UK Limited,Unmapped,heat_pump,2040.0,2040,2048,7,,yes
-Venator Materials UK Limited,Unmapped,hydrogen_boiler,,2032,2032,1,,yes
-Whittlesey,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,2032.0,
-Whitwell Works Lime Kiln Plant,Dispersed,biomass_boiler,2032.0,2028,2036,7,,yes
-Whitwell Works Lime Kiln Plant,Dispersed,elec_boiler,,2048,2048,3,,yes
-Whitwell Works Lime Kiln Plant,Dispersed,gas_boiler_ccs,2028.0,2028,2042,7,,yes
-Whitwell Works Lime Kiln Plant,Dispersed,heat_pump,2040.0,2038,2040,7,,yes
-Whitwell Works Lime Kiln Plant,Dispersed,hydrogen_boiler,2034.0,2030,2034,4,,yes
-Wigton Boiler Plant,Unmapped,elec_boiler,2048.0,2048,2048,7,,yes
-Wigton Boiler Plant,Unmapped,gas_boiler_ccs,2042.0,2030,2042,6,,yes
-Wigton Boiler Plant,Unmapped,heat_pump,2040.0,2040,2040,6,,yes
-Wigton Boiler Plant,Unmapped,hydrogen_boiler,2032.0,2032,2046,7,,yes
-Winnington Sodium Carbonate Manufacturing Site,Merseyside,biomass_boiler,,2040,2040,1,,yes
-Winnington Sodium Carbonate Manufacturing Site,Merseyside,elec_boiler,2048.0,2048,2048,7,,yes
-Winnington Sodium Carbonate Manufacturing Site,Merseyside,heat_pump,2042.0,2042,2042,7,,yes
-Winnington Sodium Carbonate Manufacturing Site,Merseyside,hydrogen_boiler,2040.0,2040,2040,6,,yes
-Wissington Sugar Factory,Dispersed,biomass_boiler,2028.0,2028,2030,7,,yes
-Wissington Sugar Factory,Dispersed,gas_boiler_ccs,2028.0,2028,2036,7,,yes
-Wissington Sugar Factory,Dispersed,heat_pump,2042.0,2042,2042,7,,yes
-Wissington Sugar Factory,Dispersed,hydrogen_boiler,2032.0,2030,2040,7,,yes
-dispersed_heat,Dispersed,elec_boiler,2050.0,2048,2050,7,,yes
-dispersed_heat,Dispersed,gas_boiler_ccs,,2048,2048,1,,yes
-dispersed_heat,Dispersed,heat_pump,2048.0,2048,2050,7,,yes
-dispersed_heat,Dispersed,hydrogen_boiler,2050.0,2048,2050,7,,yes
-dispersed_steel,Dispersed,eaf,2028.0,2028,2028,7,,yes
+Teesside Hydrogen Plant,Teesside,elec_boiler,,2044,2044,1,,yes
+Teesside Hydrogen Plant,Teesside,gas_boiler_ccs,2028.0,2028,2036,7,,yes
+Teesside Hydrogen Plant,Teesside,heat_pump,2038.0,2036,2040,7,,yes
+Teesside Hydrogen Plant,Teesside,hydrogen_boiler,2032.0,2028,2032,7,,yes
+The Girvan Distillery,Unmapped,biomass_boiler,2030.0,2028,2030,6,,yes
+The Girvan Distillery,Unmapped,elec_boiler,,2044,2044,2,,yes
+The Girvan Distillery,Unmapped,gas_boiler_ccs,2028.0,2028,2036,7,,yes
+The Girvan Distillery,Unmapped,heat_pump,2038.0,2038,2038,7,,yes
+The Girvan Distillery,Unmapped,hydrogen_boiler,2032.0,2028,2032,7,,yes
+The Lycra Company UK Limited,Unmapped,hydrogen_boiler,2032.0,2030,2032,7,2034.0,earlier
+Tronox Pigment - CHP Plant,Dispersed,biomass_boiler,,2028,2028,1,,yes
+Tronox Pigment - CHP Plant,Dispersed,elec_boiler,,2044,2044,1,,yes
+Tronox Pigment - CHP Plant,Dispersed,gas_boiler_ccs,2030.0,2030,2030,6,,yes
+Tronox Pigment - CHP Plant,Dispersed,heat_pump,,2034,2036,2,,yes
+Tronox Pigment - CHP Plant,Dispersed,hydrogen_boiler,2032.0,2028,2032,7,,yes
+Tunstead Cement,Dispersed,cement_kiln_ccs,2028.0,2028,2040,7,2028.0,
+Tunstead Lime,Unmapped,biomass_boiler,,2028,2028,1,2040.0,
+Tunstead Lime,Unmapped,gas_boiler_ccs,2032.0,2032,2036,7,2036.0,earlier
+Tunstead Lime,Unmapped,heat_pump,2038.0,2036,2038,7,,yes
+Tunstead Lime,Unmapped,hydrogen_boiler,2032.0,2028,2032,7,2042.0,earlier
+Tyseley,Black Country,elec_boiler,2044.0,2044,2044,7,,yes
+Tyseley,Black Country,gas_boiler_ccs,2042.0,2042,2042,6,,yes
+"Valero, Pembroke",South Wales,elec_boiler,2038.0,2036,2038,7,,yes
+"Valero, Pembroke",South Wales,heat_pump,2028.0,2028,2028,7,,yes
+Venator Materials UK Limited,Unmapped,biomass_boiler,2028.0,2028,2028,6,,yes
+Venator Materials UK Limited,Unmapped,elec_boiler,,2044,2044,1,,yes
+Venator Materials UK Limited,Unmapped,gas_boiler_ccs,2030.0,2030,2036,7,,yes
+Venator Materials UK Limited,Unmapped,heat_pump,,2038,2042,2,,yes
+Venator Materials UK Limited,Unmapped,hydrogen_boiler,2032.0,2028,2032,7,,yes
+Wakefield,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+Wakefield,Dispersed,elec_boiler,2046.0,2044,2046,7,,yes
+Wakefield,Dispersed,heat_pump,2050.0,2050,2050,5,,yes
+Whittlesey,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,2034.0,earlier
+Whitwell Works Lime Kiln Plant,Dispersed,biomass_boiler,,2028,2028,1,,yes
+Whitwell Works Lime Kiln Plant,Dispersed,elec_boiler,,2044,2044,1,,yes
+Whitwell Works Lime Kiln Plant,Dispersed,gas_boiler_ccs,2032.0,2030,2034,6,,yes
+Whitwell Works Lime Kiln Plant,Dispersed,heat_pump,,2036,2036,2,,yes
+Whitwell Works Lime Kiln Plant,Dispersed,hydrogen_boiler,2032.0,2030,2032,7,2040.0,earlier
+Widnes,Merseyside,biomass_boiler,2040.0,2040,2042,7,,yes
+Widnes,Merseyside,elec_boiler,2046.0,2044,2046,7,,yes
+Widnes,Merseyside,gas_boiler_ccs,,2040,2040,1,,yes
+Widnes,Merseyside,heat_pump,,2040,2044,2,,yes
+Widnes,Merseyside,hydrogen_boiler,,2038,2040,2,,yes
+Wigton Boiler Plant,Unmapped,biomass_boiler,2028.0,2028,2028,6,,yes
+Wigton Boiler Plant,Unmapped,elec_boiler,,2044,2044,2,,yes
+Wigton Boiler Plant,Unmapped,gas_boiler_ccs,2034.0,2034,2034,7,,yes
+Wigton Boiler Plant,Unmapped,heat_pump,2038.0,2038,2038,7,,yes
+Wigton Boiler Plant,Unmapped,hydrogen_boiler,2032.0,2030,2032,7,,yes
+Wilton 11 EfW Plant,Teesside,elec_boiler,2044.0,2044,2044,7,,yes
+Wilton 11 EfW Plant,Teesside,gas_boiler_ccs,2042.0,2042,2042,6,,yes
+Wilton Package boilers,Teesside,biomass_boiler,2042.0,2042,2042,6,,yes
+Wilton Package boilers,Teesside,elec_boiler,2046.0,2046,2046,6,,yes
+Wilton Package boilers,Teesside,gas_boiler_ccs,,2046,2046,1,,yes
+Wilton Package boilers,Teesside,hydrogen_boiler,,2044,2044,1,,yes
+Wilton Teraphalic Acid/Melinar Plant,Teesside,biomass_boiler,2042.0,2042,2042,6,,yes
+Wilton Teraphalic Acid/Melinar Plant,Teesside,elec_boiler,2044.0,2044,2046,7,,yes
+Wilton Teraphalic Acid/Melinar Plant,Teesside,gas_boiler_ccs,,2048,2048,1,,yes
+Wilton Teraphalic Acid/Melinar Plant,Teesside,heat_pump,2050.0,2042,2050,6,,yes
+Winnington Sodium Carbonate Manufacturing Site,Merseyside,biomass_boiler,2036.0,2028,2036,4,,yes
+Winnington Sodium Carbonate Manufacturing Site,Merseyside,elec_boiler,,2044,2044,2,,yes
+Winnington Sodium Carbonate Manufacturing Site,Merseyside,gas_boiler_ccs,2028.0,2028,2028,6,,yes
+Winnington Sodium Carbonate Manufacturing Site,Merseyside,heat_pump,2038.0,2034,2040,7,,yes
+Winnington Sodium Carbonate Manufacturing Site,Merseyside,hydrogen_boiler,2034.0,2030,2034,7,,yes
+Wissington Sugar Factory,Dispersed,biomass_boiler,,2032,2032,1,,yes
+Wissington Sugar Factory,Dispersed,elec_boiler,,2044,2044,1,,yes
+Wissington Sugar Factory,Dispersed,gas_boiler_ccs,2028.0,2028,2032,7,2038.0,earlier
+Wissington Sugar Factory,Dispersed,heat_pump,,2034,2036,2,,yes
+Wissington Sugar Factory,Dispersed,hydrogen_boiler,2032.0,2028,2032,7,2042.0,earlier
+Wolverhampton,Black Country,biomass_boiler,,2042,2042,1,,yes
+Wolverhampton,Black Country,elec_boiler,2046.0,2046,2046,6,,yes
+Wolverhampton,Black Country,heat_pump,,2050,2050,1,,yes
+Wolverhampton,Black Country,hydrogen_boiler,2042.0,2042,2044,7,,yes
+Worsley,Dispersed,biomass_boiler,2040.0,2040,2042,6,,yes
+Worsley,Dispersed,gas_boiler_ccs,,2040,2040,1,,yes
+Worsley,Dispersed,heat_pump,,2040,2042,2,,yes
+Worsley,Dispersed,hydrogen_boiler,2038.0,2038,2040,6,,yes
+diffuse_industry,Dispersed,biomass_boiler,2040.0,2040,2042,7,,yes
+diffuse_industry,Dispersed,elec_boiler,2046.0,2044,2046,7,,yes
+diffuse_industry,Dispersed,gas_boiler_ccs,2042.0,2042,2042,7,,yes
+diffuse_industry,Dispersed,heat_pump,2042.0,2040,2042,7,,yes
+diffuse_industry,Dispersed,hydrogen_boiler,2040.0,2038,2040,7,,yes
+ets_tail_heat,Dispersed,hydrogen_boiler,2030.0,2030,2030,7,2034.0,earlier
+ets_tail_steel,Dispersed,eaf,2028.0,2028,2028,7,2028.0,
+nontraded_tail_cement,Dispersed,cement_kiln_ccs,2036.0,2030,2044,7,,yes
+nontraded_tail_heat,Dispersed,biomass_boiler,2042.0,2042,2042,6,,yes
+nontraded_tail_heat,Dispersed,elec_boiler,,2050,2050,1,,yes
+nontraded_tail_heat,Dispersed,gas_boiler_ccs,2044.0,2040,2044,6,,yes
+nontraded_tail_heat,Dispersed,heat_pump,2048.0,2040,2048,7,,yes
+nontraded_tail_heat,Dispersed,hydrogen_boiler,2046.0,2038,2048,7,,yes
+nontraded_tail_steel,Dispersed,eaf,2034.0,2032,2034,7,,yes

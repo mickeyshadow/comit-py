@@ -119,7 +119,7 @@ Cauldon Cement,cement_kiln,2035,0.532
 Cauldon Cement,cement_kiln,2036,0.532
 Cauldon Cement,cement_kiln_ccs,2028,0.0372
 Cauldon Cement,cement_kiln_ccs,2029,0.0917
-Cauldon Cement,cement_kiln_ccs,2030,0.1329
+Cauldon Cement,cement_kiln_ccs,2030,0.1463
 Cauldon Cement,cement_kiln_ccs,2031,0.1729
 Cauldon Cement,cement_kiln_ccs,2032,0.1995
 Cauldon Cement,cement_kiln_ccs,2033,0.2261
@@ -150,7 +150,7 @@ Tunstead Cement,cement_kiln,2035,0.4766
 Tunstead Cement,cement_kiln,2036,0.4766
 Tunstead Cement,cement_kiln_ccs,2028,0.0333
 Tunstead Cement,cement_kiln_ccs,2029,0.0821
-Tunstead Cement,cement_kiln_ccs,2030,0.131
+Tunstead Cement,cement_kiln_ccs,2030,0.0858
 Tunstead Cement,cement_kiln_ccs,2031,0.1548
 Tunstead Cement,cement_kiln_ccs,2032,0.1786
 Tunstead Cement,cement_kiln_ccs,2033,0.2025
@@ -241,7 +241,7 @@ Padeswood Works,cement_kiln,2035,0.3097
 Padeswood Works,cement_kiln,2036,0.3097
 Padeswood Works,cement_kiln_ccs,2028,0.0285
 Padeswood Works,cement_kiln_ccs,2029,0.0533
-Padeswood Works,cement_kiln_ccs,2030,0.0533
+Padeswood Works,cement_kiln_ccs,2030,0.0851
 Padeswood Works,cement_kiln_ccs,2031,0.1006
 Padeswood Works,cement_kiln_ccs,2032,0.1161
 Padeswood Works,cement_kiln_ccs,2033,0.1315
@@ -1284,7 +1284,7 @@ Bones Lane Factory,gas_boiler,2034,0.7394
 Bones Lane Factory,gas_boiler,2035,0.7369
 Bones Lane Factory,gas_boiler,2036,0.7344
 Cantley Sugar Factory,biomass_boiler,2026,0.0
-Cantley Sugar Factory,biomass_boiler,2027,0.0
+Cantley Sugar Factory,biomass_boiler,2027,0.0001
 Cantley Sugar Factory,biomass_boiler,2028,0.0
 Cantley Sugar Factory,biomass_boiler,2029,0.0
 Cantley Sugar Factory,biomass_boiler,2030,0.0
@@ -1575,25 +1575,1207 @@ Plasmor Limited,gas_boiler,2033,0.5658
 Plasmor Limited,gas_boiler,2034,0.5639
 Plasmor Limited,gas_boiler,2035,0.562
 Plasmor Limited,gas_boiler,2036,0.5601
-dispersed_heat,gas_boiler,2026,45.1
-dispersed_heat,gas_boiler,2027,43.2
-dispersed_heat,gas_boiler,2028,43.2
-dispersed_heat,gas_boiler,2029,43.2
-dispersed_heat,gas_boiler,2030,43.2
-dispersed_heat,gas_boiler,2031,43.2
-dispersed_heat,gas_boiler,2032,43.2
-dispersed_heat,gas_boiler,2033,43.2
-dispersed_heat,gas_boiler,2034,43.2
-dispersed_heat,gas_boiler,2035,43.2
-dispersed_heat,gas_boiler,2036,43.2
-dispersed_steel,bof,2026,0.0771
-dispersed_steel,bof,2027,0.0771
-dispersed_steel,bof,2028,0.0771
-dispersed_steel,bof,2029,0.0771
-dispersed_steel,bof,2030,0.0771
-dispersed_steel,bof,2031,0.0771
-dispersed_steel,bof,2032,0.0771
-dispersed_steel,bof,2033,0.0771
-dispersed_steel,bof,2034,0.0771
-dispersed_steel,bof,2035,0.0771
-dispersed_steel,bof,2036,0.0771
+ets_tail_heat,biomass_boiler,2026,0.0033
+ets_tail_heat,biomass_boiler,2027,0.0033
+ets_tail_heat,biomass_boiler,2028,0.0033
+ets_tail_heat,biomass_boiler,2029,0.0033
+ets_tail_heat,biomass_boiler,2030,0.0033
+ets_tail_heat,biomass_boiler,2031,0.0033
+ets_tail_heat,biomass_boiler,2032,0.0033
+ets_tail_heat,biomass_boiler,2033,0.0033
+ets_tail_heat,biomass_boiler,2034,0.0033
+ets_tail_heat,biomass_boiler,2035,0.0033
+ets_tail_heat,biomass_boiler,2036,0.0033
+ets_tail_heat,gas_boiler,2026,45.0968
+ets_tail_heat,gas_boiler,2027,43.1967
+ets_tail_heat,gas_boiler,2028,43.1967
+ets_tail_heat,gas_boiler,2029,43.1967
+ets_tail_heat,gas_boiler,2030,43.1967
+ets_tail_heat,gas_boiler,2031,43.1967
+ets_tail_heat,gas_boiler,2032,43.1967
+ets_tail_heat,gas_boiler,2033,43.1967
+ets_tail_heat,gas_boiler,2034,43.1967
+ets_tail_heat,gas_boiler,2035,43.1967
+ets_tail_heat,gas_boiler,2036,43.1967
+ets_tail_steel,bof,2026,0.0771
+ets_tail_steel,bof,2027,0.074
+ets_tail_steel,bof,2028,0.071
+ets_tail_steel,eaf,2027,0.0031
+ets_tail_steel,eaf,2028,0.0061
+ets_tail_steel,eaf,2029,0.0771
+ets_tail_steel,eaf,2030,0.0771
+ets_tail_steel,eaf,2031,0.0771
+ets_tail_steel,eaf,2032,0.0771
+ets_tail_steel,eaf,2033,0.0771
+ets_tail_steel,eaf,2034,0.0771
+ets_tail_steel,eaf,2035,0.0771
+ets_tail_steel,eaf,2036,0.0771
+Dumfries,gas_boiler,2026,0.2972
+Dumfries,gas_boiler,2027,0.2972
+Dumfries,gas_boiler,2028,0.2972
+Dumfries,gas_boiler,2029,0.2972
+Dumfries,gas_boiler,2030,0.2972
+Dumfries,gas_boiler,2031,0.2962
+Dumfries,gas_boiler,2032,0.2952
+Dumfries,gas_boiler,2033,0.2942
+Dumfries,gas_boiler,2034,0.2932
+Dumfries,gas_boiler,2035,0.2922
+Dumfries,gas_boiler,2036,0.2913
+Belfast,gas_boiler,2026,0.2417
+Belfast,gas_boiler,2027,0.2417
+Belfast,gas_boiler,2028,0.2417
+Belfast,gas_boiler,2029,0.2417
+Belfast,gas_boiler,2030,0.2417
+Belfast,gas_boiler,2031,0.2409
+Belfast,gas_boiler,2032,0.2401
+Belfast,gas_boiler,2033,0.2393
+Belfast,gas_boiler,2034,0.2385
+Belfast,gas_boiler,2035,0.2377
+Belfast,gas_boiler,2036,0.2369
+Shap,gas_boiler,2026,0.2194
+Shap,gas_boiler,2027,0.2194
+Shap,gas_boiler,2028,0.2194
+Shap,gas_boiler,2029,0.2194
+Shap,gas_boiler,2030,0.2194
+Shap,gas_boiler,2031,0.2187
+Shap,gas_boiler,2032,0.2179
+Shap,gas_boiler,2033,0.2172
+Shap,gas_boiler,2034,0.2165
+Shap,gas_boiler,2035,0.2157
+Shap,gas_boiler,2036,0.215
+Belfast (2),gas_boiler,2026,0.4163
+Belfast (2),gas_boiler,2027,0.4163
+Belfast (2),gas_boiler,2028,0.4163
+Belfast (2),gas_boiler,2029,0.4163
+Belfast (2),gas_boiler,2030,0.4163
+Belfast (2),gas_boiler,2031,0.4149
+Belfast (2),gas_boiler,2032,0.4135
+Belfast (2),gas_boiler,2033,0.4121
+Belfast (2),gas_boiler,2034,0.4107
+Belfast (2),gas_boiler,2035,0.4094
+Belfast (2),gas_boiler,2036,0.408
+Lancaster,gas_boiler,2026,0.2042
+Lancaster,gas_boiler,2027,0.2042
+Lancaster,gas_boiler,2028,0.2042
+Lancaster,gas_boiler,2029,0.2042
+Lancaster,gas_boiler,2030,0.2042
+Lancaster,gas_boiler,2031,0.2035
+Lancaster,gas_boiler,2032,0.2028
+Lancaster,gas_boiler,2033,0.2022
+Lancaster,gas_boiler,2034,0.2015
+Lancaster,gas_boiler,2035,0.2008
+Lancaster,gas_boiler,2036,0.2001
+Doncaster,gas_boiler,2026,0.2275
+Doncaster,gas_boiler,2027,0.2275
+Doncaster,gas_boiler,2028,0.2275
+Doncaster,gas_boiler,2029,0.2275
+Doncaster,gas_boiler,2030,0.2275
+Doncaster,gas_boiler,2031,0.2267
+Doncaster,gas_boiler,2032,0.226
+Doncaster,gas_boiler,2033,0.2252
+Doncaster,gas_boiler,2034,0.2245
+Doncaster,gas_boiler,2035,0.2237
+Doncaster,gas_boiler,2036,0.223
+Darley Dale,gas_boiler,2026,0.9472
+Darley Dale,gas_boiler,2027,0.9472
+Darley Dale,gas_boiler,2028,0.9472
+Darley Dale,gas_boiler,2029,0.9472
+Darley Dale,gas_boiler,2030,0.9472
+Darley Dale,gas_boiler,2031,0.944
+Darley Dale,gas_boiler,2032,0.9409
+Darley Dale,gas_boiler,2033,0.9377
+Darley Dale,gas_boiler,2034,0.9346
+Darley Dale,gas_boiler,2035,0.9314
+Darley Dale,gas_boiler,2036,0.9283
+Llanelli,gas_boiler,2026,0.3152
+Llanelli,gas_boiler,2027,0.3152
+Llanelli,gas_boiler,2028,0.3152
+Llanelli,gas_boiler,2029,0.3152
+Llanelli,gas_boiler,2030,0.3152
+Llanelli,gas_boiler,2031,0.3141
+Llanelli,gas_boiler,2032,0.3131
+Llanelli,gas_boiler,2033,0.312
+Llanelli,gas_boiler,2034,0.311
+Llanelli,gas_boiler,2035,0.3099
+Llanelli,gas_boiler,2036,0.3089
+Chirnside,gas_boiler,2026,0.4892
+Chirnside,gas_boiler,2027,0.4892
+Chirnside,gas_boiler,2028,0.4892
+Chirnside,gas_boiler,2029,0.4892
+Chirnside,gas_boiler,2030,0.4892
+Chirnside,gas_boiler,2031,0.4876
+Chirnside,gas_boiler,2032,0.4859
+Chirnside,gas_boiler,2033,0.4843
+Chirnside,gas_boiler,2034,0.4827
+Chirnside,gas_boiler,2035,0.481
+Chirnside,gas_boiler,2036,0.4794
+Stourton,gas_boiler,2026,0.6243
+Stourton,gas_boiler,2027,0.6243
+Stourton,gas_boiler,2028,0.6243
+Stourton,gas_boiler,2029,0.6243
+Stourton,gas_boiler,2030,0.6243
+Stourton,gas_boiler,2031,0.6222
+Stourton,gas_boiler,2032,0.6201
+Stourton,gas_boiler,2033,0.6181
+Stourton,gas_boiler,2034,0.616
+Stourton,gas_boiler,2035,0.6139
+Stourton,gas_boiler,2036,0.6118
+Worsley,gas_boiler,2026,0.8561
+Worsley,gas_boiler,2027,0.8561
+Worsley,gas_boiler,2028,0.8561
+Worsley,gas_boiler,2029,0.8561
+Worsley,gas_boiler,2030,0.8561
+Worsley,gas_boiler,2031,0.8532
+Worsley,gas_boiler,2032,0.8504
+Worsley,gas_boiler,2033,0.8475
+Worsley,gas_boiler,2034,0.8447
+Worsley,gas_boiler,2035,0.8418
+Worsley,gas_boiler,2036,0.839
+Manchester,gas_boiler,2026,0.2176
+Manchester,gas_boiler,2027,0.2176
+Manchester,gas_boiler,2028,0.2176
+Manchester,gas_boiler,2029,0.2176
+Manchester,gas_boiler,2030,0.2176
+Manchester,gas_boiler,2031,0.2169
+Manchester,gas_boiler,2032,0.2161
+Manchester,gas_boiler,2033,0.2154
+Manchester,gas_boiler,2034,0.2147
+Manchester,gas_boiler,2035,0.214
+Manchester,gas_boiler,2036,0.2132
+Harlow,gas_boiler,2026,0.3986
+Harlow,gas_boiler,2027,0.3986
+Harlow,gas_boiler,2028,0.3986
+Harlow,gas_boiler,2029,0.3986
+Harlow,gas_boiler,2030,0.3986
+Harlow,gas_boiler,2031,0.3973
+Harlow,gas_boiler,2032,0.3959
+Harlow,gas_boiler,2033,0.3946
+Harlow,gas_boiler,2034,0.3933
+Harlow,gas_boiler,2035,0.392
+Harlow,gas_boiler,2036,0.3906
+Bromborough,gas_boiler,2026,0.3544
+Bromborough,gas_boiler,2027,0.3544
+Bromborough,gas_boiler,2028,0.3544
+Bromborough,gas_boiler,2029,0.3544
+Bromborough,gas_boiler,2030,0.3544
+Bromborough,gas_boiler,2031,0.3532
+Bromborough,gas_boiler,2032,0.352
+Bromborough,gas_boiler,2033,0.3509
+Bromborough,gas_boiler,2034,0.3497
+Bromborough,gas_boiler,2035,0.3485
+Bromborough,gas_boiler,2036,0.3473
+Northfleet Mill,gas_boiler,2026,0.2411
+Northfleet Mill,gas_boiler,2027,0.2411
+Northfleet Mill,gas_boiler,2028,0.2411
+Northfleet Mill,gas_boiler,2029,0.2411
+Northfleet Mill,gas_boiler,2030,0.2411
+Northfleet Mill,gas_boiler,2031,0.2403
+Northfleet Mill,gas_boiler,2032,0.2395
+Northfleet Mill,gas_boiler,2033,0.2387
+Northfleet Mill,gas_boiler,2034,0.2379
+Northfleet Mill,gas_boiler,2035,0.2371
+Northfleet Mill,gas_boiler,2036,0.2363
+Cowley,gas_boiler,2026,0.541
+Cowley,gas_boiler,2027,0.541
+Cowley,gas_boiler,2028,0.541
+Cowley,gas_boiler,2029,0.541
+Cowley,gas_boiler,2030,0.541
+Cowley,gas_boiler,2031,0.5392
+Cowley,gas_boiler,2032,0.5374
+Cowley,gas_boiler,2033,0.5356
+Cowley,gas_boiler,2034,0.5338
+Cowley,gas_boiler,2035,0.532
+Cowley,gas_boiler,2036,0.5302
+AH Marks Bradford CHP,gas_boiler,2026,0.4311
+AH Marks Bradford CHP,gas_boiler,2027,0.4311
+AH Marks Bradford CHP,gas_boiler,2028,0.4311
+AH Marks Bradford CHP,gas_boiler,2029,0.4311
+AH Marks Bradford CHP,gas_boiler,2030,0.4311
+AH Marks Bradford CHP,gas_boiler,2031,0.4297
+AH Marks Bradford CHP,gas_boiler,2032,0.4282
+AH Marks Bradford CHP,gas_boiler,2033,0.4268
+AH Marks Bradford CHP,gas_boiler,2034,0.4254
+AH Marks Bradford CHP,gas_boiler,2035,0.4239
+AH Marks Bradford CHP,gas_boiler,2036,0.4225
+Nestle Purina Wisbech,gas_boiler,2026,0.2098
+Nestle Purina Wisbech,gas_boiler,2027,0.2098
+Nestle Purina Wisbech,gas_boiler,2028,0.2098
+Nestle Purina Wisbech,gas_boiler,2029,0.2098
+Nestle Purina Wisbech,gas_boiler,2030,0.2098
+Nestle Purina Wisbech,gas_boiler,2031,0.2091
+Nestle Purina Wisbech,gas_boiler,2032,0.2084
+Nestle Purina Wisbech,gas_boiler,2033,0.2077
+Nestle Purina Wisbech,gas_boiler,2034,0.207
+Nestle Purina Wisbech,gas_boiler,2035,0.2063
+Nestle Purina Wisbech,gas_boiler,2036,0.2056
+Runcorn,gas_boiler,2026,0.257
+Runcorn,gas_boiler,2027,0.257
+Runcorn,gas_boiler,2028,0.257
+Runcorn,gas_boiler,2029,0.257
+Runcorn,gas_boiler,2030,0.257
+Runcorn,gas_boiler,2031,0.2561
+Runcorn,gas_boiler,2032,0.2553
+Runcorn,gas_boiler,2033,0.2544
+Runcorn,gas_boiler,2034,0.2536
+Runcorn,gas_boiler,2035,0.2527
+Runcorn,gas_boiler,2036,0.2519
+Dorket Head Brickworks,gas_boiler,2026,0.4685
+Dorket Head Brickworks,gas_boiler,2027,0.4685
+Dorket Head Brickworks,gas_boiler,2028,0.4685
+Dorket Head Brickworks,gas_boiler,2029,0.4685
+Dorket Head Brickworks,gas_boiler,2030,0.4685
+Dorket Head Brickworks,gas_boiler,2031,0.4669
+Dorket Head Brickworks,gas_boiler,2032,0.4654
+Dorket Head Brickworks,gas_boiler,2033,0.4638
+Dorket Head Brickworks,gas_boiler,2034,0.4623
+Dorket Head Brickworks,gas_boiler,2035,0.4607
+Dorket Head Brickworks,gas_boiler,2036,0.4591
+South Holmwood Brickworks,gas_boiler,2026,0.2239
+South Holmwood Brickworks,gas_boiler,2027,0.2239
+South Holmwood Brickworks,gas_boiler,2028,0.2239
+South Holmwood Brickworks,gas_boiler,2029,0.2239
+South Holmwood Brickworks,gas_boiler,2030,0.2239
+South Holmwood Brickworks,gas_boiler,2031,0.2232
+South Holmwood Brickworks,gas_boiler,2032,0.2224
+South Holmwood Brickworks,gas_boiler,2033,0.2217
+South Holmwood Brickworks,gas_boiler,2034,0.2209
+South Holmwood Brickworks,gas_boiler,2035,0.2202
+South Holmwood Brickworks,gas_boiler,2036,0.2194
+Wigan,gas_boiler,2026,0.3766
+Oakenholt Paper Mill,gas_boiler,2026,0.3568
+Oakenholt Paper Mill,gas_boiler,2027,0.3568
+Oakenholt Paper Mill,gas_boiler,2028,0.3568
+Oakenholt Paper Mill,gas_boiler,2029,0.3568
+Oakenholt Paper Mill,gas_boiler,2030,0.3568
+Oakenholt Paper Mill,gas_boiler,2031,0.3556
+Oakenholt Paper Mill,gas_boiler,2032,0.3544
+Oakenholt Paper Mill,gas_boiler,2033,0.3532
+Oakenholt Paper Mill,gas_boiler,2034,0.352
+Oakenholt Paper Mill,gas_boiler,2035,0.3509
+Oakenholt Paper Mill,gas_boiler,2036,0.3497
+Mostyn,gas_boiler,2026,0.2667
+Mostyn,gas_boiler,2027,0.2667
+Mostyn,gas_boiler,2028,0.2667
+Mostyn,gas_boiler,2029,0.2667
+Mostyn,gas_boiler,2030,0.2667
+Mostyn,gas_boiler,2031,0.2658
+Mostyn,gas_boiler,2032,0.2649
+Mostyn,gas_boiler,2033,0.264
+Mostyn,gas_boiler,2034,0.2631
+Mostyn,gas_boiler,2035,0.2623
+Mostyn,gas_boiler,2036,0.2614
+Greatham,gas_boiler,2026,0.2352
+Greatham,gas_boiler,2027,0.2352
+Greatham,gas_boiler,2028,0.2352
+Greatham,gas_boiler,2029,0.2352
+Greatham,gas_boiler,2030,0.2352
+Greatham,gas_boiler,2031,0.2344
+Greatham,gas_boiler,2032,0.2336
+Greatham,gas_boiler,2033,0.2328
+Greatham,gas_boiler,2034,0.2321
+Greatham,gas_boiler,2035,0.2313
+Greatham,gas_boiler,2036,0.2305
+Widnes,gas_boiler,2026,0.4357
+Widnes,gas_boiler,2027,0.4357
+Widnes,gas_boiler,2028,0.4357
+Widnes,gas_boiler,2029,0.4357
+Widnes,gas_boiler,2030,0.4357
+Widnes,gas_boiler,2031,0.4342
+Widnes,gas_boiler,2032,0.4328
+Widnes,gas_boiler,2033,0.4313
+Widnes,gas_boiler,2034,0.4299
+Widnes,gas_boiler,2035,0.4284
+Widnes,gas_boiler,2036,0.427
+Leek,gas_boiler,2026,0.3607
+Leek,gas_boiler,2027,0.3607
+Leek,gas_boiler,2028,0.3607
+Leek,gas_boiler,2029,0.3607
+Leek,gas_boiler,2030,0.3607
+Leek,gas_boiler,2031,0.3595
+Leek,gas_boiler,2032,0.3583
+Leek,gas_boiler,2033,0.3571
+Leek,gas_boiler,2034,0.3559
+Leek,gas_boiler,2035,0.3547
+Leek,gas_boiler,2036,0.3535
+Barry,gas_boiler,2026,0.1989
+Barry,gas_boiler,2027,0.1989
+Barry,gas_boiler,2028,0.1989
+Barry,gas_boiler,2029,0.1989
+Barry,gas_boiler,2030,0.1989
+Barry,gas_boiler,2031,0.1982
+Barry,gas_boiler,2032,0.1976
+Barry,gas_boiler,2033,0.1969
+Barry,gas_boiler,2034,0.1962
+Barry,gas_boiler,2035,0.1956
+Barry,gas_boiler,2036,0.1949
+Great Ryburgh Maltings,gas_boiler,2026,0.1794
+Great Ryburgh Maltings,gas_boiler,2027,0.1794
+Great Ryburgh Maltings,gas_boiler,2028,0.1794
+Great Ryburgh Maltings,gas_boiler,2029,0.1794
+Great Ryburgh Maltings,gas_boiler,2030,0.1794
+Great Ryburgh Maltings,gas_boiler,2031,0.1788
+Great Ryburgh Maltings,gas_boiler,2032,0.1782
+Great Ryburgh Maltings,gas_boiler,2033,0.1776
+Great Ryburgh Maltings,gas_boiler,2034,0.177
+Great Ryburgh Maltings,gas_boiler,2035,0.1764
+Great Ryburgh Maltings,gas_boiler,2036,0.1758
+Wakefield,gas_boiler,2026,0.2117
+Wakefield,gas_boiler,2027,0.2117
+Wakefield,gas_boiler,2028,0.2117
+Wakefield,gas_boiler,2029,0.2117
+Wakefield,gas_boiler,2030,0.2117
+Wakefield,gas_boiler,2031,0.211
+Wakefield,gas_boiler,2032,0.2103
+Wakefield,gas_boiler,2033,0.2096
+Wakefield,gas_boiler,2034,0.2089
+Wakefield,gas_boiler,2035,0.2082
+Wakefield,gas_boiler,2036,0.2075
+Harlesden,gas_boiler,2026,0.2403
+Harlesden,gas_boiler,2027,0.2403
+Harlesden,gas_boiler,2028,0.2403
+Harlesden,gas_boiler,2029,0.2403
+Harlesden,gas_boiler,2030,0.2403
+Harlesden,gas_boiler,2031,0.2395
+Harlesden,gas_boiler,2032,0.2387
+Harlesden,gas_boiler,2033,0.2379
+Harlesden,gas_boiler,2034,0.2371
+Harlesden,gas_boiler,2035,0.2363
+Harlesden,gas_boiler,2036,0.2355
+Grimsby,gas_boiler,2026,0.8156
+Grimsby,gas_boiler,2027,0.8156
+Grimsby,gas_boiler,2028,0.8156
+Grimsby,gas_boiler,2029,0.8156
+Grimsby,gas_boiler,2030,0.8156
+Grimsby,gas_boiler,2031,0.8129
+Grimsby,gas_boiler,2032,0.8102
+Grimsby,gas_boiler,2033,0.8074
+Grimsby,gas_boiler,2034,0.8047
+Grimsby,gas_boiler,2035,0.802
+Grimsby,gas_boiler,2036,0.7993
+Gateshead,gas_boiler,2026,0.4065
+Cramlington,gas_boiler,2026,0.2391
+Cramlington,gas_boiler,2027,0.2391
+Cramlington,gas_boiler,2028,0.2391
+Cramlington,gas_boiler,2029,0.2391
+Cramlington,gas_boiler,2030,0.2391
+Cramlington,gas_boiler,2031,0.2383
+Cramlington,gas_boiler,2032,0.2375
+Cramlington,gas_boiler,2033,0.2367
+Cramlington,gas_boiler,2034,0.2359
+Cramlington,gas_boiler,2035,0.2351
+Cramlington,gas_boiler,2036,0.2343
+Greenock,gas_boiler,2026,0.1857
+Greenock,gas_boiler,2027,0.1857
+Greenock,gas_boiler,2028,0.1857
+Greenock,gas_boiler,2029,0.1857
+Greenock,gas_boiler,2030,0.1857
+Greenock,gas_boiler,2031,0.1851
+Greenock,gas_boiler,2032,0.1845
+Greenock,gas_boiler,2033,0.1838
+Greenock,gas_boiler,2034,0.1832
+Greenock,gas_boiler,2035,0.1826
+Greenock,gas_boiler,2036,0.182
+Thornton-Cleveleys,gas_boiler,2026,0.2745
+Rawcliffe Bridge,gas_boiler,2026,0.3645
+Rawcliffe Bridge,gas_boiler,2027,0.3645
+Rawcliffe Bridge,gas_boiler,2028,0.3645
+Rawcliffe Bridge,gas_boiler,2029,0.3645
+Rawcliffe Bridge,gas_boiler,2030,0.3645
+Rawcliffe Bridge,gas_boiler,2031,0.3633
+Rawcliffe Bridge,gas_boiler,2032,0.3621
+Rawcliffe Bridge,gas_boiler,2033,0.3609
+Rawcliffe Bridge,gas_boiler,2034,0.3596
+Rawcliffe Bridge,gas_boiler,2035,0.3584
+Rawcliffe Bridge,gas_boiler,2036,0.3572
+Queenborough,gas_boiler,2026,0.2272
+Queenborough,gas_boiler,2027,0.2272
+Queenborough,gas_boiler,2028,0.2272
+Queenborough,gas_boiler,2029,0.2272
+Queenborough,gas_boiler,2030,0.2272
+Queenborough,gas_boiler,2031,0.2264
+Queenborough,gas_boiler,2032,0.2257
+Queenborough,gas_boiler,2033,0.2249
+Queenborough,gas_boiler,2034,0.2242
+Queenborough,gas_boiler,2035,0.2234
+Queenborough,gas_boiler,2036,0.2227
+Craigavon,gas_boiler,2026,0.2557
+Craigavon,gas_boiler,2027,0.2557
+Craigavon,gas_boiler,2028,0.2557
+Craigavon,gas_boiler,2029,0.2557
+Craigavon,gas_boiler,2030,0.2557
+Craigavon,gas_boiler,2031,0.2548
+Craigavon,gas_boiler,2032,0.254
+Craigavon,gas_boiler,2033,0.2531
+Craigavon,gas_boiler,2034,0.2523
+Craigavon,gas_boiler,2035,0.2514
+Craigavon,gas_boiler,2036,0.2506
+Hartlebury Factory,gas_boiler,2026,0.2312
+Hartlebury Factory,gas_boiler,2027,0.2312
+Hartlebury Factory,gas_boiler,2028,0.2312
+Hartlebury Factory,gas_boiler,2029,0.2312
+Hartlebury Factory,gas_boiler,2030,0.2312
+Hartlebury Factory,gas_boiler,2031,0.2304
+Hartlebury Factory,gas_boiler,2032,0.2297
+Hartlebury Factory,gas_boiler,2033,0.2289
+Hartlebury Factory,gas_boiler,2034,0.2281
+Hartlebury Factory,gas_boiler,2035,0.2273
+Hartlebury Factory,gas_boiler,2036,0.2266
+Halewood,gas_boiler,2026,0.3301
+Halewood,gas_boiler,2027,0.3301
+Halewood,gas_boiler,2028,0.3301
+Halewood,gas_boiler,2029,0.3301
+Halewood,gas_boiler,2030,0.3301
+Halewood,gas_boiler,2031,0.329
+Halewood,gas_boiler,2032,0.3279
+Halewood,gas_boiler,2033,0.3268
+Halewood,gas_boiler,2034,0.3257
+Halewood,gas_boiler,2035,0.3246
+Halewood,gas_boiler,2036,0.3235
+Duns,gas_boiler,2026,0.3253
+Duns,gas_boiler,2027,0.3253
+Duns,gas_boiler,2028,0.3253
+Duns,gas_boiler,2029,0.3253
+Duns,gas_boiler,2030,0.3253
+Duns,gas_boiler,2031,0.3242
+Duns,gas_boiler,2032,0.3231
+Duns,gas_boiler,2033,0.322
+Duns,gas_boiler,2034,0.321
+Duns,gas_boiler,2035,0.3199
+Duns,gas_boiler,2036,0.3188
+Wilton Package boilers,gas_boiler,2026,0.1925
+Wilton Package boilers,gas_boiler,2027,0.1925
+Wilton Package boilers,gas_boiler,2028,0.1925
+Wilton Package boilers,gas_boiler,2029,0.1925
+Wilton Package boilers,gas_boiler,2030,0.1925
+Wilton Package boilers,gas_boiler,2031,0.1919
+Wilton Package boilers,gas_boiler,2032,0.1912
+Wilton Package boilers,gas_boiler,2033,0.1906
+Wilton Package boilers,gas_boiler,2034,0.1899
+Wilton Package boilers,gas_boiler,2035,0.1893
+Wilton Package boilers,gas_boiler,2036,0.1887
+Newcastle Upon Tyne,gas_boiler,2026,0.3042
+Newcastle Upon Tyne,gas_boiler,2027,0.3042
+Newcastle Upon Tyne,gas_boiler,2028,0.3042
+Newcastle Upon Tyne,gas_boiler,2029,0.3042
+Newcastle Upon Tyne,gas_boiler,2030,0.3042
+Newcastle Upon Tyne,gas_boiler,2031,0.3032
+Newcastle Upon Tyne,gas_boiler,2032,0.3022
+Newcastle Upon Tyne,gas_boiler,2033,0.3012
+Newcastle Upon Tyne,gas_boiler,2034,0.3001
+Newcastle Upon Tyne,gas_boiler,2035,0.2991
+Newcastle Upon Tyne,gas_boiler,2036,0.2981
+Saddlebow Paper Mill,gas_boiler,2026,2.5121
+Saddlebow Paper Mill,gas_boiler,2027,2.5121
+Saddlebow Paper Mill,gas_boiler,2028,2.5121
+Saddlebow Paper Mill,gas_boiler,2029,2.5121
+Saddlebow Paper Mill,gas_boiler,2030,2.5121
+Saddlebow Paper Mill,gas_boiler,2031,2.5037
+Saddlebow Paper Mill,gas_boiler,2032,2.4954
+Saddlebow Paper Mill,gas_boiler,2033,2.487
+Saddlebow Paper Mill,gas_boiler,2034,2.4786
+Saddlebow Paper Mill,gas_boiler,2035,2.4702
+Saddlebow Paper Mill,gas_boiler,2036,2.4619
+Wilton Teraphalic Acid/Melinar Plant,gas_boiler,2026,0.2652
+Wilton Teraphalic Acid/Melinar Plant,gas_boiler,2027,0.2652
+Wilton Teraphalic Acid/Melinar Plant,gas_boiler,2028,0.2652
+Wilton Teraphalic Acid/Melinar Plant,gas_boiler,2029,0.2652
+Wilton Teraphalic Acid/Melinar Plant,gas_boiler,2030,0.2652
+Wilton Teraphalic Acid/Melinar Plant,gas_boiler,2031,0.2643
+Wilton Teraphalic Acid/Melinar Plant,gas_boiler,2032,0.2634
+Wilton Teraphalic Acid/Melinar Plant,gas_boiler,2033,0.2625
+Wilton Teraphalic Acid/Melinar Plant,gas_boiler,2034,0.2617
+Wilton Teraphalic Acid/Melinar Plant,gas_boiler,2035,0.2608
+Wilton Teraphalic Acid/Melinar Plant,gas_boiler,2036,0.2599
+Cambuslang,gas_boiler,2026,0.2527
+Cambuslang,gas_boiler,2027,0.2527
+Cambuslang,gas_boiler,2028,0.2527
+Cambuslang,gas_boiler,2029,0.2527
+Cambuslang,gas_boiler,2030,0.2527
+Cambuslang,gas_boiler,2031,0.2519
+Cambuslang,gas_boiler,2032,0.251
+Cambuslang,gas_boiler,2033,0.2502
+Cambuslang,gas_boiler,2034,0.2493
+Cambuslang,gas_boiler,2035,0.2485
+Cambuslang,gas_boiler,2036,0.2476
+Hythe,gas_boiler,2026,0.2444
+Hythe,gas_boiler,2027,0.2444
+Hythe,gas_boiler,2028,0.2444
+Hythe,gas_boiler,2029,0.2444
+Hythe,gas_boiler,2030,0.2444
+Hythe,gas_boiler,2031,0.2436
+Hythe,gas_boiler,2032,0.2428
+Hythe,gas_boiler,2033,0.242
+Hythe,gas_boiler,2034,0.2411
+Hythe,gas_boiler,2035,0.2403
+Hythe,gas_boiler,2036,0.2395
+Broomfleet Works,gas_boiler,2026,0.2613
+Broomfleet Works,gas_boiler,2027,0.2613
+Broomfleet Works,gas_boiler,2028,0.2613
+Broomfleet Works,gas_boiler,2029,0.2613
+Broomfleet Works,gas_boiler,2030,0.2613
+Broomfleet Works,gas_boiler,2031,0.2604
+Broomfleet Works,gas_boiler,2032,0.2596
+Broomfleet Works,gas_boiler,2033,0.2587
+Broomfleet Works,gas_boiler,2034,0.2578
+Broomfleet Works,gas_boiler,2035,0.2569
+Broomfleet Works,gas_boiler,2036,0.2561
+Stubbins Mill,gas_boiler,2026,0.245
+Stubbins Mill,gas_boiler,2027,0.245
+Stubbins Mill,gas_boiler,2028,0.245
+Stubbins Mill,gas_boiler,2029,0.245
+Stubbins Mill,gas_boiler,2030,0.245
+Stubbins Mill,gas_boiler,2031,0.2442
+Stubbins Mill,gas_boiler,2032,0.2434
+Stubbins Mill,gas_boiler,2033,0.2426
+Stubbins Mill,gas_boiler,2034,0.2417
+Stubbins Mill,gas_boiler,2035,0.2409
+Stubbins Mill,gas_boiler,2036,0.2401
+Davidstow Creamery,gas_boiler,2026,0.2986
+Davidstow Creamery,gas_boiler,2027,0.2986
+Davidstow Creamery,gas_boiler,2028,0.2986
+Davidstow Creamery,gas_boiler,2029,0.2986
+Davidstow Creamery,gas_boiler,2030,0.2986
+Davidstow Creamery,gas_boiler,2031,0.2976
+Davidstow Creamery,gas_boiler,2032,0.2966
+Davidstow Creamery,gas_boiler,2033,0.2956
+Davidstow Creamery,gas_boiler,2034,0.2946
+Davidstow Creamery,gas_boiler,2035,0.2936
+Davidstow Creamery,gas_boiler,2036,0.2926
+Jacobs Bakery,gas_boiler,2026,0.4515
+Jacobs Bakery,gas_boiler,2027,0.4515
+Jacobs Bakery,gas_boiler,2028,0.4515
+Jacobs Bakery,gas_boiler,2029,0.4515
+Jacobs Bakery,gas_boiler,2030,0.4515
+Jacobs Bakery,gas_boiler,2031,0.45
+Jacobs Bakery,gas_boiler,2032,0.4485
+Jacobs Bakery,gas_boiler,2033,0.447
+Jacobs Bakery,gas_boiler,2034,0.4455
+Jacobs Bakery,gas_boiler,2035,0.444
+Jacobs Bakery,gas_boiler,2036,0.4425
+Slough Chocolate Factory,gas_boiler,2026,0.1964
+Slough Chocolate Factory,gas_boiler,2027,0.1964
+Slough Chocolate Factory,gas_boiler,2028,0.1964
+Slough Chocolate Factory,gas_boiler,2029,0.1964
+Slough Chocolate Factory,gas_boiler,2030,0.1964
+Slough Chocolate Factory,gas_boiler,2031,0.1957
+Slough Chocolate Factory,gas_boiler,2032,0.1951
+Slough Chocolate Factory,gas_boiler,2033,0.1944
+Slough Chocolate Factory,gas_boiler,2034,0.1938
+Slough Chocolate Factory,gas_boiler,2035,0.1931
+Slough Chocolate Factory,gas_boiler,2036,0.1925
+"Llanelli, Carmarthenshire",bof,2026,0.0072
+"Llanelli, Carmarthenshire",bof,2027,0.0072
+"Llanelli, Carmarthenshire",bof,2028,0.0072
+"Llanelli, Carmarthenshire",bof,2029,0.0072
+"Llanelli, Carmarthenshire",bof,2030,0.0072
+"Llanelli, Carmarthenshire",bof,2031,0.0072
+"Llanelli, Carmarthenshire",bof,2032,0.0072
+"Llanelli, Carmarthenshire",bof,2033,0.0072
+"Llanelli, Carmarthenshire",bof,2034,0.0072
+"Llanelli, Carmarthenshire",bof,2035,0.0072
+"Llanelli, Carmarthenshire",bof,2036,0.0072
+North Tees Site,gas_boiler,2026,0.6172
+North Tees Site,gas_boiler,2027,0.6172
+North Tees Site,gas_boiler,2028,0.6172
+North Tees Site,gas_boiler,2029,0.6172
+North Tees Site,gas_boiler,2030,0.6172
+North Tees Site,gas_boiler,2031,0.6151
+North Tees Site,gas_boiler,2032,0.6131
+North Tees Site,gas_boiler,2033,0.611
+North Tees Site,gas_boiler,2034,0.609
+North Tees Site,gas_boiler,2035,0.6069
+North Tees Site,gas_boiler,2036,0.6049
+Burton Latimer,gas_boiler,2026,0.2848
+Burton Latimer,gas_boiler,2027,0.2848
+Burton Latimer,gas_boiler,2028,0.2848
+Burton Latimer,gas_boiler,2029,0.2848
+Burton Latimer,gas_boiler,2030,0.2848
+Burton Latimer,gas_boiler,2031,0.2839
+Burton Latimer,gas_boiler,2032,0.2829
+Burton Latimer,gas_boiler,2033,0.282
+Burton Latimer,gas_boiler,2034,0.281
+Burton Latimer,gas_boiler,2035,0.2801
+Burton Latimer,gas_boiler,2036,0.2791
+Overton Mill,gas_boiler,2026,0.33
+Overton Mill,gas_boiler,2027,0.33
+Overton Mill,gas_boiler,2028,0.33
+Overton Mill,gas_boiler,2029,0.33
+Overton Mill,gas_boiler,2030,0.33
+Overton Mill,gas_boiler,2031,0.3289
+Overton Mill,gas_boiler,2032,0.3278
+Overton Mill,gas_boiler,2033,0.3267
+Overton Mill,gas_boiler,2034,0.3256
+Overton Mill,gas_boiler,2035,0.3245
+Overton Mill,gas_boiler,2036,0.3234
+Caw House,gas_boiler,2026,0.2911
+Caw House,gas_boiler,2027,0.2911
+Caw House,gas_boiler,2028,0.2911
+Caw House,gas_boiler,2029,0.2911
+Caw House,gas_boiler,2030,0.2911
+Caw House,gas_boiler,2031,0.2901
+Caw House,gas_boiler,2032,0.2892
+Caw House,gas_boiler,2033,0.2882
+Caw House,gas_boiler,2034,0.2872
+Caw House,gas_boiler,2035,0.2862
+Caw House,gas_boiler,2036,0.2853
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,gas_boiler,2026,0.3546
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,gas_boiler,2027,0.3546
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,gas_boiler,2028,0.3546
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,gas_boiler,2029,0.3546
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,gas_boiler,2030,0.3546
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,gas_boiler,2031,0.3534
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,gas_boiler,2032,0.3522
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,gas_boiler,2033,0.3511
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,gas_boiler,2034,0.3499
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,gas_boiler,2035,0.3487
+Low Moor Chemical Works CLECKHEATON ROAD LOW MOOR WEST YORKSHIRE,gas_boiler,2036,0.3475
+Austerfield Works,gas_boiler,2026,0.4275
+Austerfield Works,gas_boiler,2027,0.4275
+Austerfield Works,gas_boiler,2028,0.4275
+Austerfield Works,gas_boiler,2029,0.4275
+Austerfield Works,gas_boiler,2030,0.4275
+Austerfield Works,gas_boiler,2031,0.4261
+Austerfield Works,gas_boiler,2032,0.4246
+Austerfield Works,gas_boiler,2033,0.4232
+Austerfield Works,gas_boiler,2034,0.4218
+Austerfield Works,gas_boiler,2035,0.4204
+Austerfield Works,gas_boiler,2036,0.4189
+Stoneywood Mill,gas_boiler,2026,0.381
+Stoneywood Mill,gas_boiler,2027,0.381
+Stoneywood Mill,gas_boiler,2028,0.381
+Stoneywood Mill,gas_boiler,2029,0.381
+Stoneywood Mill,gas_boiler,2030,0.381
+Stoneywood Mill,gas_boiler,2031,0.3797
+Stoneywood Mill,gas_boiler,2032,0.3785
+Stoneywood Mill,gas_boiler,2033,0.3772
+Stoneywood Mill,gas_boiler,2034,0.3759
+Stoneywood Mill,gas_boiler,2035,0.3747
+Stoneywood Mill,gas_boiler,2036,0.3734
+Bridgewater Diary,gas_boiler,2026,0.1841
+Bridgewater Diary,gas_boiler,2027,0.1841
+Bridgewater Diary,gas_boiler,2028,0.1841
+Bridgewater Diary,gas_boiler,2029,0.1841
+Bridgewater Diary,gas_boiler,2030,0.1841
+Bridgewater Diary,gas_boiler,2031,0.1835
+Bridgewater Diary,gas_boiler,2032,0.1829
+Bridgewater Diary,gas_boiler,2033,0.1823
+Bridgewater Diary,gas_boiler,2034,0.1816
+Bridgewater Diary,gas_boiler,2035,0.181
+Bridgewater Diary,gas_boiler,2036,0.1804
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",gas_boiler,2026,0.7147
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",gas_boiler,2027,0.7147
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",gas_boiler,2028,0.7147
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",gas_boiler,2029,0.7147
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",gas_boiler,2030,0.7147
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",gas_boiler,2031,0.7123
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",gas_boiler,2032,0.7099
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",gas_boiler,2033,0.7076
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",gas_boiler,2034,0.7052
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",gas_boiler,2035,0.7028
+"Hurdsfield Chp And Energy Centre, Silk Road Business Park",gas_boiler,2036,0.7004
+South Wirral,gas_boiler,2026,1.6417
+South Wirral,gas_boiler,2027,1.6417
+South Wirral,gas_boiler,2028,1.6417
+South Wirral,gas_boiler,2029,1.6417
+South Wirral,gas_boiler,2030,1.6417
+South Wirral,gas_boiler,2031,1.6362
+South Wirral,gas_boiler,2032,1.6308
+South Wirral,gas_boiler,2033,1.6253
+South Wirral,gas_boiler,2034,1.6198
+South Wirral,gas_boiler,2035,1.6143
+South Wirral,gas_boiler,2036,1.6089
+Coventry,gas_boiler,2026,0.8879
+Coventry,gas_boiler,2027,0.8879
+Coventry,gas_boiler,2028,0.8879
+Coventry,gas_boiler,2029,0.8879
+Coventry,gas_boiler,2030,0.8879
+Coventry,gas_boiler,2031,0.8849
+Coventry,gas_boiler,2032,0.882
+Coventry,gas_boiler,2033,0.879
+Coventry,gas_boiler,2034,0.8761
+Coventry,gas_boiler,2035,0.8731
+Coventry,gas_boiler,2036,0.8701
+Bolton,gas_boiler,2026,0.2476
+Bolton,gas_boiler,2027,0.2476
+Bolton,gas_boiler,2028,0.2476
+Bolton,gas_boiler,2029,0.2476
+Bolton,gas_boiler,2030,0.2476
+Bolton,gas_boiler,2031,0.2468
+Bolton,gas_boiler,2032,0.2459
+Bolton,gas_boiler,2033,0.2451
+Bolton,gas_boiler,2034,0.2443
+Bolton,gas_boiler,2035,0.2435
+Bolton,gas_boiler,2036,0.2426
+Edmonton,gas_boiler,2026,1.4724
+Edmonton,gas_boiler,2027,1.4724
+Edmonton,gas_boiler,2028,1.4724
+Edmonton,gas_boiler,2029,1.4724
+Edmonton,gas_boiler,2030,1.4724
+Edmonton,gas_boiler,2031,1.4675
+Edmonton,gas_boiler,2032,1.4626
+Edmonton,gas_boiler,2033,1.4577
+Edmonton,gas_boiler,2034,1.4528
+Edmonton,gas_boiler,2035,1.4479
+Edmonton,gas_boiler,2036,1.443
+Dudley,gas_boiler,2026,0.2325
+Dudley,gas_boiler,2027,0.2325
+Dudley,gas_boiler,2028,0.2325
+Dudley,gas_boiler,2029,0.2325
+Dudley,gas_boiler,2030,0.2325
+Dudley,gas_boiler,2031,0.2317
+Dudley,gas_boiler,2032,0.231
+Dudley,gas_boiler,2033,0.2302
+Dudley,gas_boiler,2034,0.2294
+Dudley,gas_boiler,2035,0.2286
+Dudley,gas_boiler,2036,0.2278
+Wolverhampton,gas_boiler,2026,0.2969
+Wolverhampton,gas_boiler,2027,0.2969
+Wolverhampton,gas_boiler,2028,0.2969
+Wolverhampton,gas_boiler,2029,0.2969
+Wolverhampton,gas_boiler,2030,0.2969
+Wolverhampton,gas_boiler,2031,0.2959
+Wolverhampton,gas_boiler,2032,0.2949
+Wolverhampton,gas_boiler,2033,0.2939
+Wolverhampton,gas_boiler,2034,0.2929
+Wolverhampton,gas_boiler,2035,0.292
+Wolverhampton,gas_boiler,2036,0.291
+Stoke-On-Trent,gas_boiler,2026,0.5598
+Stoke-On-Trent,gas_boiler,2027,0.5598
+Stoke-On-Trent,gas_boiler,2028,0.5598
+Stoke-On-Trent,gas_boiler,2029,0.5598
+Stoke-On-Trent,gas_boiler,2030,0.5598
+Stoke-On-Trent,gas_boiler,2031,0.5579
+Stoke-On-Trent,gas_boiler,2032,0.5561
+Stoke-On-Trent,gas_boiler,2033,0.5542
+Stoke-On-Trent,gas_boiler,2034,0.5523
+Stoke-On-Trent,gas_boiler,2035,0.5505
+Stoke-On-Trent,gas_boiler,2036,0.5486
+Southampton,gas_boiler,2026,0.6367
+Southampton,gas_boiler,2027,0.6367
+Southampton,gas_boiler,2028,0.6367
+Southampton,gas_boiler,2029,0.6367
+Southampton,gas_boiler,2030,0.6367
+Southampton,gas_boiler,2031,0.6346
+Southampton,gas_boiler,2032,0.6325
+Southampton,gas_boiler,2033,0.6303
+Southampton,gas_boiler,2034,0.6282
+Southampton,gas_boiler,2035,0.6261
+Southampton,gas_boiler,2036,0.624
+Portsmouth,gas_boiler,2026,0.5776
+Portsmouth,gas_boiler,2027,0.5776
+Portsmouth,gas_boiler,2028,0.5776
+Portsmouth,gas_boiler,2029,0.5776
+Portsmouth,gas_boiler,2030,0.5776
+Portsmouth,gas_boiler,2031,0.5757
+Portsmouth,gas_boiler,2032,0.5737
+Portsmouth,gas_boiler,2033,0.5718
+Portsmouth,gas_boiler,2034,0.5699
+Portsmouth,gas_boiler,2035,0.568
+Portsmouth,gas_boiler,2036,0.566
+Chineham,gas_boiler,2026,0.3137
+Chineham,gas_boiler,2027,0.3137
+Chineham,gas_boiler,2028,0.3137
+Chineham,gas_boiler,2029,0.3137
+Chineham,gas_boiler,2030,0.3137
+Chineham,gas_boiler,2031,0.3127
+Chineham,gas_boiler,2032,0.3116
+Chineham,gas_boiler,2033,0.3106
+Chineham,gas_boiler,2034,0.3095
+Chineham,gas_boiler,2035,0.3085
+Chineham,gas_boiler,2036,0.3074
+Sheffield,gas_boiler,2026,0.6946
+Sheffield,gas_boiler,2027,0.6946
+Sheffield,gas_boiler,2028,0.6946
+Sheffield,gas_boiler,2029,0.6946
+Sheffield,gas_boiler,2030,0.6946
+Sheffield,gas_boiler,2031,0.6923
+Sheffield,gas_boiler,2032,0.69
+Sheffield,gas_boiler,2033,0.6877
+Sheffield,gas_boiler,2034,0.6853
+Sheffield,gas_boiler,2035,0.683
+Sheffield,gas_boiler,2036,0.6807
+Belvedere,gas_boiler,2026,2.4423
+Belvedere,gas_boiler,2027,2.4423
+Belvedere,gas_boiler,2028,2.4423
+Belvedere,gas_boiler,2029,2.4423
+Belvedere,gas_boiler,2030,2.4423
+Belvedere,gas_boiler,2031,2.4342
+Belvedere,gas_boiler,2032,2.426
+Belvedere,gas_boiler,2033,2.4179
+Belvedere,gas_boiler,2034,2.4097
+Belvedere,gas_boiler,2035,2.4016
+Belvedere,gas_boiler,2036,2.3935
+Hythe (2),gas_boiler,2026,0.933
+Hythe (2),gas_boiler,2027,0.933
+Hythe (2),gas_boiler,2028,0.933
+Hythe (2),gas_boiler,2029,0.933
+Hythe (2),gas_boiler,2030,0.933
+Hythe (2),gas_boiler,2031,0.9299
+Hythe (2),gas_boiler,2032,0.9268
+Hythe (2),gas_boiler,2033,0.9237
+Hythe (2),gas_boiler,2034,0.9206
+Hythe (2),gas_boiler,2035,0.9175
+Hythe (2),gas_boiler,2036,0.9143
+Huddersfield,gas_boiler,2026,0.4028
+Huddersfield,gas_boiler,2027,0.4028
+Huddersfield,gas_boiler,2028,0.4028
+Huddersfield,gas_boiler,2029,0.4028
+Huddersfield,gas_boiler,2030,0.4028
+Huddersfield,gas_boiler,2031,0.4015
+Huddersfield,gas_boiler,2032,0.4001
+Huddersfield,gas_boiler,2033,0.3988
+Huddersfield,gas_boiler,2034,0.3974
+Huddersfield,gas_boiler,2035,0.3961
+Huddersfield,gas_boiler,2036,0.3947
+SELCHP,gas_boiler,2026,1.1923
+SELCHP,gas_boiler,2027,1.1923
+SELCHP,gas_boiler,2028,1.1923
+SELCHP,gas_boiler,2029,1.1923
+SELCHP,gas_boiler,2030,1.1923
+SELCHP,gas_boiler,2031,1.1883
+SELCHP,gas_boiler,2032,1.1844
+SELCHP,gas_boiler,2033,1.1804
+SELCHP,gas_boiler,2034,1.1764
+SELCHP,gas_boiler,2035,1.1724
+SELCHP,gas_boiler,2036,1.1685
+Tyseley,gas_boiler,2026,1.0918
+Tyseley,gas_boiler,2027,1.0918
+Tyseley,gas_boiler,2028,1.0918
+Tyseley,gas_boiler,2029,1.0918
+Tyseley,gas_boiler,2030,1.0918
+Tyseley,gas_boiler,2031,1.0882
+Tyseley,gas_boiler,2032,1.0845
+Tyseley,gas_boiler,2033,1.0809
+Tyseley,gas_boiler,2034,1.0772
+Tyseley,gas_boiler,2035,1.0736
+Tyseley,gas_boiler,2036,1.07
+Eastcroft,gas_boiler,2026,0.5638
+Eastcroft,gas_boiler,2027,0.5638
+Eastcroft,gas_boiler,2028,0.5638
+Eastcroft,gas_boiler,2029,0.5638
+Eastcroft,gas_boiler,2030,0.5638
+Eastcroft,gas_boiler,2031,0.5619
+Eastcroft,gas_boiler,2032,0.56
+Eastcroft,gas_boiler,2033,0.5582
+Eastcroft,gas_boiler,2034,0.5563
+Eastcroft,gas_boiler,2035,0.5544
+Eastcroft,gas_boiler,2036,0.5525
+Beckton STW,gas_boiler,2026,0.216
+Beckton STW,gas_boiler,2027,0.216
+Beckton STW,gas_boiler,2028,0.216
+Beckton STW,gas_boiler,2029,0.216
+Beckton STW,gas_boiler,2030,0.216
+Beckton STW,gas_boiler,2031,0.2153
+Beckton STW,gas_boiler,2032,0.2146
+Beckton STW,gas_boiler,2033,0.2138
+Beckton STW,gas_boiler,2034,0.2131
+Beckton STW,gas_boiler,2035,0.2124
+Beckton STW,gas_boiler,2036,0.2117
+Middlesbrough,gas_boiler,2026,0.2249
+Middlesbrough,gas_boiler,2027,0.2249
+Middlesbrough,gas_boiler,2028,0.2249
+Middlesbrough,gas_boiler,2029,0.2249
+Middlesbrough,gas_boiler,2030,0.2249
+Middlesbrough,gas_boiler,2031,0.2242
+Middlesbrough,gas_boiler,2032,0.2234
+Middlesbrough,gas_boiler,2033,0.2227
+Middlesbrough,gas_boiler,2034,0.2219
+Middlesbrough,gas_boiler,2035,0.2212
+Middlesbrough,gas_boiler,2036,0.2204
+Allington Quarry,gas_boiler,2026,1.5561
+Allington Quarry,gas_boiler,2027,1.5561
+Allington Quarry,gas_boiler,2028,1.5561
+Allington Quarry,gas_boiler,2029,1.5561
+Allington Quarry,gas_boiler,2030,1.5561
+Allington Quarry,gas_boiler,2031,1.5509
+Allington Quarry,gas_boiler,2032,1.5457
+Allington Quarry,gas_boiler,2033,1.5405
+Allington Quarry,gas_boiler,2034,1.5354
+Allington Quarry,gas_boiler,2035,1.5302
+Allington Quarry,gas_boiler,2036,1.525
+"Deeside Industrial Estate, Deeside",gas_boiler,2026,0.5813
+"Deeside Industrial Estate, Deeside",gas_boiler,2027,0.5813
+"Deeside Industrial Estate, Deeside",gas_boiler,2028,0.5813
+"Deeside Industrial Estate, Deeside",gas_boiler,2029,0.5813
+"Deeside Industrial Estate, Deeside",gas_boiler,2030,0.5813
+"Deeside Industrial Estate, Deeside",gas_boiler,2031,0.5794
+"Deeside Industrial Estate, Deeside",gas_boiler,2032,0.5774
+"Deeside Industrial Estate, Deeside",gas_boiler,2033,0.5755
+"Deeside Industrial Estate, Deeside",gas_boiler,2034,0.5735
+"Deeside Industrial Estate, Deeside",gas_boiler,2035,0.5716
+"Deeside Industrial Estate, Deeside",gas_boiler,2036,0.5697
+Newhaven EfW Plant,gas_boiler,2026,0.6378
+Newhaven EfW Plant,gas_boiler,2027,0.6378
+Newhaven EfW Plant,gas_boiler,2028,0.6378
+Newhaven EfW Plant,gas_boiler,2029,0.6378
+Newhaven EfW Plant,gas_boiler,2030,0.6378
+Newhaven EfW Plant,gas_boiler,2031,0.6357
+Newhaven EfW Plant,gas_boiler,2032,0.6335
+Newhaven EfW Plant,gas_boiler,2033,0.6314
+Newhaven EfW Plant,gas_boiler,2034,0.6293
+Newhaven EfW Plant,gas_boiler,2035,0.6272
+Newhaven EfW Plant,gas_boiler,2036,0.625
+Redhill,gas_boiler,2026,0.2144
+Redhill,gas_boiler,2027,0.2144
+Redhill,gas_boiler,2028,0.2144
+Redhill,gas_boiler,2029,0.2144
+Redhill,gas_boiler,2030,0.2144
+Redhill,gas_boiler,2031,0.2137
+Redhill,gas_boiler,2032,0.213
+Redhill,gas_boiler,2033,0.2123
+Redhill,gas_boiler,2034,0.2115
+Redhill,gas_boiler,2035,0.2108
+Redhill,gas_boiler,2036,0.2101
+Colnbrook,gas_boiler,2026,1.256
+Colnbrook,gas_boiler,2027,1.256
+Colnbrook,gas_boiler,2028,1.256
+Colnbrook,gas_boiler,2029,1.256
+Colnbrook,gas_boiler,2030,1.256
+Colnbrook,gas_boiler,2031,1.2518
+Colnbrook,gas_boiler,2032,1.2476
+Colnbrook,gas_boiler,2033,1.2434
+Colnbrook,gas_boiler,2034,1.2393
+Colnbrook,gas_boiler,2035,1.2351
+Colnbrook,gas_boiler,2036,1.2309
+Lancing,gas_boiler,2026,0.1952
+Lancing,gas_boiler,2027,0.1952
+Lancing,gas_boiler,2028,0.1952
+Lancing,gas_boiler,2029,0.1952
+Lancing,gas_boiler,2030,0.1952
+Lancing,gas_boiler,2031,0.1945
+Lancing,gas_boiler,2032,0.1939
+Lancing,gas_boiler,2033,0.1932
+Lancing,gas_boiler,2034,0.1926
+Lancing,gas_boiler,2035,0.1919
+Lancing,gas_boiler,2036,0.1913
+Seal Sands High Temparature Incinerator,gas_boiler,2026,0.1807
+Seal Sands High Temparature Incinerator,gas_boiler,2027,0.1807
+Seal Sands High Temparature Incinerator,gas_boiler,2028,0.1807
+Seal Sands High Temparature Incinerator,gas_boiler,2029,0.1807
+Seal Sands High Temparature Incinerator,gas_boiler,2030,0.1807
+Seal Sands High Temparature Incinerator,gas_boiler,2031,0.1801
+Seal Sands High Temparature Incinerator,gas_boiler,2032,0.1795
+Seal Sands High Temparature Incinerator,gas_boiler,2033,0.1789
+Seal Sands High Temparature Incinerator,gas_boiler,2034,0.1783
+Seal Sands High Temparature Incinerator,gas_boiler,2035,0.1777
+Seal Sands High Temparature Incinerator,gas_boiler,2036,0.1771
+Ardley Landfill,gas_boiler,2026,1.0327
+Ardley Landfill,gas_boiler,2027,1.0327
+Ardley Landfill,gas_boiler,2028,1.0327
+Ardley Landfill,gas_boiler,2029,1.0327
+Ardley Landfill,gas_boiler,2030,1.0327
+Ardley Landfill,gas_boiler,2031,1.0293
+Ardley Landfill,gas_boiler,2032,1.0258
+Ardley Landfill,gas_boiler,2033,1.0224
+Ardley Landfill,gas_boiler,2034,1.0189
+Ardley Landfill,gas_boiler,2035,1.0155
+Ardley Landfill,gas_boiler,2036,1.012
+Exeter EfW,gas_boiler,2026,0.1909
+Exeter EfW,gas_boiler,2027,0.1909
+Exeter EfW,gas_boiler,2028,0.1909
+Exeter EfW,gas_boiler,2029,0.1909
+Exeter EfW,gas_boiler,2030,0.1909
+Exeter EfW,gas_boiler,2031,0.1903
+Exeter EfW,gas_boiler,2032,0.1896
+Exeter EfW,gas_boiler,2033,0.189
+Exeter EfW,gas_boiler,2034,0.1884
+Exeter EfW,gas_boiler,2035,0.1877
+Exeter EfW,gas_boiler,2036,0.1871
+Ipswich,gas_boiler,2026,0.8964
+Ipswich,gas_boiler,2027,0.8964
+Ipswich,gas_boiler,2028,0.8964
+Ipswich,gas_boiler,2029,0.8964
+Ipswich,gas_boiler,2030,0.8964
+Ipswich,gas_boiler,2031,0.8934
+Ipswich,gas_boiler,2032,0.8904
+Ipswich,gas_boiler,2033,0.8874
+Ipswich,gas_boiler,2034,0.8844
+Ipswich,gas_boiler,2035,0.8815
+Ipswich,gas_boiler,2036,0.8785
+Battlefield EfW,gas_boiler,2026,0.2974
+Battlefield EfW,gas_boiler,2027,0.2974
+Battlefield EfW,gas_boiler,2028,0.2974
+Battlefield EfW,gas_boiler,2029,0.2974
+Battlefield EfW,gas_boiler,2030,0.2974
+Battlefield EfW,gas_boiler,2031,0.2964
+Battlefield EfW,gas_boiler,2032,0.2954
+Battlefield EfW,gas_boiler,2033,0.2944
+Battlefield EfW,gas_boiler,2034,0.2934
+Battlefield EfW,gas_boiler,2035,0.2924
+Battlefield EfW,gas_boiler,2036,0.2915
+Leeds RERF,gas_boiler,2026,0.5971
+Leeds RERF,gas_boiler,2027,0.5971
+Leeds RERF,gas_boiler,2028,0.5971
+Leeds RERF,gas_boiler,2029,0.5971
+Leeds RERF,gas_boiler,2030,0.5971
+Leeds RERF,gas_boiler,2031,0.5951
+Leeds RERF,gas_boiler,2032,0.5931
+Leeds RERF,gas_boiler,2033,0.5911
+Leeds RERF,gas_boiler,2034,0.5891
+Leeds RERF,gas_boiler,2035,0.5871
+Leeds RERF,gas_boiler,2036,0.5852
+Greatmoor EfW,gas_boiler,2026,0.8411
+Greatmoor EfW,gas_boiler,2027,0.8411
+Greatmoor EfW,gas_boiler,2028,0.8411
+Greatmoor EfW,gas_boiler,2029,0.8411
+Greatmoor EfW,gas_boiler,2030,0.8411
+Greatmoor EfW,gas_boiler,2031,0.8383
+Greatmoor EfW,gas_boiler,2032,0.8355
+Greatmoor EfW,gas_boiler,2033,0.8327
+Greatmoor EfW,gas_boiler,2034,0.8299
+Greatmoor EfW,gas_boiler,2035,0.8271
+Greatmoor EfW,gas_boiler,2036,0.8243
+Wilton 11 EfW Plant,gas_boiler,2026,1.2703
+Wilton 11 EfW Plant,gas_boiler,2027,1.2703
+Wilton 11 EfW Plant,gas_boiler,2028,1.2703
+Wilton 11 EfW Plant,gas_boiler,2029,1.2703
+Wilton 11 EfW Plant,gas_boiler,2030,1.2703
+Wilton 11 EfW Plant,gas_boiler,2031,1.2661
+Wilton 11 EfW Plant,gas_boiler,2032,1.2618
+Wilton 11 EfW Plant,gas_boiler,2033,1.2576
+Wilton 11 EfW Plant,gas_boiler,2034,1.2534
+Wilton 11 EfW Plant,gas_boiler,2035,1.2491
+Wilton 11 EfW Plant,gas_boiler,2036,1.2449
+Merevale AD Plant,gas_boiler,2026,0.3779
+Merevale AD Plant,gas_boiler,2027,0.3779
+Merevale AD Plant,gas_boiler,2028,0.3779
+Merevale AD Plant,gas_boiler,2029,0.3779
+Merevale AD Plant,gas_boiler,2030,0.3779
+Merevale AD Plant,gas_boiler,2031,0.3766
+Merevale AD Plant,gas_boiler,2032,0.3754
+Merevale AD Plant,gas_boiler,2033,0.3741
+Merevale AD Plant,gas_boiler,2034,0.3729
+Merevale AD Plant,gas_boiler,2035,0.3716
+Merevale AD Plant,gas_boiler,2036,0.3703
+Severnside Energy Recovery Centre,gas_boiler,2026,1.2202
+Severnside Energy Recovery Centre,gas_boiler,2027,1.2202
+Severnside Energy Recovery Centre,gas_boiler,2028,1.2202
+Severnside Energy Recovery Centre,gas_boiler,2029,1.2202
+Severnside Energy Recovery Centre,gas_boiler,2030,1.2202
+Severnside Energy Recovery Centre,gas_boiler,2031,1.2161
+Severnside Energy Recovery Centre,gas_boiler,2032,1.2121
+Severnside Energy Recovery Centre,gas_boiler,2033,1.208
+Severnside Energy Recovery Centre,gas_boiler,2034,1.2039
+Severnside Energy Recovery Centre,gas_boiler,2035,1.1999
+Severnside Energy Recovery Centre,gas_boiler,2036,1.1958
+Cornwall Energy Recovery Centre,gas_boiler,2026,0.7407
+Cornwall Energy Recovery Centre,gas_boiler,2027,0.7407
+Cornwall Energy Recovery Centre,gas_boiler,2028,0.7407
+Cornwall Energy Recovery Centre,gas_boiler,2029,0.7407
+Cornwall Energy Recovery Centre,gas_boiler,2030,0.7407
+Cornwall Energy Recovery Centre,gas_boiler,2031,0.7382
+Cornwall Energy Recovery Centre,gas_boiler,2032,0.7358
+Cornwall Energy Recovery Centre,gas_boiler,2033,0.7333
+Cornwall Energy Recovery Centre,gas_boiler,2034,0.7308
+Cornwall Energy Recovery Centre,gas_boiler,2035,0.7284
+Cornwall Energy Recovery Centre,gas_boiler,2036,0.7259
+Mercia Envirecover Site,gas_boiler,2026,0.6429
+Mercia Envirecover Site,gas_boiler,2027,0.6429
+Mercia Envirecover Site,gas_boiler,2028,0.6429
+Mercia Envirecover Site,gas_boiler,2029,0.6429
+Mercia Envirecover Site,gas_boiler,2030,0.6429
+Mercia Envirecover Site,gas_boiler,2031,0.6408
+Mercia Envirecover Site,gas_boiler,2032,0.6386
+Mercia Envirecover Site,gas_boiler,2033,0.6365
+Mercia Envirecover Site,gas_boiler,2034,0.6343
+Mercia Envirecover Site,gas_boiler,2035,0.6322
+Mercia Envirecover Site,gas_boiler,2036,0.63
+Allerton Waste Recovery Park,gas_boiler,2026,1.0606
+Allerton Waste Recovery Park,gas_boiler,2027,1.0606
+Allerton Waste Recovery Park,gas_boiler,2028,1.0606
+Allerton Waste Recovery Park,gas_boiler,2029,1.0606
+Allerton Waste Recovery Park,gas_boiler,2030,1.0606
+Allerton Waste Recovery Park,gas_boiler,2031,1.0571
+Allerton Waste Recovery Park,gas_boiler,2032,1.0535
+Allerton Waste Recovery Park,gas_boiler,2033,1.05
+Allerton Waste Recovery Park,gas_boiler,2034,1.0465
+Allerton Waste Recovery Park,gas_boiler,2035,1.0429
+Allerton Waste Recovery Park,gas_boiler,2036,1.0394
+Stranglands Lane West Yorkshire,gas_boiler,2026,1.9747
+Stranglands Lane West Yorkshire,gas_boiler,2027,1.9747
+Stranglands Lane West Yorkshire,gas_boiler,2028,1.9747
+Stranglands Lane West Yorkshire,gas_boiler,2029,1.9747
+Stranglands Lane West Yorkshire,gas_boiler,2030,1.9747
+Stranglands Lane West Yorkshire,gas_boiler,2031,1.9681
+Stranglands Lane West Yorkshire,gas_boiler,2032,1.9615
+Stranglands Lane West Yorkshire,gas_boiler,2033,1.955
+Stranglands Lane West Yorkshire,gas_boiler,2034,1.9484
+Stranglands Lane West Yorkshire,gas_boiler,2035,1.9418
+Stranglands Lane West Yorkshire,gas_boiler,2036,1.9352
+Glasgow Recycling & Renewable Energy Centre,gas_boiler,2026,0.4842
+Glasgow Recycling & Renewable Energy Centre,gas_boiler,2027,0.4842
+Glasgow Recycling & Renewable Energy Centre,gas_boiler,2028,0.4842
+Glasgow Recycling & Renewable Energy Centre,gas_boiler,2029,0.4842
+Glasgow Recycling & Renewable Energy Centre,gas_boiler,2030,0.4842
+Glasgow Recycling & Renewable Energy Centre,gas_boiler,2031,0.4826
+Glasgow Recycling & Renewable Energy Centre,gas_boiler,2032,0.481
+Glasgow Recycling & Renewable Energy Centre,gas_boiler,2033,0.4794
+Glasgow Recycling & Renewable Energy Centre,gas_boiler,2034,0.4777
+Glasgow Recycling & Renewable Energy Centre,gas_boiler,2035,0.4761
+Glasgow Recycling & Renewable Energy Centre,gas_boiler,2036,0.4745
+Beddington ERF,gas_boiler,2026,0.7993
+Beddington ERF,gas_boiler,2027,0.7993
+Beddington ERF,gas_boiler,2028,0.7993
+Beddington ERF,gas_boiler,2029,0.7993
+Beddington ERF,gas_boiler,2030,0.7993
+Beddington ERF,gas_boiler,2031,0.7966
+Beddington ERF,gas_boiler,2032,0.794
+Beddington ERF,gas_boiler,2033,0.7913
+Beddington ERF,gas_boiler,2034,0.7886
+Beddington ERF,gas_boiler,2035,0.786
+Beddington ERF,gas_boiler,2036,0.7833
+Kemsley Generating Station,gas_boiler,2026,1.7133
+Kemsley Generating Station,gas_boiler,2027,1.7133
+Kemsley Generating Station,gas_boiler,2028,1.7133
+Kemsley Generating Station,gas_boiler,2029,1.7133
+Kemsley Generating Station,gas_boiler,2030,1.7133
+Kemsley Generating Station,gas_boiler,2031,1.7076
+Kemsley Generating Station,gas_boiler,2032,1.7019
+Kemsley Generating Station,gas_boiler,2033,1.6962
+Kemsley Generating Station,gas_boiler,2034,1.6905
+Kemsley Generating Station,gas_boiler,2035,1.6847
+Kemsley Generating Station,gas_boiler,2036,1.679
+nontraded_tail_cement,cement_kiln,2026,0.0059
+nontraded_tail_cement,cement_kiln,2027,0.006
+nontraded_tail_cement,cement_kiln,2028,0.0062
+nontraded_tail_cement,cement_kiln,2029,0.0064
+nontraded_tail_cement,cement_kiln,2030,0.0066
+nontraded_tail_cement,cement_kiln,2031,0.0066
+nontraded_tail_cement,cement_kiln,2032,0.0066
+nontraded_tail_cement,cement_kiln,2033,0.0066
+nontraded_tail_cement,cement_kiln,2034,0.0066
+nontraded_tail_cement,cement_kiln,2035,0.0066
+nontraded_tail_cement,cement_kiln,2036,0.0066
+nontraded_tail_heat,gas_boiler,2026,13.6808
+nontraded_tail_heat,gas_boiler,2027,13.6808
+nontraded_tail_heat,gas_boiler,2028,13.6808
+nontraded_tail_heat,gas_boiler,2029,13.6808
+nontraded_tail_heat,gas_boiler,2030,13.6808
+nontraded_tail_heat,gas_boiler,2031,13.6352
+nontraded_tail_heat,gas_boiler,2032,13.5896
+nontraded_tail_heat,gas_boiler,2033,13.544
+nontraded_tail_heat,gas_boiler,2034,13.4984
+nontraded_tail_heat,gas_boiler,2035,13.4528
+nontraded_tail_heat,gas_boiler,2036,13.4072
+nontraded_tail_steel,bof,2026,0.0013
+nontraded_tail_steel,bof,2027,0.0013
+nontraded_tail_steel,bof,2028,0.0013
+nontraded_tail_steel,bof,2029,0.0013
+nontraded_tail_steel,bof,2030,0.0013
+nontraded_tail_steel,bof,2031,0.0013
+nontraded_tail_steel,bof,2032,0.0013
+nontraded_tail_steel,bof,2033,0.0013
+nontraded_tail_steel,bof,2034,0.0013
+nontraded_tail_steel,bof,2035,0.0013
+nontraded_tail_steel,bof,2036,0.0013
+diffuse_industry,gas_boiler,2026,232.7646
+diffuse_industry,gas_boiler,2027,232.7646
+diffuse_industry,gas_boiler,2028,232.7646
+diffuse_industry,gas_boiler,2029,232.7646
+diffuse_industry,gas_boiler,2030,232.7646
+diffuse_industry,gas_boiler,2031,231.9887
+diffuse_industry,gas_boiler,2032,231.2128
+diffuse_industry,gas_boiler,2033,230.437
+diffuse_industry,gas_boiler,2034,229.6611
+diffuse_industry,gas_boiler,2035,228.8852
+diffuse_industry,gas_boiler,2036,228.1093

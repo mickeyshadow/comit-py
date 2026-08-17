@@ -14,6 +14,7 @@ import pandas as pd
 
 from comitpy import Window, solve
 from comitpy.datasets import load_inputs
+from comitpy.reporting import UNIVERSE_NOTE
 from comitpy.worlds import (WORLDS, scale_carbon,
                             scale_fuel, slip_ccs)
 
@@ -76,6 +77,8 @@ sr.round(3).to_csv("site_results.csv")
 
 lines = [
     "# The forecast split by cluster and site",
+    "",
+    UNIVERSE_NOTE,
     "",
     "Confidence differs by level, per the degeneracy analysis: cluster",
     "totals are robust (aggregation), site figures are pinned where a",

@@ -13,7 +13,7 @@ import pandas as pd
 from comitpy import Window, solve
 from comitpy.datasets import load_inputs
 from comitpy.pathways import netzero_2050
-from comitpy.reporting import site_fuel_use, transitions
+from comitpy.reporting import UNIVERSE_NOTE, site_fuel_use, transitions
 from comitpy.worlds import WORLDS
 
 W = Window(2026, 2050, 2)
@@ -84,6 +84,8 @@ f_pw.round(4).to_csv("pathway_site_fuel_use.csv", index=False)
 
 lines = [
     "# Site detail under the net-zero-2050 pathway",
+    "",
+    UNIVERSE_NOTE,
     "",
     "Like-for-like against forecast mode on 2026-2050. 'cap_forced = yes'",
     "marks arrivals the economics alone never produce - the pathway's real",

@@ -5,6 +5,7 @@ import pandas as pd
 
 from comitpy import Window, solve
 from comitpy.datasets import load_inputs
+from comitpy.reporting import UNIVERSE_NOTE
 from comitpy.worlds import (WORLDS, scale_carbon,
                             scale_fuel, slip_ccs)
 
@@ -55,7 +56,7 @@ e36 = tidy[tidy.year == 2036].set_index("scenario")
 print("\n=== 2036 snapshot by world ===")
 print(e36[["MtCO2e", "gas_PJ", "elec_PJ"]].loc[order].to_string())
 
-lines = ["# The forecast as ranges - seven worlds, one lever each", "",
+lines = ["# The forecast as ranges - seven worlds, one lever each", "", UNIVERSE_NOTE, "",
          "Central plus six single-lever variants (levies rebalancing, gas",
          "+50%/-30%, carbon x1.5/x0.6, CCS slipping 4 years at half ramp).",
          "", "## Emissions (MtCO2e)", "", emis.round(1).to_markdown(), "",

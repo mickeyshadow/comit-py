@@ -9,7 +9,7 @@ import pandas as pd
 
 from comitpy import Window, solve
 from comitpy.datasets import load_inputs
-from comitpy.reporting import site_fuel_use as _sfu, transitions as _tr
+from comitpy.reporting import UNIVERSE_NOTE, site_fuel_use as _sfu, transitions as _tr
 from comitpy.worlds import WORLDS
 
 base = load_inputs("datasets", Window(2026, 2036, 1))
@@ -73,7 +73,7 @@ for _, r in show.iterrows():
 print("\n=== Fuel mix, top sites, 2026 vs 2036 (PJ) ===")
 print(mix.to_string())
 
-lines = ["# Site-level fuel use and technology change", "",
+lines = ["# Site-level fuel use and technology change", "", UNIVERSE_NOTE, "",
          "Transition dates carry their range across the seven ensemble",
          "worlds; a date appearing in few worlds is a fragile (near-tie)",
          "event, not a forecast.", "",

@@ -31,12 +31,15 @@ cbam_phase  2050  1.000                                                         
 ```
 
 ### committed_events.csv — Committed closures (demand zeroed from year).
-2 rows; basis mix: official 2
+5 rows; basis mix: judgement 3, official 2
 
 ```
-                site  from_year                                                                                                                      source    basis
-Lindsey Oil Refinery       2026 Prax insolvency Jun 2025 - refining ceased - mothballed by Phillips 66 (partial-2025 emissions slipped the registry filter) official
-Grangemouth Refining       2026                                                            Petroineos ceased refining Apr 2025 - import terminal thereafter official
+                site  from_year                                                                                                                                              source     basis
+Lindsey Oil Refinery       2026                         Prax insolvency Jun 2025 - refining ceased - mothballed by Phillips 66 (partial-2025 emissions slipped the registry filter)  official
+Grangemouth Refining       2026                                                                                    Petroineos ceased refining Apr 2025 - import terminal thereafter  official
+  Thornton-Cleveleys       2027 AGC Chemicals Thornton Cleveleys closure end-2026 - non-traded share; NAEI names point sources by location so the match is by location not operator judgement
+               Wigan       2027                                                                   Nippon Electric Glass Wigan closure - non-traded share; location-matched NAEI row judgement
+           Gateshead       2027                                                                Union Electric Steel Gateshead closure - non-traded share; location-matched NAEI row judgement
 ```
 
 ### finance.csv — Hurdle rates, discount rate, usage-inertia cost (the calibrated behaviour).
@@ -131,35 +134,35 @@ cement  2050  105.0                                                             
 7 rows; basis mix: derived 2, judgement 3, official 2
 
 ```
-                  site commodity  year  value                                                                                                                                                                     source     basis
-Port Talbot Steelworks     steel  2026    0.6                                                                                                            residual downstream operations pre-EAF (2025-emissions-implied)   derived
-Port Talbot Steelworks     steel  2027    0.6                                                                                                                                                 EAF commissioning end-2027  official
-Port Talbot Steelworks     steel  2028    3.0                                                                                                EAF nameplate 3 Mt/yr from 2028 (Tata GBP1.25bn project under construction)  official
-Port Talbot Steelworks     steel  2050    3.0                                                                                                                                                          held at nameplate judgement
-        dispersed_heat      heat  2026   45.1                                                                                                                                                        base (2025-derived)   derived
-        dispersed_heat      heat  2027   43.2 announced 2026 closures within the aggregate: AGC Thornton Cleveleys (end-2026) + Nippon Electric Glass Wigan + JDE Banbury + Union Electric Gateshead ~ -1.9 PJ estimated judgement
-        dispersed_heat      heat  2050   43.2                                                                                                                                                                       held judgement
+                  site commodity  year  value                                                                                                                                                                                                                         source     basis
+Port Talbot Steelworks     steel  2026    0.6                                                                                                                                                                residual downstream operations pre-EAF (2025-emissions-implied)   derived
+Port Talbot Steelworks     steel  2027    0.6                                                                                                                                                                                                     EAF commissioning end-2027  official
+Port Talbot Steelworks     steel  2028    3.0                                                                                                                                                    EAF nameplate 3 Mt/yr from 2028 (Tata GBP1.25bn project under construction)  official
+Port Talbot Steelworks     steel  2050    3.0                                                                                                                                                                                                              held at nameplate judgement
+         ets_tail_heat      heat  2026   45.1                                                                                                                                                                      base (v2 ETS sub-100 aggregate; was dispersed_heat in v1)   derived
+         ets_tail_heat      heat  2027   43.2 announced 2026 closures within the ETS tail: AGC Thornton Cleveleys (end-2026) + Nippon Electric Glass Wigan + JDE Banbury + Union Electric Gateshead ~ -1.9 PJ estimated (their non-traded shares close via committed_events) judgement
+         ets_tail_heat      heat  2050   43.2                                                                                                                                                                                                                           held judgement
 ```
 
-### sites.csv — The site universe: who, where (band), how big, incumbent kit, inertia factor.
-102 rows; basis mix: derived 102
-(large file — see the CSV; columns: site, sector, band, traded, commodity, demand_pj, incumbent_tech, start_capacity, inertia_factor, cluster, source, retrieved, basis)
+### sites.csv — The v2 site universe (all UK industry, five coverage layers, 46.5 Mt anchor): who, coverage layer, cluster, band, size, incumbent kit, inertia factor.
+211 rows; basis mix: derived 211
+(large file — see the CSV; columns: site, sector, band, traded, commodity, demand_pj, incumbent_tech, start_capacity, inertia_factor, cluster, layer, source, retrieved, basis)
 
 ### technologies.csv — The technology roster: costs, lifetimes, fuel intensities, first years, ramps.
 10 rows; basis mix: derived 3, judgement 5, official 2
 
 ```
-     technology sector output  capex  opex  lifetime  availability  capture_rate  process_emissions  first_year  ramp_limit        fuel  fuel_use                                                        source     basis
-     gas_boiler   heat   heat    8.0  0.30        20          0.90          0.00                0.0           0         NaN         gas      1.11                  industrial boiler ~90% eff; capex indicative judgement
-    elec_boiler   heat   heat    9.0  0.30        20          0.90          0.00                0.0           0         NaN electricity      1.02                   electrode boiler ~98% eff; capex indicative judgement
-      heat_pump   heat   heat   25.0  0.60        18          0.90          0.00                0.0        2026         3.0 electricity      0.35 industrial HP COP ~2.9; capex indicative; ramp = supply chain judgement
- biomass_boiler   heat   heat   14.0  0.50        20          0.85          0.00                0.0           0         1.5     biomass      1.18   biomass boiler ~85% eff; ramp = sustainable feedstock build judgement
-hydrogen_boiler   heat   heat    9.5  0.35        20          0.90          0.00                0.0        2027         2.0    hydrogen      1.15         H2-ready boiler; first year = Merseyside HAR timeline   derived
- gas_boiler_ccs   heat   heat   30.0  1.20        20          0.85          0.90                0.0        2028         1.0         gas      1.25 post-combustion capture on gas heat; first year = Track-1 ops judgement
-            bof  steel  steel  400.0 12.00        25          0.90          0.00             1700.0           0         NaN         gas      3.00             BF-BOF route; process EF ~1.7 tCO2/t + fuel proxy   derived
-            eaf  steel  steel  417.0 10.00        25          0.90          0.00               50.0        2027         NaN electricity      2.20               Port Talbot EAF GBP1.25bn / 3 Mt-yr; ~0.6 MWh/t  official
-    cement_kiln cement cement  150.0  5.00        30          0.90          0.00              520.0           0         NaN         gas      3.50                  dry kiln; calcination ~520 ktCO2e/Mt clinker  official
-cement_kiln_ccs cement cement  375.0 12.00        30          0.85          0.95              520.0        2028         0.5         gas      3.90     amine capture (Padeswood-class); first year = Track-1 ops   derived
+     technology sector output  capex  opex  lifetime  availability  capture_rate  process_emissions  first_year  ramp_limit        fuel  fuel_use                                                                                              source     basis
+     gas_boiler   heat   heat    8.0  0.30        20          0.90          0.00                0.0           0         NaN         gas      1.11                                                        industrial boiler ~90% eff; capex indicative judgement
+    elec_boiler   heat   heat    9.0  0.30        20          0.90          0.00                0.0           0         NaN electricity      1.02                                                         electrode boiler ~98% eff; capex indicative judgement
+      heat_pump   heat   heat   25.0  0.60        18          0.90          0.00                0.0        2026         8.0 electricity      0.35    industrial HP COP ~2.9; capex indicative; ramp = supply chain scaled to v2 all-industry universe judgement
+ biomass_boiler   heat   heat   14.0  0.50        20          0.85          0.00                0.0           0         3.0     biomass      1.18 biomass boiler ~85% eff; ramp = feedstock build scaled to v2 universe (biomass supply cap separate) judgement
+hydrogen_boiler   heat   heat    9.5  0.35        20          0.90          0.00                0.0        2027         5.0    hydrogen      1.15                              H2-ready boiler; first year = HAR timeline; ramp scaled to v2 universe   derived
+ gas_boiler_ccs   heat   heat   30.0  1.20        20          0.85          0.90                0.0        2028         3.0         gas      1.25                           capture on gas heat; first year = Track-1 ops; ramp scaled to v2 universe judgement
+            bof  steel  steel  400.0 12.00        25          0.90          0.00             1700.0           0         NaN         gas      3.00                                                   BF-BOF route; process EF ~1.7 tCO2/t + fuel proxy   derived
+            eaf  steel  steel  417.0 10.00        25          0.90          0.00               50.0        2027         NaN electricity      2.20                                                     Port Talbot EAF GBP1.25bn / 3 Mt-yr; ~0.6 MWh/t  official
+    cement_kiln cement cement  150.0  5.00        30          0.90          0.00              520.0           0         NaN         gas      3.50                                                        dry kiln; calcination ~520 ktCO2e/Mt clinker  official
+cement_kiln_ccs cement cement  375.0 12.00        30          0.85          0.95              520.0        2028         0.5         gas      3.90                                           amine capture (Padeswood-class); first year = Track-1 ops   derived
 ```
 
 ## `datasets_backcast/`
@@ -291,7 +294,7 @@ cement  2024   78.0                          7.3 Mt 2024 - 75-year low (MPA)   o
 cement  2029   77.0                                 held beyond scored years judgement
 ```
 
-### sites.csv — The site universe: who, where (band), how big, incumbent kit, inertia factor.
+### sites.csv — The v2 site universe (all UK industry, five coverage layers, 46.5 Mt anchor): who, coverage layer, cluster, band, size, incumbent kit, inertia factor.
 102 rows; basis mix: derived 102
 (large file — see the CSV; columns: site, sector, band, traded, commodity, demand_pj, incumbent_tech, start_capacity, inertia_factor, source, retrieved, basis)
 
