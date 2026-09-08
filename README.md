@@ -137,3 +137,19 @@ the pound).
   pre-switching in the first model year, so t0 is now charged against
   the incumbent's implied baseline. Hindcast: **3.7% indexed MAPE**,
   2025 endpoint exact (69.3 vs 69.2).
+
+## Licence and attribution
+
+Code and documentation in this repository are released under the MIT
+licence (see `LICENSE`). This is an independent, personal project.
+
+The linear-programming formulation follows DESNZ's COMIT (Cost
+Optimisation Model for Industrial Technologies), published under the
+Open Government Licence v3 at
+github.com/Central-Energy-and-Emissions-Modelling/comit. The NAEI
+point-source table in `datasets/sites.csv` is derived from COMIT's public
+input template (OGL v3). Site emissions come from the UK ETS Registry's
+public compliance report; every dataset row records its source in the
+`source / retrieved / basis` columns. Regenerating `datasets/sites.csv`
+needs the registry workbook and ETS-to-NAEI crosswalk held in the
+companion `comit-harness` repository.
