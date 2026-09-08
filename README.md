@@ -1,7 +1,10 @@
 # comitpy — industrial decarbonisation forecasting, rebuilt
 
-A from-scratch Python successor to DESNZ's COMIT, keeping its proven
-mechanics and none of its template. Direction set 16 Aug 2026:
+A personal project adapting the UK Government's published COMIT model
+(DESNZ, Open Government Licence) into a UK ETS-based 10-year forecasting
+tool. It is a from-scratch Python rebuild that keeps COMIT's proven
+mechanics and none of its template, with site emissions taken from the
+UK ETS Registry's public compliance report. Direction set 16 Aug 2026:
 
 - **This year's product: a 10-year forecast** (2026–2036, annual) of UK
   industrial energy, emissions and technology change.
